@@ -1,0 +1,15 @@
+jQuery(document).ready(function() {
+	jQuery('.lnkDropItem').css("display", "none");
+});
+
+function slideIt(thechosenone) {
+	jQuery('.lnkDropItem').each(function(index) {
+		if (jQuery(this).attr("id") == thechosenone) {
+			jQuery(this).slideDown(200);
+			jQuery(this).prev().addClass("active");
+		} else {
+			jQuery(this).slideUp(200);
+			jQuery(this).prev().removeClass("active");
+		}
+	});
+}

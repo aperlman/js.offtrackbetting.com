@@ -1,0 +1,175 @@
+#!/usr/bin/perl
+
+use warnings;
+use strict;
+
+use constant DBD => 'DBI:mysql:otb:db.offtrackbetting.com';
+use constant DBU => 'otb';
+use constant DBP => 'Tvk4M^s!opLtB';
+
+use Chart::Gnuplot;
+use DBI;
+
+my $dbh = DBI->connect(DBD, DBU, DBP) or die "db error: ", $DBI::errstr;
+
+my $sth = $dbh->prepare(qq|SELECT signup_date, DATE_FORMAT(signup_date, "%m/%y") AS dd, COUNT(id)
+		 	    FROM customer
+			     WHERE signup_date > "2011-08-01"
+			     GROUP BY DATE_FORMAT(signup_date, "%y%m")
+			      ORDER BY signup_date
+			       |);
+   $sth->execute();
+
+my @values;
+while (my ($date, $ddate, $count) = $sth->fetchrow_array) {
+            push (@values, [$ddate, $count]);
+}
+
+$dbh->disconnect;
+
+# fix the data
+my @data;
+{
+   my $ph; # place holder
+   my $row_data = [];
+
+  # my ($disp_date, $count) = @{pop(@values)};
+  # warn "DISP DATE: $disp_date COUNT: $count\n";
+  # warn "Today: ", (localtime)[3], "\n";
+   for (@values) {
+       $row_data = $_;
+       if (defined $ph && $ph > 0 && $ph != $_->[1]) {
+	  $ph = int(($ph / 30) * (localtime)[3]) if ($_->[0] eq $values[$#values]->[0]);
+	  my $chg = sprintf('%5.1f%%', (abs($_->[1] - $ph) / $ph) * 100);
+             #$chg = ($ph > $_->[1]) ? [red($chg)]->[0] : $chg;
+          push(@$row_data, $chg);
+       }
+       $ph = $_->[1];
+       push(@data, $row_data);
+   }
+}
+
+my (@x, @y);
+for (@data) {
+    push (@x, $_->[0]);
+    push (@y, $_->[1]);
+}
+
+use Data::Dumper;
+warn "X: ", Dumper(\@x);
+# Date array
+#my @x = qw(
+#    2007-01-01
+#    2007-01-10
+#    2007-01-24
+#    2007-02-01
+#    2007-02-14
+#    2007-02-28
+#    2007-03-05
+#    2007-03-13
+#    2007-03-21
+#    2007-03-31
+#);
+#my @y = (1 .. 10);
+#
+
+# Create the chart object
+my $chart = Chart::Gnuplot->new(
+    title    => {
+	text => 'FTLs',
+	color => '#FFE4E1'
+    },
+    border => {
+	sides => '',
+	color => '#505050'
+    },
+    ylabel => {
+	text => 'users',
+	color => '#F5F5F5',
+    },
+    output   => 'datetime2.png',
+    xlabel   => {
+	text => 'Month',
+	color => '#F5F5F5'
+    },
+    imagesize => '0.8,0.5',
+    xtics  => {
+	labelfmt => '%b %y',
+	rotate => -90,
+	fontcolor => '#A0A0A0',
+	length => "5,3",
+	minor  => 1,
+    },
+    grid    => {
+	linetype => 'longdash, dot-longdash',
+	color    => 'light-blue',
+	width    => '3, 1',
+	xlines   => 'off, on',
+    },
+    timeaxis => "x",            # declare that x-axis uses time format
+);
+
+# Data set object
+my $data = Chart::Gnuplot::DataSet->new(
+    xdata   => \@x,
+    ydata   => \@y,
+    #func => "sin(x)",
+    style   => 'lines',
+    width   => 5,
+    smooth  => 'csplines',
+    timefmt => '%m/%Y',      # input time format
+);
+
+#use Time::Local;
+#my $date = timelocal(0, 0, 0, 1, 6, 2012);
+#print "date: $date\n";
+#exit;
+
+$chart->label(
+#        from => "screen 0.6, screen .6",
+#        to   => "screen 0.2, screen .8",
+#        from         => 'screen 0.5, screen 0.5',
+	position   => "graph 0.05, graph 0.7",
+        text       => 'This is a label\\nand so is this',
+	layer      => 'front',
+#        position   => "0.0,0.0",
+#        position   => "0.2, 3 left",
+#        from => "screen 0.2, screen 0.2",
+#        to   => "screen 0.4, screen 0.4",
+#        offset     => "2,2",
+#        rotate     => 45,
+#        font       => "arial, 15",
+        fontcolor  => "dark-blue",
+#        pointtype  => 3,
+#        pointsize  => 5,
+#        pointcolor => "blue",
+    );
+
+#$chart->rectangle(
+#$chart->label(
+#        text => 'hello world',
+#        from => "screen 0.6, screen .6",
+#        to   => "screen 0.2, screen .8",
+#	at => "screen 0.1, screen 0.1",
+#	width => 0.2,
+#	height => 0.5,
+#        fill => {
+#            density => 0.2,
+#            color   => "#11ff11",
+#        },
+#        border    => {color => "blue"},
+#        linewidth => 3,
+#        layer     => 'front',
+#        index     => 1,
+#    );
+
+# Draw a rectangle
+#$chart->rectangle(
+#    layer  => 'front',
+#    at => "screen 0.2, screen 0.2",
+#    width  => 6,
+#    height => 0.4,
+#);
+
+# Plot the graph
+$chart->plot2d($data);
