@@ -17,12 +17,20 @@
       "ndate": 2018922
     },
     {
-      "carryoverAmount": 15660,
-      "carryover": "$15,660",
+      "carryoverAmount": 31632,
+      "carryover": "$31,632",
+      "wagertype": "Pick 6",
+      "track": "Belmont Park",
+      "date": "Sep 21",
+      "ndate": 2018921
+    },
+    {
+      "carryoverAmount": 26615,
+      "carryover": "$26,615",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "Sep 20",
-      "ndate": 2018920
+      "date": "Sep 21",
+      "ndate": 2018921
     },
     {
       "carryoverAmount": 14096,
@@ -33,28 +41,12 @@
       "ndate": 2018920
     },
     {
-      "carryoverAmount": 12800,
-      "carryover": "$12,800",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Churchill Downs",
-      "date": "Sep 20",
-      "ndate": 2018920
-    },
-    {
       "carryoverAmount": 12568,
       "carryover": "$12,568",
       "wagertype": "Super High Five Jackpot",
       "track": "Woodbine",
       "date": "Sep 21",
       "ndate": 2018921
-    },
-    {
-      "carryoverAmount": 10043,
-      "carryover": "$10,043",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Presque Isle Downs",
-      "date": "Sep 20",
-      "ndate": 2018920
     },
     {
       "carryoverAmount": 8303,
@@ -73,20 +65,20 @@
       "ndate": 2018921
     },
     {
-      "carryoverAmount": 7194,
-      "carryover": "$7,194",
+      "carryoverAmount": 6677,
+      "carryover": "$6,677",
       "wagertype": "Super High Five Jackpot",
-      "track": "Presque Isle Downs",
-      "date": "Sep 20",
-      "ndate": 2018920
+      "track": "Arlington",
+      "date": "Sep 21",
+      "ndate": 2018921
     },
     {
-      "carryoverAmount": 6013,
-      "carryover": "$6,013",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Golden Gate Fields",
-      "date": "Sep 20",
-      "ndate": 2018920
+      "carryoverAmount": 3835,
+      "carryover": "$3,835",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Sep 21",
+      "ndate": 2018921
     },
     {
       "carryoverAmount": 3535,
@@ -111,6 +103,14 @@
       "track": "Century Downs",
       "date": "Sep 22",
       "ndate": 2018922
+    },
+    {
+      "carryoverAmount": 1194,
+      "carryover": "$1,194",
+      "wagertype": "Super High Five",
+      "track": "Golden Gate Fields",
+      "date": "Sep 21",
+      "ndate": 2018921
     },
     {
       "carryoverAmount": 1064,
