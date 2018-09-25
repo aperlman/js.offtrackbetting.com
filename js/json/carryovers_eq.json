@@ -1,12 +1,20 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 242088,
-      "carryover": "$242,088",
+      "carryoverAmount": 263695,
+      "carryover": "$263,695",
       "wagertype": "Pick 6 Jackpot",
       "track": "Louisiana Downs",
-      "date": "Sep 24",
-      "ndate": 20180924
+      "date": "Sep 25",
+      "ndate": 20180925
+    },
+    {
+      "carryoverAmount": 76156,
+      "carryover": "$76,156",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Louisiana Downs",
+      "date": "Sep 25",
+      "ndate": 20180925
     },
     {
       "carryoverAmount": 75647,
@@ -15,14 +23,6 @@
       "track": "Gulfstream Park",
       "date": "Sep 27",
       "ndate": 20180927
-    },
-    {
-      "carryoverAmount": 65381,
-      "carryover": "$65,381",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Louisiana Downs",
-      "date": "Sep 24",
-      "ndate": 20180924
     },
     {
       "carryoverAmount": 45880,
@@ -73,6 +73,14 @@
       "ndate": 20180928
     },
     {
+      "carryoverAmount": 5060,
+      "carryover": "$5,060",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Thistledown",
+      "date": "Sep 25",
+      "ndate": 20180925
+    },
+    {
       "carryoverAmount": 4232,
       "carryover": "$4,232",
       "wagertype": "Pick 5",
@@ -81,44 +89,20 @@
       "ndate": 20180925
     },
     {
-      "carryoverAmount": 3948,
-      "carryover": "$3,948",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Thistledown",
-      "date": "Sep 24",
-      "ndate": 20180924
-    },
-    {
-      "carryoverAmount": 2517,
-      "carryover": "$2,517",
-      "wagertype": "Pick 5",
-      "track": "Delaware Park",
-      "date": "Sep 24",
-      "ndate": 20180924
-    },
-    {
-      "carryoverAmount": 2212,
-      "carryover": "$2,212",
-      "wagertype": "Pick 5",
-      "track": "Presque Isle Downs",
-      "date": "Sep 24",
-      "ndate": 20180924
-    },
-    {
-      "carryoverAmount": 1936,
-      "carryover": "$1,936",
-      "wagertype": "Super High Five",
-      "track": "Golden Gate Fields",
-      "date": "Sep 27",
-      "ndate": 20180927
-    },
-    {
-      "carryoverAmount": 1064,
-      "carryover": "$1,064",
+      "carryoverAmount": 1627,
+      "carryover": "$1,627",
       "wagertype": "Super High Five",
       "track": "Louisiana Downs",
-      "date": "Sep 24",
-      "ndate": 20180924
+      "date": "Sep 25",
+      "ndate": 20180925
+    },
+    {
+      "carryoverAmount": 1165,
+      "carryover": "$1,165",
+      "wagertype": "Super High Five",
+      "track": "Zia Park",
+      "date": "Sep 25",
+      "ndate": 20180925
     },
     {
       "carryoverAmount": 918,
@@ -129,28 +113,20 @@
       "ndate": 20180925
     },
     {
-      "carryoverAmount": 893,
-      "carryover": "$893",
-      "wagertype": "Super High Five",
-      "track": "Mountaineer Casino Racetrack & Resort",
-      "date": "Sep 24",
-      "ndate": 20180924
+      "carryoverAmount": 855,
+      "carryover": "$855",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Presque Isle Downs",
+      "date": "Sep 25",
+      "ndate": 20180925
     },
     {
-      "carryoverAmount": 456,
-      "carryover": "$456",
-      "wagertype": "Super High Five",
-      "track": "Golden Gate Fields",
-      "date": "Sep 27",
-      "ndate": 20180927
-    },
-    {
-      "carryoverAmount": 447,
-      "carryover": "$447",
-      "wagertype": "Pick 5",
-      "track": "Ajax Downs",
-      "date": "Sep 24",
-      "ndate": 20180924
+      "carryoverAmount": 615,
+      "carryover": "$615",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Presque Isle Downs",
+      "date": "Sep 25",
+      "ndate": 20180925
     },
     {
       "carryoverAmount": 404,
@@ -159,22 +135,6 @@
       "track": "Prairie Meadows",
       "date": "Sep 28",
       "ndate": 20180928
-    },
-    {
-      "carryoverAmount": 311,
-      "carryover": "$311",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Presque Isle Downs",
-      "date": "Sep 24",
-      "ndate": 20180924
-    },
-    {
-      "carryoverAmount": 294,
-      "carryover": "$294",
-      "wagertype": "Super High Five",
-      "track": "Zia Park",
-      "date": "Sep 24",
-      "ndate": 20180924
     },
     {
       "carryoverAmount": 261,
