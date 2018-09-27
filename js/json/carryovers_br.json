@@ -1,22 +1,6 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 284295,
-      "carryover": "$284,295",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Louisiana Downs",
-      "date": "Sep 26",
-      "ndate": 20180926
-    },
-    {
-      "carryoverAmount": 84462,
-      "carryover": "$84,462",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Louisiana Downs",
-      "date": "Sep 26",
-      "ndate": 20180926
-    },
-    {
       "carryoverAmount": 75647,
       "carryover": "$75,647",
       "wagertype": "Pick 6 Jackpot",
@@ -25,20 +9,12 @@
       "ndate": 20180927
     },
     {
-      "carryoverAmount": 45880,
-      "carryover": "$45,880",
-      "wagertype": "Pick 6",
-      "track": "Belmont Park",
-      "date": "Sep 26",
-      "ndate": 20180926
-    },
-    {
-      "carryoverAmount": 42437,
-      "carryover": "$42,437",
+      "carryoverAmount": 49770,
+      "carryover": "$49,770",
       "wagertype": "Jackpot High-5",
       "track": "Woodbine",
-      "date": "Sep 26",
-      "ndate": 20180926
+      "date": "Sep 28",
+      "ndate": 20180928
     },
     {
       "carryoverAmount": 11382,
@@ -49,14 +25,6 @@
       "ndate": 20180927
     },
     {
-      "carryoverAmount": 5686,
-      "carryover": "$5,686",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Thistledown",
-      "date": "Sep 26",
-      "ndate": 20180926
-    },
-    {
       "carryoverAmount": 5361,
       "carryover": "$5,361",
       "wagertype": "Pick 6 Jackpot",
@@ -65,20 +33,20 @@
       "ndate": 20180928
     },
     {
-      "carryoverAmount": 2405,
-      "carryover": "$2,405",
-      "wagertype": "Super High Five",
-      "track": "Louisiana Downs",
-      "date": "Sep 26",
-      "ndate": 20180926
-    },
-    {
-      "carryoverAmount": 2170,
-      "carryover": "$2,170",
+      "carryoverAmount": 2991,
+      "carryover": "$2,991",
       "wagertype": "Pick 6",
       "track": "Indiana Grand Race Course",
-      "date": "Sep 26",
-      "ndate": 20180926
+      "date": "Sep 28",
+      "ndate": 20180928
+    },
+    {
+      "carryoverAmount": 2752,
+      "carryover": "$2,752",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Presque Isle Downs",
+      "date": "Sep 27",
+      "ndate": 20180927
     },
     {
       "carryoverAmount": 1936,
@@ -87,30 +55,6 @@
       "track": "Golden Gate Fields",
       "date": "Sep 27",
       "ndate": 20180927
-    },
-    {
-      "carryoverAmount": 1540,
-      "carryover": "$1,540",
-      "wagertype": "Jackpot High-5",
-      "track": "Presque Isle Downs",
-      "date": "Sep 26",
-      "ndate": 20180926
-    },
-    {
-      "carryoverAmount": 1510,
-      "carryover": "$1,510",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Presque Isle Downs",
-      "date": "Sep 26",
-      "ndate": 20180926
-    },
-    {
-      "carryoverAmount": 1489,
-      "carryover": "$1,489",
-      "wagertype": "Super High Five",
-      "track": "Indiana Grand Race Course",
-      "date": "Sep 26",
-      "ndate": 20180926
     },
     {
       "carryoverAmount": 1346,
@@ -127,6 +71,14 @@
       "track": "Laurel Park",
       "date": "Sep 28",
       "ndate": 20180928
+    },
+    {
+      "carryoverAmount": 1168,
+      "carryover": "$1,168",
+      "wagertype": "Super High Five",
+      "track": "Mountaineer Casino Racetrack",
+      "date": "Sep 30",
+      "ndate": 20180930
     },
     {
       "carryoverAmount": 949,
