@@ -1,20 +1,20 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 4441,
-      "carryover": "$4,441",
-      "wagertype": "Pick 6",
-      "track": "Indiana Grand Race Course",
-      "date": "Oct 02",
-      "ndate": 20181002
+      "carryoverAmount": 3570,
+      "carryover": "$3,570",
+      "wagertype": "Super High Five",
+      "track": "Zia Park",
+      "date": "Oct 06",
+      "ndate": 20181006
     },
     {
-      "carryoverAmount": 1157,
-      "carryover": "$1,157",
-      "wagertype": "Super High Five",
-      "track": "Indiana Grand Race Course",
-      "date": "Oct 02",
-      "ndate": 20181002
+      "carryoverAmount": 3313,
+      "carryover": "$3,313",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Presque Isle Downs",
+      "date": "Oct 03",
+      "ndate": 20181003
     },
     {
       "carryoverAmount": 575,
@@ -47,14 +47,6 @@
       "track": "Lone Star Park",
       "date": "Oct 05",
       "ndate": 20181005
-    },
-    {
-      "carryoverAmount": 230,
-      "carryover": "$230",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Thistledown",
-      "date": "Oct 01",
-      "ndate": 20181001
     }
   ]
 }
