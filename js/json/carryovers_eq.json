@@ -1,68 +1,52 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 245810,
-      "carryover": "$245,810",
+      "carryoverAmount": 297535,
+      "carryover": "$297,535",
       "wagertype": "Pick 6 Jackpot",
       "track": "Santa Anita Park",
-      "date": "Oct 07",
-      "ndate": 20181007
+      "date": "Oct 08",
+      "ndate": 20181008
     },
     {
-      "carryoverAmount": 228815,
-      "carryover": "$228,815",
+      "carryoverAmount": 239336,
+      "carryover": "$239,336",
       "wagertype": "Super High Five Jackpot",
       "track": "Fresno",
-      "date": "Oct 07",
-      "ndate": 20181007
+      "date": "Oct 08",
+      "ndate": 20181008
     },
     {
-      "carryoverAmount": 72856,
-      "carryover": "$72,856",
+      "carryoverAmount": 78462,
+      "carryover": "$78,462",
       "wagertype": "Pick 6 Jackpot",
       "track": "Fresno",
-      "date": "Oct 07",
-      "ndate": 20181007
+      "date": "Oct 08",
+      "ndate": 20181008
     },
     {
-      "carryoverAmount": 39020,
-      "carryover": "$39,020",
+      "carryoverAmount": 47188,
+      "carryover": "$47,188",
       "wagertype": "Super High Five Jackpot",
       "track": "Woodbine",
-      "date": "Oct 07",
-      "ndate": 20181007
+      "date": "Oct 08",
+      "ndate": 20181008
     },
     {
-      "carryoverAmount": 20280,
-      "carryover": "$20,280",
+      "carryoverAmount": 43039,
+      "carryover": "$43,039",
       "wagertype": "Pick 6",
       "track": "Keeneland",
-      "date": "Oct 07",
-      "ndate": 20181007
+      "date": "Oct 10",
+      "ndate": 20181010
     },
     {
-      "carryoverAmount": 19740,
-      "carryover": "$19,740",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Gulfstream Park West",
-      "date": "Oct 07",
-      "ndate": 20181007
-    },
-    {
-      "carryoverAmount": 16848,
-      "carryover": "$16,848",
+      "carryoverAmount": 4131,
+      "carryover": "$4,131",
       "wagertype": "Super High Five",
-      "track": "Santa Anita Park",
-      "date": "Oct 07",
-      "ndate": 20181007
-    },
-    {
-      "carryoverAmount": 4434,
-      "carryover": "$4,434",
-      "wagertype": "Pick 6",
-      "track": "Los Alamitos",
-      "date": "Oct 07",
-      "ndate": 20181007
+      "track": "Century Downs",
+      "date": "Oct 08",
+      "ndate": 20181008
     },
     {
       "carryoverAmount": 3338,
@@ -97,6 +81,14 @@
       "ndate": 20181010
     },
     {
+      "carryoverAmount": 1739,
+      "carryover": "$1,739",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park West",
+      "date": "Oct 08",
+      "ndate": 20181008
+    },
+    {
       "carryoverAmount": 1534,
       "carryover": "$1,534",
       "wagertype": "Pick 6 Jackpot",
@@ -121,6 +113,30 @@
       "ndate": 20181010
     },
     {
+      "carryoverAmount": 1051,
+      "carryover": "$1,051",
+      "wagertype": "Pick 5",
+      "track": "Hastings Racecourse",
+      "date": "Oct 08",
+      "ndate": 20181008
+    },
+    {
+      "carryoverAmount": 1023,
+      "carryover": "$1,023",
+      "wagertype": "Super High Five",
+      "track": "Keeneland",
+      "date": "Oct 10",
+      "ndate": 20181010
+    },
+    {
+      "carryoverAmount": 901,
+      "carryover": "$901",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Laurel Park",
+      "date": "Oct 11",
+      "ndate": 20181011
+    },
+    {
       "carryoverAmount": 551,
       "carryover": "$551",
       "wagertype": "Super High Five",
@@ -129,28 +145,12 @@
       "ndate": 20181009
     },
     {
-      "carryoverAmount": 482,
-      "carryover": "$482",
-      "wagertype": "Super High Five",
-      "track": "Prairie Meadows",
-      "date": "Oct 07",
-      "ndate": 20181007
-    },
-    {
-      "carryoverAmount": 456,
-      "carryover": "$456",
-      "wagertype": "Pick 5",
-      "track": "Hastings Racecourse",
-      "date": "Oct 07",
-      "ndate": 20181007
-    },
-    {
-      "carryoverAmount": 312,
-      "carryover": "$312",
+      "carryoverAmount": 362,
+      "carryover": "$362",
       "wagertype": "Pick 5 Jackpot",
       "track": "Prairie Meadows",
-      "date": "Oct 07",
-      "ndate": 20181007
+      "date": "Oct 11",
+      "ndate": 20181011
     },
     {
       "carryoverAmount": 101,
