@@ -1,38 +1,6 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 297535,
-      "carryover": "$297,535",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Santa Anita Park",
-      "date": "Oct 08",
-      "ndate": 20181008
-    },
-    {
-      "carryoverAmount": 239336,
-      "carryover": "$239,336",
-      "wagertype": "Jackpot High-5",
-      "track": "Fresno",
-      "date": "Oct 08",
-      "ndate": 20181008
-    },
-    {
-      "carryoverAmount": 78462,
-      "carryover": "$78,462",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Fresno",
-      "date": "Oct 08",
-      "ndate": 20181008
-    },
-    {
-      "carryoverAmount": 47188,
-      "carryover": "$47,188",
-      "wagertype": "Jackpot High-5",
-      "track": "Woodbine",
-      "date": "Oct 08",
-      "ndate": 20181008
-    },
-    {
       "carryoverAmount": 43039,
       "carryover": "$43,039",
       "wagertype": "Pick 6",
@@ -49,28 +17,20 @@
       "ndate": 20181010
     },
     {
-      "carryoverAmount": 5491,
-      "carryover": "$5,491",
+      "carryoverAmount": 5615,
+      "carryover": "$5,615",
       "wagertype": "Z-5 Super Hi-5",
       "track": "Gulfstream Park West",
-      "date": "Oct 08",
-      "ndate": 20181008
+      "date": "Oct 10",
+      "ndate": 20181010
     },
     {
-      "carryoverAmount": 4131,
-      "carryover": "$4,131",
-      "wagertype": "Super High Five",
-      "track": "Century Downs",
-      "date": "Oct 08",
-      "ndate": 20181008
-    },
-    {
-      "carryoverAmount": 3338,
-      "carryover": "$3,338",
+      "carryoverAmount": 3918,
+      "carryover": "$3,918",
       "wagertype": "Pick 6 Jackpot",
       "track": "Thistledown",
-      "date": "Oct 08",
-      "ndate": 20181008
+      "date": "Oct 09",
+      "ndate": 20181009
     },
     {
       "carryoverAmount": 3336,
@@ -87,14 +47,6 @@
       "track": "Remington Park",
       "date": "Oct 10",
       "ndate": 20181010
-    },
-    {
-      "carryoverAmount": 2787,
-      "carryover": "$2,787",
-      "wagertype": "Z-5 Super Hi-5",
-      "track": "Gulfstream Park West",
-      "date": "Oct 08",
-      "ndate": 20181008
     },
     {
       "carryoverAmount": 2630,
@@ -121,14 +73,6 @@
       "ndate": 20181010
     },
     {
-      "carryoverAmount": 1739,
-      "carryover": "$1,739",
-      "wagertype": "Super High Five",
-      "track": "Gulfstream Park West",
-      "date": "Oct 08",
-      "ndate": 20181008
-    },
-    {
       "carryoverAmount": 1669,
       "carryover": "$1,669",
       "wagertype": "Z-5 Super Hi-5",
@@ -153,14 +97,6 @@
       "ndate": 20181011
     },
     {
-      "carryoverAmount": 1278,
-      "carryover": "$1,278",
-      "wagertype": "Z-5 Super Hi-5",
-      "track": "Gulfstream Park West",
-      "date": "Oct 08",
-      "ndate": 20181008
-    },
-    {
       "carryoverAmount": 1272,
       "carryover": "$1,272",
       "wagertype": "Pick 6 Jackpot",
@@ -175,14 +111,6 @@
       "track": "Hawthorne",
       "date": "Oct 10",
       "ndate": 20181010
-    },
-    {
-      "carryoverAmount": 1051,
-      "carryover": "$1,051",
-      "wagertype": "Pick 5",
-      "track": "Hastings Racecourse",
-      "date": "Oct 08",
-      "ndate": 20181008
     },
     {
       "carryoverAmount": 1023,
@@ -217,12 +145,28 @@
       "ndate": 20181011
     },
     {
+      "carryoverAmount": 681,
+      "carryover": "$681",
+      "wagertype": "Z-5 Super Hi-5",
+      "track": "Gulfstream Park West",
+      "date": "Oct 10",
+      "ndate": 20181010
+    },
+    {
       "carryoverAmount": 551,
       "carryover": "$551",
       "wagertype": "Super High Five",
       "track": "Indiana Grand Race Course",
       "date": "Oct 09",
       "ndate": 20181009
+    },
+    {
+      "carryoverAmount": 465,
+      "carryover": "$465",
+      "wagertype": "Z-5 Super Hi-5",
+      "track": "Gulfstream Park West",
+      "date": "Oct 10",
+      "ndate": 20181010
     },
     {
       "carryoverAmount": 362,
