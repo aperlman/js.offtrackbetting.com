@@ -25,12 +25,12 @@
       "ndate": 20181017
     },
     {
-      "carryoverAmount": 9082,
-      "carryover": "$9,082",
+      "carryoverAmount": 12044,
+      "carryover": "$12,044",
       "wagertype": "Pick 6 Jackpot",
       "track": "Thistledown",
-      "date": "Oct 16",
-      "ndate": 20181016
+      "date": "Oct 17",
+      "ndate": 20181017
     },
     {
       "carryoverAmount": 7609,
@@ -81,14 +81,6 @@
       "ndate": 20181018
     },
     {
-      "carryoverAmount": 2403,
-      "carryover": "$2,403",
-      "wagertype": "Pick 6",
-      "track": "Indiana Grand Race Course",
-      "date": "Oct 16",
-      "ndate": 20181016
-    },
-    {
       "carryoverAmount": 2123,
       "carryover": "$2,123",
       "wagertype": "Z-5 Super Hi-5",
@@ -103,6 +95,14 @@
       "track": "Laurel Park",
       "date": "Oct 18",
       "ndate": 20181018
+    },
+    {
+      "carryoverAmount": 1962,
+      "carryover": "$1,962",
+      "wagertype": "Super High Five",
+      "track": "Zia Park",
+      "date": "Oct 20",
+      "ndate": 20181020
     },
     {
       "carryoverAmount": 1851,
@@ -153,6 +153,14 @@
       "ndate": 20181017
     },
     {
+      "carryoverAmount": 784,
+      "carryover": "$784",
+      "wagertype": "Super High Five",
+      "track": "Mountaineer Casino Racetrack",
+      "date": "Oct 17",
+      "ndate": 20181017
+    },
+    {
       "carryoverAmount": 775,
       "carryover": "$775",
       "wagertype": "Z-5 Super Hi-5",
@@ -175,14 +183,6 @@
       "track": "Keeneland",
       "date": "Oct 17",
       "ndate": 20181017
-    },
-    {
-      "carryoverAmount": 656,
-      "carryover": "$656",
-      "wagertype": "Super High Five",
-      "track": "Zia Park",
-      "date": "Oct 16",
-      "ndate": 20181016
     }
   ]
 }
