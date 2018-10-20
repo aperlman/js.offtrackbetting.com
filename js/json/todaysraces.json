@@ -1,62 +1,78 @@
 {
   "todaysraces": {
-    "headline": "OTB Schedule: Friday, Oct 19",
+    "headline": "OTB Schedule: Saturday, Oct 20",
     "tracks": [
       {
+        "name": "Ascot (UK)",
+        "time": " 8:25 AM"
+      },
+      {
         "name": "Australia A",
-        "time": " 9:20 PM"
+        "time": " 9:40 PM"
       },
       {
         "name": "Australia B",
-        "time": " 9:30 PM"
+        "time": "10:02 PM"
       },
       {
         "name": "Australia C",
-        "time": " 9:38 PM"
+        "time": "10:20 PM"
       },
       {
         "name": "Australia D",
-        "time": " 9:46 PM"
-      },
-      {
-        "name": "Bangor Raceway",
-        "time": " 4:59 PM"
+        "time": "10:29 PM"
       },
       {
         "name": "Batavia Downs",
-        "time": " 4:44 PM"
+        "time": " 6:00 PM"
       },
       {
         "name": "Belmont Park",
-        "time": " 1:29 PM"
+        "time": "12:30 PM"
       },
       {
         "name": "Birmingham Eve",
         "time": " 7:15 PM"
       },
       {
-        "name": "Caulfield",
-        "time": " 9:15 PM"
+        "name": "Birmingham Mat",
+        "time": " 2:00 PM"
+      },
+      {
+        "name": "Catterick (UK)",
+        "time": " 8:50 AM"
+      },
+      {
+        "name": "Century Downs TB",
+        "time": " 3:15 PM"
       },
       {
         "name": "Charles Town",
         "time": " 7:00 PM"
       },
       {
-        "name": "Clonmel (IG)",
-        "time": " 2:49 PM"
+        "name": "Charlottetown",
+        "time": "12:30 PM"
       },
       {
         "name": "Curraheen (IG)",
-        "time": " 1:57 PM"
+        "time": " 2:50 PM"
       },
       {
         "name": "Daytona Beach Eve",
         "time": " 7:25 PM"
       },
       {
+        "name": "Daytona Beach Mat",
+        "time": " 1:05 PM"
+      },
+      {
         "name": "Dayton Raceway",
         "time": " 6:15 PM"
+      },
+      {
+        "name": "Delaware Park",
+        "time": " 1:15 PM"
       },
       {
         "name": "Delta Downs",
@@ -64,31 +80,31 @@
       },
       {
         "name": "Dundalk (IG)",
-        "time": " 4:21 PM"
+        "time": " 3:05 PM"
       },
       {
-        "name": "Dundalk (IRE)",
-        "time": "12:35 PM"
+        "name": "Durbanville (SAF)",
+        "time": " 7:15 AM"
       },
       {
         "name": "Evangeline Downs",
         "time": " 6:35 PM"
       },
       {
-        "name": "Fairview| (SAF)",
-        "time": " 6:51 AM"
+        "name": "Ffos Las (UK)",
+        "time": " 8:35 AM"
       },
       {
-        "name": "Fakenham (UK)",
-        "time": " 9:15 AM"
+        "name": "Finger Lakes",
+        "time": " 1:10 PM"
       },
       {
-        "name": "Fraser Downs",
-        "time": "10:00 PM"
+        "name": "Flamboro Downs",
+        "time": " 6:35 PM"
       },
       {
         "name": "Freehold Raceway",
-        "time": "12:40 PM"
+        "time": "12:30 PM"
       },
       {
         "name": "Galway (IG)",
@@ -96,79 +112,87 @@
       },
       {
         "name": "Golden Gate Fields",
-        "time": " 3:44 PM"
-      },
-      {
-        "name": "Greyville (SAF)",
-        "time": "11:11 AM"
+        "time": " 3:45 PM"
       },
       {
         "name": "Gulfstream Park West",
         "time": " 1:15 PM"
       },
       {
-        "name": "Harrahs Philly (Chester)",
-        "time": "12:30 PM"
-      },
-      {
         "name": "Hawthorne",
-        "time": " 4:09 PM"
+        "time": " 4:10 PM"
       },
       {
-        "name": "Haydock Park (UK)",
-        "time": " 9:05 AM"
+        "name": "Iowa Greyhound Park Eve",
+        "time": " 7:30 PM"
       },
       {
         "name": "Keeneland",
-        "time": " 1:11 PM"
-      },
-      {
-        "name": "Kilkenny (IG)",
-        "time": " 3:01 PM"
+        "time": " 1:05 PM"
       },
       {
         "name": "Laurel Park",
-        "time": "12:41 PM"
+        "time": "12:00 PM"
+      },
+      {
+        "name": "Leopardstown (IRE)",
+        "time": " 8:35 AM"
+      },
+      {
+        "name": "Lifford (IG)",
+        "time": " 3:02 PM"
+      },
+      {
+        "name": "Limerick (IG)",
+        "time": " 2:39 PM"
       },
       {
         "name": "Lone Star Park",
         "time": " 7:05 PM"
       },
       {
-        "name": "Longford (IG)",
-        "time": " 3:01 PM"
+        "name": "Los Alamitos (QH)",
+        "time": " 9:00 PM"
       },
       {
-        "name": "Los Alamitos (QH)",
-        "time": "10:00 PM"
+        "name": "Market Rasen (UK)",
+        "time": " 8:40 AM"
       },
       {
         "name": "Meadowlands (H)",
         "time": " 7:15 PM"
       },
       {
-        "name": "Morphettville",
-        "time": "10:00 PM"
+        "name": "Monmouth @ Far Hills",
+        "time": " 1:00 PM"
       },
       {
-        "name": "Newbridge (IG)",
-        "time": " 3:01 PM"
-      },
-      {
-        "name": "Newcastle (UK)",
-        "time": "12:20 PM"
+        "name": "Mullingar (IG)",
+        "time": " 2:48 PM"
       },
       {
         "name": "New Zealand",
-        "time": " 7:07 PM"
+        "time": " 8:20 PM"
+      },
+      {
+        "name": "Northfield Park",
+        "time": " 6:00 PM"
       },
       {
         "name": "Northlands Park (H)",
-        "time": " 8:30 PM"
+        "time": " 3:00 PM"
+      },
+      {
+        "name": "NYRA Cross Country P4",
+        "time": " 3:40 PM"
       },
       {
         "name": "Orange Park Eve",
         "time": " 7:45 PM"
+      },
+      {
+        "name": "Orange Park Mat",
+        "time": "12:35 PM"
       },
       {
         "name": "Palm Beach Eve",
@@ -176,7 +200,11 @@
       },
       {
         "name": "Palm Beach Mat",
-        "time": " 1:02 PM"
+        "time": " 1:00 PM"
+      },
+      {
+        "name": "Parx Racing",
+        "time": "12:55 PM"
       },
       {
         "name": "Penn National",
@@ -185,10 +213,6 @@
       {
         "name": "Pocono Downs",
         "time": " 7:00 PM"
-      },
-      {
-        "name": "Redcar (UK)",
-        "time": " 8:50 AM"
       },
       {
         "name": "Remington Park",
@@ -204,11 +228,15 @@
       },
       {
         "name": "Santa Anita Park",
-        "time": " 4:00 PM"
+        "time": " 3:30 PM"
       },
       {
         "name": "Saratoga Harness",
         "time": " 6:45 PM"
+      },
+      {
+        "name": "Scarborough Downs",
+        "time": " 1:30 PM"
       },
       {
         "name": "Seoul Korea",
@@ -216,23 +244,43 @@
       },
       {
         "name": "Shelbourne Park (IG)",
-        "time": " 2:40 PM"
-      },
-      {
-        "name": "Southland Twilight",
-        "time": " 6:00 PM"
-      },
-      {
-        "name": "Stronach Pick 5",
-        "time": " 4:35 PM"
-      },
-      {
-        "name": "Tralee (IG)",
         "time": " 2:42 PM"
       },
       {
-        "name": "Tri-State Eve",
-        "time": " 7:00 PM"
+        "name": "Southland Eve",
+        "time": " 8:30 PM"
+      },
+      {
+        "name": "Southland Mat",
+        "time": " 2:00 PM"
+      },
+      {
+        "name": "Stratford (UK)",
+        "time": " 9:31 AM"
+      },
+      {
+        "name": "Thistledown",
+        "time": " 1:40 PM"
+      },
+      {
+        "name": "Thurles (IG)",
+        "time": " 3:02 PM"
+      },
+      {
+        "name": "Tralee (IG)",
+        "time": " 2:44 PM"
+      },
+      {
+        "name": "Tri-State Twi",
+        "time": " 5:00 PM"
+      },
+      {
+        "name": "Turffontein (SAF)",
+        "time": " 5:34 AM"
+      },
+      {
+        "name": "Turf Paradise",
+        "time": " 2:55 PM"
       },
       {
         "name": "Vernon Downs",
@@ -243,24 +291,20 @@
         "time": " 2:46 PM"
       },
       {
-        "name": "Western Fair",
-        "time": " 6:55 PM"
-      },
-      {
         "name": "Wheeling Downs Eve",
         "time": " 5:30 PM"
       },
       {
         "name": "Wheeling Downs Mat",
-        "time": " 1:01 PM"
+        "time": " 1:00 PM"
       },
       {
         "name": "Will Rogers Downs",
-        "time": " 1:06 PM"
+        "time": " 1:00 PM"
       },
       {
-        "name": "Wincanton (UK)",
-        "time": " 9:36 AM"
+        "name": "Wolverhampton (UK)",
+        "time": "12:40 PM"
       },
       {
         "name": "Woodbine at Mohawk",
@@ -268,11 +312,15 @@
       },
       {
         "name": "Woodbine (TB)",
-        "time": " 1:07 PM"
+        "time": " 1:00 PM"
       },
       {
         "name": "Yonkers Raceway",
         "time": " 6:50 PM"
+      },
+      {
+        "name": "Zia Park",
+        "time": " 2:00 PM"
       }
     ]
   }
