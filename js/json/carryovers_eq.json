@@ -81,20 +81,20 @@
       "ndate": 20181024
     },
     {
+      "carryoverAmount": 7830,
+      "carryover": "$7,830",
+      "wagertype": "Super High Five",
+      "track": "Zia Park",
+      "date": "Oct 23",
+      "ndate": 20181023
+    },
+    {
       "carryoverAmount": 7592,
       "carryover": "$7,592",
       "wagertype": "Pick 5",
       "track": "Indiana Grand Race Course",
       "date": "Oct 23",
       "ndate": 20181023
-    },
-    {
-      "carryoverAmount": 4715,
-      "carryover": "$4,715",
-      "wagertype": "Super High Five",
-      "track": "Zia Park",
-      "date": "Oct 22",
-      "ndate": 20181022
     },
     {
       "carryoverAmount": 4533,
@@ -113,20 +113,12 @@
       "ndate": 20181025
     },
     {
-      "carryoverAmount": 1707,
-      "carryover": "$1,707",
-      "wagertype": "Super High Five",
-      "track": "Mountaineer Casino Racetrack & Resort",
-      "date": "Oct 22",
-      "ndate": 20181022
-    },
-    {
-      "carryoverAmount": 1635,
-      "carryover": "$1,635",
-      "wagertype": "Pick 5",
-      "track": "Finger Lakes",
-      "date": "Oct 22",
-      "ndate": 20181022
+      "carryoverAmount": 2760,
+      "carryover": "$2,760",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Turf Paradise",
+      "date": "Oct 27",
+      "ndate": 20181027
     },
     {
       "carryoverAmount": 1340,
@@ -159,14 +151,6 @@
       "track": "Indiana Grand Race Course",
       "date": "Oct 23",
       "ndate": 20181023
-    },
-    {
-      "carryoverAmount": 543,
-      "carryover": "$543",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Turf Paradise",
-      "date": "Oct 22",
-      "ndate": 20181022
     }
   ]
 }
