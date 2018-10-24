@@ -17,6 +17,14 @@
       "ndate": 20181024
     },
     {
+      "carryoverAmount": 36335,
+      "carryover": "$36,335",
+      "wagertype": "Pick 5",
+      "track": "Indiana Grand Race Course",
+      "date": "Oct 24",
+      "ndate": 20181024
+    },
+    {
       "carryoverAmount": 18637,
       "carryover": "$18,637",
       "wagertype": "Pick 6",
@@ -31,6 +39,14 @@
       "track": "Woodbine",
       "date": "Oct 24",
       "ndate": 20181024
+    },
+    {
+      "carryoverAmount": 15261,
+      "carryover": "$15,261",
+      "wagertype": "Super High Five",
+      "track": "Zia Park",
+      "date": "Oct 27",
+      "ndate": 20181027
     },
     {
       "carryoverAmount": 14517,
@@ -65,6 +81,14 @@
       "ndate": 20181024
     },
     {
+      "carryoverAmount": 9239,
+      "carryover": "$9,239",
+      "wagertype": "Pick 5",
+      "track": "Finger Lakes",
+      "date": "Oct 24",
+      "ndate": 20181024
+    },
+    {
       "carryoverAmount": 8598,
       "carryover": "$8,598",
       "wagertype": "Pick 6 Jackpot",
@@ -81,36 +105,12 @@
       "ndate": 20181024
     },
     {
-      "carryoverAmount": 7830,
-      "carryover": "$7,830",
-      "wagertype": "Super High Five",
-      "track": "Zia Park",
-      "date": "Oct 23",
-      "ndate": 20181023
-    },
-    {
-      "carryoverAmount": 7592,
-      "carryover": "$7,592",
-      "wagertype": "Pick 5",
-      "track": "Indiana Grand Race Course",
-      "date": "Oct 23",
-      "ndate": 20181023
-    },
-    {
       "carryoverAmount": 4533,
       "carryover": "$4,533",
       "wagertype": "Pick 6 Jackpot",
       "track": "Lone Star Park",
       "date": "Oct 26",
       "ndate": 20181026
-    },
-    {
-      "carryoverAmount": 3722,
-      "carryover": "$3,722",
-      "wagertype": "Super High Five",
-      "track": "Golden Gate Fields",
-      "date": "Oct 25",
-      "ndate": 20181025
     },
     {
       "carryoverAmount": 2760,
@@ -129,28 +129,12 @@
       "ndate": 20181024
     },
     {
-      "carryoverAmount": 869,
-      "carryover": "$869",
-      "wagertype": "Super High Five",
-      "track": "Golden Gate Fields",
-      "date": "Oct 25",
-      "ndate": 20181025
-    },
-    {
-      "carryoverAmount": 718,
-      "carryover": "$718",
+      "carryoverAmount": 1243,
+      "carryover": "$1,243",
       "wagertype": "Pick 6",
       "track": "Indiana Grand Race Course",
-      "date": "Oct 23",
-      "ndate": 20181023
-    },
-    {
-      "carryoverAmount": 570,
-      "carryover": "$570",
-      "wagertype": "Super High Five",
-      "track": "Indiana Grand Race Course",
-      "date": "Oct 23",
-      "ndate": 20181023
+      "date": "Oct 24",
+      "ndate": 20181024
     }
   ]
 }
