@@ -49,6 +49,14 @@
       "ndate": 20181101
     },
     {
+      "carryoverAmount": 7348,
+      "carryover": "$7,348",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Turf Paradise",
+      "date": "Nov 02",
+      "ndate": 20181102
+    },
+    {
       "carryoverAmount": 5550,
       "carryover": "$5,550",
       "wagertype": "Super High Five",
@@ -63,22 +71,6 @@
       "track": "Gulfstream Park West",
       "date": "Oct 31",
       "ndate": 20181031
-    },
-    {
-      "carryoverAmount": 5055,
-      "carryover": "$5,055",
-      "wagertype": "Pick 5",
-      "track": "Turf Paradise",
-      "date": "Oct 29",
-      "ndate": 20181029
-    },
-    {
-      "carryoverAmount": 3839,
-      "carryover": "$3,839",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Turf Paradise",
-      "date": "Oct 29",
-      "ndate": 20181029
     },
     {
       "carryoverAmount": 3597,
@@ -113,6 +105,14 @@
       "ndate": 20181101
     },
     {
+      "carryoverAmount": 1413,
+      "carryover": "$1,413",
+      "wagertype": "Super High Five",
+      "track": "Zia Park",
+      "date": "Oct 30",
+      "ndate": 20181030
+    },
+    {
       "carryoverAmount": 999,
       "carryover": "$999",
       "wagertype": "Z-5 Super Hi-5",
@@ -127,14 +127,6 @@
       "track": "Gulfstream Park West",
       "date": "Oct 31",
       "ndate": 20181031
-    },
-    {
-      "carryoverAmount": 389,
-      "carryover": "$389",
-      "wagertype": "Super High Five",
-      "track": "Zia Park",
-      "date": "Oct 29",
-      "ndate": 20181029
     }
   ]
 }
