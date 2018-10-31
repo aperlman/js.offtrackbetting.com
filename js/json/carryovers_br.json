@@ -65,6 +65,14 @@
       "ndate": 20181101
     },
     {
+      "carryoverAmount": 5252,
+      "carryover": "$5,252",
+      "wagertype": "Pick 4",
+      "track": "Mahoning Valley Race Course",
+      "date": "Oct 31",
+      "ndate": 20181031
+    },
+    {
       "carryoverAmount": 5158,
       "carryover": "$5,158",
       "wagertype": "Z-5 Super Hi-5",
@@ -73,10 +81,26 @@
       "ndate": 20181031
     },
     {
+      "carryoverAmount": 4012,
+      "carryover": "$4,012",
+      "wagertype": "Super High Five",
+      "track": "Zia Park",
+      "date": "Nov 03",
+      "ndate": 20181103
+    },
+    {
       "carryoverAmount": 3597,
       "carryover": "$3,597",
       "wagertype": "Z-5 Super Hi-5",
       "track": "Gulfstream Park West",
+      "date": "Oct 31",
+      "ndate": 20181031
+    },
+    {
+      "carryoverAmount": 3586,
+      "carryover": "$3,586",
+      "wagertype": "Pick 6",
+      "track": "Indiana Grand Race Course",
       "date": "Oct 31",
       "ndate": 20181031
     },
@@ -105,14 +129,6 @@
       "ndate": 20181101
     },
     {
-      "carryoverAmount": 1413,
-      "carryover": "$1,413",
-      "wagertype": "Super High Five",
-      "track": "Zia Park",
-      "date": "Oct 30",
-      "ndate": 20181030
-    },
-    {
       "carryoverAmount": 999,
       "carryover": "$999",
       "wagertype": "Z-5 Super Hi-5",
@@ -121,10 +137,26 @@
       "ndate": 20181031
     },
     {
+      "carryoverAmount": 983,
+      "carryover": "$983",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Mahoning Valley Race Course",
+      "date": "Oct 31",
+      "ndate": 20181031
+    },
+    {
       "carryoverAmount": 655,
       "carryover": "$655",
       "wagertype": "Z-5 Super Hi-5",
       "track": "Gulfstream Park West",
+      "date": "Oct 31",
+      "ndate": 20181031
+    },
+    {
+      "carryoverAmount": 513,
+      "carryover": "$513",
+      "wagertype": "Super High Five",
+      "track": "Mahoning Valley Race Course",
       "date": "Oct 31",
       "ndate": 20181031
     }
