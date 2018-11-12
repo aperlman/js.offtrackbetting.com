@@ -1,28 +1,20 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 93371,
-      "carryover": "$93,371",
+      "carryoverAmount": 100322,
+      "carryover": "$100,322",
       "wagertype": "Pick 6 Jackpot",
       "track": "Churchill Downs",
-      "date": "Nov 11",
-      "ndate": 20181111
+      "date": "Nov 14",
+      "ndate": 20181114
     },
     {
-      "carryoverAmount": 40592,
-      "carryover": "$40,592",
+      "carryoverAmount": 47993,
+      "carryover": "$47,993",
       "wagertype": "Pick 6 Jackpot",
       "track": "Golden Gate Fields",
-      "date": "Nov 11",
-      "ndate": 20181111
-    },
-    {
-      "carryoverAmount": 36478,
-      "carryover": "$36,478",
-      "wagertype": "Pick 5",
-      "track": "Golden Gate Fields",
-      "date": "Nov 11",
-      "ndate": 20181111
+      "date": "Nov 15",
+      "ndate": 20181115
     },
     {
       "carryoverAmount": 34776,
@@ -33,14 +25,6 @@
       "ndate": 20181114
     },
     {
-      "carryoverAmount": 33073,
-      "carryover": "$33,073",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Del Mar",
-      "date": "Nov 11",
-      "ndate": 20181111
-    },
-    {
       "carryoverAmount": 24611,
       "carryover": "$24,611",
       "wagertype": "Super High Five Jackpot",
@@ -49,28 +33,44 @@
       "ndate": 20181114
     },
     {
-      "carryoverAmount": 14519,
-      "carryover": "$14,519",
+      "carryoverAmount": 23830,
+      "carryover": "$23,830",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park West",
-      "date": "Nov 11",
-      "ndate": 20181111
+      "date": "Nov 14",
+      "ndate": 20181114
     },
     {
-      "carryoverAmount": 9928,
-      "carryover": "$9,928",
+      "carryoverAmount": 23353,
+      "carryover": "$23,353",
+      "wagertype": "Pick 6",
+      "track": "Aqueduct",
+      "date": "Nov 14",
+      "ndate": 20181114
+    },
+    {
+      "carryoverAmount": 23073,
+      "carryover": "$23,073",
+      "wagertype": "Super High Five",
+      "track": "Del Mar",
+      "date": "Nov 12",
+      "ndate": 20181112
+    },
+    {
+      "carryoverAmount": 20501,
+      "carryover": "$20,501",
+      "wagertype": "Super High Five",
+      "track": "Churchill Downs",
+      "date": "Nov 14",
+      "ndate": 20181114
+    },
+    {
+      "carryoverAmount": 18866,
+      "carryover": "$18,866",
       "wagertype": "Super High Five Jackpot",
       "track": "Woodbine",
-      "date": "Nov 11",
-      "ndate": 20181111
-    },
-    {
-      "carryoverAmount": 9147,
-      "carryover": "$9,147",
-      "wagertype": "Super High Five",
-      "track": "Golden Gate Fields",
-      "date": "Nov 11",
-      "ndate": 20181111
+      "date": "Nov 14",
+      "ndate": 20181114
     },
     {
       "carryoverAmount": 9088,
@@ -89,14 +89,6 @@
       "ndate": 20181115
     },
     {
-      "carryoverAmount": 7195,
-      "carryover": "$7,195",
-      "wagertype": "Super High Five",
-      "track": "Churchill Downs",
-      "date": "Nov 11",
-      "ndate": 20181111
-    },
-    {
       "carryoverAmount": 6985,
       "carryover": "$6,985",
       "wagertype": "Pick 6 Jackpot",
@@ -113,34 +105,42 @@
       "ndate": 20181115
     },
     {
-      "carryoverAmount": 2675,
-      "carryover": "$2,675",
-      "wagertype": "Super High Five",
-      "track": "Gulfstream Park West",
-      "date": "Nov 11",
-      "ndate": 20181111
-    },
-    {
-      "carryoverAmount": 2411,
-      "carryover": "$2,411",
+      "carryoverAmount": 3933,
+      "carryover": "$3,933",
       "wagertype": "Pick 6 Jackpot",
       "track": "Laurel Park",
-      "date": "Nov 11",
-      "ndate": 20181111
+      "date": "Nov 15",
+      "ndate": 20181115
     },
     {
-      "carryoverAmount": 1159,
-      "carryover": "$1,159",
+      "carryoverAmount": 3367,
+      "carryover": "$3,367",
       "wagertype": "Super High Five",
       "track": "Laurel Park",
-      "date": "Nov 11",
-      "ndate": 20181111
+      "date": "Nov 15",
+      "ndate": 20181115
     },
     {
       "carryoverAmount": 909,
       "carryover": "$909",
       "wagertype": "Super High Five",
       "track": "Mahoning Valley Race Course",
+      "date": "Nov 12",
+      "ndate": 20181112
+    },
+    {
+      "carryoverAmount": 887,
+      "carryover": "$887",
+      "wagertype": "Super High Five",
+      "track": "Zia Park",
+      "date": "Nov 12",
+      "ndate": 20181112
+    },
+    {
+      "carryoverAmount": 483,
+      "carryover": "$483",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Turf Paradise",
       "date": "Nov 12",
       "ndate": 20181112
     },
