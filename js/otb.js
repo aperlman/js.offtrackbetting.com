@@ -1,5 +1,5 @@
 // login form
-$("#loginButton").click(function () {
+$("#loginButton").on( 'click', function () {
     var loginForm = $("#loginForm");
     var account = $("#accountNumber").val();
     var pin = $("#pin").val();
