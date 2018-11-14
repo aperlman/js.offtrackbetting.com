@@ -73,20 +73,20 @@
       "ndate": 20181114
     },
     {
+      "carryoverAmount": 10986,
+      "carryover": "$10,986",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Mahoning Valley Race Course",
+      "date": "Nov 14",
+      "ndate": 20181114
+    },
+    {
       "carryoverAmount": 9689,
       "carryover": "$9,689",
       "wagertype": "Pick 6 Jackpot",
       "track": "Del Mar",
       "date": "Nov 15",
       "ndate": 20181115
-    },
-    {
-      "carryoverAmount": 9168,
-      "carryover": "$9,168",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Mahoning Valley Race Course",
-      "date": "Nov 13",
-      "ndate": 20181113
     },
     {
       "carryoverAmount": 9088,
@@ -137,22 +137,6 @@
       "ndate": 20181115
     },
     {
-      "carryoverAmount": 2389,
-      "carryover": "$2,389",
-      "wagertype": "Super High Five",
-      "track": "Mahoning Valley Race Course",
-      "date": "Nov 13",
-      "ndate": 20181113
-    },
-    {
-      "carryoverAmount": 2184,
-      "carryover": "$2,184",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Turf Paradise",
-      "date": "Nov 13",
-      "ndate": 20181113
-    },
-    {
       "carryoverAmount": 2002,
       "carryover": "$2,002",
       "wagertype": "Z-5 Super Hi-5",
@@ -167,6 +151,14 @@
       "track": "Laurel Park",
       "date": "Nov 15",
       "ndate": 20181115
+    },
+    {
+      "carryoverAmount": 1674,
+      "carryover": "$1,674",
+      "wagertype": "Super High Five",
+      "track": "Zia Park",
+      "date": "Nov 17",
+      "ndate": 20181117
     },
     {
       "carryoverAmount": 1361,
