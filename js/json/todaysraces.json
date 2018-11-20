@@ -1,26 +1,22 @@
 {
   "todaysraces": {
-    "headline": "OTB Schedule: Monday, Nov 19",
+    "headline": "OTB Schedule: Tuesday, Nov 20",
     "tracks": [
       {
         "name": "Australia A",
-        "time": " 9:15 PM"
+        "time": " 9:25 PM"
       },
       {
         "name": "Australia B",
-        "time": " 9:30 PM"
+        "time": " 9:43 PM"
       },
       {
         "name": "Australia C",
-        "time": "10:45 PM"
+        "time": " 3:40 AM"
       },
       {
-        "name": "Australia Harness 1",
-        "time": "10:52 PM"
-      },
-      {
-        "name": "Birmingham Mat",
-        "time": " 3:59 PM"
+        "name": "Birmingham Eve",
+        "time": " 7:15 PM"
       },
       {
         "name": "Daytona Beach Eve",
@@ -28,47 +24,51 @@
       },
       {
         "name": "Dayton Raceway",
-        "time": " 2:14 PM"
+        "time": " 2:15 PM"
+      },
+      {
+        "name": "Delta Downs",
+        "time": " 2:35 PM"
       },
       {
         "name": "Dover Downs",
         "time": " 4:30 PM"
       },
       {
-        "name": "Enniscorthy (IG)",
-        "time": " 2:59 PM"
+        "name": "Evangeline Downs",
+        "time": " 6:35 PM"
       },
       {
-        "name": "Fairview| (SAF)",
-        "time": " 6:09 AM"
+        "name": "Fakenham (UK)",
+        "time": " 8:00 AM"
       },
       {
         "name": "Finger Lakes",
         "time": "12:15 PM"
       },
       {
+        "name": "Gawler",
+        "time": " 9:50 PM"
+      },
+      {
         "name": "Gulfstream Park West",
-        "time": " 2:59 PM"
+        "time": " 1:15 PM"
       },
       {
-        "name": "Hereford (UK)",
-        "time": " 7:56 AM"
-      },
-      {
-        "name": "Kempton Park (UK)",
-        "time": "11:08 AM"
+        "name": "Ladbrokes Park Lakeside",
+        "time": " 9:00 PM"
       },
       {
         "name": "Laurel Park",
-        "time": "12:23 PM"
+        "time": " 3:00 PM"
       },
       {
-        "name": "Longford (IG)",
-        "time": " 2:59 PM"
+        "name": "Lingfield (UK)",
+        "time": " 7:10 AM"
       },
       {
         "name": "Mahoning Valley",
-        "time": "12:20 PM"
+        "time": "12:45 PM"
       },
       {
         "name": "Monticello Raceway",
@@ -79,24 +79,12 @@
         "time": " 6:00 PM"
       },
       {
-        "name": "Orange Park Eve",
-        "time": " 7:45 PM"
-      },
-      {
-        "name": "Palm Beach Mat",
-        "time": " 1:00 PM"
-      },
-      {
         "name": "Parx Racing",
         "time": "12:25 PM"
       },
       {
         "name": "Plainridge",
         "time": " 1:00 PM"
-      },
-      {
-        "name": "Plumpton (UK)",
-        "time": " 7:45 AM"
       },
       {
         "name": "Pompano Park",
@@ -111,32 +99,32 @@
         "time": " 4:00 PM"
       },
       {
-        "name": "Southland Twilight",
-        "time": " 6:00 PM"
+        "name": "Shelbourne Park (IG)",
+        "time": " 2:40 PM"
+      },
+      {
+        "name": "Southwell (UK)",
+        "time": " 7:50 AM"
+      },
+      {
+        "name": "Tralee (IG)",
+        "time": " 1:57 PM"
       },
       {
         "name": "Turf Paradise",
         "time": " 2:40 PM"
       },
       {
+        "name": "Vaal (SAF)",
+        "time": " 5:40 AM"
+      },
+      {
         "name": "Western Fair",
         "time": " 6:15 PM"
       },
       {
-        "name": "Woodbine at Mohawk",
-        "time": " 7:10 PM"
-      },
-      {
         "name": "Yonkers Raceway",
         "time": " 6:50 PM"
-      },
-      {
-        "name": "Youghal (IG)",
-        "time": " 1:43 PM"
-      },
-      {
-        "name": "Zia Park",
-        "time": " 2:00 PM"
       }
     ]
   }
