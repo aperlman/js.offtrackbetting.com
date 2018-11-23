@@ -1,36 +1,36 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 83347,
-      "carryover": "$83,347",
+      "carryoverAmount": 196438,
+      "carryover": "$196,438",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Churchill Downs",
+      "date": "Nov 23",
+      "ndate": 20181123
+    },
+    {
+      "carryoverAmount": 94515,
+      "carryover": "$94,515",
       "wagertype": "Pick 6 Jackpot",
       "track": "Del Mar",
-      "date": "Nov 22",
-      "ndate": 20181122
+      "date": "Nov 23",
+      "ndate": 20181123
     },
     {
-      "carryoverAmount": 80888,
-      "carryover": "$80,888",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Gulfstream Park West",
-      "date": "Nov 22",
-      "ndate": 20181122
-    },
-    {
-      "carryoverAmount": 58217,
-      "carryover": "$58,217",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Golden Gate Fields",
-      "date": "Nov 22",
-      "ndate": 20181122
-    },
-    {
-      "carryoverAmount": 51662,
-      "carryover": "$51,662",
+      "carryoverAmount": 60323,
+      "carryover": "$60,323",
       "wagertype": "Pick 6 Jackpot",
       "track": "Hollywood Casino At Charles To",
-      "date": "Nov 22",
-      "ndate": 20181122
+      "date": "Nov 23",
+      "ndate": 20181123
+    },
+    {
+      "carryoverAmount": 52115,
+      "carryover": "$52,115",
+      "wagertype": "Pick 6",
+      "track": "Del Mar",
+      "date": "Nov 23",
+      "ndate": 20181123
     },
     {
       "carryoverAmount": 23821,
@@ -41,12 +41,12 @@
       "ndate": 20181123
     },
     {
-      "carryoverAmount": 16221,
-      "carryover": "$16,221",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Fair Grounds",
-      "date": "Nov 22",
-      "ndate": 20181122
+      "carryoverAmount": 15180,
+      "carryover": "$15,180",
+      "wagertype": "Pick 5",
+      "track": "Laurel Park",
+      "date": "Nov 23",
+      "ndate": 20181123
     },
     {
       "carryoverAmount": 11583,
@@ -55,14 +55,6 @@
       "track": "Woodbine",
       "date": "Nov 23",
       "ndate": 20181123
-    },
-    {
-      "carryoverAmount": 10599,
-      "carryover": "$10,599",
-      "wagertype": "Z-5 Super Hi-5",
-      "track": "Gulfstream Park West",
-      "date": "Nov 22",
-      "ndate": 20181122
     },
     {
       "carryoverAmount": 7208,
@@ -81,18 +73,34 @@
       "ndate": 20181123
     },
     {
-      "carryoverAmount": 4222,
-      "carryover": "$4,222",
-      "wagertype": "Z-5 Super Hi-5",
-      "track": "Gulfstream Park West",
-      "date": "Nov 22",
-      "ndate": 20181122
+      "carryoverAmount": 6414,
+      "carryover": "$6,414",
+      "wagertype": "Super High Five",
+      "track": "Churchill Downs",
+      "date": "Nov 23",
+      "ndate": 20181123
     },
     {
       "carryoverAmount": 3565,
       "carryover": "$3,565",
       "wagertype": "Pick 6 Jackpot",
       "track": "Turf Paradise",
+      "date": "Nov 23",
+      "ndate": 20181123
+    },
+    {
+      "carryoverAmount": 2589,
+      "carryover": "$2,589",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Laurel Park",
+      "date": "Nov 23",
+      "ndate": 20181123
+    },
+    {
+      "carryoverAmount": 2476,
+      "carryover": "$2,476",
+      "wagertype": "Z-5 Super Hi-5",
+      "track": "Gulfstream Park West",
       "date": "Nov 23",
       "ndate": 20181123
     },
@@ -105,60 +113,108 @@
       "ndate": 20181123
     },
     {
-      "carryoverAmount": 1768,
-      "carryover": "$1,768",
-      "wagertype": "Z-5 Super Hi-5",
-      "track": "Gulfstream Park West",
-      "date": "Nov 22",
-      "ndate": 20181122
-    },
-    {
-      "carryoverAmount": 1665,
-      "carryover": "$1,665",
-      "wagertype": "Z-5 Super Hi-5",
-      "track": "Gulfstream Park West",
-      "date": "Nov 22",
-      "ndate": 20181122
-    },
-    {
-      "carryoverAmount": 1370,
-      "carryover": "$1,370",
+      "carryoverAmount": 1961,
+      "carryover": "$1,961",
       "wagertype": "Super High Five",
       "track": "Golden Gate Fields",
-      "date": "Nov 22",
-      "ndate": 20181122
+      "date": "Nov 23",
+      "ndate": 20181123
     },
     {
-      "carryoverAmount": 895,
-      "carryover": "$895",
+      "carryoverAmount": 1779,
+      "carryover": "$1,779",
+      "wagertype": "Z-5 Super Hi-5",
+      "track": "Laurel Park",
+      "date": "Nov 23",
+      "ndate": 20181123
+    },
+    {
+      "carryoverAmount": 1421,
+      "carryover": "$1,421",
+      "wagertype": "Z-5 Super Hi-5",
+      "track": "Laurel Park",
+      "date": "Nov 23",
+      "ndate": 20181123
+    },
+    {
+      "carryoverAmount": 1267,
+      "carryover": "$1,267",
+      "wagertype": "Z-5 Super Hi-5",
+      "track": "Laurel Park",
+      "date": "Nov 23",
+      "ndate": 20181123
+    },
+    {
+      "carryoverAmount": 1089,
+      "carryover": "$1,089",
       "wagertype": "Super High Five",
       "track": "Golden Gate Fields",
-      "date": "Nov 22",
-      "ndate": 20181122
+      "date": "Nov 23",
+      "ndate": 20181123
     },
     {
-      "carryoverAmount": 811,
-      "carryover": "$811",
+      "carryoverAmount": 1037,
+      "carryover": "$1,037",
       "wagertype": "Z-5 Super Hi-5",
       "track": "Gulfstream Park West",
-      "date": "Nov 22",
-      "ndate": 20181122
+      "date": "Nov 23",
+      "ndate": 20181123
     },
     {
-      "carryoverAmount": 527,
-      "carryover": "$527",
-      "wagertype": "Super High Five",
-      "track": "Golden Gate Fields",
-      "date": "Nov 22",
-      "ndate": 20181122
+      "carryoverAmount": 995,
+      "carryover": "$995",
+      "wagertype": "Z-5 Super Hi-5",
+      "track": "Laurel Park",
+      "date": "Nov 23",
+      "ndate": 20181123
     },
     {
-      "carryoverAmount": 454,
-      "carryover": "$454",
+      "carryoverAmount": 817,
+      "carryover": "$817",
       "wagertype": "Z-5 Super Hi-5",
       "track": "Gulfstream Park West",
-      "date": "Nov 22",
-      "ndate": 20181122
+      "date": "Nov 23",
+      "ndate": 20181123
+    },
+    {
+      "carryoverAmount": 569,
+      "carryover": "$569",
+      "wagertype": "Z-5 Super Hi-5",
+      "track": "Laurel Park",
+      "date": "Nov 23",
+      "ndate": 20181123
+    },
+    {
+      "carryoverAmount": 370,
+      "carryover": "$370",
+      "wagertype": "Z-5 Super Hi-5",
+      "track": "Laurel Park",
+      "date": "Nov 23",
+      "ndate": 20181123
+    },
+    {
+      "carryoverAmount": 335,
+      "carryover": "$335",
+      "wagertype": "Z-5 Super Hi-5",
+      "track": "Laurel Park",
+      "date": "Nov 23",
+      "ndate": 20181123
+    },
+    {
+      "carryoverAmount": 334,
+      "carryover": "$334",
+      "wagertype": "Z-5 Super Hi-5",
+      "track": "Gulfstream Park West",
+      "date": "Nov 23",
+      "ndate": 20181123
+    },
+    {
+      "carryoverAmount": 197,
+      "carryover": "$197",
+      "wagertype": "Z-5 Super Hi-5",
+      "track": "Laurel Park",
+      "date": "Nov 23",
+      "ndate": 20181123
     }
   ]
 }
