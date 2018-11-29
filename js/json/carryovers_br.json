@@ -1,12 +1,12 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 74554,
-      "carryover": "$74,554",
+      "carryoverAmount": 81146,
+      "carryover": "$81,146",
       "wagertype": "Pick 6 Jackpot",
       "track": "Hollywood Casino At Charles To",
-      "date": "Nov 28",
-      "ndate": 20181128
+      "date": "Nov 29",
+      "ndate": 20181129
     },
     {
       "carryoverAmount": 21401,
@@ -15,6 +15,14 @@
       "track": "Hawthorne",
       "date": "Nov 29",
       "ndate": 20181129
+    },
+    {
+      "carryoverAmount": 13144,
+      "carryover": "$13,144",
+      "wagertype": "Jackpot High-5",
+      "track": "Woodbine",
+      "date": "Nov 30",
+      "ndate": 20181130
     },
     {
       "carryoverAmount": 6672,
@@ -41,6 +49,14 @@
       "ndate": 20181129
     },
     {
+      "carryoverAmount": 3621,
+      "carryover": "$3,621",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Mahoning Valley Race Course",
+      "date": "Dec 01",
+      "ndate": 20181201
+    },
+    {
       "carryoverAmount": 3186,
       "carryover": "$3,186",
       "wagertype": "Pick 6 Jackpot",
@@ -49,20 +65,28 @@
       "ndate": 20181129
     },
     {
-      "carryoverAmount": 2737,
-      "carryover": "$2,737",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Mahoning Valley Race Course",
-      "date": "Nov 28",
-      "ndate": 20181128
-    },
-    {
-      "carryoverAmount": 1164,
-      "carryover": "$1,164",
+      "carryoverAmount": 2964,
+      "carryover": "$2,964",
       "wagertype": "Super High Five",
       "track": "Tampa Bay Downs",
-      "date": "Nov 28",
-      "ndate": 20181128
+      "date": "Nov 30",
+      "ndate": 20181130
+    },
+    {
+      "carryoverAmount": 1861,
+      "carryover": "$1,861",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Penn National",
+      "date": "Nov 29",
+      "ndate": 20181129
+    },
+    {
+      "carryoverAmount": 1441,
+      "carryover": "$1,441",
+      "wagertype": "Pick 6",
+      "track": "Remington Park",
+      "date": "Nov 29",
+      "ndate": 20181129
     },
     {
       "carryoverAmount": 1151,
@@ -73,12 +97,28 @@
       "ndate": 20181129
     },
     {
-      "carryoverAmount": 805,
-      "carryover": "$805",
-      "wagertype": "Pick 6 Jackpot",
+      "carryoverAmount": 780,
+      "carryover": "$780",
+      "wagertype": "Jackpot High-5",
       "track": "Penn National",
-      "date": "Nov 28",
-      "ndate": 20181128
+      "date": "Nov 29",
+      "ndate": 20181129
+    },
+    {
+      "carryoverAmount": 672,
+      "carryover": "$672",
+      "wagertype": "Super High Five",
+      "track": "Mahoning Valley Race Course",
+      "date": "Dec 01",
+      "ndate": 20181201
+    },
+    {
+      "carryoverAmount": 447,
+      "carryover": "$447",
+      "wagertype": "Super High Five",
+      "track": "Turfway Park",
+      "date": "Nov 29",
+      "ndate": 20181129
     },
     {
       "carryoverAmount": 363,
@@ -87,14 +127,6 @@
       "track": "Laurel Park",
       "date": "Nov 29",
       "ndate": 20181129
-    },
-    {
-      "carryoverAmount": 206,
-      "carryover": "$206",
-      "wagertype": "Jackpot High-5",
-      "track": "Penn National",
-      "date": "Nov 28",
-      "ndate": 20181128
     }
   ]
 }
