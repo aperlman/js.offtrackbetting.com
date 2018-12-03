@@ -9,68 +9,68 @@
       "ndate": 20181205
     },
     {
-      "carryoverAmount": 31375,
-      "carryover": "$31,375",
+      "carryoverAmount": 45040,
+      "carryover": "$45,040",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Gulfstream Park",
+      "date": "Dec 05",
+      "ndate": 20181205
+    },
+    {
+      "carryoverAmount": 40693,
+      "carryover": "$40,693",
       "wagertype": "Jackpot High-5",
       "track": "Woodbine",
-      "date": "Dec 02",
-      "ndate": 20181202
+      "date": "Dec 05",
+      "ndate": 20181205
     },
     {
-      "carryoverAmount": 29394,
-      "carryover": "$29,394",
+      "carryoverAmount": 37029,
+      "carryover": "$37,029",
       "wagertype": "Pick 6 Jackpot",
       "track": "Golden Gate Fields",
-      "date": "Dec 02",
-      "ndate": 20181202
+      "date": "Dec 06",
+      "ndate": 20181206
     },
     {
-      "carryoverAmount": 21932,
-      "carryover": "$21,932",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Gulfstream Park",
-      "date": "Dec 02",
-      "ndate": 20181202
-    },
-    {
-      "carryoverAmount": 21460,
-      "carryover": "$21,460",
-      "wagertype": "Pick 6",
-      "track": "Del Mar",
-      "date": "Dec 02",
-      "ndate": 20181202
-    },
-    {
-      "carryoverAmount": 20329,
-      "carryover": "$20,329",
-      "wagertype": "Z-5 Super Hi-5",
-      "track": "Gulfstream Park",
-      "date": "Dec 02",
-      "ndate": 20181202
-    },
-    {
-      "carryoverAmount": 15961,
-      "carryover": "$15,961",
-      "wagertype": "Super High Five",
-      "track": "Del Mar",
-      "date": "Dec 02",
-      "ndate": 20181202
-    },
-    {
-      "carryoverAmount": 14748,
-      "carryover": "$14,748",
+      "carryoverAmount": 19860,
+      "carryover": "$19,860",
       "wagertype": "Pick 5 Jackpot",
       "track": "Fair Grounds",
-      "date": "Dec 02",
-      "ndate": 20181202
+      "date": "Dec 06",
+      "ndate": 20181206
     },
     {
-      "carryoverAmount": 14289,
-      "carryover": "$14,289",
+      "carryoverAmount": 10195,
+      "carryover": "$10,195",
       "wagertype": "Z-5 Super Hi-5",
       "track": "Gulfstream Park",
-      "date": "Dec 02",
-      "ndate": 20181202
+      "date": "Dec 05",
+      "ndate": 20181205
+    },
+    {
+      "carryoverAmount": 9165,
+      "carryover": "$9,165",
+      "wagertype": "Pick 5",
+      "track": "Laurel Park",
+      "date": "Dec 07",
+      "ndate": 20181207
+    },
+    {
+      "carryoverAmount": 8256,
+      "carryover": "$8,256",
+      "wagertype": "Super High Five",
+      "track": "Golden Gate Fields",
+      "date": "Dec 06",
+      "ndate": 20181206
+    },
+    {
+      "carryoverAmount": 7026,
+      "carryover": "$7,026",
+      "wagertype": "Z-5 Super Hi-5",
+      "track": "Gulfstream Park",
+      "date": "Dec 05",
+      "ndate": 20181205
     },
     {
       "carryoverAmount": 6131,
@@ -81,22 +81,6 @@
       "ndate": 20181205
     },
     {
-      "carryoverAmount": 5242,
-      "carryover": "$5,242",
-      "wagertype": "Z-5 Super Hi-5",
-      "track": "Gulfstream Park",
-      "date": "Dec 02",
-      "ndate": 20181202
-    },
-    {
-      "carryoverAmount": 4553,
-      "carryover": "$4,553",
-      "wagertype": "Z-5 Super Hi-5",
-      "track": "Gulfstream Park",
-      "date": "Dec 02",
-      "ndate": 20181202
-    },
-    {
       "carryoverAmount": 4365,
       "carryover": "$4,365",
       "wagertype": "Pick 6 Jackpot",
@@ -105,28 +89,36 @@
       "ndate": 20181203
     },
     {
-      "carryoverAmount": 3967,
-      "carryover": "$3,967",
-      "wagertype": "Z-5 Super Hi-5",
-      "track": "Gulfstream Park",
-      "date": "Dec 02",
-      "ndate": 20181202
-    },
-    {
-      "carryoverAmount": 3477,
-      "carryover": "$3,477",
-      "wagertype": "Z-5 Super Hi-5",
-      "track": "Gulfstream Park",
-      "date": "Dec 02",
-      "ndate": 20181202
-    },
-    {
-      "carryoverAmount": 2620,
-      "carryover": "$2,620",
+      "carryoverAmount": 4311,
+      "carryover": "$4,311",
       "wagertype": "Pick 6 Jackpot",
       "track": "Laurel Park",
-      "date": "Dec 02",
-      "ndate": 20181202
+      "date": "Dec 07",
+      "ndate": 20181207
+    },
+    {
+      "carryoverAmount": 3739,
+      "carryover": "$3,739",
+      "wagertype": "Super High Five",
+      "track": "Golden Gate Fields",
+      "date": "Dec 06",
+      "ndate": 20181206
+    },
+    {
+      "carryoverAmount": 2941,
+      "carryover": "$2,941",
+      "wagertype": "Z-5 Super Hi-5",
+      "track": "Gulfstream Park",
+      "date": "Dec 05",
+      "ndate": 20181205
+    },
+    {
+      "carryoverAmount": 2429,
+      "carryover": "$2,429",
+      "wagertype": "Super High Five",
+      "track": "Golden Gate Fields",
+      "date": "Dec 06",
+      "ndate": 20181206
     },
     {
       "carryoverAmount": 2302,
@@ -137,68 +129,68 @@
       "ndate": 20181205
     },
     {
-      "carryoverAmount": 2110,
-      "carryover": "$2,110",
-      "wagertype": "Pick 5",
+      "carryoverAmount": 2167,
+      "carryover": "$2,167",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Dec 05",
+      "ndate": 20181205
+    },
+    {
+      "carryoverAmount": 1692,
+      "carryover": "$1,692",
+      "wagertype": "Super High Five",
+      "track": "Laurel Park",
+      "date": "Dec 07",
+      "ndate": 20181207
+    },
+    {
+      "carryoverAmount": 1240,
+      "carryover": "$1,240",
+      "wagertype": "Super High Five",
+      "track": "Mountaineer Casino Racetrack",
+      "date": "Dec 03",
+      "ndate": 20181203
+    },
+    {
+      "carryoverAmount": 1239,
+      "carryover": "$1,239",
+      "wagertype": "Z-5 Super Hi-5",
+      "track": "Gulfstream Park",
+      "date": "Dec 05",
+      "ndate": 20181205
+    },
+    {
+      "carryoverAmount": 1099,
+      "carryover": "$1,099",
+      "wagertype": "Super High Five",
+      "track": "Zia Park",
+      "date": "Dec 03",
+      "ndate": 20181203
+    },
+    {
+      "carryoverAmount": 947,
+      "carryover": "$947",
+      "wagertype": "Z-5 Super Hi-5",
+      "track": "Laurel Park",
+      "date": "Dec 07",
+      "ndate": 20181207
+    },
+    {
+      "carryoverAmount": 398,
+      "carryover": "$398",
+      "wagertype": "Z-5 Super Hi-5",
+      "track": "Laurel Park",
+      "date": "Dec 07",
+      "ndate": 20181207
+    },
+    {
+      "carryoverAmount": 334,
+      "carryover": "$334",
+      "wagertype": "Pick 6 Jackpot",
       "track": "Turf Paradise",
-      "date": "Dec 02",
-      "ndate": 20181202
-    },
-    {
-      "carryoverAmount": 1977,
-      "carryover": "$1,977",
-      "wagertype": "Z-5 Super Hi-5",
-      "track": "Laurel Park",
-      "date": "Dec 02",
-      "ndate": 20181202
-    },
-    {
-      "carryoverAmount": 1552,
-      "carryover": "$1,552",
-      "wagertype": "Super High Five",
-      "track": "Golden Gate Fields",
-      "date": "Dec 02",
-      "ndate": 20181202
-    },
-    {
-      "carryoverAmount": 1107,
-      "carryover": "$1,107",
-      "wagertype": "Super High Five",
-      "track": "Golden Gate Fields",
-      "date": "Dec 02",
-      "ndate": 20181202
-    },
-    {
-      "carryoverAmount": 1056,
-      "carryover": "$1,056",
-      "wagertype": "Z-5 Super Hi-5",
-      "track": "Laurel Park",
-      "date": "Dec 02",
-      "ndate": 20181202
-    },
-    {
-      "carryoverAmount": 794,
-      "carryover": "$794",
-      "wagertype": "Z-5 Super Hi-5",
-      "track": "Gulfstream Park",
-      "date": "Dec 02",
-      "ndate": 20181202
-    },
-    {
-      "carryoverAmount": 756,
-      "carryover": "$756",
-      "wagertype": "Z-5 Super Hi-5",
-      "track": "Laurel Park",
-      "date": "Dec 02",
-      "ndate": 20181202
-    },
-    {
-      "carryoverAmount": 660,
-      "carryover": "$660",
-      "wagertype": "Z-5 Super Hi-5",
-      "track": "Gulfstream Park",
-      "date": "Dec 02",
-      "ndate": 20181202
+      "date": "Dec 03",
+      "ndate": 20181203
     }
   ]
 }
