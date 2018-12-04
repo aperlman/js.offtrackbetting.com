@@ -65,20 +65,20 @@
       "ndate": 20181206
     },
     {
+      "carryoverAmount": 6386,
+      "carryover": "$6,386",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Mahoning Valley Race Course",
+      "date": "Dec 04",
+      "ndate": 20181204
+    },
+    {
       "carryoverAmount": 6131,
       "carryover": "$6,131",
       "wagertype": "Super High Five",
       "track": "Tampa Bay Downs",
       "date": "Dec 05",
       "ndate": 20181205
-    },
-    {
-      "carryoverAmount": 4365,
-      "carryover": "$4,365",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Mahoning Valley Race Course",
-      "date": "Dec 03",
-      "ndate": 20181203
     },
     {
       "carryoverAmount": 4311,
@@ -97,14 +97,6 @@
       "ndate": 20181206
     },
     {
-      "carryoverAmount": 3739,
-      "carryover": "$3,739",
-      "wagertype": "Super High Five",
-      "track": "Golden Gate Fields",
-      "date": "Dec 06",
-      "ndate": 20181206
-    },
-    {
       "carryoverAmount": 3186,
       "carryover": "$3,186",
       "wagertype": "Pick 6 Jackpot",
@@ -113,12 +105,12 @@
       "ndate": 20181206
     },
     {
-      "carryoverAmount": 2429,
-      "carryover": "$2,429",
+      "carryoverAmount": 3182,
+      "carryover": "$3,182",
       "wagertype": "Super High Five",
-      "track": "Golden Gate Fields",
-      "date": "Dec 06",
-      "ndate": 20181206
+      "track": "Zia Park",
+      "date": "Dec 04",
+      "ndate": 20181204
     },
     {
       "carryoverAmount": 2302,
@@ -143,30 +135,6 @@
       "track": "Laurel Park",
       "date": "Dec 07",
       "ndate": 20181207
-    },
-    {
-      "carryoverAmount": 1240,
-      "carryover": "$1,240",
-      "wagertype": "Super High Five",
-      "track": "Mountaineer Casino Racetrack & Resort",
-      "date": "Dec 03",
-      "ndate": 20181203
-    },
-    {
-      "carryoverAmount": 1099,
-      "carryover": "$1,099",
-      "wagertype": "Super High Five",
-      "track": "Zia Park",
-      "date": "Dec 03",
-      "ndate": 20181203
-    },
-    {
-      "carryoverAmount": 334,
-      "carryover": "$334",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Turf Paradise",
-      "date": "Dec 03",
-      "ndate": 20181203
     }
   ]
 }
