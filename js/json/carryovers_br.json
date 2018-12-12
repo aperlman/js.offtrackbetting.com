@@ -1,14 +1,6 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 12610,
-      "carryover": "$12,610",
-      "wagertype": "Pick 6",
-      "track": "Remington Park",
-      "date": "Dec 11",
-      "ndate": 20181211
-    },
-    {
       "carryoverAmount": 6064,
       "carryover": "$6,064",
       "wagertype": "Super High Five",
@@ -17,12 +9,20 @@
       "ndate": 20181212
     },
     {
-      "carryoverAmount": 3306,
-      "carryover": "$3,306",
+      "carryoverAmount": 4957,
+      "carryover": "$4,957",
       "wagertype": "Super High Five",
       "track": "Zia Park",
-      "date": "Dec 11",
-      "ndate": 20181211
+      "date": "Dec 15",
+      "ndate": 20181215
+    },
+    {
+      "carryoverAmount": 1808,
+      "carryover": "$1,808",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Mahoning Valley Race Course",
+      "date": "Dec 12",
+      "ndate": 20181212
     },
     {
       "carryoverAmount": 1533,
@@ -31,22 +31,6 @@
       "track": "Laurel Park",
       "date": "Dec 14",
       "ndate": 20181214
-    },
-    {
-      "carryoverAmount": 1488,
-      "carryover": "$1,488",
-      "wagertype": "Super High Five",
-      "track": "Mahoning Valley Race Course",
-      "date": "Dec 11",
-      "ndate": 20181211
-    },
-    {
-      "carryoverAmount": 1461,
-      "carryover": "$1,461",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Turf Paradise",
-      "date": "Dec 11",
-      "ndate": 20181211
     },
     {
       "carryoverAmount": 805,
