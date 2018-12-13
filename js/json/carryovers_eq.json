@@ -1,20 +1,20 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 197570,
-      "carryover": "$197,570",
+      "carryoverAmount": 231763,
+      "carryover": "$231,763",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "Dec 12",
-      "ndate": 20181212
+      "date": "Dec 13",
+      "ndate": 20181213
     },
     {
-      "carryoverAmount": 131924,
-      "carryover": "$131,924",
+      "carryoverAmount": 143153,
+      "carryover": "$143,153",
       "wagertype": "Pick 6 Jackpot",
       "track": "Hollywood Casino At Charles Town Races",
-      "date": "Dec 12",
-      "ndate": 20181212
+      "date": "Dec 13",
+      "ndate": 20181213
     },
     {
       "carryoverAmount": 36877,
@@ -49,28 +49,12 @@
       "ndate": 20181214
     },
     {
-      "carryoverAmount": 8969,
-      "carryover": "$8,969",
-      "wagertype": "Super High Five",
-      "track": "Gulfstream Park",
-      "date": "Dec 12",
-      "ndate": 20181212
-    },
-    {
       "carryoverAmount": 7815,
       "carryover": "$7,815",
       "wagertype": "Super High Five",
       "track": "Los Alamitos Race Course",
       "date": "Dec 13",
       "ndate": 20181213
-    },
-    {
-      "carryoverAmount": 6064,
-      "carryover": "$6,064",
-      "wagertype": "Super High Five",
-      "track": "Tampa Bay Downs",
-      "date": "Dec 12",
-      "ndate": 20181212
     },
     {
       "carryoverAmount": 4957,
@@ -89,20 +73,44 @@
       "ndate": 20181214
     },
     {
-      "carryoverAmount": 2025,
-      "carryover": "$2,025",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Penn National",
-      "date": "Dec 12",
-      "ndate": 20181212
+      "carryoverAmount": 4229,
+      "carryover": "$4,229",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Woodbine",
+      "date": "Dec 14",
+      "ndate": 20181214
     },
     {
-      "carryoverAmount": 1808,
-      "carryover": "$1,808",
+      "carryoverAmount": 3830,
+      "carryover": "$3,830",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Dec 13",
+      "ndate": 20181213
+    },
+    {
+      "carryoverAmount": 3176,
+      "carryover": "$3,176",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Penn National",
+      "date": "Dec 13",
+      "ndate": 20181213
+    },
+    {
+      "carryoverAmount": 2910,
+      "carryover": "$2,910",
       "wagertype": "Pick 6 Jackpot",
       "track": "Mahoning Valley Race Course",
-      "date": "Dec 12",
-      "ndate": 20181212
+      "date": "Dec 15",
+      "ndate": 20181215
+    },
+    {
+      "carryoverAmount": 1931,
+      "carryover": "$1,931",
+      "wagertype": "Trifecta",
+      "track": "Turfway Park",
+      "date": "Dec 13",
+      "ndate": 20181213
     },
     {
       "carryoverAmount": 1740,
@@ -113,20 +121,12 @@
       "ndate": 20181214
     },
     {
-      "carryoverAmount": 1320,
-      "carryover": "$1,320",
-      "wagertype": "Super High Five",
-      "track": "Turfway Park",
-      "date": "Dec 12",
-      "ndate": 20181212
-    },
-    {
-      "carryoverAmount": 208,
-      "carryover": "$208",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Penn National",
-      "date": "Dec 12",
-      "ndate": 20181212
+      "carryoverAmount": 1230,
+      "carryover": "$1,230",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Turf Paradise",
+      "date": "Dec 15",
+      "ndate": 20181215
     }
   ]
 }
