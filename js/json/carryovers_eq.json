@@ -1,12 +1,20 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 368877,
-      "carryover": "$368,877",
+      "carryoverAmount": 408116,
+      "carryover": "$408,116",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "Dec 16",
-      "ndate": 20181216
+      "date": "Dec 19",
+      "ndate": 20181219
+    },
+    {
+      "carryoverAmount": 175909,
+      "carryover": "$175,909",
+      "wagertype": "Pick 6",
+      "track": "Aqueduct",
+      "date": "Dec 20",
+      "ndate": 20181220
     },
     {
       "carryoverAmount": 168235,
@@ -17,28 +25,28 @@
       "ndate": 20181219
     },
     {
-      "carryoverAmount": 48374,
-      "carryover": "$48,374",
-      "wagertype": "Pick 6",
-      "track": "Aqueduct",
-      "date": "Dec 16",
-      "ndate": 20181216
-    },
-    {
-      "carryoverAmount": 14360,
-      "carryover": "$14,360",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Laurel Park",
-      "date": "Dec 16",
-      "ndate": 20181216
-    },
-    {
-      "carryoverAmount": 13003,
-      "carryover": "$13,003",
+      "carryoverAmount": 19355,
+      "carryover": "$19,355",
       "wagertype": "Pick 5 Jackpot",
       "track": "Fair Grounds",
-      "date": "Dec 16",
-      "ndate": 20181216
+      "date": "Dec 20",
+      "ndate": 20181220
+    },
+    {
+      "carryoverAmount": 17184,
+      "carryover": "$17,184",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Laurel Park",
+      "date": "Dec 21",
+      "ndate": 20181221
+    },
+    {
+      "carryoverAmount": 6968,
+      "carryover": "$6,968",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Dec 19",
+      "ndate": 20181219
     },
     {
       "carryoverAmount": 6261,
@@ -73,12 +81,28 @@
       "ndate": 20181217
     },
     {
+      "carryoverAmount": 2088,
+      "carryover": "$2,088",
+      "wagertype": "Super High Five",
+      "track": "Zia Park",
+      "date": "Dec 17",
+      "ndate": 20181217
+    },
+    {
       "carryoverAmount": 1113,
       "carryover": "$1,113",
       "wagertype": "Super High Five Jackpot",
       "track": "Penn National",
       "date": "Dec 19",
       "ndate": 20181219
+    },
+    {
+      "carryoverAmount": 662,
+      "carryover": "$662",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Turf Paradise",
+      "date": "Dec 17",
+      "ndate": 20181217
     },
     {
       "carryoverAmount": 506,
