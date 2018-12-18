@@ -57,6 +57,14 @@
       "ndate": 20181219
     },
     {
+      "carryoverAmount": 5193,
+      "carryover": "$5,193",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Mahoning Valley Race Course",
+      "date": "Dec 18",
+      "ndate": 20181218
+    },
+    {
       "carryoverAmount": 4847,
       "carryover": "$4,847",
       "wagertype": "Super High Five",
@@ -65,28 +73,20 @@
       "ndate": 20181219
     },
     {
-      "carryoverAmount": 3621,
-      "carryover": "$3,621",
+      "carryoverAmount": 2884,
+      "carryover": "$2,884",
       "wagertype": "Pick 6 Jackpot",
-      "track": "Mahoning Valley Race Course",
-      "date": "Dec 17",
-      "ndate": 20181217
+      "track": "Turf Paradise",
+      "date": "Dec 18",
+      "ndate": 20181218
     },
     {
-      "carryoverAmount": 2456,
-      "carryover": "$2,456",
-      "wagertype": "Pick 4",
-      "track": "Mahoning Valley Race Course",
-      "date": "Dec 17",
-      "ndate": 20181217
-    },
-    {
-      "carryoverAmount": 2088,
-      "carryover": "$2,088",
+      "carryoverAmount": 1737,
+      "carryover": "$1,737",
       "wagertype": "Super High Five",
-      "track": "Zia Park",
-      "date": "Dec 17",
-      "ndate": 20181217
+      "track": "Mahoning Valley Race Course",
+      "date": "Dec 18",
+      "ndate": 20181218
     },
     {
       "carryoverAmount": 1113,
@@ -95,22 +95,6 @@
       "track": "Penn National",
       "date": "Dec 19",
       "ndate": 20181219
-    },
-    {
-      "carryoverAmount": 662,
-      "carryover": "$662",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Turf Paradise",
-      "date": "Dec 17",
-      "ndate": 20181217
-    },
-    {
-      "carryoverAmount": 506,
-      "carryover": "$506",
-      "wagertype": "Super High Five",
-      "track": "Mahoning Valley Race Course",
-      "date": "Dec 17",
-      "ndate": 20181217
     }
   ]
 }
