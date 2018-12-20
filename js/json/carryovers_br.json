@@ -1,12 +1,12 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 408116,
-      "carryover": "$408,116",
+      "carryoverAmount": 177450,
+      "carryover": "$177,450",
       "wagertype": "Pick 6 Jackpot",
-      "track": "Gulfstream Park",
-      "date": "Dec 19",
-      "ndate": 20181219
+      "track": "Hollywood Casino At Charles To",
+      "date": "Dec 20",
+      "ndate": 20181220
     },
     {
       "carryoverAmount": 175909,
@@ -33,36 +33,36 @@
       "ndate": 20181221
     },
     {
-      "carryoverAmount": 7918,
-      "carryover": "$7,918",
+      "carryoverAmount": 13008,
+      "carryover": "$13,008",
       "wagertype": "Pick 6 Jackpot",
       "track": "Turf Paradise",
-      "date": "Dec 19",
-      "ndate": 20181219
+      "date": "Dec 22",
+      "ndate": 20181222
     },
     {
-      "carryoverAmount": 6968,
-      "carryover": "$6,968",
-      "wagertype": "Super High Five",
-      "track": "Gulfstream Park",
-      "date": "Dec 19",
-      "ndate": 20181219
+      "carryoverAmount": 8042,
+      "carryover": "$8,042",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Penn National",
+      "date": "Dec 20",
+      "ndate": 20181220
     },
     {
-      "carryoverAmount": 4847,
-      "carryover": "$4,847",
+      "carryoverAmount": 5891,
+      "carryover": "$5,891",
       "wagertype": "Super High Five",
       "track": "Tampa Bay Downs",
-      "date": "Dec 19",
-      "ndate": 20181219
+      "date": "Dec 21",
+      "ndate": 20181221
     },
     {
-      "carryoverAmount": 4153,
-      "carryover": "$4,153",
+      "carryoverAmount": 3887,
+      "carryover": "$3,887",
       "wagertype": "Super High Five",
-      "track": "Mahoning Valley Race Course",
-      "date": "Dec 19",
-      "ndate": 20181219
+      "track": "Gulfstream Park",
+      "date": "Dec 20",
+      "ndate": 20181220
     },
     {
       "carryoverAmount": 2833,
@@ -73,6 +73,30 @@
       "ndate": 20181221
     },
     {
+      "carryoverAmount": 2062,
+      "carryover": "$2,062",
+      "wagertype": "Z-5 Super Hi-5",
+      "track": "Gulfstream Park",
+      "date": "Dec 20",
+      "ndate": 20181220
+    },
+    {
+      "carryoverAmount": 1608,
+      "carryover": "$1,608",
+      "wagertype": "Z-5 Super Hi-5",
+      "track": "Gulfstream Park",
+      "date": "Dec 20",
+      "ndate": 20181220
+    },
+    {
+      "carryoverAmount": 1535,
+      "carryover": "$1,535",
+      "wagertype": "Jackpot High-5",
+      "track": "Penn National",
+      "date": "Dec 20",
+      "ndate": 20181220
+    },
+    {
       "carryoverAmount": 1323,
       "carryover": "$1,323",
       "wagertype": "Z-5 Super Hi-5",
@@ -81,12 +105,12 @@
       "ndate": 20181221
     },
     {
-      "carryoverAmount": 1150,
-      "carryover": "$1,150",
-      "wagertype": "Super High Five",
-      "track": "Zia Park",
-      "date": "Dec 19",
-      "ndate": 20181219
+      "carryoverAmount": 1253,
+      "carryover": "$1,253",
+      "wagertype": "Z-5 Super Hi-5",
+      "track": "Gulfstream Park",
+      "date": "Dec 20",
+      "ndate": 20181220
     },
     {
       "carryoverAmount": 901,
@@ -97,20 +121,36 @@
       "ndate": 20181221
     },
     {
+      "carryoverAmount": 853,
+      "carryover": "$853",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Mahoning Valley Race Course",
+      "date": "Dec 22",
+      "ndate": 20181222
+    },
+    {
+      "carryoverAmount": 829,
+      "carryover": "$829",
+      "wagertype": "Z-5 Super Hi-5",
+      "track": "Gulfstream Park",
+      "date": "Dec 20",
+      "ndate": 20181220
+    },
+    {
+      "carryoverAmount": 561,
+      "carryover": "$561",
+      "wagertype": "Super High Five",
+      "track": "Turfway Park",
+      "date": "Dec 20",
+      "ndate": 20181220
+    },
+    {
       "carryoverAmount": 500,
       "carryover": "$500",
       "wagertype": "Z-5 Super Hi-5",
       "track": "Laurel Park",
       "date": "Dec 21",
       "ndate": 20181221
-    },
-    {
-      "carryoverAmount": 344,
-      "carryover": "$344",
-      "wagertype": "Z-5 Super Hi-5",
-      "track": "Gulfstream Park",
-      "date": "Dec 19",
-      "ndate": 20181219
     }
   ]
 }
