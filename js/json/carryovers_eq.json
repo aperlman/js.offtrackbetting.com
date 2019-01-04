@@ -9,12 +9,12 @@
       "ndate": 20190104
     },
     {
-      "carryoverAmount": 49992,
-      "carryover": "$49,992",
+      "carryoverAmount": 79340,
+      "carryover": "$79,340",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "Jan 03",
-      "ndate": 20190103
+      "date": "Jan 04",
+      "ndate": 20190104
     },
     {
       "carryoverAmount": 23108,
@@ -25,6 +25,30 @@
       "ndate": 20190104
     },
     {
+      "carryoverAmount": 13744,
+      "carryover": "$13,744",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Jan 04",
+      "ndate": 20190104
+    },
+    {
+      "carryoverAmount": 12757,
+      "carryover": "$12,757",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Penn National",
+      "date": "Jan 04",
+      "ndate": 20190104
+    },
+    {
+      "carryoverAmount": 11960,
+      "carryover": "$11,960",
+      "wagertype": "Pick 4",
+      "track": "Portland Meadows",
+      "date": "Jan 06",
+      "ndate": 20190106
+    },
+    {
       "carryoverAmount": 9713,
       "carryover": "$9,713",
       "wagertype": "Super High Five",
@@ -33,12 +57,12 @@
       "ndate": 20190104
     },
     {
-      "carryoverAmount": 7749,
-      "carryover": "$7,749",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Penn National",
-      "date": "Jan 03",
-      "ndate": 20190103
+      "carryoverAmount": 7559,
+      "carryover": "$7,559",
+      "wagertype": "Pick 5",
+      "track": "Portland Meadows",
+      "date": "Jan 06",
+      "ndate": 20190106
     },
     {
       "carryoverAmount": 6647,
@@ -53,6 +77,14 @@
       "carryover": "$4,772",
       "wagertype": "Pick 6 Jackpot",
       "track": "Golden Gate Fields",
+      "date": "Jan 04",
+      "ndate": 20190104
+    },
+    {
+      "carryoverAmount": 1655,
+      "carryover": "$1,655",
+      "wagertype": "Super High Five",
+      "track": "Turfway Park",
       "date": "Jan 04",
       "ndate": 20190104
     },
@@ -81,12 +113,12 @@
       "ndate": 20190104
     },
     {
-      "carryoverAmount": 493,
-      "carryover": "$493",
-      "wagertype": "Super High Five",
-      "track": "Turfway Park",
-      "date": "Jan 03",
-      "ndate": 20190103
+      "carryoverAmount": 572,
+      "carryover": "$572",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Penn National",
+      "date": "Jan 04",
+      "ndate": 20190104
     }
   ]
 }
