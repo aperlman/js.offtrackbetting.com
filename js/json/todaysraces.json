@@ -1,126 +1,226 @@
 {
   "todaysraces": {
-    "headline": "OTB Schedule: Thursday, Jan 03",
+    "headline": "OTB Schedule: Friday, Jan 04",
     "tracks": [
       {
+        "name": "Aqueduct",
+        "time": " 3:37 AM"
+      },
+      {
         "name": "Australia A",
-        "time": " 9:20 PM"
+        "time": " 3:38 AM"
       },
       {
         "name": "Australia B",
-        "time": "10:15 PM"
+        "time": " 3:39 AM"
       },
       {
         "name": "Australia C",
-        "time": "11:17 PM"
+        "time": " 3:39 AM"
       },
       {
-        "name": "Busan Gyeongnam Korea",
-        "time": " 9:30 PM"
+        "name": "Australia D",
+        "time": " 3:39 AM"
       },
       {
-        "name": "Chelmsford City (UK)",
-        "time": "11:20 AM"
+        "name": "Cal Expo",
+        "time": " 3:38 AM"
       },
       {
-        "name": "Daytona Beach Eve",
-        "time": " 7:25 PM"
+        "name": "Caulfield",
+        "time": " 3:39 AM"
       },
       {
-        "name": "Delta Downs",
-        "time": " 1:25 PM"
+        "name": "Charles Town",
+        "time": " 3:37 AM"
       },
       {
-        "name": "Dover Downs",
-        "time": " 4:30 PM"
+        "name": "Clonmel (IG)",
+        "time": " 2:49 PM"
       },
       {
-        "name": "Dubai at Meydan",
-        "time": " 9:37 AM"
-      },
-      {
-        "name": "Flamboro Downs",
-        "time": " 6:35 PM"
-      },
-      {
-        "name": "Gulf Eve",
-        "time": " 7:00 PM"
-      },
-      {
-        "name": "Gulfstream Tropical",
-        "time": "12:35 PM"
-      },
-      {
-        "name": "Laurel Park",
-        "time": "12:28 PM"
-      },
-      {
-        "name": "Limerick (IG)",
+        "name": "Curraheen (IG)",
         "time": " 1:57 PM"
       },
       {
-        "name": "Ludlow (UK)",
-        "time": " 7:50 AM"
+        "name": "Daytona Beach Eve",
+        "time": " 3:39 AM"
+      },
+      {
+        "name": "Delta Downs",
+        "time": " 3:37 AM"
+      },
+      {
+        "name": "Dundalk (IG)",
+        "time": " 3:50 PM"
+      },
+      {
+        "name": "Dundalk (IRE)",
+        "time": " 3:39 AM"
+      },
+      {
+        "name": "Fraser Downs",
+        "time": " 3:38 AM"
+      },
+      {
+        "name": "Freehold Raceway",
+        "time": " 3:37 AM"
+      },
+      {
+        "name": "Galway (IG)",
+        "time": " 2:52 PM"
+      },
+      {
+        "name": "Gawler",
+        "time": " 3:39 AM"
+      },
+      {
+        "name": "Golden Gate Fields",
+        "time": " 3:37 AM"
+      },
+      {
+        "name": "Gulfstream Tropical",
+        "time": " 3:37 AM"
+      },
+      {
+        "name": "Hawthorne",
+        "time": " 3:37 AM"
+      },
+      {
+        "name": "Kempton Park (UK)",
+        "time": " 9:10 AM"
+      },
+      {
+        "name": "Kenilworth (SAF)",
+        "time": " 6:25 AM"
+      },
+      {
+        "name": "Laurel Park",
+        "time": " 3:37 AM"
+      },
+      {
+        "name": "Lingfield (UK)",
+        "time": " 7:30 AM"
+      },
+      {
+        "name": "Los Alamitos (QH)",
+        "time": " 3:37 AM"
+      },
+      {
+        "name": "Meadowlands (H)",
+        "time": " 3:37 AM"
       },
       {
         "name": "Monticello Raceway",
-        "time": "12:25 PM"
+        "time": " 3:38 AM"
+      },
+      {
+        "name": "Naples-Ft Myers Eve",
+        "time": " 3:38 AM"
       },
       {
         "name": "Naples-Ft Myers Mat",
-        "time": " 1:00 PM"
+        "time": " 3:38 AM"
+      },
+      {
+        "name": "Newbridge (IG)",
+        "time": " 3:00 PM"
+      },
+      {
+        "name": "New Zealand",
+        "time": " 3:39 AM"
+      },
+      {
+        "name": "Northfield Park",
+        "time": " 3:38 AM"
+      },
+      {
+        "name": "Palm Beach Eve",
+        "time": " 3:38 AM"
       },
       {
         "name": "Palm Beach Mat",
-        "time": " 1:00 PM"
+        "time": " 3:38 AM"
       },
       {
         "name": "Penn National",
-        "time": " 6:05 PM"
+        "time": " 3:37 AM"
       },
       {
-        "name": "Pompano Park",
-        "time": " 7:20 PM"
+        "name": "Sanford Eve",
+        "time": " 3:38 AM"
       },
       {
         "name": "Sanford Mat",
-        "time": " 1:30 PM"
+        "time": " 3:38 AM"
+      },
+      {
+        "name": "Santa Anita Park",
+        "time": " 3:37 AM"
       },
       {
         "name": "Sarasota Mat",
-        "time": "12:30 PM"
+        "time": " 3:39 AM"
+      },
+      {
+        "name": "Seoul Korea",
+        "time": " 8:45 PM"
+      },
+      {
+        "name": "Shelbourne Park (IG)",
+        "time": " 2:40 PM"
       },
       {
         "name": "Southland Twilight",
-        "time": " 6:00 PM"
-      },
-      {
-        "name": "Southwell (UK)",
-        "time": " 8:06 AM"
+        "time": " 3:38 AM"
       },
       {
         "name": "St Johns Eve",
-        "time": " 7:45 PM"
+        "time": " 3:38 AM"
+      },
+      {
+        "name": "Stronach Pick 5",
+        "time": " 4:35 PM"
+      },
+      {
+        "name": "Sunland Park",
+        "time": " 3:37 AM"
+      },
+      {
+        "name": "Tampa Bay Downs",
+        "time": " 3:37 AM"
+      },
+      {
+        "name": "Tralee (IG)",
+        "time": " 2:42 PM"
       },
       {
         "name": "Tri-State Eve",
-        "time": " 7:00 PM"
+        "time": " 3:39 AM"
       },
       {
         "name": "Turfway Park",
-        "time": " 1:10 PM"
+        "time": " 3:37 AM"
       },
       {
-        "name": "Vaal (SAF)",
-        "time": " 5:13 AM"
+        "name": "Western Fair",
+        "time": " 3:38 AM"
       },
       {
-        "name": "Waterford (IG)",
-        "time": " 3:12 AM"
+        "name": "Wetherby (UK)",
+        "time": " 7:45 AM"
+      },
+      {
+        "name": "Wheeling Downs Eve",
+        "time": " 3:38 AM"
       },
       {
         "name": "Wheeling Downs Mat",
-        "time": " 1:00 PM"
+        "time": " 3:38 AM"
+      },
+      {
+        "name": "Wolverhampton (UK)",
+        "time": " 3:39 AM"
       }
     ]
   }
