@@ -57,6 +57,14 @@
       "ndate": 20200110
     },
     {
+      "carryoverAmount": 7316,
+      "carryover": "$7,316",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Turf Paradise",
+      "date": "Jan 09",
+      "ndate": 20200109
+    },
+    {
       "carryoverAmount": 5603,
       "carryover": "$5,603",
       "wagertype": "Super High Five",
@@ -81,12 +89,12 @@
       "ndate": 20200110
     },
     {
-      "carryoverAmount": 3878,
-      "carryover": "$3,878",
+      "carryoverAmount": 3723,
+      "carryover": "$3,723",
       "wagertype": "Pick 6 Jackpot",
-      "track": "Turf Paradise",
-      "date": "Jan 08",
-      "ndate": 20200108
+      "track": "Mahoning Valley Race Course",
+      "date": "Jan 09",
+      "ndate": 20200109
     },
     {
       "carryoverAmount": 3135,
@@ -103,14 +111,6 @@
       "track": "Golden Gate Fields",
       "date": "Jan 10",
       "ndate": 20200110
-    },
-    {
-      "carryoverAmount": 2159,
-      "carryover": "$2,159",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Mahoning Valley Race Course",
-      "date": "Jan 08",
-      "ndate": 20200108
     },
     {
       "carryoverAmount": 1556,
@@ -135,22 +135,6 @@
       "track": "Gulfstream Park",
       "date": "Jan 09",
       "ndate": 20200109
-    },
-    {
-      "carryoverAmount": 1053,
-      "carryover": "$1,053",
-      "wagertype": "Super High Five",
-      "track": "Mahoning Valley Race Course",
-      "date": "Jan 08",
-      "ndate": 20200108
-    },
-    {
-      "carryoverAmount": 631,
-      "carryover": "$631",
-      "wagertype": "Super High Five",
-      "track": "Sunland Park",
-      "date": "Jan 08",
-      "ndate": 20200108
     }
   ]
 }
