@@ -9,20 +9,20 @@
       "ndate": 20190110
     },
     {
-      "carryoverAmount": 88036,
-      "carryover": "$88,036",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Gulfstream Park",
-      "date": "Jan 09",
-      "ndate": 20190109
-    },
-    {
       "carryoverAmount": 38284,
       "carryover": "$38,284",
       "wagertype": "Pick 5",
       "track": "Golden Gate Fields",
       "date": "Jan 10",
       "ndate": 20190110
+    },
+    {
+      "carryoverAmount": 34673,
+      "carryover": "$34,673",
+      "wagertype": "Pick 5",
+      "track": "Tampa Bay Downs",
+      "date": "Jan 11",
+      "ndate": 20190111
     },
     {
       "carryoverAmount": 32495,
@@ -49,6 +49,14 @@
       "ndate": 20190110
     },
     {
+      "carryoverAmount": 12048,
+      "carryover": "$12,048",
+      "wagertype": "Super High Five",
+      "track": "Tampa Bay Downs",
+      "date": "Jan 11",
+      "ndate": 20190111
+    },
+    {
       "carryoverAmount": 9198,
       "carryover": "$9,198",
       "wagertype": "Super High Five",
@@ -57,12 +65,12 @@
       "ndate": 20190110
     },
     {
-      "carryoverAmount": 7316,
-      "carryover": "$7,316",
+      "carryoverAmount": 4757,
+      "carryover": "$4,757",
       "wagertype": "Pick 6 Jackpot",
-      "track": "Turf Paradise",
-      "date": "Jan 09",
-      "ndate": 20190109
+      "track": "Mahoning Valley Race Course",
+      "date": "Jan 12",
+      "ndate": 20190112
     },
     {
       "carryoverAmount": 4133,
@@ -73,22 +81,6 @@
       "ndate": 20190110
     },
     {
-      "carryoverAmount": 3723,
-      "carryover": "$3,723",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Mahoning Valley Race Course",
-      "date": "Jan 09",
-      "ndate": 20190109
-    },
-    {
-      "carryoverAmount": 2982,
-      "carryover": "$2,982",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Hollywood Casino At Charles Town Races",
-      "date": "Jan 09",
-      "ndate": 20190109
-    },
-    {
       "carryoverAmount": 2770,
       "carryover": "$2,770",
       "wagertype": "Super High Five Jackpot",
@@ -97,12 +89,20 @@
       "ndate": 20190111
     },
     {
-      "carryoverAmount": 1240,
-      "carryover": "$1,240",
+      "carryoverAmount": 2061,
+      "carryover": "$2,061",
       "wagertype": "Super High Five",
-      "track": "Tampa Bay Downs",
-      "date": "Jan 09",
-      "ndate": 20190109
+      "track": "Gulfstream Park",
+      "date": "Jan 10",
+      "ndate": 20190110
+    },
+    {
+      "carryoverAmount": 1470,
+      "carryover": "$1,470",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Penn National",
+      "date": "Jan 10",
+      "ndate": 20190110
     },
     {
       "carryoverAmount": 1108,
@@ -111,6 +111,22 @@
       "track": "Hawthorne",
       "date": "Jan 11",
       "ndate": 20190111
+    },
+    {
+      "carryoverAmount": 793,
+      "carryover": "$793",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Penn National",
+      "date": "Jan 10",
+      "ndate": 20190110
+    },
+    {
+      "carryoverAmount": 433,
+      "carryover": "$433",
+      "wagertype": "Super High Five",
+      "track": "Mahoning Valley Race Course",
+      "date": "Jan 12",
+      "ndate": 20190112
     },
     {
       "carryoverAmount": 318,
