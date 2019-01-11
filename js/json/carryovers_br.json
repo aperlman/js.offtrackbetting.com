@@ -1,20 +1,12 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 603541,
-      "carryover": "$603,541",
+      "carryoverAmount": 662871,
+      "carryover": "$662,871",
       "wagertype": "Pick 6 Jackpot",
       "track": "Santa Anita Park",
-      "date": "Jan 10",
-      "ndate": 20200110
-    },
-    {
-      "carryoverAmount": 38284,
-      "carryover": "$38,284",
-      "wagertype": "Pick 5",
-      "track": "Golden Gate Fields",
-      "date": "Jan 10",
-      "ndate": 20200110
+      "date": "Jan 11",
+      "ndate": 20200111
     },
     {
       "carryoverAmount": 34673,
@@ -29,24 +21,32 @@
       "carryover": "$32,495",
       "wagertype": "Pick 5",
       "track": "Aqueduct",
-      "date": "Jan 10",
-      "ndate": 20200110
+      "date": "Jan 11",
+      "ndate": 20200111
     },
     {
       "carryoverAmount": 26214,
       "carryover": "$26,214",
       "wagertype": "Pick 6",
       "track": "Aqueduct",
-      "date": "Jan 10",
-      "ndate": 20200110
+      "date": "Jan 11",
+      "ndate": 20200111
     },
     {
-      "carryoverAmount": 15347,
-      "carryover": "$15,347",
+      "carryoverAmount": 19465,
+      "carryover": "$19,465",
       "wagertype": "Pick 6 Jackpot",
       "track": "Golden Gate Fields",
-      "date": "Jan 10",
-      "ndate": 20200110
+      "date": "Jan 11",
+      "ndate": 20200111
+    },
+    {
+      "carryoverAmount": 15244,
+      "carryover": "$15,244",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Gulfstream Park",
+      "date": "Jan 11",
+      "ndate": 20200111
     },
     {
       "carryoverAmount": 12048,
@@ -57,20 +57,20 @@
       "ndate": 20200111
     },
     {
-      "carryoverAmount": 9198,
-      "carryover": "$9,198",
-      "wagertype": "Super High Five",
-      "track": "Golden Gate Fields",
-      "date": "Jan 10",
-      "ndate": 20200110
+      "carryoverAmount": 5630,
+      "carryover": "$5,630",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Laurel Park",
+      "date": "Jan 11",
+      "ndate": 20200111
     },
     {
-      "carryoverAmount": 5603,
-      "carryover": "$5,603",
-      "wagertype": "Super High Five",
-      "track": "Golden Gate Fields",
-      "date": "Jan 10",
-      "ndate": 20200110
+      "carryoverAmount": 5253,
+      "carryover": "$5,253",
+      "wagertype": "Z-5 Super Hi-5",
+      "track": "Gulfstream Park",
+      "date": "Jan 11",
+      "ndate": 20200111
     },
     {
       "carryoverAmount": 4757,
@@ -81,60 +81,44 @@
       "ndate": 20200112
     },
     {
-      "carryoverAmount": 4133,
-      "carryover": "$4,133",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Laurel Park",
-      "date": "Jan 10",
-      "ndate": 20200110
-    },
-    {
-      "carryoverAmount": 2559,
-      "carryover": "$2,559",
-      "wagertype": "Super High Five",
-      "track": "Golden Gate Fields",
-      "date": "Jan 10",
-      "ndate": 20200110
-    },
-    {
-      "carryoverAmount": 2061,
-      "carryover": "$2,061",
-      "wagertype": "Super High Five",
+      "carryoverAmount": 3894,
+      "carryover": "$3,894",
+      "wagertype": "Z-5 Super Hi-5",
       "track": "Gulfstream Park",
-      "date": "Jan 10",
-      "ndate": 20200110
+      "date": "Jan 11",
+      "ndate": 20200111
     },
     {
-      "carryoverAmount": 1470,
-      "carryover": "$1,470",
+      "carryoverAmount": 2228,
+      "carryover": "$2,228",
       "wagertype": "Pick 6 Jackpot",
       "track": "Penn National",
-      "date": "Jan 10",
-      "ndate": 20200110
+      "date": "Jan 11",
+      "ndate": 20200111
     },
     {
-      "carryoverAmount": 986,
-      "carryover": "$986",
-      "wagertype": "Z-5 Super Hi-5",
-      "track": "Gulfstream Park",
-      "date": "Jan 10",
-      "ndate": 20200110
+      "carryoverAmount": 1141,
+      "carryover": "$1,141",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Hollywood Casino At Charles To",
+      "date": "Jan 11",
+      "ndate": 20200111
     },
     {
-      "carryoverAmount": 844,
-      "carryover": "$844",
-      "wagertype": "Z-5 Super Hi-5",
-      "track": "Gulfstream Park",
-      "date": "Jan 10",
-      "ndate": 20200110
-    },
-    {
-      "carryoverAmount": 793,
-      "carryover": "$793",
+      "carryoverAmount": 1049,
+      "carryover": "$1,049",
       "wagertype": "Jackpot High-5",
       "track": "Penn National",
-      "date": "Jan 10",
-      "ndate": 20200110
+      "date": "Jan 11",
+      "ndate": 20200111
+    },
+    {
+      "carryoverAmount": 721,
+      "carryover": "$721",
+      "wagertype": "Z-5 Super Hi-5",
+      "track": "Laurel Park",
+      "date": "Jan 11",
+      "ndate": 20200111
     },
     {
       "carryoverAmount": 433,
