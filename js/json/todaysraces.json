@@ -1,158 +1,226 @@
 {
   "todaysraces": {
-    "headline": "OTB Schedule: Thursday, Jan 17",
+    "headline": "OTB Schedule: Friday, Jan 18",
     "tracks": [
       {
+        "name": "Aqueduct",
+        "time": " 4:17 AM"
+      },
+      {
         "name": "Australia A",
-        "time": " 6:15 PM"
+        "time": " 5:09 AM"
       },
       {
         "name": "Australia B",
-        "time": " 9:20 PM"
+        "time": " 5:09 AM"
       },
       {
         "name": "Australia C",
-        "time": " 9:30 PM"
+        "time": " 5:09 AM"
       },
       {
         "name": "Australia D",
-        "time": "10:05 PM"
+        "time": " 9:43 PM"
       },
       {
-        "name": "Busan Gyeongnam Korea",
-        "time": " 9:30 PM"
+        "name": "Birmingham Eve",
+        "time": " 7:15 PM"
+      },
+      {
+        "name": "Cal Expo",
+        "time": " 9:10 PM"
       },
       {
         "name": "Charles Town",
         "time": " 7:00 PM"
       },
       {
+        "name": "Chepstow (UK)",
+        "time": " 8:05 AM"
+      },
+      {
+        "name": "Clonmel (IG)",
+        "time": " 4:28 AM"
+      },
+      {
+        "name": "Curraheen (IG)",
+        "time": " 1:57 PM"
+      },
+      {
         "name": "Daytona Beach Eve",
-        "time": " 7:25 PM"
+        "time": " 5:09 AM"
       },
       {
         "name": "Delta Downs",
         "time": " 6:25 PM"
       },
       {
-        "name": "Dover Downs",
-        "time": " 1:32 PM"
+        "name": "Dundalk (IG)",
+        "time": " 3:50 PM"
       },
       {
-        "name": "Dubai at Meydan",
-        "time": " 9:34 AM"
+        "name": "Dundalk (IRE)",
+        "time": "12:00 PM"
       },
       {
-        "name": "Flamboro Downs",
-        "time": " 6:35 PM"
+        "name": "Fairview| (SAF)",
+        "time": " 5:16 AM"
+      },
+      {
+        "name": "Fraser Downs",
+        "time": " 4:37 AM"
+      },
+      {
+        "name": "Freehold Raceway",
+        "time": "12:30 PM"
       },
       {
         "name": "Golden Gate Fields",
-        "time": " 3:44 PM"
-      },
-      {
-        "name": "Gulf Eve",
-        "time": " 7:00 PM"
+        "time": " 4:37 AM"
       },
       {
         "name": "Gulfstream Tropical",
-        "time": "12:35 PM"
+        "time": " 5:09 AM"
       },
       {
-        "name": "Kenilworth (SAF)",
-        "time": " 5:14 AM"
+        "name": "Kempton Park (UK)",
+        "time": "11:10 AM"
+      },
+      {
+        "name": "Kilkenny (IG)",
+        "time": " 3:00 PM"
       },
       {
         "name": "Laurel Park",
-        "time": "12:28 PM"
+        "time": " 6:13 AM"
       },
       {
-        "name": "Limerick (IG)",
-        "time": " 1:57 PM"
+        "name": "Lingfield (UK)",
+        "time": " 7:55 AM"
       },
       {
-        "name": "Ludlow (UK)",
-        "time": " 8:04 AM"
+        "name": "Los Alamitos (QH)",
+        "time": " 4:58 AM"
       },
       {
-        "name": "Market Rasen (UK)",
-        "time": " 7:46 AM"
+        "name": "Meadowlands (H)",
+        "time": " 7:15 PM"
       },
       {
-        "name": "Monticello Raceway",
-        "time": "12:25 PM"
+        "name": "Morphettville",
+        "time": "10:56 PM"
+      },
+      {
+        "name": "Musselburgh (UK)",
+        "time": " 8:15 AM"
+      },
+      {
+        "name": "Naples-Ft Myers Eve",
+        "time": " 7:00 PM"
       },
       {
         "name": "Naples-Ft Myers Mat",
-        "time": "12:59 PM"
+        "time": " 6:15 AM"
       },
       {
-        "name": "Newcastle (UK)",
-        "time": "11:50 AM"
+        "name": "Newbridge (IG)",
+        "time": " 3:00 PM"
       },
       {
         "name": "New Zealand",
-        "time": " 7:12 PM"
+        "time": " 5:09 AM"
+      },
+      {
+        "name": "Palm Beach Eve",
+        "time": " 7:00 PM"
       },
       {
         "name": "Palm Beach Mat",
-        "time": " 1:00 PM"
+        "time": " 6:16 AM"
       },
       {
         "name": "Penn National",
         "time": " 6:05 PM"
       },
       {
-        "name": "Pompano Park",
-        "time": " 7:20 PM"
+        "name": "Sanford Eve",
+        "time": " 7:35 PM"
       },
       {
         "name": "Sanford Mat",
-        "time": " 1:30 PM"
+        "time": " 6:42 AM"
       },
       {
         "name": "Santa Anita Park",
-        "time": "12:59 PM"
+        "time": " 4:35 AM"
+      },
+      {
+        "name": "Sarasota Eve",
+        "time": " 7:30 PM"
       },
       {
         "name": "Sarasota Mat",
-        "time": "12:30 PM"
+        "time": " 6:12 AM"
+      },
+      {
+        "name": "Seoul Korea",
+        "time": " 8:45 PM"
+      },
+      {
+        "name": "Shelbourne Park (IG)",
+        "time": " 2:40 PM"
       },
       {
         "name": "Southland Twilight",
-        "time": " 5:30 PM"
+        "time": " 5:09 AM"
       },
       {
         "name": "St Johns Eve",
-        "time": " 7:45 PM"
+        "time": " 5:09 AM"
+      },
+      {
+        "name": "Stronach Pick 5",
+        "time": " 4:10 PM"
+      },
+      {
+        "name": "Sunland Park",
+        "time": " 4:28 AM"
+      },
+      {
+        "name": "Tampa Bay Downs",
+        "time": " 4:44 AM"
+      },
+      {
+        "name": "Tralee (IG)",
+        "time": " 4:21 AM"
       },
       {
         "name": "Tri-State Eve",
         "time": " 7:00 PM"
       },
       {
-        "name": "Turffontein (SAF)",
-        "time": " 9:09 AM"
-      },
-      {
         "name": "Turfway Park",
         "time": " 6:15 PM"
       },
       {
-        "name": "Wheeling Downs Mat",
-        "time": " 1:00 PM"
+        "name": "Western Fair",
+        "time": " 5:09 AM"
       },
       {
-        "name": "Wincanton (UK)",
-        "time": " 8:04 AM"
+        "name": "Wheeling Downs Eve",
+        "time": " 5:30 PM"
+      },
+      {
+        "name": "Wheeling Downs Mat",
+        "time": " 4:18 AM"
       },
       {
         "name": "Woodbine at Mohawk",
-        "time": " 7:10 PM"
+        "time": " 5:09 AM"
       },
       {
         "name": "Yonkers Raceway",
-        "time": " 6:50 PM"
+        "time": " 5:09 AM"
       }
     ]
   }
