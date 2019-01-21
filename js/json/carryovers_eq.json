@@ -1,44 +1,36 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 1020210,
-      "carryover": "$1,020,210",
+      "carryoverAmount": 1139327,
+      "carryover": "$1,139,327",
       "wagertype": "Pick 6 Jackpot",
       "track": "Santa Anita Park",
-      "date": "Jan 20",
-      "ndate": 20190120
+      "date": "Jan 21",
+      "ndate": 20190121
     },
     {
-      "carryoverAmount": 315048,
-      "carryover": "$315,048",
+      "carryoverAmount": 360693,
+      "carryover": "$360,693",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "Jan 20",
-      "ndate": 20190120
+      "date": "Jan 21",
+      "ndate": 20190121
     },
     {
-      "carryoverAmount": 48466,
-      "carryover": "$48,466",
+      "carryoverAmount": 54880,
+      "carryover": "$54,880",
       "wagertype": "Pick 6 Jackpot",
       "track": "Golden Gate Fields",
-      "date": "Jan 20",
-      "ndate": 20190120
+      "date": "Jan 21",
+      "ndate": 20190121
     },
     {
-      "carryoverAmount": 37476,
-      "carryover": "$37,476",
+      "carryoverAmount": 44064,
+      "carryover": "$44,064",
       "wagertype": "Pick 5 Jackpot",
       "track": "Fair Grounds",
-      "date": "Jan 20",
-      "ndate": 20190120
-    },
-    {
-      "carryoverAmount": 15636,
-      "carryover": "$15,636",
-      "wagertype": "Pick 6",
-      "track": "Aqueduct",
-      "date": "Jan 20",
-      "ndate": 20190120
+      "date": "Jan 24",
+      "ndate": 20190124
     },
     {
       "carryoverAmount": 7212,
@@ -49,22 +41,6 @@
       "ndate": 20190123
     },
     {
-      "carryoverAmount": 5890,
-      "carryover": "$5,890",
-      "wagertype": "Pick 6",
-      "track": "Los Alamitos",
-      "date": "Jan 20",
-      "ndate": 20190120
-    },
-    {
-      "carryoverAmount": 5357,
-      "carryover": "$5,357",
-      "wagertype": "Super High Five",
-      "track": "Golden Gate Fields",
-      "date": "Jan 20",
-      "ndate": 20190120
-    },
-    {
       "carryoverAmount": 4738,
       "carryover": "$4,738",
       "wagertype": "Pick 6 Jackpot",
@@ -73,28 +49,28 @@
       "ndate": 20190121
     },
     {
-      "carryoverAmount": 3294,
-      "carryover": "$3,294",
+      "carryoverAmount": 3791,
+      "carryover": "$3,791",
+      "wagertype": "Pick 5",
+      "track": "Laurel Park",
+      "date": "Jan 21",
+      "ndate": 20190121
+    },
+    {
+      "carryoverAmount": 2153,
+      "carryover": "$2,153",
+      "wagertype": "Super High Five",
+      "track": "Golden Gate Fields",
+      "date": "Jan 21",
+      "ndate": 20190121
+    },
+    {
+      "carryoverAmount": 2123,
+      "carryover": "$2,123",
       "wagertype": "Super High Five",
       "track": "Gulfstream Park",
-      "date": "Jan 20",
-      "ndate": 20190120
-    },
-    {
-      "carryoverAmount": 3174,
-      "carryover": "$3,174",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Laurel Park",
-      "date": "Jan 20",
-      "ndate": 20190120
-    },
-    {
-      "carryoverAmount": 2152,
-      "carryover": "$2,152",
-      "wagertype": "Pick 5",
-      "track": "Turf Paradise",
-      "date": "Jan 20",
-      "ndate": 20190120
+      "date": "Jan 21",
+      "ndate": 20190121
     },
     {
       "carryoverAmount": 1821,
@@ -113,20 +89,12 @@
       "ndate": 20190121
     },
     {
-      "carryoverAmount": 948,
-      "carryover": "$948",
-      "wagertype": "Super High Five",
-      "track": "Tampa Bay Downs",
-      "date": "Jan 20",
-      "ndate": 20190120
-    },
-    {
-      "carryoverAmount": 260,
-      "carryover": "$260",
-      "wagertype": "Super High Five",
-      "track": "Sunland Park",
-      "date": "Jan 20",
-      "ndate": 20190120
+      "carryoverAmount": 1029,
+      "carryover": "$1,029",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Turf Paradise",
+      "date": "Jan 21",
+      "ndate": 20190121
     }
   ]
 }
