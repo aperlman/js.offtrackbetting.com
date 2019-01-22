@@ -1,28 +1,28 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 1139327,
-      "carryover": "$1,139,327",
+      "carryoverAmount": 1235395,
+      "carryover": "$1,235,395",
       "wagertype": "Pick 6 Jackpot",
       "track": "Santa Anita Park",
-      "date": "Jan 21",
-      "ndate": 20200121
+      "date": "Jan 25",
+      "ndate": 20200125
     },
     {
-      "carryoverAmount": 360693,
-      "carryover": "$360,693",
+      "carryoverAmount": 424001,
+      "carryover": "$424,001",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "Jan 21",
-      "ndate": 20200121
+      "date": "Jan 23",
+      "ndate": 20200123
     },
     {
-      "carryoverAmount": 54880,
-      "carryover": "$54,880",
+      "carryoverAmount": 60043,
+      "carryover": "$60,043",
       "wagertype": "Pick 6 Jackpot",
       "track": "Golden Gate Fields",
-      "date": "Jan 21",
-      "ndate": 20200121
+      "date": "Jan 25",
+      "ndate": 20200125
     },
     {
       "carryoverAmount": 44064,
@@ -33,116 +33,44 @@
       "ndate": 20200124
     },
     {
-      "carryoverAmount": 5442,
-      "carryover": "$5,442",
-      "wagertype": "Z-5 Super Hi-5",
-      "track": "Laurel Park",
-      "date": "Jan 21",
-      "ndate": 20200121
-    },
-    {
-      "carryoverAmount": 4738,
-      "carryover": "$4,738",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Mahoning Valley Race Course",
-      "date": "Jan 21",
-      "ndate": 20200121
-    },
-    {
-      "carryoverAmount": 3995,
-      "carryover": "$3,995",
+      "carryoverAmount": 14425,
+      "carryover": "$14,425",
       "wagertype": "Z-5 Super Hi-5",
       "track": "Gulfstream Park",
-      "date": "Jan 21",
-      "ndate": 20200121
+      "date": "Jan 23",
+      "ndate": 20200123
     },
     {
-      "carryoverAmount": 3791,
-      "carryover": "$3,791",
-      "wagertype": "Pick 5",
-      "track": "Laurel Park",
-      "date": "Jan 21",
-      "ndate": 20200121
-    },
-    {
-      "carryoverAmount": 3281,
-      "carryover": "$3,281",
-      "wagertype": "Z-5 Super Hi-5",
-      "track": "Laurel Park",
-      "date": "Jan 21",
-      "ndate": 20200121
-    },
-    {
-      "carryoverAmount": 3140,
-      "carryover": "$3,140",
+      "carryoverAmount": 6819,
+      "carryover": "$6,819",
       "wagertype": "Z-5 Super Hi-5",
       "track": "Gulfstream Park",
-      "date": "Jan 21",
-      "ndate": 20200121
+      "date": "Jan 23",
+      "ndate": 20200123
     },
     {
-      "carryoverAmount": 2153,
-      "carryover": "$2,153",
+      "carryoverAmount": 3766,
+      "carryover": "$3,766",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Jan 23",
+      "ndate": 20200123
+    },
+    {
+      "carryoverAmount": 2224,
+      "carryover": "$2,224",
+      "wagertype": "Z-5 Super Hi-5",
+      "track": "Gulfstream Park",
+      "date": "Jan 23",
+      "ndate": 20200123
+    },
+    {
+      "carryoverAmount": 928,
+      "carryover": "$928",
       "wagertype": "Super High Five",
       "track": "Golden Gate Fields",
-      "date": "Jan 21",
-      "ndate": 20200121
-    },
-    {
-      "carryoverAmount": 2123,
-      "carryover": "$2,123",
-      "wagertype": "Super High Five",
-      "track": "Gulfstream Park",
-      "date": "Jan 21",
-      "ndate": 20200121
-    },
-    {
-      "carryoverAmount": 1087,
-      "carryover": "$1,087",
-      "wagertype": "Pick 4",
-      "track": "Mahoning Valley Race Course",
-      "date": "Jan 21",
-      "ndate": 20200121
-    },
-    {
-      "carryoverAmount": 1029,
-      "carryover": "$1,029",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Turf Paradise",
-      "date": "Jan 21",
-      "ndate": 20200121
-    },
-    {
-      "carryoverAmount": 1018,
-      "carryover": "$1,018",
-      "wagertype": "Z-5 Super Hi-5",
-      "track": "Gulfstream Park",
-      "date": "Jan 21",
-      "ndate": 20200121
-    },
-    {
-      "carryoverAmount": 829,
-      "carryover": "$829",
-      "wagertype": "Z-5 Super Hi-5",
-      "track": "Laurel Park",
-      "date": "Jan 21",
-      "ndate": 20200121
-    },
-    {
-      "carryoverAmount": 707,
-      "carryover": "$707",
-      "wagertype": "Z-5 Super Hi-5",
-      "track": "Laurel Park",
-      "date": "Jan 21",
-      "ndate": 20200121
-    },
-    {
-      "carryoverAmount": 539,
-      "carryover": "$539",
-      "wagertype": "Z-5 Super Hi-5",
-      "track": "Laurel Park",
-      "date": "Jan 21",
-      "ndate": 20200121
+      "date": "Jan 25",
+      "ndate": 20200125
     }
   ]
 }
