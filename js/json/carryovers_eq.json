@@ -33,20 +33,28 @@
       "ndate": 20190124
     },
     {
+      "carryoverAmount": 18463,
+      "carryover": "$18,463",
+      "wagertype": "Pick 4",
+      "track": "Mahoning Valley Race Course",
+      "date": "Jan 23",
+      "ndate": 20190123
+    },
+    {
+      "carryoverAmount": 7719,
+      "carryover": "$7,719",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Mahoning Valley Race Course",
+      "date": "Jan 23",
+      "ndate": 20190123
+    },
+    {
       "carryoverAmount": 7212,
       "carryover": "$7,212",
       "wagertype": "Pick 6 Jackpot",
       "track": "Hollywood Casino At Charles Town Races",
       "date": "Jan 23",
       "ndate": 20190123
-    },
-    {
-      "carryoverAmount": 4738,
-      "carryover": "$4,738",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Mahoning Valley Race Course",
-      "date": "Jan 22",
-      "ndate": 20190122
     },
     {
       "carryoverAmount": 3791,
@@ -73,12 +81,12 @@
       "ndate": 20190123
     },
     {
-      "carryoverAmount": 1087,
-      "carryover": "$1,087",
-      "wagertype": "Pick 4",
-      "track": "Mahoning Valley Race Course",
-      "date": "Jan 22",
-      "ndate": 20190122
+      "carryoverAmount": 441,
+      "carryover": "$441",
+      "wagertype": "Super High Five",
+      "track": "Sunland Park",
+      "date": "Jan 25",
+      "ndate": 20190125
     }
   ]
 }
