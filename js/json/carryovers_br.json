@@ -17,20 +17,20 @@
       "ndate": 20200130
     },
     {
+      "carryoverAmount": 86037,
+      "carryover": "$86,037",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Fair Grounds",
+      "date": "Jan 31",
+      "ndate": 20200131
+    },
+    {
       "carryoverAmount": 77127,
       "carryover": "$77,127",
       "wagertype": "Pick 6 Jackpot",
       "track": "Golden Gate Fields",
       "date": "Jan 31",
       "ndate": 20200131
-    },
-    {
-      "carryoverAmount": 67973,
-      "carryover": "$67,973",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Fair Grounds",
-      "date": "Jan 28",
-      "ndate": 20200128
     },
     {
       "carryoverAmount": 38520,
@@ -73,12 +73,12 @@
       "ndate": 20200130
     },
     {
-      "carryoverAmount": 8669,
-      "carryover": "$8,669",
+      "carryoverAmount": 11005,
+      "carryover": "$11,005",
       "wagertype": "Pick 6 Jackpot",
       "track": "Mahoning Valley Race Course",
-      "date": "Jan 28",
-      "ndate": 20200128
+      "date": "Jan 29",
+      "ndate": 20200129
     },
     {
       "carryoverAmount": 6208,
@@ -111,6 +111,14 @@
       "track": "Penn National",
       "date": "Jan 30",
       "ndate": 20200130
+    },
+    {
+      "carryoverAmount": 1940,
+      "carryover": "$1,940",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Turf Paradise",
+      "date": "Jan 29",
+      "ndate": 20200129
     },
     {
       "carryoverAmount": 1680,
@@ -175,6 +183,14 @@
       "track": "Penn National",
       "date": "Jan 30",
       "ndate": 20200130
+    },
+    {
+      "carryoverAmount": 591,
+      "carryover": "$591",
+      "wagertype": "Super High Five",
+      "track": "Mahoning Valley Race Course",
+      "date": "Jan 29",
+      "ndate": 20200129
     }
   ]
 }
