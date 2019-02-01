@@ -1,126 +1,230 @@
 {
   "todaysraces": {
-    "headline": "OTB Schedule: Thursday, Jan 31",
+    "headline": "OTB Schedule: Friday, Feb 01",
     "tracks": [
       {
+        "name": "Aqueduct",
+        "time": " 4:40 AM"
+      },
+      {
         "name": "Australia A",
-        "time": " 9:00 PM"
+        "time": " 4:42 AM"
       },
       {
         "name": "Australia B",
-        "time": " 9:25 PM"
+        "time": " 4:42 AM"
       },
       {
         "name": "Australia C",
-        "time": " 9:43 PM"
+        "time": " 4:42 AM"
       },
       {
-        "name": "Busan Gyeongnam Korea",
-        "time": " 9:30 PM"
+        "name": "Australia D",
+        "time": " 4:42 AM"
+      },
+      {
+        "name": "Birmingham Eve",
+        "time": " 4:41 AM"
+      },
+      {
+        "name": "Cal Expo",
+        "time": " 4:42 AM"
+      },
+      {
+        "name": "Caulfield",
+        "time": " 4:42 AM"
+      },
+      {
+        "name": "Charles Town",
+        "time": " 4:41 AM"
+      },
+      {
+        "name": "Curraheen (IG)",
+        "time": " 1:57 PM"
       },
       {
         "name": "Daytona Beach Eve",
-        "time": " 7:25 PM"
+        "time": " 4:41 AM"
       },
       {
         "name": "Delta Downs",
-        "time": " 6:25 PM"
+        "time": " 4:41 AM"
       },
       {
-        "name": "Dover Downs",
-        "time": " 4:30 PM"
+        "name": "Dundalk (IG)",
+        "time": " 3:50 PM"
       },
       {
-        "name": "Dubai at Meydan",
-        "time": " 9:34 AM"
+        "name": "Dundalk (IRE)",
+        "time": " 4:42 AM"
+      },
+      {
+        "name": "Fairview| (SAF)",
+        "time": " 5:18 AM"
+      },
+      {
+        "name": "Fraser Downs",
+        "time": " 4:42 AM"
+      },
+      {
+        "name": "Freehold Raceway",
+        "time": " 4:40 AM"
+      },
+      {
+        "name": "Galway (IG)",
+        "time": " 2:52 PM"
       },
       {
         "name": "Golden Gate Fields",
-        "time": " 3:44 PM"
+        "time": " 4:40 AM"
       },
       {
-        "name": "Gulf Eve",
-        "time": " 7:00 PM"
+        "name": "Greyville (SAF)",
+        "time": "10:05 AM"
       },
       {
         "name": "Gulfstream Tropical",
-        "time": "12:14 PM"
+        "time": " 4:40 AM"
+      },
+      {
+        "name": "Kilkenny (IG)",
+        "time": " 3:00 PM"
       },
       {
         "name": "Laurel Park",
-        "time": "12:30 PM"
+        "time": " 4:40 AM"
       },
       {
-        "name": "Limerick (IG)",
-        "time": " 1:56 PM"
-      },
-      {
-        "name": "Naples-Ft Myers Mat",
-        "time": " 1:00 PM"
-      },
-      {
-        "name": "Newcastle (UK)",
-        "time": "11:17 AM"
-      },
-      {
-        "name": "Palm Beach Mat",
-        "time": " 1:00 PM"
-      },
-      {
-        "name": "Pompano Park",
-        "time": " 7:20 PM"
-      },
-      {
-        "name": "Port Lincoln",
-        "time": " 9:00 PM"
-      },
-      {
-        "name": "Sanford Mat",
-        "time": " 1:30 PM"
-      },
-      {
-        "name": "Santa Anita Park",
-        "time": " 3:29 PM"
-      },
-      {
-        "name": "Sarasota Mat",
-        "time": "12:30 PM"
-      },
-      {
-        "name": "Southland Twilight",
-        "time": " 5:30 PM"
-      },
-      {
-        "name": "Southwell (UK)",
+        "name": "Lingfield (UK)",
         "time": " 8:45 AM"
       },
       {
+        "name": "Los Alamitos (QH)",
+        "time": " 4:42 AM"
+      },
+      {
+        "name": "Meadowlands (H)",
+        "time": " 4:41 AM"
+      },
+      {
+        "name": "Morphettville",
+        "time": " 4:42 AM"
+      },
+      {
+        "name": "Naples-Ft Myers Eve",
+        "time": " 4:41 AM"
+      },
+      {
+        "name": "Naples-Ft Myers Mat",
+        "time": " 4:40 AM"
+      },
+      {
+        "name": "Newbridge (IG)",
+        "time": " 3:00 PM"
+      },
+      {
+        "name": "Newcastle (UK)",
+        "time": " 4:42 AM"
+      },
+      {
+        "name": "New Zealand",
+        "time": " 4:42 AM"
+      },
+      {
+        "name": "Palm Beach Eve",
+        "time": " 4:41 AM"
+      },
+      {
+        "name": "Palm Beach Mat",
+        "time": " 4:40 AM"
+      },
+      {
+        "name": "Sam Houston",
+        "time": " 4:41 AM"
+      },
+      {
+        "name": "Sanford Eve",
+        "time": " 4:41 AM"
+      },
+      {
+        "name": "Sanford Mat",
+        "time": " 4:40 AM"
+      },
+      {
+        "name": "Santa Anita Park",
+        "time": " 4:40 AM"
+      },
+      {
+        "name": "Sarasota Eve",
+        "time": " 4:41 AM"
+      },
+      {
+        "name": "Sarasota Mat",
+        "time": " 4:40 AM"
+      },
+      {
+        "name": "Seoul Korea",
+        "time": " 4:42 AM"
+      },
+      {
+        "name": "Shelbourne Park (IG)",
+        "time": " 2:40 PM"
+      },
+      {
+        "name": "Southland Twilight",
+        "time": " 4:41 AM"
+      },
+      {
         "name": "St Johns Eve",
-        "time": " 7:45 PM"
+        "time": " 4:41 AM"
+      },
+      {
+        "name": "Stronach Pick 5",
+        "time": " 4:35 PM"
+      },
+      {
+        "name": "Sunland Park",
+        "time": " 4:40 AM"
+      },
+      {
+        "name": "Tampa Bay Downs",
+        "time": " 4:40 AM"
+      },
+      {
+        "name": "Tralee (IG)",
+        "time": " 2:42 PM"
       },
       {
         "name": "Tri-State Eve",
-        "time": " 7:00 PM"
+        "time": " 4:41 AM"
       },
       {
         "name": "Turfway Park",
-        "time": "10:15 AM"
+        "time": " 4:41 AM"
       },
       {
-        "name": "Vaal (SAF)",
-        "time": " 5:15 AM"
+        "name": "Western Fair",
+        "time": " 4:42 AM"
       },
       {
-        "name": "Wincanton (UK)",
-        "time": " 8:24 AM"
+        "name": "Wheeling Downs Eve",
+        "time": " 4:41 AM"
+      },
+      {
+        "name": "Wheeling Downs Mat",
+        "time": " 4:40 AM"
+      },
+      {
+        "name": "Wolverhampton (UK)",
+        "time": " 8:00 AM"
       },
       {
         "name": "Woodbine at Mohawk",
-        "time": " 7:10 PM"
+        "time": " 4:41 AM"
       },
       {
         "name": "Yonkers Raceway",
-        "time": " 6:50 PM"
+        "time": " 4:41 AM"
       }
     ]
   }
