@@ -17,6 +17,14 @@
       "ndate": 20190207
     },
     {
+      "carryoverAmount": 30686,
+      "carryover": "$30,686",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Turf Paradise",
+      "date": "Feb 06",
+      "ndate": 20190206
+    },
+    {
       "carryoverAmount": 28086,
       "carryover": "$28,086",
       "wagertype": "Pick 6 Jackpot",
@@ -31,14 +39,6 @@
       "track": "Hollywood Casino At Charles To",
       "date": "Feb 06",
       "ndate": 20190206
-    },
-    {
-      "carryoverAmount": 19692,
-      "carryover": "$19,692",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Turf Paradise",
-      "date": "Feb 05",
-      "ndate": 20190205
     },
     {
       "carryoverAmount": 7358,
@@ -153,12 +153,12 @@
       "ndate": 20190207
     },
     {
-      "carryoverAmount": 174,
-      "carryover": "$174",
+      "carryoverAmount": 563,
+      "carryover": "$563",
       "wagertype": "Super High Five",
       "track": "Sunland Park",
-      "date": "Feb 05",
-      "ndate": 20190205
+      "date": "Feb 08",
+      "ndate": 20190208
     }
   ]
 }

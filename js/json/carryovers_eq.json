@@ -17,6 +17,14 @@
       "ndate": 20190207
     },
     {
+      "carryoverAmount": 30686,
+      "carryover": "$30,686",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Turf Paradise",
+      "date": "Feb 06",
+      "ndate": 20190206
+    },
+    {
       "carryoverAmount": 28086,
       "carryover": "$28,086",
       "wagertype": "Pick 6 Jackpot",
@@ -33,20 +41,12 @@
       "ndate": 20190206
     },
     {
-      "carryoverAmount": 19692,
-      "carryover": "$19,692",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Turf Paradise",
-      "date": "Feb 05",
-      "ndate": 20190205
-    },
-    {
       "carryoverAmount": 16527,
       "carryover": "$16,527",
       "wagertype": "Pick 6 Jackpot",
       "track": "Mahoning Valley Race Course",
-      "date": "Feb 05",
-      "ndate": 20190205
+      "date": "Feb 06",
+      "ndate": 20190206
     },
     {
       "carryoverAmount": 6029,
@@ -93,8 +93,8 @@
       "carryover": "$1,785",
       "wagertype": "Pick 4",
       "track": "Mahoning Valley Race Course",
-      "date": "Feb 05",
-      "ndate": 20190205
+      "date": "Feb 06",
+      "ndate": 20190206
     },
     {
       "carryoverAmount": 1242,
@@ -121,20 +121,20 @@
       "ndate": 20190206
     },
     {
+      "carryoverAmount": 563,
+      "carryover": "$563",
+      "wagertype": "Super High Five",
+      "track": "Sunland Park",
+      "date": "Feb 08",
+      "ndate": 20190208
+    },
+    {
       "carryoverAmount": 280,
       "carryover": "$280",
       "wagertype": "Super High Five",
       "track": "Mahoning Valley Race Course",
-      "date": "Feb 05",
-      "ndate": 20190205
-    },
-    {
-      "carryoverAmount": 174,
-      "carryover": "$174",
-      "wagertype": "Super High Five",
-      "track": "Sunland Park",
-      "date": "Feb 05",
-      "ndate": 20190205
+      "date": "Feb 06",
+      "ndate": 20190206
     }
   ]
 }
