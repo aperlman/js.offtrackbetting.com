@@ -1,6 +1,6 @@
 {
   "todaysraces": {
-    "headline": "OTB Schedule: Thursday, Feb 07",
+    "headline": "OTB Schedule: Friday, Feb 08",
     "tracks": [
       {
         "name": "Aqueduct",
@@ -8,23 +8,39 @@
       },
       {
         "name": "Australia A",
-        "time": " 9:15 PM"
+        "time": " 8:50 PM"
       },
       {
         "name": "Australia B",
-        "time": " 9:30 PM"
+        "time": " 9:14 PM"
       },
       {
         "name": "Australia C",
-        "time": " 9:35 PM"
+        "time": " 9:37 PM"
       },
       {
         "name": "Australia D",
-        "time": "10:17 PM"
+        "time": "11:58 PM"
+      },
+      {
+        "name": "Cal Expo",
+        "time": " 9:10 PM"
+      },
+      {
+        "name": "Caulfield",
+        "time": " 8:35 PM"
       },
       {
         "name": "Charles Town",
         "time": " 7:00 PM"
+      },
+      {
+        "name": "Clonmel (IG)",
+        "time": " 2:48 PM"
+      },
+      {
+        "name": "Curraheen (IG)",
+        "time": " 1:56 PM"
       },
       {
         "name": "Daytona Beach Eve",
@@ -35,80 +51,104 @@
         "time": " 6:25 PM"
       },
       {
-        "name": "Dover Downs",
-        "time": " 4:29 PM"
+        "name": "Dundalk (IG)",
+        "time": " 3:49 PM"
       },
       {
-        "name": "Dubai at Meydan",
-        "time": " 9:35 AM"
+        "name": "Fairview| (SAF)",
+        "time": " 5:16 AM"
       },
       {
-        "name": "Enniscorthy (IG)",
-        "time": " 3:04 PM"
+        "name": "Fraser Downs",
+        "time": "10:00 PM"
       },
       {
-        "name": "Flamboro Downs",
-        "time": " 6:35 PM"
+        "name": "Freehold Raceway",
+        "time": "12:34 PM"
+      },
+      {
+        "name": "Galway (IG)",
+        "time": " 2:51 PM"
       },
       {
         "name": "Golden Gate Fields",
         "time": " 3:44 PM"
       },
       {
-        "name": "Gulf Eve",
-        "time": " 8:00 PM"
+        "name": "Gulfstream Tropical",
+        "time": "12:13 PM"
       },
       {
-        "name": "Gulfstream Tropical",
-        "time": "12:34 PM"
+        "name": "Kilkenny (IG)",
+        "time": " 2:59 PM"
       },
       {
         "name": "Laurel Park",
         "time": "12:29 PM"
       },
       {
-        "name": "Limerick (IG)",
-        "time": " 1:56 PM"
+        "name": "Los Alamitos (QH)",
+        "time": "10:00 PM"
       },
       {
-        "name": "Monticello Raceway",
-        "time": "12:24 PM"
+        "name": "Meadowlands (H)",
+        "time": " 7:15 PM"
+      },
+      {
+        "name": "Morphettville",
+        "time": " 9:56 PM"
+      },
+      {
+        "name": "Naples-Ft Myers Eve",
+        "time": " 7:00 PM"
       },
       {
         "name": "Naples-Ft Myers Mat",
         "time": "12:59 PM"
       },
       {
+        "name": "Newbridge (IG)",
+        "time": " 2:59 PM"
+      },
+      {
         "name": "New Zealand",
-        "time": " 7:37 PM"
+        "time": " 6:25 PM"
+      },
+      {
+        "name": "Palm Beach Eve",
+        "time": " 7:00 PM"
       },
       {
         "name": "Palm Beach Mat",
-        "time": "12:59 PM"
+        "time": " 1:00 PM"
       },
       {
         "name": "Penn National",
         "time": " 6:05 PM"
       },
       {
-        "name": "Pompano Park",
-        "time": " 7:20 PM"
+        "name": "Sam Houston",
+        "time": " 8:15 PM"
+      },
+      {
+        "name": "Sanford Eve",
+        "time": " 7:35 PM"
       },
       {
         "name": "Sanford Mat",
-        "time": " 1:29 PM"
+        "time": " 1:30 PM"
       },
       {
         "name": "Santa Anita Park",
-        "time": " 3:29 PM"
+        "time": " 3:30 PM"
       },
       {
         "name": "Sarasota Mat",
-        "time": "12:29 PM"
+        "time": "12:30 PM"
       },
       {
         "name": "Shelbourne Park (IG)",
-        "time": " 2:59 PM"
+        "time": " 2:40 PM"
       },
       {
         "name": "Southland Twilight",
@@ -119,8 +159,20 @@
         "time": " 7:45 PM"
       },
       {
-        "name": "Thurles (IRE)",
-        "time": " 8:28 AM"
+        "name": "Stronach Pick 5",
+        "time": " 4:35 PM"
+      },
+      {
+        "name": "Sunland Park",
+        "time": " 2:50 PM"
+      },
+      {
+        "name": "Tampa Bay Downs",
+        "time": "12:43 PM"
+      },
+      {
+        "name": "Tralee (IG)",
+        "time": " 2:42 PM"
       },
       {
         "name": "Tri-State Eve",
@@ -131,12 +183,16 @@
         "time": " 6:15 PM"
       },
       {
-        "name": "Vaal (SAF)",
-        "time": " 6:16 AM"
+        "name": "Western Fair",
+        "time": " 6:55 PM"
+      },
+      {
+        "name": "Wheeling Downs Eve",
+        "time": " 5:30 PM"
       },
       {
         "name": "Wheeling Downs Mat",
-        "time": "12:59 PM"
+        "time": " 1:00 PM"
       },
       {
         "name": "Woodbine at Mohawk",
