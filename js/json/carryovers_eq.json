@@ -9,12 +9,12 @@
       "ndate": 20190214
     },
     {
-      "carryoverAmount": 36579,
-      "carryover": "$36,579",
+      "carryoverAmount": 58824,
+      "carryover": "$58,824",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "Feb 13",
-      "ndate": 20190213
+      "date": "Feb 14",
+      "ndate": 20190214
     },
     {
       "carryoverAmount": 16215,
@@ -25,14 +25,6 @@
       "ndate": 20190214
     },
     {
-      "carryoverAmount": 9580,
-      "carryover": "$9,580",
-      "wagertype": "Super High Five",
-      "track": "Gulfstream Park",
-      "date": "Feb 13",
-      "ndate": 20190213
-    },
-    {
       "carryoverAmount": 7293,
       "carryover": "$7,293",
       "wagertype": "Pick 6",
@@ -41,12 +33,20 @@
       "ndate": 20190215
     },
     {
-      "carryoverAmount": 2209,
-      "carryover": "$2,209",
+      "carryoverAmount": 3645,
+      "carryover": "$3,645",
       "wagertype": "Pick 6 Jackpot",
-      "track": "Hollywood Casino At Charles Town Races",
-      "date": "Feb 13",
-      "ndate": 20190213
+      "track": "Turf Paradise",
+      "date": "Feb 16",
+      "ndate": 20190216
+    },
+    {
+      "carryoverAmount": 2437,
+      "carryover": "$2,437",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Feb 14",
+      "ndate": 20190214
     },
     {
       "carryoverAmount": 1861,
@@ -73,12 +73,36 @@
       "ndate": 20190215
     },
     {
+      "carryoverAmount": 830,
+      "carryover": "$830",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Mahoning Valley Race Course",
+      "date": "Feb 16",
+      "ndate": 20190216
+    },
+    {
+      "carryoverAmount": 759,
+      "carryover": "$759",
+      "wagertype": "Super High Five",
+      "track": "Mahoning Valley Race Course",
+      "date": "Feb 16",
+      "ndate": 20190216
+    },
+    {
       "carryoverAmount": 750,
       "carryover": "$750",
       "wagertype": "Super High Five Jackpot",
       "track": "Penn National",
-      "date": "Feb 13",
-      "ndate": 20190213
+      "date": "Feb 14",
+      "ndate": 20190214
+    },
+    {
+      "carryoverAmount": 623,
+      "carryover": "$623",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Sam Houston Race Park",
+      "date": "Feb 15",
+      "ndate": 20190215
     }
   ]
 }
