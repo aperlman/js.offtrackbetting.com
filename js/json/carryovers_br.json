@@ -1,36 +1,44 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 153218,
-      "carryover": "$153,218",
+      "carryoverAmount": 176373,
+      "carryover": "$176,373",
       "wagertype": "Pick 5 Jackpot",
       "track": "Fair Grounds",
-      "date": "Feb 14",
-      "ndate": 20190214
+      "date": "Feb 15",
+      "ndate": 20190215
     },
     {
-      "carryoverAmount": 58824,
-      "carryover": "$58,824",
+      "carryoverAmount": 131758,
+      "carryover": "$131,758",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Santa Anita Park",
+      "date": "Feb 15",
+      "ndate": 20190215
+    },
+    {
+      "carryoverAmount": 88084,
+      "carryover": "$88,084",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "Feb 14",
-      "ndate": 20190214
+      "date": "Feb 15",
+      "ndate": 20190215
     },
     {
-      "carryoverAmount": 16215,
-      "carryover": "$16,215",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Golden Gate Fields",
-      "date": "Feb 14",
-      "ndate": 20190214
-    },
-    {
-      "carryoverAmount": 7901,
-      "carryover": "$7,901",
+      "carryoverAmount": 8849,
+      "carryover": "$8,849",
       "wagertype": "Super High Five",
-      "track": "Golden Gate Fields",
-      "date": "Feb 14",
-      "ndate": 20190214
+      "track": "Santa Anita Park",
+      "date": "Feb 15",
+      "ndate": 20190215
+    },
+    {
+      "carryoverAmount": 4776,
+      "carryover": "$4,776",
+      "wagertype": "Super High Five",
+      "track": "Turfway Park",
+      "date": "Feb 15",
+      "ndate": 20190215
     },
     {
       "carryoverAmount": 3645,
@@ -41,20 +49,12 @@
       "ndate": 20190216
     },
     {
-      "carryoverAmount": 2437,
-      "carryover": "$2,437",
-      "wagertype": "Super High Five",
-      "track": "Gulfstream Park",
-      "date": "Feb 14",
-      "ndate": 20190214
-    },
-    {
-      "carryoverAmount": 1861,
-      "carryover": "$1,861",
-      "wagertype": "Super High Five",
-      "track": "Turfway Park",
-      "date": "Feb 14",
-      "ndate": 20190214
+      "carryoverAmount": 1388,
+      "carryover": "$1,388",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Hollywood Casino At Charles To",
+      "date": "Feb 15",
+      "ndate": 20190215
     },
     {
       "carryoverAmount": 1168,
