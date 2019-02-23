@@ -1,52 +1,28 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 326108,
-      "carryover": "$326,108",
+      "carryoverAmount": 338900,
+      "carryover": "$338,900",
       "wagertype": "Pick 5 Jackpot",
       "track": "Fair Grounds",
-      "date": "Feb 22",
-      "ndate": 20190222
+      "date": "Feb 23",
+      "ndate": 20190223
     },
     {
-      "carryoverAmount": 280342,
-      "carryover": "$280,342",
+      "carryoverAmount": 316429,
+      "carryover": "$316,429",
       "wagertype": "Pick 6 Jackpot",
       "track": "Santa Anita Park",
-      "date": "Feb 22",
-      "ndate": 20190222
+      "date": "Feb 23",
+      "ndate": 20190223
     },
     {
-      "carryoverAmount": 205138,
-      "carryover": "$205,138",
+      "carryoverAmount": 249414,
+      "carryover": "$249,414",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "Feb 22",
-      "ndate": 20190222
-    },
-    {
-      "carryoverAmount": 46201,
-      "carryover": "$46,201",
-      "wagertype": "Pick 5",
-      "track": "Golden Gate Fields",
-      "date": "Feb 22",
-      "ndate": 20190222
-    },
-    {
-      "carryoverAmount": 32904,
-      "carryover": "$32,904",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Golden Gate Fields",
-      "date": "Feb 22",
-      "ndate": 20190222
-    },
-    {
-      "carryoverAmount": 20449,
-      "carryover": "$20,449",
-      "wagertype": "Super High Five",
-      "track": "Santa Anita Park",
-      "date": "Feb 22",
-      "ndate": 20190222
+      "date": "Feb 23",
+      "ndate": 20190223
     },
     {
       "carryoverAmount": 17043,
@@ -57,20 +33,20 @@
       "ndate": 20190223
     },
     {
-      "carryoverAmount": 6865,
-      "carryover": "$6,865",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Hollywood Casino At Charles To",
-      "date": "Feb 22",
-      "ndate": 20190222
+      "carryoverAmount": 11530,
+      "carryover": "$11,530",
+      "wagertype": "Pick 6",
+      "track": "Aqueduct",
+      "date": "Feb 23",
+      "ndate": 20190223
     },
     {
-      "carryoverAmount": 5868,
-      "carryover": "$5,868",
-      "wagertype": "Z-5 Super Hi-5",
-      "track": "Gulfstream Park",
-      "date": "Feb 22",
-      "ndate": 20190222
+      "carryoverAmount": 9466,
+      "carryover": "$9,466",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Hollywood Casino At Charles To",
+      "date": "Feb 23",
+      "ndate": 20190223
     },
     {
       "carryoverAmount": 5499,
@@ -81,68 +57,124 @@
       "ndate": 20190223
     },
     {
-      "carryoverAmount": 4392,
-      "carryover": "$4,392",
+      "carryoverAmount": 5075,
+      "carryover": "$5,075",
+      "wagertype": "Pick 5",
+      "track": "Laurel Park",
+      "date": "Feb 23",
+      "ndate": 20190223
+    },
+    {
+      "carryoverAmount": 4702,
+      "carryover": "$4,702",
+      "wagertype": "Pick 6",
+      "track": "Los Alamitos",
+      "date": "Feb 23",
+      "ndate": 20190223
+    },
+    {
+      "carryoverAmount": 3446,
+      "carryover": "$3,446",
+      "wagertype": "Super High Five",
+      "track": "Tampa Bay Downs",
+      "date": "Feb 23",
+      "ndate": 20190223
+    },
+    {
+      "carryoverAmount": 3031,
+      "carryover": "$3,031",
       "wagertype": "Z-5 Super Hi-5",
       "track": "Gulfstream Park",
-      "date": "Feb 22",
-      "ndate": 20190222
+      "date": "Feb 23",
+      "ndate": 20190223
     },
     {
-      "carryoverAmount": 3340,
-      "carryover": "$3,340",
-      "wagertype": "Super High Five",
+      "carryoverAmount": 2001,
+      "carryover": "$2,001",
+      "wagertype": "Z-5 Super Hi-5",
       "track": "Gulfstream Park",
-      "date": "Feb 22",
-      "ndate": 20190222
+      "date": "Feb 23",
+      "ndate": 20190223
     },
     {
-      "carryoverAmount": 1300,
-      "carryover": "$1,300",
+      "carryoverAmount": 1949,
+      "carryover": "$1,949",
+      "wagertype": "Z-5 Super Hi-5",
+      "track": "Laurel Park",
+      "date": "Feb 23",
+      "ndate": 20190223
+    },
+    {
+      "carryoverAmount": 1707,
+      "carryover": "$1,707",
       "wagertype": "Super High Five",
       "track": "Golden Gate Fields",
-      "date": "Feb 22",
-      "ndate": 20190222
+      "date": "Feb 23",
+      "ndate": 20190223
     },
     {
-      "carryoverAmount": 1158,
-      "carryover": "$1,158",
+      "carryoverAmount": 1702,
+      "carryover": "$1,702",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Penn National",
+      "date": "Feb 23",
+      "ndate": 20190223
+    },
+    {
+      "carryoverAmount": 1353,
+      "carryover": "$1,353",
       "wagertype": "Super High Five",
       "track": "Sunland Park",
-      "date": "Feb 22",
-      "ndate": 20190222
+      "date": "Feb 23",
+      "ndate": 20190223
     },
     {
-      "carryoverAmount": 809,
-      "carryover": "$809",
-      "wagertype": "Z-5 Super Hi-5",
-      "track": "Laurel Park",
-      "date": "Feb 22",
-      "ndate": 20190222
-    },
-    {
-      "carryoverAmount": 712,
-      "carryover": "$712",
-      "wagertype": "Super High Five",
-      "track": "Golden Gate Fields",
-      "date": "Feb 22",
-      "ndate": 20190222
-    },
-    {
-      "carryoverAmount": 622,
-      "carryover": "$622",
-      "wagertype": "Z-5 Super Hi-5",
-      "track": "Laurel Park",
-      "date": "Feb 22",
-      "ndate": 20190222
-    },
-    {
-      "carryoverAmount": 564,
-      "carryover": "$564",
+      "carryoverAmount": 1149,
+      "carryover": "$1,149",
       "wagertype": "Pick 6 Jackpot",
       "track": "Sam Houston Race Park",
-      "date": "Feb 22",
-      "ndate": 20190222
+      "date": "Feb 23",
+      "ndate": 20190223
+    },
+    {
+      "carryoverAmount": 1078,
+      "carryover": "$1,078",
+      "wagertype": "Z-5 Super Hi-5",
+      "track": "Laurel Park",
+      "date": "Feb 23",
+      "ndate": 20190223
+    },
+    {
+      "carryoverAmount": 859,
+      "carryover": "$859",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Fonner Park",
+      "date": "Feb 23",
+      "ndate": 20190223
+    },
+    {
+      "carryoverAmount": 717,
+      "carryover": "$717",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Laurel Park",
+      "date": "Feb 23",
+      "ndate": 20190223
+    },
+    {
+      "carryoverAmount": 650,
+      "carryover": "$650",
+      "wagertype": "Super High Five",
+      "track": "Golden Gate Fields",
+      "date": "Feb 23",
+      "ndate": 20190223
+    },
+    {
+      "carryoverAmount": 495,
+      "carryover": "$495",
+      "wagertype": "Super High Five",
+      "track": "Turfway Park",
+      "date": "Feb 23",
+      "ndate": 20190223
     }
   ]
 }
