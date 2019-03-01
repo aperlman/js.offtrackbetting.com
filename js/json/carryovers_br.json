@@ -1,12 +1,44 @@
 {
   "carryovers": [
     {
+      "carryoverAmount": 486489,
+      "carryover": "$486,489",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Gulfstream Park",
+      "date": "Mar 01",
+      "ndate": 20190301
+    },
+    {
+      "carryoverAmount": 467608,
+      "carryover": "$467,608",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Santa Anita Park",
+      "date": "Mar 01",
+      "ndate": 20190301
+    },
+    {
+      "carryoverAmount": 391715,
+      "carryover": "$391,715",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Fair Grounds",
+      "date": "Mar 01",
+      "ndate": 20190301
+    },
+    {
       "carryoverAmount": 49907,
       "carryover": "$49,907",
       "wagertype": "Pick 6 Jackpot",
       "track": "Turf Paradise",
       "date": "Mar 02",
       "ndate": 20190302
+    },
+    {
+      "carryoverAmount": 16459,
+      "carryover": "$16,459",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Hollywood Casino At Charles To",
+      "date": "Mar 01",
+      "ndate": 20190301
     },
     {
       "carryoverAmount": 16200,
@@ -17,12 +49,12 @@
       "ndate": 20190302
     },
     {
-      "carryoverAmount": 14067,
-      "carryover": "$14,067",
+      "carryoverAmount": 8553,
+      "carryover": "$8,553",
       "wagertype": "Pick 6 Jackpot",
-      "track": "Hollywood Casino At Charles To",
-      "date": "Feb 28",
-      "ndate": 20190228
+      "track": "Golden Gate Fields",
+      "date": "Mar 01",
+      "ndate": 20190301
     },
     {
       "carryoverAmount": 4282,
@@ -49,6 +81,14 @@
       "ndate": 20190301
     },
     {
+      "carryoverAmount": 1593,
+      "carryover": "$1,593",
+      "wagertype": "Jackpot High-5",
+      "track": "Penn National",
+      "date": "Mar 01",
+      "ndate": 20190301
+    },
+    {
       "carryoverAmount": 1574,
       "carryover": "$1,574",
       "wagertype": "Super High Five",
@@ -65,20 +105,12 @@
       "ndate": 20190301
     },
     {
-      "carryoverAmount": 891,
-      "carryover": "$891",
-      "wagertype": "Jackpot High-5",
+      "carryoverAmount": 1011,
+      "carryover": "$1,011",
+      "wagertype": "Pick 6 Jackpot",
       "track": "Penn National",
-      "date": "Feb 28",
-      "ndate": 20190228
-    },
-    {
-      "carryoverAmount": 792,
-      "carryover": "$792",
-      "wagertype": "Super High Five",
-      "track": "Turfway Park",
-      "date": "Feb 28",
-      "ndate": 20190228
+      "date": "Mar 01",
+      "ndate": 20190301
     },
     {
       "carryoverAmount": 586,
