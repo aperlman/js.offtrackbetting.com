@@ -1,6 +1,14 @@
 {
   "carryovers": [
     {
+      "carryoverAmount": 149212,
+      "carryover": "$149,212",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Turf Paradise",
+      "date": "Mar 12",
+      "ndate": 20190312
+    },
+    {
       "carryoverAmount": 37431,
       "carryover": "$37,431",
       "wagertype": "Pick 6 Jackpot",
@@ -49,6 +57,14 @@
       "ndate": 20190314
     },
     {
+      "carryoverAmount": 6349,
+      "carryover": "$6,349",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Mahoning Valley Race Course",
+      "date": "Mar 12",
+      "ndate": 20190312
+    },
+    {
       "carryoverAmount": 5546,
       "carryover": "$5,546",
       "wagertype": "Z-5 Super Hi-5",
@@ -63,14 +79,6 @@
       "track": "Sam Houston Race Park",
       "date": "Mar 12",
       "ndate": 20190312
-    },
-    {
-      "carryoverAmount": 3221,
-      "carryover": "$3,221",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Mahoning Valley Race Course",
-      "date": "Mar 11",
-      "ndate": 20190311
     },
     {
       "carryoverAmount": 3206,
@@ -119,14 +127,6 @@
       "track": "Golden Gate Fields",
       "date": "Mar 14",
       "ndate": 20190314
-    },
-    {
-      "carryoverAmount": 341,
-      "carryover": "$341",
-      "wagertype": "Super High Five",
-      "track": "Mahoning Valley Race Course",
-      "date": "Mar 11",
-      "ndate": 20190311
     }
   ]
 }
