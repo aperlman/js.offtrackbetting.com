@@ -1,12 +1,20 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 37431,
-      "carryover": "$37,431",
+      "carryoverAmount": 1425670,
+      "carryover": "$1,425,670",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Gulfstream Park",
+      "date": "Mar 14",
+      "ndate": 20190314
+    },
+    {
+      "carryoverAmount": 44004,
+      "carryover": "$44,004",
       "wagertype": "Pick 6 Jackpot",
       "track": "Hollywood Casino At Charles To",
-      "date": "Mar 13",
-      "ndate": 20190313
+      "date": "Mar 14",
+      "ndate": 20190314
     },
     {
       "carryoverAmount": 15319,
@@ -17,20 +25,20 @@
       "ndate": 20190315
     },
     {
-      "carryoverAmount": 10412,
-      "carryover": "$10,412",
+      "carryoverAmount": 12320,
+      "carryover": "$12,320",
       "wagertype": "Pick 6 Jackpot",
       "track": "Sam Houston Race Park",
-      "date": "Mar 13",
-      "ndate": 20190313
+      "date": "Mar 15",
+      "ndate": 20190315
     },
     {
-      "carryoverAmount": 9192,
-      "carryover": "$9,192",
-      "wagertype": "Z-5 Super Hi-5",
-      "track": "Gulfstream Park",
-      "date": "Mar 13",
-      "ndate": 20190313
+      "carryoverAmount": 10537,
+      "carryover": "$10,537",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Mahoning Valley Race Course",
+      "date": "Mar 15",
+      "ndate": 20190315
     },
     {
       "carryoverAmount": 8820,
@@ -41,14 +49,6 @@
       "ndate": 20190314
     },
     {
-      "carryoverAmount": 8562,
-      "carryover": "$8,562",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Mahoning Valley Race Course",
-      "date": "Mar 13",
-      "ndate": 20190313
-    },
-    {
       "carryoverAmount": 6652,
       "carryover": "$6,652",
       "wagertype": "Pick 6 Jackpot",
@@ -57,20 +57,20 @@
       "ndate": 20190314
     },
     {
-      "carryoverAmount": 5546,
-      "carryover": "$5,546",
-      "wagertype": "Z-5 Super Hi-5",
+      "carryoverAmount": 6038,
+      "carryover": "$6,038",
+      "wagertype": "Super High Five",
       "track": "Gulfstream Park",
-      "date": "Mar 13",
-      "ndate": 20190313
+      "date": "Mar 14",
+      "ndate": 20190314
     },
     {
-      "carryoverAmount": 3206,
-      "carryover": "$3,206",
-      "wagertype": "Z-5 Super Hi-5",
-      "track": "Gulfstream Park",
-      "date": "Mar 13",
-      "ndate": 20190313
+      "carryoverAmount": 4948,
+      "carryover": "$4,948",
+      "wagertype": "Super High Five",
+      "track": "Tampa Bay Downs",
+      "date": "Mar 15",
+      "ndate": 20190315
     },
     {
       "carryoverAmount": 2770,
@@ -89,12 +89,12 @@
       "ndate": 20190315
     },
     {
-      "carryoverAmount": 1529,
-      "carryover": "$1,529",
-      "wagertype": "Super High Five",
-      "track": "Tampa Bay Downs",
-      "date": "Mar 13",
-      "ndate": 20190313
+      "carryoverAmount": 1530,
+      "carryover": "$1,530",
+      "wagertype": "Z-5 Super Hi-5",
+      "track": "Gulfstream Park",
+      "date": "Mar 14",
+      "ndate": 20190314
     },
     {
       "carryoverAmount": 1050,
@@ -109,6 +109,14 @@
       "carryover": "$929",
       "wagertype": "Super High Five",
       "track": "Sunland Park",
+      "date": "Mar 15",
+      "ndate": 20190315
+    },
+    {
+      "carryoverAmount": 889,
+      "carryover": "$889",
+      "wagertype": "Z-5 Super Hi-5",
+      "track": "Sam Houston Race Park",
       "date": "Mar 15",
       "ndate": 20190315
     },
