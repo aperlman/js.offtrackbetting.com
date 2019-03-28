@@ -1,6 +1,30 @@
 {
   "carryovers": [
     {
+      "carryoverAmount": 81791,
+      "carryover": "$81,791",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Hollywood Casino At Charles To",
+      "date": "Mar 28",
+      "ndate": 20190328
+    },
+    {
+      "carryoverAmount": 25117,
+      "carryover": "$25,117",
+      "wagertype": "Pick 5",
+      "track": "Turf Paradise",
+      "date": "Mar 30",
+      "ndate": 20190330
+    },
+    {
+      "carryoverAmount": 15886,
+      "carryover": "$15,886",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Mahoning Valley Race Course",
+      "date": "Mar 29",
+      "ndate": 20190329
+    },
+    {
       "carryoverAmount": 9630,
       "carryover": "$9,630",
       "wagertype": "Z-5 Super Hi-5",
@@ -9,12 +33,28 @@
       "ndate": 20190328
     },
     {
-      "carryoverAmount": 6959,
-      "carryover": "$6,959",
+      "carryoverAmount": 8907,
+      "carryover": "$8,907",
       "wagertype": "Pick 6 Jackpot",
       "track": "Sam Houston Race Park",
-      "date": "Mar 27",
-      "ndate": 20190327
+      "date": "Mar 29",
+      "ndate": 20190329
+    },
+    {
+      "carryoverAmount": 7660,
+      "carryover": "$7,660",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Turf Paradise",
+      "date": "Mar 30",
+      "ndate": 20190330
+    },
+    {
+      "carryoverAmount": 1864,
+      "carryover": "$1,864",
+      "wagertype": "Super High Five",
+      "track": "Tampa Bay Downs",
+      "date": "Mar 29",
+      "ndate": 20190329
     },
     {
       "carryoverAmount": 1658,
@@ -31,14 +71,6 @@
       "track": "Laurel Park",
       "date": "Mar 29",
       "ndate": 20190329
-    },
-    {
-      "carryoverAmount": 1065,
-      "carryover": "$1,065",
-      "wagertype": "Z-5 Super Hi-5",
-      "track": "Sam Houston Race Park",
-      "date": "Mar 27",
-      "ndate": 20190327
     },
     {
       "carryoverAmount": 996,
