@@ -1,14 +1,6 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 2536890,
-      "carryover": "$2,536,890",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Gulfstream Park",
-      "date": "Mar 29",
-      "ndate": 20190329
-    },
-    {
       "carryoverAmount": 141513,
       "carryover": "$141,513",
       "wagertype": "Pick 6 Jackpot",
@@ -37,14 +29,6 @@
       "carryover": "$19,039",
       "wagertype": "Pick 5",
       "track": "Turfway Park",
-      "date": "Mar 29",
-      "ndate": 20190329
-    },
-    {
-      "carryoverAmount": 15886,
-      "carryover": "$15,886",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Mahoning Valley Race Course",
       "date": "Mar 29",
       "ndate": 20190329
     },
@@ -81,22 +65,6 @@
       "ndate": 20190329
     },
     {
-      "carryoverAmount": 1864,
-      "carryover": "$1,864",
-      "wagertype": "Super High Five",
-      "track": "Tampa Bay Downs",
-      "date": "Mar 29",
-      "ndate": 20190329
-    },
-    {
-      "carryoverAmount": 1094,
-      "carryover": "$1,094",
-      "wagertype": "Super High Five",
-      "track": "Laurel Park",
-      "date": "Mar 29",
-      "ndate": 20190329
-    },
-    {
       "carryoverAmount": 1034,
       "carryover": "$1,034",
       "wagertype": "Jackpot High-5",
@@ -105,34 +73,10 @@
       "ndate": 20190329
     },
     {
-      "carryoverAmount": 996,
-      "carryover": "$996",
-      "wagertype": "Z-5 Super Hi-5",
-      "track": "Laurel Park",
-      "date": "Mar 29",
-      "ndate": 20190329
-    },
-    {
-      "carryoverAmount": 803,
-      "carryover": "$803",
-      "wagertype": "Z-5 Super Hi-5",
-      "track": "Laurel Park",
-      "date": "Mar 29",
-      "ndate": 20190329
-    },
-    {
       "carryoverAmount": 405,
       "carryover": "$405",
       "wagertype": "Super High Five",
       "track": "Sunland Park",
-      "date": "Mar 29",
-      "ndate": 20190329
-    },
-    {
-      "carryoverAmount": 377,
-      "carryover": "$377",
-      "wagertype": "Z-5 Super Hi-5",
-      "track": "Laurel Park",
       "date": "Mar 29",
       "ndate": 20190329
     }
