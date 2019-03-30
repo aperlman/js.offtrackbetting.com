@@ -1,20 +1,36 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 141513,
-      "carryover": "$141,513",
+      "carryoverAmount": 2660030,
+      "carryover": "$2,660,030",
       "wagertype": "Pick 6 Jackpot",
-      "track": "Golden Gate Fields",
-      "date": "Mar 29",
-      "ndate": 20190329
+      "track": "Gulfstream Park",
+      "date": "Mar 30",
+      "ndate": 20190330
     },
     {
-      "carryoverAmount": 90008,
-      "carryover": "$90,008",
+      "carryoverAmount": 631497,
+      "carryover": "$631,497",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Santa Anita Park",
+      "date": "Mar 30",
+      "ndate": 20190330
+    },
+    {
+      "carryoverAmount": 148475,
+      "carryover": "$148,475",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Golden Gate Fields",
+      "date": "Mar 30",
+      "ndate": 20190330
+    },
+    {
+      "carryoverAmount": 97489,
+      "carryover": "$97,489",
       "wagertype": "Pick 6 Jackpot",
       "track": "Hollywood Casino At Charles To",
-      "date": "Mar 29",
-      "ndate": 20190329
+      "date": "Mar 30",
+      "ndate": 20190330
     },
     {
       "carryoverAmount": 25117,
@@ -25,20 +41,36 @@
       "ndate": 20190330
     },
     {
-      "carryoverAmount": 19039,
-      "carryover": "$19,039",
-      "wagertype": "Pick 5",
-      "track": "Turfway Park",
-      "date": "Mar 29",
-      "ndate": 20190329
+      "carryoverAmount": 24019,
+      "carryover": "$24,019",
+      "wagertype": "Pick 6",
+      "track": "Los Alamitos",
+      "date": "Mar 30",
+      "ndate": 20190330
     },
     {
-      "carryoverAmount": 8907,
-      "carryover": "$8,907",
+      "carryoverAmount": 19266,
+      "carryover": "$19,266",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Fonner Park",
+      "date": "Mar 30",
+      "ndate": 20190330
+    },
+    {
+      "carryoverAmount": 17072,
+      "carryover": "$17,072",
+      "wagertype": "Super High Five",
+      "track": "Santa Anita Park",
+      "date": "Mar 30",
+      "ndate": 20190330
+    },
+    {
+      "carryoverAmount": 11347,
+      "carryover": "$11,347",
       "wagertype": "Pick 6 Jackpot",
       "track": "Sam Houston Race Park",
-      "date": "Mar 29",
-      "ndate": 20190329
+      "date": "Mar 30",
+      "ndate": 20190330
     },
     {
       "carryoverAmount": 7660,
@@ -49,36 +81,92 @@
       "ndate": 20190330
     },
     {
-      "carryoverAmount": 3225,
-      "carryover": "$3,225",
+      "carryoverAmount": 4702,
+      "carryover": "$4,702",
       "wagertype": "Pick 6 Jackpot",
       "track": "Penn National",
-      "date": "Mar 29",
-      "ndate": 20190329
+      "date": "Mar 30",
+      "ndate": 20190330
     },
     {
-      "carryoverAmount": 3133,
-      "carryover": "$3,133",
-      "wagertype": "Super High Five",
-      "track": "Golden Gate Fields",
-      "date": "Mar 29",
-      "ndate": 20190329
+      "carryoverAmount": 4221,
+      "carryover": "$4,221",
+      "wagertype": "Z-5 Super Hi-5",
+      "track": "Gulfstream Park",
+      "date": "Mar 30",
+      "ndate": 20190330
     },
     {
-      "carryoverAmount": 1034,
-      "carryover": "$1,034",
+      "carryoverAmount": 2489,
+      "carryover": "$2,489",
+      "wagertype": "Pick 6",
+      "track": "Remington Park",
+      "date": "Mar 30",
+      "ndate": 20190330
+    },
+    {
+      "carryoverAmount": 1550,
+      "carryover": "$1,550",
+      "wagertype": "Z-5 Super Hi-5",
+      "track": "Sam Houston Race Park",
+      "date": "Mar 30",
+      "ndate": 20190330
+    },
+    {
+      "carryoverAmount": 1348,
+      "carryover": "$1,348",
       "wagertype": "Jackpot High-5",
       "track": "Penn National",
-      "date": "Mar 29",
-      "ndate": 20190329
+      "date": "Mar 30",
+      "ndate": 20190330
     },
     {
-      "carryoverAmount": 405,
-      "carryover": "$405",
+      "carryoverAmount": 1319,
+      "carryover": "$1,319",
+      "wagertype": "Super High Five",
+      "track": "Laurel Park",
+      "date": "Mar 30",
+      "ndate": 20190330
+    },
+    {
+      "carryoverAmount": 1081,
+      "carryover": "$1,081",
+      "wagertype": "Z-5 Super Hi-5",
+      "track": "Laurel Park",
+      "date": "Mar 30",
+      "ndate": 20190330
+    },
+    {
+      "carryoverAmount": 985,
+      "carryover": "$985",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Laurel Park",
+      "date": "Mar 30",
+      "ndate": 20190330
+    },
+    {
+      "carryoverAmount": 709,
+      "carryover": "$709",
+      "wagertype": "Super High Five",
+      "track": "Mahoning Valley Race Course",
+      "date": "Mar 30",
+      "ndate": 20190330
+    },
+    {
+      "carryoverAmount": 648,
+      "carryover": "$648",
       "wagertype": "Super High Five",
       "track": "Sunland Park",
-      "date": "Mar 29",
-      "ndate": 20190329
+      "date": "Mar 30",
+      "ndate": 20190330
+    },
+    {
+      "carryoverAmount": 584,
+      "carryover": "$584",
+      "wagertype": "Super High Five",
+      "track": "Golden Gate Fields",
+      "date": "Mar 30",
+      "ndate": 20190330
     }
   ]
 }
