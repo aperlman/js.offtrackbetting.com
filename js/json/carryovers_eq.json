@@ -1,20 +1,20 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 675799,
-      "carryover": "$675,799",
+      "carryoverAmount": 745259,
+      "carryover": "$745,259",
       "wagertype": "Pick 6 Jackpot",
       "track": "Santa Anita",
-      "date": "Mar 31",
-      "ndate": 20190331
+      "date": "Apr 04",
+      "ndate": 20190404
     },
     {
-      "carryoverAmount": 159551,
-      "carryover": "$159,551",
+      "carryoverAmount": 172882,
+      "carryover": "$172,882",
       "wagertype": "Pick 6 Jackpot",
       "track": "Golden Gate",
-      "date": "Mar 31",
-      "ndate": 20190331
+      "date": "Apr 04",
+      "ndate": 20190404
     },
     {
       "carryoverAmount": 101723,
@@ -25,46 +25,6 @@
       "ndate": 20190403
     },
     {
-      "carryoverAmount": 32850,
-      "carryover": "$32,850",
-      "wagertype": "Pick 5",
-      "track": "Tampa Bay",
-      "date": "Mar 31",
-      "ndate": 20190331
-    },
-    {
-      "carryoverAmount": 22584,
-      "carryover": "$22,584",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Fonner Park",
-      "date": "Mar 31",
-      "ndate": 20190331
-    },
-    {
-      "carryoverAmount": 15206,
-      "carryover": "$15,206",
-      "wagertype": "Pick 6",
-      "track": "Aqueduct",
-      "date": "Mar 31",
-      "ndate": 20190331
-    },
-    {
-      "carryoverAmount": 9905,
-      "carryover": "$9,905",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Turf Paradise",
-      "date": "Mar 31",
-      "ndate": 20190331
-    },
-    {
-      "carryoverAmount": 6250,
-      "carryover": "$6,250",
-      "wagertype": "Pick 5",
-      "track": "Laurel Park",
-      "date": "Mar 31",
-      "ndate": 20190331
-    },
-    {
       "carryoverAmount": 5868,
       "carryover": "$5,868",
       "wagertype": "Pick 6 Jackpot",
@@ -73,34 +33,50 @@
       "ndate": 20190403
     },
     {
-      "carryoverAmount": 4806,
-      "carryover": "$4,806",
+      "carryoverAmount": 4374,
+      "carryover": "$4,374",
       "wagertype": "Super High Five",
-      "track": "Santa Anita",
-      "date": "Mar 31",
-      "ndate": 20190331
+      "track": "Golden Gate",
+      "date": "Apr 04",
+      "ndate": 20190404
     },
     {
-      "carryoverAmount": 2906,
-      "carryover": "$2,906",
+      "carryoverAmount": 3425,
+      "carryover": "$3,425",
       "wagertype": "Pick 6",
       "track": "Remington Park",
-      "date": "Mar 31",
-      "ndate": 20190331
+      "date": "Apr 04",
+      "ndate": 20190404
     },
     {
-      "carryoverAmount": 1707,
-      "carryover": "$1,707",
+      "carryoverAmount": 3366,
+      "carryover": "$3,366",
       "wagertype": "Pick 6 Jackpot",
       "track": "Laurel Park",
-      "date": "Mar 31",
-      "ndate": 20190331
+      "date": "Apr 05",
+      "ndate": 20190405
     },
     {
       "carryoverAmount": 1698,
       "carryover": "$1,698",
       "wagertype": "Super High Five Jackpot",
       "track": "Penn National",
+      "date": "Apr 03",
+      "ndate": 20190403
+    },
+    {
+      "carryoverAmount": 1179,
+      "carryover": "$1,179",
+      "wagertype": "Super High Five",
+      "track": "Golden Gate",
+      "date": "Apr 04",
+      "ndate": 20190404
+    },
+    {
+      "carryoverAmount": 1163,
+      "carryover": "$1,163",
+      "wagertype": "Super High Five",
+      "track": "Tampa Bay",
       "date": "Apr 03",
       "ndate": 20190403
     },
