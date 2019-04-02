@@ -25,20 +25,20 @@
       "ndate": 20190403
     },
     {
+      "carryoverAmount": 6397,
+      "carryover": "$6,397",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Turf Paradise",
+      "date": "Apr 02",
+      "ndate": 20190402
+    },
+    {
       "carryoverAmount": 5868,
       "carryover": "$5,868",
       "wagertype": "Pick 6 Jackpot",
       "track": "Penn National",
       "date": "Apr 03",
       "ndate": 20190403
-    },
-    {
-      "carryoverAmount": 4374,
-      "carryover": "$4,374",
-      "wagertype": "Super High Five",
-      "track": "Golden Gate",
-      "date": "Apr 04",
-      "ndate": 20190404
     },
     {
       "carryoverAmount": 3425,
@@ -57,6 +57,22 @@
       "ndate": 20190405
     },
     {
+      "carryoverAmount": 2926,
+      "carryover": "$2,926",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Mahoning Valley",
+      "date": "Apr 02",
+      "ndate": 20190402
+    },
+    {
+      "carryoverAmount": 2431,
+      "carryover": "$2,431",
+      "wagertype": "Super High Five",
+      "track": "Mahoning Valley",
+      "date": "Apr 02",
+      "ndate": 20190402
+    },
+    {
       "carryoverAmount": 1698,
       "carryover": "$1,698",
       "wagertype": "Super High Five Jackpot",
@@ -65,28 +81,12 @@
       "ndate": 20190403
     },
     {
-      "carryoverAmount": 1179,
-      "carryover": "$1,179",
-      "wagertype": "Super High Five",
-      "track": "Golden Gate",
-      "date": "Apr 04",
-      "ndate": 20190404
-    },
-    {
       "carryoverAmount": 1163,
       "carryover": "$1,163",
       "wagertype": "Super High Five",
       "track": "Tampa Bay",
       "date": "Apr 03",
       "ndate": 20190403
-    },
-    {
-      "carryoverAmount": 538,
-      "carryover": "$538",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Mahoning Valley",
-      "date": "Apr 01",
-      "ndate": 20190401
     }
   ]
 }
