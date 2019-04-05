@@ -1,28 +1,28 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 745259,
-      "carryover": "$745,259",
+      "carryoverAmount": 779630,
+      "carryover": "$779,630",
       "wagertype": "Pick 6 Jackpot",
       "track": "Santa Anita",
-      "date": "Apr 04",
-      "ndate": 20190404
+      "date": "Apr 05",
+      "ndate": 20190405
     },
     {
-      "carryoverAmount": 172882,
-      "carryover": "$172,882",
+      "carryoverAmount": 179499,
+      "carryover": "$179,499",
       "wagertype": "Pick 6 Jackpot",
       "track": "Golden Gate",
-      "date": "Apr 04",
-      "ndate": 20190404
+      "date": "Apr 05",
+      "ndate": 20190405
     },
     {
-      "carryoverAmount": 109429,
-      "carryover": "$109,429",
+      "carryoverAmount": 121933,
+      "carryover": "$121,933",
       "wagertype": "Pick 6 Jackpot",
       "track": "Charles Town",
-      "date": "Apr 04",
-      "ndate": 20190404
+      "date": "Apr 05",
+      "ndate": 20190405
     },
     {
       "carryoverAmount": 25731,
@@ -49,12 +49,20 @@
       "ndate": 20190406
     },
     {
-      "carryoverAmount": 7527,
-      "carryover": "$7,527",
+      "carryoverAmount": 8749,
+      "carryover": "$8,749",
       "wagertype": "Pick 6 Jackpot",
       "track": "Penn National",
-      "date": "Apr 04",
-      "ndate": 20190404
+      "date": "Apr 05",
+      "ndate": 20190405
+    },
+    {
+      "carryoverAmount": 7115,
+      "carryover": "$7,115",
+      "wagertype": "Pick 6",
+      "track": "Keeneland",
+      "date": "Apr 05",
+      "ndate": 20190405
     },
     {
       "carryoverAmount": 5753,
@@ -65,28 +73,12 @@
       "ndate": 20190406
     },
     {
-      "carryoverAmount": 3425,
-      "carryover": "$3,425",
-      "wagertype": "Pick 6",
-      "track": "Remington Park",
-      "date": "Apr 04",
-      "ndate": 20190404
-    },
-    {
       "carryoverAmount": 3366,
       "carryover": "$3,366",
       "wagertype": "Pick 6 Jackpot",
       "track": "Laurel Park",
       "date": "Apr 05",
       "ndate": 20190405
-    },
-    {
-      "carryoverAmount": 2018,
-      "carryover": "$2,018",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Penn National",
-      "date": "Apr 04",
-      "ndate": 20190404
     }
   ]
 }
