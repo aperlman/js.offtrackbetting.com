@@ -1,12 +1,12 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 199006,
-      "carryover": "$199,006",
+      "carryoverAmount": 213660,
+      "carryover": "$213,660",
       "wagertype": "Pick 6 Jackpot",
       "track": "Golden Gate",
-      "date": "Apr 07",
-      "ndate": 20190407
+      "date": "Apr 12",
+      "ndate": 20190412
     },
     {
       "carryoverAmount": 133426,
@@ -17,44 +17,28 @@
       "ndate": 20190410
     },
     {
-      "carryoverAmount": 83483,
-      "carryover": "$83,483",
+      "carryoverAmount": 108937,
+      "carryover": "$108,937",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "Apr 07",
-      "ndate": 20190407
+      "date": "Apr 11",
+      "ndate": 20190411
     },
     {
-      "carryoverAmount": 36152,
-      "carryover": "$36,152",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Fonner Park",
-      "date": "Apr 07",
-      "ndate": 20190407
-    },
-    {
-      "carryoverAmount": 34929,
-      "carryover": "$34,929",
-      "wagertype": "Super High Five",
+      "carryoverAmount": 35423,
+      "carryover": "$35,423",
+      "wagertype": "Pick 6 Jackpot",
       "track": "Santa Anita",
-      "date": "Apr 07",
-      "ndate": 20190407
+      "date": "Apr 12",
+      "ndate": 20190412
     },
     {
-      "carryoverAmount": 26789,
-      "carryover": "$26,789",
+      "carryoverAmount": 23423,
+      "carryover": "$23,423",
       "wagertype": "Pick 6",
-      "track": "Keeneland",
-      "date": "Apr 07",
-      "ndate": 20190407
-    },
-    {
-      "carryoverAmount": 16302,
-      "carryover": "$16,302",
-      "wagertype": "Pick 6",
-      "track": "Los Alamitos",
-      "date": "Apr 07",
-      "ndate": 20190407
+      "track": "Aqueduct",
+      "date": "Apr 10",
+      "ndate": 20190410
     },
     {
       "carryoverAmount": 10651,
@@ -73,36 +57,28 @@
       "ndate": 20190408
     },
     {
-      "carryoverAmount": 7005,
-      "carryover": "$7,005",
-      "wagertype": "Super High Five",
-      "track": "Keeneland",
-      "date": "Apr 07",
-      "ndate": 20190407
-    },
-    {
-      "carryoverAmount": 6997,
-      "carryover": "$6,997",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Laurel Park",
-      "date": "Apr 07",
-      "ndate": 20190407
-    },
-    {
-      "carryoverAmount": 6803,
-      "carryover": "$6,803",
+      "carryoverAmount": 9373,
+      "carryover": "$9,373",
       "wagertype": "Pick 6 Jackpot",
       "track": "Turf Paradise",
-      "date": "Apr 07",
-      "ndate": 20190407
+      "date": "Apr 08",
+      "ndate": 20190408
     },
     {
-      "carryoverAmount": 5510,
-      "carryover": "$5,510",
+      "carryoverAmount": 8964,
+      "carryover": "$8,964",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Laurel Park",
+      "date": "Apr 11",
+      "ndate": 20190411
+    },
+    {
+      "carryoverAmount": 7185,
+      "carryover": "$7,185",
       "wagertype": "Super High Five",
-      "track": "Keeneland",
-      "date": "Apr 07",
-      "ndate": 20190407
+      "track": "Golden Gate",
+      "date": "Apr 12",
+      "ndate": 20190412
     },
     {
       "carryoverAmount": 4428,
@@ -129,6 +105,14 @@
       "ndate": 20190411
     },
     {
+      "carryoverAmount": 1591,
+      "carryover": "$1,591",
+      "wagertype": "Pick 6",
+      "track": "Remington Park",
+      "date": "Apr 11",
+      "ndate": 20190411
+    },
+    {
       "carryoverAmount": 1567,
       "carryover": "$1,567",
       "wagertype": "Pick 6 Jackpot",
@@ -137,28 +121,20 @@
       "ndate": 20190411
     },
     {
-      "carryoverAmount": 1344,
-      "carryover": "$1,344",
-      "wagertype": "Pick 6",
-      "track": "Remington Park",
-      "date": "Apr 07",
-      "ndate": 20190407
+      "carryoverAmount": 1315,
+      "carryover": "$1,315",
+      "wagertype": "Super High Five",
+      "track": "Tampa Bay",
+      "date": "Apr 10",
+      "ndate": 20190410
     },
     {
-      "carryoverAmount": 997,
-      "carryover": "$997",
-      "wagertype": "Pick 5",
-      "track": "Turf Paradise",
-      "date": "Apr 07",
-      "ndate": 20190407
-    },
-    {
-      "carryoverAmount": 435,
-      "carryover": "$435",
+      "carryoverAmount": 665,
+      "carryover": "$665",
       "wagertype": "Super High Five",
       "track": "Sunland Park",
-      "date": "Apr 07",
-      "ndate": 20190407
+      "date": "Apr 09",
+      "ndate": 20190409
     }
   ]
 }
