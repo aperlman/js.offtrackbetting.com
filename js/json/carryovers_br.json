@@ -1,12 +1,12 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 133426,
-      "carryover": "$133,426",
+      "carryoverAmount": 139964,
+      "carryover": "$139,964",
       "wagertype": "Pick 6 Jackpot",
       "track": "Hollywood Casino At Charles To",
-      "date": "Apr 10",
-      "ndate": 20190410
+      "date": "Apr 11",
+      "ndate": 20190411
     },
     {
       "carryoverAmount": 31870,
@@ -17,14 +17,6 @@
       "ndate": 20190413
     },
     {
-      "carryoverAmount": 23423,
-      "carryover": "$23,423",
-      "wagertype": "Pick 6",
-      "track": "Aqueduct",
-      "date": "Apr 10",
-      "ndate": 20190410
-    },
-    {
       "carryoverAmount": 15331,
       "carryover": "$15,331",
       "wagertype": "Z-5 Super Hi-5",
@@ -33,12 +25,20 @@
       "ndate": 20190411
     },
     {
-      "carryoverAmount": 10651,
-      "carryover": "$10,651",
+      "carryoverAmount": 13557,
+      "carryover": "$13,557",
       "wagertype": "Pick 6 Jackpot",
       "track": "Penn National",
-      "date": "Apr 10",
-      "ndate": 20190410
+      "date": "Apr 11",
+      "ndate": 20190411
+    },
+    {
+      "carryoverAmount": 12366,
+      "carryover": "$12,366",
+      "wagertype": "Pick 6",
+      "track": "Keeneland",
+      "date": "Apr 11",
+      "ndate": 20190411
     },
     {
       "carryoverAmount": 8964,
@@ -47,14 +47,6 @@
       "track": "Laurel Park",
       "date": "Apr 11",
       "ndate": 20190411
-    },
-    {
-      "carryoverAmount": 5007,
-      "carryover": "$5,007",
-      "wagertype": "Z-5 Super Hi-5",
-      "track": "Keeneland",
-      "date": "Apr 10",
-      "ndate": 20190410
     },
     {
       "carryoverAmount": 4428,
@@ -89,14 +81,6 @@
       "ndate": 20190411
     },
     {
-      "carryoverAmount": 1793,
-      "carryover": "$1,793",
-      "wagertype": "Z-5 Super Hi-5",
-      "track": "Keeneland",
-      "date": "Apr 10",
-      "ndate": 20190410
-    },
-    {
       "carryoverAmount": 1567,
       "carryover": "$1,567",
       "wagertype": "Pick 6 Jackpot",
@@ -105,12 +89,36 @@
       "ndate": 20190411
     },
     {
-      "carryoverAmount": 1315,
-      "carryover": "$1,315",
-      "wagertype": "Super High Five",
-      "track": "Tampa Bay Downs",
-      "date": "Apr 10",
-      "ndate": 20190410
+      "carryoverAmount": 1474,
+      "carryover": "$1,474",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Mahoning Valley Race Course",
+      "date": "Apr 13",
+      "ndate": 20190413
+    },
+    {
+      "carryoverAmount": 1359,
+      "carryover": "$1,359",
+      "wagertype": "Z-5 Super Hi-5",
+      "track": "Keeneland",
+      "date": "Apr 11",
+      "ndate": 20190411
+    },
+    {
+      "carryoverAmount": 1354,
+      "carryover": "$1,354",
+      "wagertype": "Z-5 Super Hi-5",
+      "track": "Keeneland",
+      "date": "Apr 11",
+      "ndate": 20190411
+    },
+    {
+      "carryoverAmount": 1276,
+      "carryover": "$1,276",
+      "wagertype": "Z-5 Super Hi-5",
+      "track": "Keeneland",
+      "date": "Apr 11",
+      "ndate": 20190411
     },
     {
       "carryoverAmount": 1237,
@@ -129,20 +137,12 @@
       "ndate": 20190411
     },
     {
-      "carryoverAmount": 956,
-      "carryover": "$956",
-      "wagertype": "Super High Five",
-      "track": "Keeneland",
-      "date": "Apr 10",
-      "ndate": 20190410
-    },
-    {
-      "carryoverAmount": 956,
-      "carryover": "$956",
-      "wagertype": "Z-5 Super Hi-5",
-      "track": "Keeneland",
-      "date": "Apr 10",
-      "ndate": 20190410
+      "carryoverAmount": 965,
+      "carryover": "$965",
+      "wagertype": "Jackpot High-5",
+      "track": "Penn National",
+      "date": "Apr 11",
+      "ndate": 20190411
     }
   ]
 }
