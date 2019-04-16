@@ -41,6 +41,14 @@
       "ndate": 20190417
     },
     {
+      "carryoverAmount": 9361,
+      "carryover": "$9,361",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Turf Paradise",
+      "date": "Apr 16",
+      "ndate": 20190416
+    },
+    {
       "carryoverAmount": 8962,
       "carryover": "$8,962",
       "wagertype": "Z-5 Super Hi-5",
@@ -65,6 +73,14 @@
       "ndate": 20190418
     },
     {
+      "carryoverAmount": 4194,
+      "carryover": "$4,194",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Mahoning Valley Race Course",
+      "date": "Apr 16",
+      "ndate": 20190416
+    },
+    {
       "carryoverAmount": 3619,
       "carryover": "$3,619",
       "wagertype": "Pick 6 Jackpot",
@@ -87,6 +103,22 @@
       "track": "Gulfstream Park",
       "date": "Apr 18",
       "ndate": 20190418
+    },
+    {
+      "carryoverAmount": 1050,
+      "carryover": "$1,050",
+      "wagertype": "Super High Five",
+      "track": "Sam Houston Race Park",
+      "date": "Apr 19",
+      "ndate": 20190419
+    },
+    {
+      "carryoverAmount": 100,
+      "carryover": "$100",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Sam Houston Race Park",
+      "date": "Apr 19",
+      "ndate": 20190419
     }
   ]
 }
