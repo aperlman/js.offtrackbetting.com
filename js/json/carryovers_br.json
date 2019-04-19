@@ -1,28 +1,36 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 165772,
-      "carryover": "$165,772",
+      "carryoverAmount": 295699,
+      "carryover": "$295,699",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Gulfstream Park",
+      "date": "Apr 19",
+      "ndate": 20190419
+    },
+    {
+      "carryoverAmount": 172668,
+      "carryover": "$172,668",
       "wagertype": "Pick 6 Jackpot",
       "track": "Hollywood Casino At Charles To",
-      "date": "Apr 18",
-      "ndate": 20190418
+      "date": "Apr 19",
+      "ndate": 20190419
     },
     {
-      "carryoverAmount": 25283,
-      "carryover": "$25,283",
-      "wagertype": "Z-5 Super Hi-5",
-      "track": "Gulfstream Park",
-      "date": "Apr 18",
-      "ndate": 20190418
-    },
-    {
-      "carryoverAmount": 20964,
-      "carryover": "$20,964",
+      "carryoverAmount": 24230,
+      "carryover": "$24,230",
       "wagertype": "Pick 6 Jackpot",
       "track": "Penn National",
-      "date": "Apr 18",
-      "ndate": 20190418
+      "date": "Apr 19",
+      "ndate": 20190419
+    },
+    {
+      "carryoverAmount": 20664,
+      "carryover": "$20,664",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Laurel Park",
+      "date": "Apr 19",
+      "ndate": 20190419
     },
     {
       "carryoverAmount": 19731,
@@ -33,12 +41,20 @@
       "ndate": 20190420
     },
     {
-      "carryoverAmount": 18253,
-      "carryover": "$18,253",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Laurel Park",
-      "date": "Apr 18",
-      "ndate": 20190418
+      "carryoverAmount": 18633,
+      "carryover": "$18,633",
+      "wagertype": "Pick 6",
+      "track": "Aqueduct",
+      "date": "Apr 19",
+      "ndate": 20190419
+    },
+    {
+      "carryoverAmount": 8681,
+      "carryover": "$8,681",
+      "wagertype": "Z-5 Super Hi-5",
+      "track": "Gulfstream Park",
+      "date": "Apr 19",
+      "ndate": 20190419
     },
     {
       "carryoverAmount": 8407,
@@ -49,20 +65,12 @@
       "ndate": 20190420
     },
     {
-      "carryoverAmount": 7985,
-      "carryover": "$7,985",
-      "wagertype": "Z-5 Super Hi-5",
-      "track": "Gulfstream Park",
-      "date": "Apr 18",
-      "ndate": 20190418
-    },
-    {
-      "carryoverAmount": 6813,
-      "carryover": "$6,813",
-      "wagertype": "Z-5 Super Hi-5",
-      "track": "Gulfstream Park",
-      "date": "Apr 18",
-      "ndate": 20190418
+      "carryoverAmount": 7598,
+      "carryover": "$7,598",
+      "wagertype": "Pick 6",
+      "track": "Keeneland",
+      "date": "Apr 19",
+      "ndate": 20190419
     },
     {
       "carryoverAmount": 6309,
@@ -73,20 +81,36 @@
       "ndate": 20190419
     },
     {
-      "carryoverAmount": 3619,
-      "carryover": "$3,619",
+      "carryoverAmount": 4785,
+      "carryover": "$4,785",
       "wagertype": "Pick 6 Jackpot",
       "track": "Hawthorne",
-      "date": "Apr 18",
-      "ndate": 20190418
+      "date": "Apr 19",
+      "ndate": 20190419
     },
     {
-      "carryoverAmount": 3031,
-      "carryover": "$3,031",
+      "carryoverAmount": 4318,
+      "carryover": "$4,318",
+      "wagertype": "Pick 6",
+      "track": "Remington Park",
+      "date": "Apr 19",
+      "ndate": 20190419
+    },
+    {
+      "carryoverAmount": 3548,
+      "carryover": "$3,548",
       "wagertype": "Z-5 Super Hi-5",
       "track": "Keeneland",
-      "date": "Apr 18",
-      "ndate": 20190418
+      "date": "Apr 19",
+      "ndate": 20190419
+    },
+    {
+      "carryoverAmount": 3311,
+      "carryover": "$3,311",
+      "wagertype": "Z-5 Super Hi-5",
+      "track": "Gulfstream Park",
+      "date": "Apr 19",
+      "ndate": 20190419
     },
     {
       "carryoverAmount": 3010,
@@ -97,28 +121,20 @@
       "ndate": 20190419
     },
     {
-      "carryoverAmount": 2307,
-      "carryover": "$2,307",
-      "wagertype": "Jackpot High-5",
-      "track": "Penn National",
-      "date": "Apr 18",
-      "ndate": 20190418
-    },
-    {
-      "carryoverAmount": 1746,
-      "carryover": "$1,746",
-      "wagertype": "Z-5 Super Hi-5",
-      "track": "Keeneland",
-      "date": "Apr 18",
-      "ndate": 20190418
-    },
-    {
-      "carryoverAmount": 1477,
-      "carryover": "$1,477",
-      "wagertype": "Z-5 Super Hi-5",
+      "carryoverAmount": 2230,
+      "carryover": "$2,230",
+      "wagertype": "Super High Five",
       "track": "Gulfstream Park",
-      "date": "Apr 18",
-      "ndate": 20190418
+      "date": "Apr 19",
+      "ndate": 20190419
+    },
+    {
+      "carryoverAmount": 1461,
+      "carryover": "$1,461",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Lone Star Park",
+      "date": "Apr 19",
+      "ndate": 20190419
     },
     {
       "carryoverAmount": 1394,
@@ -129,18 +145,18 @@
       "ndate": 20190419
     },
     {
-      "carryoverAmount": 1369,
-      "carryover": "$1,369",
-      "wagertype": "Z-5 Super Hi-5",
-      "track": "Keeneland",
-      "date": "Apr 18",
-      "ndate": 20190418
-    },
-    {
       "carryoverAmount": 1294,
       "carryover": "$1,294",
       "wagertype": "Super High Five",
       "track": "Tampa Bay Downs",
+      "date": "Apr 19",
+      "ndate": 20190419
+    },
+    {
+      "carryoverAmount": 1227,
+      "carryover": "$1,227",
+      "wagertype": "Z-5 Super Hi-5",
+      "track": "Keeneland",
       "date": "Apr 19",
       "ndate": 20190419
     },
@@ -153,12 +169,28 @@
       "ndate": 20190419
     },
     {
-      "carryoverAmount": 843,
-      "carryover": "$843",
+      "carryoverAmount": 1002,
+      "carryover": "$1,002",
       "wagertype": "Z-5 Super Hi-5",
-      "track": "Keeneland",
-      "date": "Apr 18",
-      "ndate": 20190418
+      "track": "Gulfstream Park",
+      "date": "Apr 19",
+      "ndate": 20190419
+    },
+    {
+      "carryoverAmount": 752,
+      "carryover": "$752",
+      "wagertype": "Z-5 Super Hi-5",
+      "track": "Laurel Park",
+      "date": "Apr 19",
+      "ndate": 20190419
+    },
+    {
+      "carryoverAmount": 328,
+      "carryover": "$328",
+      "wagertype": "Z-5 Super Hi-5",
+      "track": "Laurel Park",
+      "date": "Apr 19",
+      "ndate": 20190419
     },
     {
       "carryoverAmount": 100,
