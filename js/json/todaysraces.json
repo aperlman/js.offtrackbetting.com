@@ -1,110 +1,78 @@
 {
   "todaysraces": {
-    "headline": "OTB Schedule: Monday, Apr 22",
+    "headline": "OTB Schedule: Tuesday, Apr 23",
     "tracks": [
       {
         "name": "Australia A",
-        "time": "10:55 PM"
+        "time": "10:25 PM"
       },
       {
         "name": "Australia B",
-        "time": "11:00 PM"
+        "time": "10:45 PM"
       },
       {
         "name": "Australia C",
-        "time": "11:15 PM"
+        "time": "11:30 PM"
       },
       {
-        "name": "Australia Harness 1",
-        "time": "11:04 PM"
+        "name": "Australia D",
+        "time": " 3:59 AM"
       },
       {
-        "name": "Birmingham Mat",
-        "time": " 3:59 PM"
-      },
-      {
-        "name": "Chepstow (UK)",
-        "time": " 1:14 PM"
-      },
-      {
-        "name": "Cork (IRE)",
-        "time": " 1:14 PM"
+        "name": "Birmingham Eve",
+        "time": " 7:15 PM"
       },
       {
         "name": "Daytona Beach Eve",
         "time": " 7:25 PM"
       },
       {
-        "name": "Enniscorthy (IG)",
-        "time": " 3:00 PM"
-      },
-      {
-        "name": "Fairview| (SAF)",
-        "time": " 1:15 PM"
+        "name": "Fairmount Park",
+        "time": " 2:00 PM"
       },
       {
         "name": "Fairyhouse (IRE)",
-        "time": " 1:14 PM"
+        "time": " 9:10 AM"
       },
       {
-        "name": "Fakenham (UK)",
-        "time": " 1:15 PM"
-      },
-      {
-        "name": "Gulfstream Tropical",
-        "time": " 1:14 PM"
+        "name": "Gulfstream Tropical Simulcast",
+        "time": " 5:00 PM"
       },
       {
         "name": "Harrington Raceway",
         "time": " 4:30 PM"
       },
       {
-        "name": "Huntingdon (UK)",
-        "time": " 1:15 PM"
-      },
-      {
         "name": "Laurel Park",
-        "time": " 1:14 PM"
+        "time": " 5:15 PM"
       },
       {
-        "name": "Longford (IG)",
-        "time": " 1:15 PM"
+        "name": "Lingfield (UK)",
+        "time": "11:55 AM"
+      },
+      {
+        "name": "Ludlow (UK)",
+        "time": " 8:50 AM"
       },
       {
         "name": "Mahoning Valley",
-        "time": "12:51 PM"
+        "time": "12:45 PM"
       },
       {
         "name": "Monticello Raceway",
-        "time": " 1:00 PM"
+        "time": "12:50 PM"
       },
       {
         "name": "Naples-Ft Myers Mat",
-        "time": " 1:02 PM"
+        "time": " 1:00 PM"
       },
       {
         "name": "Northfield Park",
         "time": " 6:00 PM"
       },
       {
-        "name": "Orange Park Eve",
-        "time": " 7:45 PM"
-      },
-      {
-        "name": "Palm Beach Mat",
-        "time": " 1:04 PM"
-      },
-      {
         "name": "Parx Racing",
-        "time": " 1:00 PM"
-      },
-      {
-        "name": "Plainridge",
-        "time": " 4:00 PM"
-      },
-      {
-        "name": "Plumpton (UK)",
-        "time": " 1:15 PM"
+        "time": "12:55 PM"
       },
       {
         "name": "Pocono Downs",
@@ -115,32 +83,28 @@
         "time": " 7:20 PM"
       },
       {
-        "name": "Redcar (UK)",
-        "time": " 1:15 PM"
-      },
-      {
-        "name": "Rosecroft Raceway",
-        "time": " 6:40 PM"
-      },
-      {
-        "name": "Sam Houston",
-        "time": " 1:11 PM"
-      },
-      {
-        "name": "Sanford Mat",
-        "time": " 1:30 PM"
-      },
-      {
         "name": "Sarasota Mat",
-        "time": "12:33 PM"
+        "time": "12:30 PM"
       },
       {
-        "name": "Southland Twilight",
-        "time": " 5:30 PM"
+        "name": "Sedgefield (UK)",
+        "time": " 8:40 AM"
+      },
+      {
+        "name": "Sunland Park",
+        "time": " 2:50 PM"
+      },
+      {
+        "name": "Tralee (IG)",
+        "time": " 1:57 PM"
       },
       {
         "name": "Turf Paradise",
-        "time": " 4:25 PM"
+        "time": " 3:25 PM"
+      },
+      {
+        "name": "Vaal (SAF)",
+        "time": " 6:47 AM"
       },
       {
         "name": "Western Fair",
@@ -152,19 +116,15 @@
       },
       {
         "name": "Wolverhampton (UK)",
-        "time": " 1:15 PM"
+        "time": "12:10 PM"
       },
       {
-        "name": "Woodbine at Mohawk",
-        "time": " 7:10 PM"
+        "name": "Yarmouth (UK)",
+        "time": " 8:30 AM"
       },
       {
         "name": "Yonkers Raceway",
         "time": " 6:50 PM"
-      },
-      {
-        "name": "Youghal (IG)",
-        "time": " 1:44 PM"
       }
     ]
   }
