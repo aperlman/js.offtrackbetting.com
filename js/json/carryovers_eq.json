@@ -25,12 +25,20 @@
       "ndate": 20190426
     },
     {
-      "carryoverAmount": 30730,
-      "carryover": "$30,730",
+      "carryoverAmount": 38489,
+      "carryover": "$38,489",
       "wagertype": "Pick 6 Jackpot",
       "track": "Laurel Park",
-      "date": "Apr 22",
-      "ndate": 20190422
+      "date": "Apr 25",
+      "ndate": 20190425
+    },
+    {
+      "carryoverAmount": 34023,
+      "carryover": "$34,023",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Turf Paradise",
+      "date": "Apr 23",
+      "ndate": 20190423
     },
     {
       "carryoverAmount": 27686,
@@ -41,42 +49,18 @@
       "ndate": 20190424
     },
     {
-      "carryoverAmount": 22786,
-      "carryover": "$22,786",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Turf Paradise",
-      "date": "Apr 22",
-      "ndate": 20190422
-    },
-    {
-      "carryoverAmount": 9551,
-      "carryover": "$9,551",
+      "carryoverAmount": 12469,
+      "carryover": "$12,469",
       "wagertype": "Pick 6 Jackpot",
       "track": "Mahoning Valley",
-      "date": "Apr 22",
-      "ndate": 20190422
+      "date": "Apr 23",
+      "ndate": 20190423
     },
     {
       "carryoverAmount": 6360,
       "carryover": "$6,360",
       "wagertype": "Pick 6",
       "track": "Remington Park",
-      "date": "Apr 25",
-      "ndate": 20190425
-    },
-    {
-      "carryoverAmount": 5298,
-      "carryover": "$5,298",
-      "wagertype": "Super High Five",
-      "track": "Golden Gate",
-      "date": "Apr 25",
-      "ndate": 20190425
-    },
-    {
-      "carryoverAmount": 3004,
-      "carryover": "$3,004",
-      "wagertype": "Super High Five",
-      "track": "Golden Gate",
       "date": "Apr 25",
       "ndate": 20190425
     },
@@ -105,12 +89,28 @@
       "ndate": 20190426
     },
     {
-      "carryoverAmount": 111,
-      "carryover": "$111",
+      "carryoverAmount": 1137,
+      "carryover": "$1,137",
+      "wagertype": "Super High Five",
+      "track": "Laurel Park",
+      "date": "Apr 25",
+      "ndate": 20190425
+    },
+    {
+      "carryoverAmount": 985,
+      "carryover": "$985",
+      "wagertype": "Super High Five",
+      "track": "Sam Houston",
+      "date": "Apr 26",
+      "ndate": 20190426
+    },
+    {
+      "carryoverAmount": 190,
+      "carryover": "$190",
       "wagertype": "Pick 6 Jackpot",
       "track": "Sam Houston",
-      "date": "Apr 22",
-      "ndate": 20190422
+      "date": "Apr 26",
+      "ndate": 20190426
     }
   ]
 }

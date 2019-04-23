@@ -1,12 +1,20 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 30730,
-      "carryover": "$30,730",
+      "carryoverAmount": 38489,
+      "carryover": "$38,489",
       "wagertype": "Pick 6 Jackpot",
       "track": "Laurel Park",
-      "date": "Apr 22",
-      "ndate": 20190422
+      "date": "Apr 25",
+      "ndate": 20190425
+    },
+    {
+      "carryoverAmount": 34023,
+      "carryover": "$34,023",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Turf Paradise",
+      "date": "Apr 23",
+      "ndate": 20190423
     },
     {
       "carryoverAmount": 27686,
@@ -17,20 +25,20 @@
       "ndate": 20190424
     },
     {
-      "carryoverAmount": 22786,
-      "carryover": "$22,786",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Turf Paradise",
-      "date": "Apr 22",
-      "ndate": 20190422
-    },
-    {
       "carryoverAmount": 19532,
       "carryover": "$19,532",
       "wagertype": "Z-5 Super Hi-5",
       "track": "Keeneland",
       "date": "Apr 24",
       "ndate": 20190424
+    },
+    {
+      "carryoverAmount": 12469,
+      "carryover": "$12,469",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Mahoning Valley Race Course",
+      "date": "Apr 23",
+      "ndate": 20190423
     },
     {
       "carryoverAmount": 8501,
@@ -89,20 +97,44 @@
       "ndate": 20190424
     },
     {
-      "carryoverAmount": 610,
-      "carryover": "$610",
+      "carryoverAmount": 1155,
+      "carryover": "$1,155",
       "wagertype": "Z-5 Super Hi-5",
       "track": "Laurel Park",
-      "date": "Apr 22",
-      "ndate": 20190422
+      "date": "Apr 25",
+      "ndate": 20190425
     },
     {
-      "carryoverAmount": 276,
-      "carryover": "$276",
+      "carryoverAmount": 1137,
+      "carryover": "$1,137",
+      "wagertype": "Super High Five",
+      "track": "Laurel Park",
+      "date": "Apr 25",
+      "ndate": 20190425
+    },
+    {
+      "carryoverAmount": 985,
+      "carryover": "$985",
+      "wagertype": "Super High Five",
+      "track": "Sam Houston Race Park",
+      "date": "Apr 26",
+      "ndate": 20190426
+    },
+    {
+      "carryoverAmount": 466,
+      "carryover": "$466",
       "wagertype": "Z-5 Super Hi-5",
       "track": "Laurel Park",
-      "date": "Apr 22",
-      "ndate": 20190422
+      "date": "Apr 25",
+      "ndate": 20190425
+    },
+    {
+      "carryoverAmount": 190,
+      "carryover": "$190",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Sam Houston Race Park",
+      "date": "Apr 26",
+      "ndate": 20190426
     }
   ]
 }
