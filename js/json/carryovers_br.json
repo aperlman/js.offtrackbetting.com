@@ -1,6 +1,30 @@
 {
   "carryovers": [
     {
+      "carryoverAmount": 484918,
+      "carryover": "$484,918",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Gulfstream Park",
+      "date": "Apr 26",
+      "ndate": 20190426
+    },
+    {
+      "carryoverAmount": 328224,
+      "carryover": "$328,224",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Golden Gate Fields",
+      "date": "Apr 26",
+      "ndate": 20190426
+    },
+    {
+      "carryoverAmount": 46930,
+      "carryover": "$46,930",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Laurel Park",
+      "date": "Apr 26",
+      "ndate": 20190426
+    },
+    {
       "carryoverAmount": 44444,
       "carryover": "$44,444",
       "wagertype": "Pick 6 Jackpot",
@@ -9,20 +33,12 @@
       "ndate": 20190427
     },
     {
-      "carryoverAmount": 38489,
-      "carryover": "$38,489",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Laurel Park",
-      "date": "Apr 25",
-      "ndate": 20190425
-    },
-    {
-      "carryoverAmount": 30896,
-      "carryover": "$30,896",
+      "carryoverAmount": 34957,
+      "carryover": "$34,957",
       "wagertype": "Pick 6 Jackpot",
       "track": "Penn National",
-      "date": "Apr 25",
-      "ndate": 20190425
+      "date": "Apr 26",
+      "ndate": 20190426
     },
     {
       "carryoverAmount": 14695,
@@ -33,6 +49,14 @@
       "ndate": 20190427
     },
     {
+      "carryoverAmount": 7818,
+      "carryover": "$7,818",
+      "wagertype": "Pick 6",
+      "track": "Remington Park",
+      "date": "Apr 26",
+      "ndate": 20190426
+    },
+    {
       "carryoverAmount": 6379,
       "carryover": "$6,379",
       "wagertype": "Super High Five",
@@ -41,36 +65,44 @@
       "ndate": 20190426
     },
     {
-      "carryoverAmount": 5765,
-      "carryover": "$5,765",
+      "carryoverAmount": 3219,
+      "carryover": "$3,219",
+      "wagertype": "Z-5 Super Hi-5",
+      "track": "Laurel Park",
+      "date": "Apr 26",
+      "ndate": 20190426
+    },
+    {
+      "carryoverAmount": 2629,
+      "carryover": "$2,629",
+      "wagertype": "Z-5 Super Hi-5",
+      "track": "Laurel Park",
+      "date": "Apr 26",
+      "ndate": 20190426
+    },
+    {
+      "carryoverAmount": 2584,
+      "carryover": "$2,584",
+      "wagertype": "Z-5 Super Hi-5",
+      "track": "Laurel Park",
+      "date": "Apr 26",
+      "ndate": 20190426
+    },
+    {
+      "carryoverAmount": 2232,
+      "carryover": "$2,232",
+      "wagertype": "Super High Five",
+      "track": "Golden Gate Fields",
+      "date": "Apr 26",
+      "ndate": 20190426
+    },
+    {
+      "carryoverAmount": 1435,
+      "carryover": "$1,435",
       "wagertype": "Z-5 Super Hi-5",
       "track": "Gulfstream Park",
-      "date": "Apr 25",
-      "ndate": 20190425
-    },
-    {
-      "carryoverAmount": 2064,
-      "carryover": "$2,064",
-      "wagertype": "Z-5 Super Hi-5",
-      "track": "Keeneland",
-      "date": "Apr 25",
-      "ndate": 20190425
-    },
-    {
-      "carryoverAmount": 1155,
-      "carryover": "$1,155",
-      "wagertype": "Z-5 Super Hi-5",
-      "track": "Laurel Park",
-      "date": "Apr 25",
-      "ndate": 20190425
-    },
-    {
-      "carryoverAmount": 1137,
-      "carryover": "$1,137",
-      "wagertype": "Super High Five",
-      "track": "Laurel Park",
-      "date": "Apr 25",
-      "ndate": 20190425
+      "date": "Apr 26",
+      "ndate": 20190426
     },
     {
       "carryoverAmount": 985,
@@ -81,12 +113,28 @@
       "ndate": 20190426
     },
     {
-      "carryoverAmount": 858,
-      "carryover": "$858",
+      "carryoverAmount": 932,
+      "carryover": "$932",
       "wagertype": "Z-5 Super Hi-5",
-      "track": "Keeneland",
-      "date": "Apr 25",
-      "ndate": 20190425
+      "track": "Gulfstream Park",
+      "date": "Apr 26",
+      "ndate": 20190426
+    },
+    {
+      "carryoverAmount": 885,
+      "carryover": "$885",
+      "wagertype": "Z-5 Super Hi-5",
+      "track": "Laurel Park",
+      "date": "Apr 26",
+      "ndate": 20190426
+    },
+    {
+      "carryoverAmount": 679,
+      "carryover": "$679",
+      "wagertype": "Z-5 Super Hi-5",
+      "track": "Laurel Park",
+      "date": "Apr 26",
+      "ndate": 20190426
     },
     {
       "carryoverAmount": 500,
@@ -95,22 +143,6 @@
       "track": "Sunland Park",
       "date": "Apr 26",
       "ndate": 20190426
-    },
-    {
-      "carryoverAmount": 466,
-      "carryover": "$466",
-      "wagertype": "Z-5 Super Hi-5",
-      "track": "Laurel Park",
-      "date": "Apr 25",
-      "ndate": 20190425
-    },
-    {
-      "carryoverAmount": 452,
-      "carryover": "$452",
-      "wagertype": "Jackpot High-5",
-      "track": "Penn National",
-      "date": "Apr 25",
-      "ndate": 20190425
     },
     {
       "carryoverAmount": 190,
