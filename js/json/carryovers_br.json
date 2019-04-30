@@ -1,6 +1,14 @@
 {
   "carryovers": [
     {
+      "carryoverAmount": 72062,
+      "carryover": "$72,062",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Turf Paradise",
+      "date": "May 03",
+      "ndate": 20190503
+    },
+    {
       "carryoverAmount": 41620,
       "carryover": "$41,620",
       "wagertype": "Pick 6 Jackpot",
@@ -33,6 +41,14 @@
       "ndate": 20190502
     },
     {
+      "carryoverAmount": 974,
+      "carryover": "$974",
+      "wagertype": "Super High Five",
+      "track": "Mountaineer Casino Racetrack",
+      "date": "Apr 30",
+      "ndate": 20190430
+    },
+    {
       "carryoverAmount": 951,
       "carryover": "$951",
       "wagertype": "Z-5 Super Hi-5",
@@ -41,12 +57,12 @@
       "ndate": 20190502
     },
     {
-      "carryoverAmount": 472,
-      "carryover": "$472",
+      "carryoverAmount": 647,
+      "carryover": "$647",
       "wagertype": "Pick 6 Jackpot",
-      "track": "Sam Houston Race Park",
-      "date": "Apr 29",
-      "ndate": 20190429
+      "track": "Thistledown",
+      "date": "Apr 30",
+      "ndate": 20190430
     },
     {
       "carryoverAmount": 372,
