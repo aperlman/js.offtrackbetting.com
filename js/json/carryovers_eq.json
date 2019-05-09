@@ -69,8 +69,24 @@
       "carryover": "$7,158",
       "wagertype": "Pick 5 Jackpot",
       "track": "Louisiana Downs",
-      "date": "May 08",
-      "ndate": 20190508
+      "date": "May 11",
+      "ndate": 20190511
+    },
+    {
+      "carryoverAmount": 6165,
+      "carryover": "$6,165",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Thistledown",
+      "date": "May 11",
+      "ndate": 20190511
+    },
+    {
+      "carryoverAmount": 5236,
+      "carryover": "$5,236",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Canterbury Park",
+      "date": "May 11",
+      "ndate": 20190511
     },
     {
       "carryoverAmount": 4222,
@@ -81,20 +97,12 @@
       "ndate": 20190509
     },
     {
-      "carryoverAmount": 4185,
-      "carryover": "$4,185",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Thistledown",
-      "date": "May 08",
-      "ndate": 20190508
-    },
-    {
       "carryoverAmount": 2696,
       "carryover": "$2,696",
       "wagertype": "Pick 6 Jackpot",
       "track": "Louisiana Downs",
-      "date": "May 08",
-      "ndate": 20190508
+      "date": "May 11",
+      "ndate": 20190511
     },
     {
       "carryoverAmount": 2363,
@@ -113,12 +121,28 @@
       "ndate": 20190510
     },
     {
+      "carryoverAmount": 2275,
+      "carryover": "$2,275",
+      "wagertype": "Super High Five",
+      "track": "Indiana Grand",
+      "date": "May 10",
+      "ndate": 20190510
+    },
+    {
       "carryoverAmount": 1592,
       "carryover": "$1,592",
       "wagertype": "Pick 5 Jackpot",
       "track": "Prairie Meadows",
       "date": "May 10",
       "ndate": 20190510
+    },
+    {
+      "carryoverAmount": 1275,
+      "carryover": "$1,275",
+      "wagertype": "Pick 5",
+      "track": "Hastings",
+      "date": "May 11",
+      "ndate": 20190511
     },
     {
       "carryoverAmount": 1206,
@@ -167,6 +191,14 @@
       "track": "Lone Star",
       "date": "May 10",
       "ndate": 20190510
+    },
+    {
+      "carryoverAmount": 376,
+      "carryover": "$376",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Century Mile",
+      "date": "May 11",
+      "ndate": 20190511
     }
   ]
 }
