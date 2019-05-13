@@ -1,76 +1,44 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 1013327,
-      "carryover": "$1,013,327",
+      "carryoverAmount": 1078610,
+      "carryover": "$1,078,610",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "May 12",
-      "ndate": 20190512
+      "date": "May 16",
+      "ndate": 20190516
     },
     {
-      "carryoverAmount": 465219,
-      "carryover": "$465,219",
+      "carryoverAmount": 523445,
+      "carryover": "$523,445",
       "wagertype": "Pick 6 Jackpot",
       "track": "Santa Anita",
-      "date": "May 12",
-      "ndate": 20190512
+      "date": "May 17",
+      "ndate": 20190517
     },
     {
-      "carryoverAmount": 245821,
-      "carryover": "$245,821",
+      "carryoverAmount": 261678,
+      "carryover": "$261,678",
       "wagertype": "Pick 6 Jackpot",
       "track": "Churchill Downs",
-      "date": "May 12",
-      "ndate": 20190512
+      "date": "May 16",
+      "ndate": 20190516
     },
     {
-      "carryoverAmount": 98666,
-      "carryover": "$98,666",
-      "wagertype": "Pick 5",
-      "track": "Churchill Downs",
-      "date": "May 12",
-      "ndate": 20190512
-    },
-    {
-      "carryoverAmount": 54371,
-      "carryover": "$54,371",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Woodbine",
-      "date": "May 12",
-      "ndate": 20190512
-    },
-    {
-      "carryoverAmount": 39457,
-      "carryover": "$39,457",
+      "carryoverAmount": 48593,
+      "carryover": "$48,593",
       "wagertype": "Pick 6 Jackpot",
       "track": "Golden Gate",
-      "date": "May 12",
-      "ndate": 20190512
+      "date": "May 16",
+      "ndate": 20190516
     },
     {
-      "carryoverAmount": 31804,
-      "carryover": "$31,804",
-      "wagertype": "Pick 5",
-      "track": "Golden Gate",
-      "date": "May 12",
-      "ndate": 20190512
-    },
-    {
-      "carryoverAmount": 25383,
-      "carryover": "$25,383",
+      "carryoverAmount": 29046,
+      "carryover": "$29,046",
       "wagertype": "Pick 6",
       "track": "Remington Park",
-      "date": "May 12",
-      "ndate": 20190512
-    },
-    {
-      "carryoverAmount": 16095,
-      "carryover": "$16,095",
-      "wagertype": "Super High Five",
-      "track": "Churchill Downs",
-      "date": "May 12",
-      "ndate": 20190512
+      "date": "May 16",
+      "ndate": 20190516
     },
     {
       "carryoverAmount": 11861,
@@ -97,28 +65,28 @@
       "ndate": 20190513
     },
     {
-      "carryoverAmount": 6500,
-      "carryover": "$6,500",
-      "wagertype": "Pick 5",
+      "carryoverAmount": 4458,
+      "carryover": "$4,458",
+      "wagertype": "Pick 7 Jackpot",
+      "track": "Emerald Downs",
+      "date": "May 17",
+      "ndate": 20190517
+    },
+    {
+      "carryoverAmount": 4434,
+      "carryover": "$4,434",
+      "wagertype": "Super High Five Jackpot",
       "track": "Arlington",
-      "date": "May 12",
-      "ndate": 20190512
+      "date": "May 17",
+      "ndate": 20190517
     },
     {
-      "carryoverAmount": 5903,
-      "carryover": "$5,903",
-      "wagertype": "Pick 6",
-      "track": "Los Alamitos",
-      "date": "May 12",
-      "ndate": 20190512
-    },
-    {
-      "carryoverAmount": 4732,
-      "carryover": "$4,732",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Prairie Meadows",
-      "date": "May 12",
-      "ndate": 20190512
+      "carryoverAmount": 4262,
+      "carryover": "$4,262",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Arlington",
+      "date": "May 17",
+      "ndate": 20190517
     },
     {
       "carryoverAmount": 3456,
@@ -129,28 +97,12 @@
       "ndate": 20190513
     },
     {
-      "carryoverAmount": 3333,
-      "carryover": "$3,333",
+      "carryoverAmount": 2688,
+      "carryover": "$2,688",
       "wagertype": "Super High Five",
-      "track": "Gulfstream Park",
-      "date": "May 12",
-      "ndate": 20190512
-    },
-    {
-      "carryoverAmount": 3222,
-      "carryover": "$3,222",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Arlington",
-      "date": "May 12",
-      "ndate": 20190512
-    },
-    {
-      "carryoverAmount": 3151,
-      "carryover": "$3,151",
-      "wagertype": "Pick 7 Jackpot",
-      "track": "Emerald Downs",
-      "date": "May 12",
-      "ndate": 20190512
+      "track": "Lone Star",
+      "date": "May 17",
+      "ndate": 20190517
     },
     {
       "carryoverAmount": 2307,
@@ -159,6 +111,38 @@
       "track": "Indiana Grand",
       "date": "May 14",
       "ndate": 20190514
+    },
+    {
+      "carryoverAmount": 2305,
+      "carryover": "$2,305",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Pimlico",
+      "date": "May 16",
+      "ndate": 20190516
+    },
+    {
+      "carryoverAmount": 1787,
+      "carryover": "$1,787",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Lone Star",
+      "date": "May 17",
+      "ndate": 20190517
+    },
+    {
+      "carryoverAmount": 1746,
+      "carryover": "$1,746",
+      "wagertype": "Tri Super",
+      "track": "Ruidoso Downs",
+      "date": "May 17",
+      "ndate": 20190517
+    },
+    {
+      "carryoverAmount": 1429,
+      "carryover": "$1,429",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Sunray Park",
+      "date": "May 13",
+      "ndate": 20190513
     },
     {
       "carryoverAmount": 1413,
@@ -175,46 +159,6 @@
       "track": "Sam Houston",
       "date": "May 13",
       "ndate": 20190513
-    },
-    {
-      "carryoverAmount": 1317,
-      "carryover": "$1,317",
-      "wagertype": "Tri Super",
-      "track": "Ruidoso Downs",
-      "date": "May 12",
-      "ndate": 20190512
-    },
-    {
-      "carryoverAmount": 1134,
-      "carryover": "$1,134",
-      "wagertype": "Super High Five",
-      "track": "Pimlico",
-      "date": "May 12",
-      "ndate": 20190512
-    },
-    {
-      "carryoverAmount": 1077,
-      "carryover": "$1,077",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Pimlico",
-      "date": "May 12",
-      "ndate": 20190512
-    },
-    {
-      "carryoverAmount": 784,
-      "carryover": "$784",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Lone Star",
-      "date": "May 12",
-      "ndate": 20190512
-    },
-    {
-      "carryoverAmount": 705,
-      "carryover": "$705",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Century Mile",
-      "date": "May 12",
-      "ndate": 20190512
     },
     {
       "carryoverAmount": 640,
@@ -239,14 +183,6 @@
       "track": "Penn National",
       "date": "May 16",
       "ndate": 20190516
-    },
-    {
-      "carryoverAmount": 196,
-      "carryover": "$196",
-      "wagertype": "Super High Five",
-      "track": "Prairie Meadows",
-      "date": "May 12",
-      "ndate": 20190512
     },
     {
       "carryoverAmount": 102,
