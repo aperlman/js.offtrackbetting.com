@@ -1,12 +1,20 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 11957,
-      "carryover": "$11,957",
+      "carryoverAmount": 16132,
+      "carryover": "$16,132",
       "wagertype": "Pick 5 Jackpot",
       "track": "Louisiana Downs",
-      "date": "May 14",
-      "ndate": 20190514
+      "date": "May 15",
+      "ndate": 20190515
+    },
+    {
+      "carryoverAmount": 12469,
+      "carryover": "$12,469",
+      "wagertype": "Pick 5",
+      "track": "Finger Lakes",
+      "date": "May 18",
+      "ndate": 20190518
     },
     {
       "carryoverAmount": 11861,
@@ -17,20 +25,20 @@
       "ndate": 20190516
     },
     {
-      "carryoverAmount": 8326,
-      "carryover": "$8,326",
+      "carryoverAmount": 9670,
+      "carryover": "$9,670",
       "wagertype": "Pick 6 Jackpot",
       "track": "Thistledown",
-      "date": "May 14",
-      "ndate": 20190514
+      "date": "May 15",
+      "ndate": 20190515
     },
     {
-      "carryoverAmount": 6111,
-      "carryover": "$6,111",
+      "carryoverAmount": 8397,
+      "carryover": "$8,397",
       "wagertype": "Pick 6 Jackpot",
       "track": "Louisiana Downs",
-      "date": "May 14",
-      "ndate": 20190514
+      "date": "May 15",
+      "ndate": 20190515
     },
     {
       "carryoverAmount": 3641,
@@ -41,12 +49,12 @@
       "ndate": 20190516
     },
     {
-      "carryoverAmount": 2307,
-      "carryover": "$2,307",
-      "wagertype": "Pick 5",
+      "carryoverAmount": 2856,
+      "carryover": "$2,856",
+      "wagertype": "Super High Five",
       "track": "Indiana Grand Race Course",
-      "date": "May 14",
-      "ndate": 20190514
+      "date": "May 15",
+      "ndate": 20190515
     },
     {
       "carryoverAmount": 2305,
@@ -57,6 +65,14 @@
       "ndate": 20190516
     },
     {
+      "carryoverAmount": 1947,
+      "carryover": "$1,947",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Presque Isle Downs",
+      "date": "May 15",
+      "ndate": 20190515
+    },
+    {
       "carryoverAmount": 1746,
       "carryover": "$1,746",
       "wagertype": "Tri Super",
@@ -65,36 +81,12 @@
       "ndate": 20190517
     },
     {
-      "carryoverAmount": 1413,
-      "carryover": "$1,413",
-      "wagertype": "Super High Five",
-      "track": "Indiana Grand Race Course",
-      "date": "May 14",
-      "ndate": 20190514
-    },
-    {
-      "carryoverAmount": 757,
-      "carryover": "$757",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Presque Isle Downs",
-      "date": "May 14",
-      "ndate": 20190514
-    },
-    {
       "carryoverAmount": 641,
       "carryover": "$641",
       "wagertype": "Jackpot High-5",
       "track": "Sunray Park",
       "date": "May 17",
       "ndate": 20190517
-    },
-    {
-      "carryoverAmount": 640,
-      "carryover": "$640",
-      "wagertype": "Super High Five",
-      "track": "Indiana Grand Race Course",
-      "date": "May 14",
-      "ndate": 20190514
     },
     {
       "carryoverAmount": 470,
