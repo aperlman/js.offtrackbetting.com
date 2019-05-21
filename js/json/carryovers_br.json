@@ -41,14 +41,6 @@
       "ndate": 20190523
     },
     {
-      "carryoverAmount": 85199,
-      "carryover": "$85,199",
-      "wagertype": "Jackpot High-5",
-      "track": "Woodbine",
-      "date": "May 20",
-      "ndate": 20190520
-    },
-    {
       "carryoverAmount": 25602,
       "carryover": "$25,602",
       "wagertype": "Super High Five",
@@ -63,22 +55,6 @@
       "track": "Pimlico",
       "date": "May 23",
       "ndate": 20190523
-    },
-    {
-      "carryoverAmount": 21982,
-      "carryover": "$21,982",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Louisiana Downs",
-      "date": "May 20",
-      "ndate": 20190520
-    },
-    {
-      "carryoverAmount": 13520,
-      "carryover": "$13,520",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Thistledown",
-      "date": "May 20",
-      "ndate": 20190520
     },
     {
       "carryoverAmount": 6758,
@@ -129,14 +105,6 @@
       "ndate": 20190523
     },
     {
-      "carryoverAmount": 3455,
-      "carryover": "$3,455",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Presque Isle Downs",
-      "date": "May 20",
-      "ndate": 20190520
-    },
-    {
       "carryoverAmount": 3353,
       "carryover": "$3,353",
       "wagertype": "Pick 5 Jackpot",
@@ -161,12 +129,12 @@
       "ndate": 20190523
     },
     {
-      "carryoverAmount": 2344,
-      "carryover": "$2,344",
-      "wagertype": "Pick 5",
-      "track": "Century Mile Tb",
-      "date": "May 20",
-      "ndate": 20190520
+      "carryoverAmount": 2662,
+      "carryover": "$2,662",
+      "wagertype": "Super High Five",
+      "track": "Sam Houston Race Park",
+      "date": "May 24",
+      "ndate": 20190524
     },
     {
       "carryoverAmount": 1795,
@@ -175,14 +143,6 @@
       "track": "Gulfstream Park",
       "date": "May 23",
       "ndate": 20190523
-    },
-    {
-      "carryoverAmount": 1688,
-      "carryover": "$1,688",
-      "wagertype": "Jackpot High-5",
-      "track": "Century Mile Tb",
-      "date": "May 20",
-      "ndate": 20190520
     },
     {
       "carryoverAmount": 1393,
@@ -199,14 +159,6 @@
       "track": "Gulfstream Park",
       "date": "May 23",
       "ndate": 20190523
-    },
-    {
-      "carryoverAmount": 1038,
-      "carryover": "$1,038",
-      "wagertype": "Super High Five",
-      "track": "Louisiana Downs",
-      "date": "May 20",
-      "ndate": 20190520
     },
     {
       "carryoverAmount": 887,
@@ -233,20 +185,20 @@
       "ndate": 20190523
     },
     {
-      "carryoverAmount": 795,
-      "carryover": "$795",
-      "wagertype": "Pick 5",
-      "track": "Presque Isle Downs",
-      "date": "May 20",
-      "ndate": 20190520
-    },
-    {
-      "carryoverAmount": 431,
-      "carryover": "$431",
+      "carryoverAmount": 718,
+      "carryover": "$718",
       "wagertype": "Z-5 Super Hi-5",
       "track": "Sam Houston Race Park",
-      "date": "May 20",
-      "ndate": 20190520
+      "date": "May 24",
+      "ndate": 20190524
+    },
+    {
+      "carryoverAmount": 448,
+      "carryover": "$448",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Sam Houston Race Park",
+      "date": "May 24",
+      "ndate": 20190524
     },
     {
       "carryoverAmount": 389,
@@ -255,14 +207,6 @@
       "track": "Remington Park",
       "date": "May 23",
       "ndate": 20190523
-    },
-    {
-      "carryoverAmount": 193,
-      "carryover": "$193",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Sam Houston Race Park",
-      "date": "May 20",
-      "ndate": 20190520
     }
   ]
 }
