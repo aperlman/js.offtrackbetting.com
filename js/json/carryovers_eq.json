@@ -1,12 +1,12 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 1292011,
-      "carryover": "$1,292,011",
+      "carryoverAmount": 1344573,
+      "carryover": "$1,344,573",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "May 23",
-      "ndate": 20190523
+      "date": "May 24",
+      "ndate": 20190524
     },
     {
       "carryoverAmount": 637164,
@@ -17,20 +17,20 @@
       "ndate": 20190524
     },
     {
-      "carryoverAmount": 288744,
-      "carryover": "$288,744",
+      "carryoverAmount": 295049,
+      "carryover": "$295,049",
       "wagertype": "Pick 6 Jackpot",
       "track": "Churchill Downs",
-      "date": "May 23",
-      "ndate": 20190523
+      "date": "May 24",
+      "ndate": 20190524
     },
     {
-      "carryoverAmount": 198373,
-      "carryover": "$198,373",
+      "carryoverAmount": 217321,
+      "carryover": "$217,321",
       "wagertype": "Pick 6 Jackpot",
       "track": "Pimlico",
-      "date": "May 23",
-      "ndate": 20190523
+      "date": "May 24",
+      "ndate": 20190524
     },
     {
       "carryoverAmount": 93163,
@@ -65,6 +65,14 @@
       "ndate": 20190524
     },
     {
+      "carryoverAmount": 9707,
+      "carryover": "$9,707",
+      "wagertype": "Super High Five",
+      "track": "Churchill Downs",
+      "date": "May 24",
+      "ndate": 20190524
+    },
+    {
       "carryoverAmount": 7859,
       "carryover": "$7,859",
       "wagertype": "Pick 6 Jackpot",
@@ -73,20 +81,20 @@
       "ndate": 20190525
     },
     {
+      "carryoverAmount": 7846,
+      "carryover": "$7,846",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Prairie Meadows",
+      "date": "May 24",
+      "ndate": 20190524
+    },
+    {
       "carryoverAmount": 6784,
       "carryover": "$6,784",
       "wagertype": "Pick 6",
       "track": "Indiana Grand",
       "date": "May 24",
       "ndate": 20190524
-    },
-    {
-      "carryoverAmount": 6775,
-      "carryover": "$6,775",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Presque Isle",
-      "date": "May 23",
-      "ndate": 20190523
     },
     {
       "carryoverAmount": 6415,
@@ -103,30 +111,6 @@
       "track": "Lone Star",
       "date": "May 25",
       "ndate": 20190525
-    },
-    {
-      "carryoverAmount": 4614,
-      "carryover": "$4,614",
-      "wagertype": "Super High Five",
-      "track": "Golden Gate",
-      "date": "May 23",
-      "ndate": 20190523
-    },
-    {
-      "carryoverAmount": 3769,
-      "carryover": "$3,769",
-      "wagertype": "Super High Five",
-      "track": "Churchill Downs",
-      "date": "May 23",
-      "ndate": 20190523
-    },
-    {
-      "carryoverAmount": 3533,
-      "carryover": "$3,533",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Prairie Meadows",
-      "date": "May 23",
-      "ndate": 20190523
     },
     {
       "carryoverAmount": 3353,
@@ -177,12 +161,28 @@
       "ndate": 20190524
     },
     {
-      "carryoverAmount": 1795,
-      "carryover": "$1,795",
-      "wagertype": "Super High Five",
-      "track": "Gulfstream Park",
-      "date": "May 23",
-      "ndate": 20190523
+      "carryoverAmount": 1925,
+      "carryover": "$1,925",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Golden Gate",
+      "date": "May 24",
+      "ndate": 20190524
+    },
+    {
+      "carryoverAmount": 1886,
+      "carryover": "$1,886",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Penn National",
+      "date": "May 24",
+      "ndate": 20190524
+    },
+    {
+      "carryoverAmount": 1653,
+      "carryover": "$1,653",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Charles Town",
+      "date": "May 24",
+      "ndate": 20190524
     },
     {
       "carryoverAmount": 1522,
@@ -201,28 +201,28 @@
       "ndate": 20190524
     },
     {
-      "carryoverAmount": 1393,
-      "carryover": "$1,393",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Penn National",
-      "date": "May 23",
-      "ndate": 20190523
-    },
-    {
-      "carryoverAmount": 887,
-      "carryover": "$887",
+      "carryoverAmount": 1427,
+      "carryover": "$1,427",
       "wagertype": "Pick 6 Jackpot",
       "track": "Penn National",
-      "date": "May 23",
-      "ndate": 20190523
+      "date": "May 24",
+      "ndate": 20190524
     },
     {
-      "carryoverAmount": 830,
-      "carryover": "$830",
+      "carryoverAmount": 1069,
+      "carryover": "$1,069",
       "wagertype": "Pick 6",
       "track": "Belterra Park",
-      "date": "May 23",
-      "ndate": 20190523
+      "date": "May 24",
+      "ndate": 20190524
+    },
+    {
+      "carryoverAmount": 561,
+      "carryover": "$561",
+      "wagertype": "Pick 6",
+      "track": "Remington Park",
+      "date": "May 24",
+      "ndate": 20190524
     },
     {
       "carryoverAmount": 448,
@@ -231,14 +231,6 @@
       "track": "Sam Houston",
       "date": "May 24",
       "ndate": 20190524
-    },
-    {
-      "carryoverAmount": 389,
-      "carryover": "$389",
-      "wagertype": "Pick 6",
-      "track": "Remington Park",
-      "date": "May 23",
-      "ndate": 20190523
     }
   ]
 }
