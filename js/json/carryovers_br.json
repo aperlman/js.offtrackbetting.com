@@ -1,84 +1,12 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 261774,
-      "carryover": "$261,774",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Pimlico",
-      "date": "May 27",
-      "ndate": 20190527
-    },
-    {
-      "carryoverAmount": 22762,
-      "carryover": "$22,762",
-      "wagertype": "Pick 6 Jackpot",
+      "carryoverAmount": 24030,
+      "carryover": "$24,030",
+      "wagertype": "Pick 6",
       "track": "Thistledown",
-      "date": "May 27",
-      "ndate": 20190527
-    },
-    {
-      "carryoverAmount": 15009,
-      "carryover": "$15,009",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Prairie Meadows",
-      "date": "May 27",
-      "ndate": 20190527
-    },
-    {
-      "carryoverAmount": 10745,
-      "carryover": "$10,745",
-      "wagertype": "Super High Five",
-      "track": "Pimlico",
-      "date": "May 27",
-      "ndate": 20190527
-    },
-    {
-      "carryoverAmount": 8819,
-      "carryover": "$8,819",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Louisiana Downs",
-      "date": "May 27",
-      "ndate": 20190527
-    },
-    {
-      "carryoverAmount": 7901,
-      "carryover": "$7,901",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Monmouth Park",
-      "date": "May 27",
-      "ndate": 20190527
-    },
-    {
-      "carryoverAmount": 7204,
-      "carryover": "$7,204",
-      "wagertype": "Tri Super",
-      "track": "Ruidoso Downs",
-      "date": "May 27",
-      "ndate": 20190527
-    },
-    {
-      "carryoverAmount": 7174,
-      "carryover": "$7,174",
-      "wagertype": "Z-5 Super Hi-5",
-      "track": "Gulfstream Park",
-      "date": "May 27",
-      "ndate": 20190527
-    },
-    {
-      "carryoverAmount": 6539,
-      "carryover": "$6,539",
-      "wagertype": "Jackpot High-5",
-      "track": "Arlington",
-      "date": "May 27",
-      "ndate": 20190527
-    },
-    {
-      "carryoverAmount": 4217,
-      "carryover": "$4,217",
-      "wagertype": "Super High Five",
-      "track": "Pimlico",
-      "date": "May 27",
-      "ndate": 20190527
+      "date": "May 28",
+      "ndate": 20190528
     },
     {
       "carryoverAmount": 3844,
@@ -97,68 +25,44 @@
       "ndate": 20190530
     },
     {
-      "carryoverAmount": 2460,
-      "carryover": "$2,460",
-      "wagertype": "Z-5 Super Hi-5",
-      "track": "Gulfstream Park",
-      "date": "May 27",
-      "ndate": 20190527
+      "carryoverAmount": 2207,
+      "carryover": "$2,207",
+      "wagertype": "Super High Five",
+      "track": "Churchill Downs",
+      "date": "May 30",
+      "ndate": 20190530
     },
     {
-      "carryoverAmount": 1896,
-      "carryover": "$1,896",
+      "carryoverAmount": 1602,
+      "carryover": "$1,602",
       "wagertype": "Z-5 Super Hi-5",
       "track": "Gulfstream Park",
-      "date": "May 27",
-      "ndate": 20190527
+      "date": "May 30",
+      "ndate": 20190530
     },
     {
-      "carryoverAmount": 1825,
-      "carryover": "$1,825",
+      "carryoverAmount": 1562,
+      "carryover": "$1,562",
+      "wagertype": "Z-5 Super Hi-5",
+      "track": "Gulfstream Park",
+      "date": "May 30",
+      "ndate": 20190530
+    },
+    {
+      "carryoverAmount": 1263,
+      "carryover": "$1,263",
+      "wagertype": "Z-5 Super Hi-5",
+      "track": "Gulfstream Park",
+      "date": "May 30",
+      "ndate": 20190530
+    },
+    {
+      "carryoverAmount": 1039,
+      "carryover": "$1,039",
       "wagertype": "Super High Five",
       "track": "Golden Gate Fields",
-      "date": "May 27",
-      "ndate": 20190527
-    },
-    {
-      "carryoverAmount": 1414,
-      "carryover": "$1,414",
-      "wagertype": "Super High Five",
-      "track": "Golden Gate Fields",
-      "date": "May 27",
-      "ndate": 20190527
-    },
-    {
-      "carryoverAmount": 1106,
-      "carryover": "$1,106",
-      "wagertype": "Z-5 Super Hi-5",
-      "track": "Gulfstream Park",
-      "date": "May 27",
-      "ndate": 20190527
-    },
-    {
-      "carryoverAmount": 1101,
-      "carryover": "$1,101",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Canterbury Park",
-      "date": "May 27",
-      "ndate": 20190527
-    },
-    {
-      "carryoverAmount": 815,
-      "carryover": "$815",
-      "wagertype": "Z-5 Super Hi-5",
-      "track": "Gulfstream Park",
-      "date": "May 27",
-      "ndate": 20190527
-    },
-    {
-      "carryoverAmount": 785,
-      "carryover": "$785",
-      "wagertype": "Super High Five",
-      "track": "Pimlico",
-      "date": "May 27",
-      "ndate": 20190527
+      "date": "May 31",
+      "ndate": 20190531
     }
   ]
 }
