@@ -1,12 +1,20 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 24030,
-      "carryover": "$24,030",
-      "wagertype": "Pick 6",
+      "carryoverAmount": 28030,
+      "carryover": "$28,030",
+      "wagertype": "Pick 6 Jackpot",
       "track": "Thistledown",
-      "date": "May 28",
-      "ndate": 20190528
+      "date": "May 29",
+      "ndate": 20190529
+    },
+    {
+      "carryoverAmount": 12977,
+      "carryover": "$12,977",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Louisiana Downs",
+      "date": "May 29",
+      "ndate": 20190529
     },
     {
       "carryoverAmount": 3844,
@@ -23,6 +31,14 @@
       "track": "Penn National",
       "date": "May 30",
       "ndate": 20190530
+    },
+    {
+      "carryoverAmount": 2812,
+      "carryover": "$2,812",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Louisiana Downs",
+      "date": "May 29",
+      "ndate": 20190529
     },
     {
       "carryoverAmount": 2207,
@@ -55,6 +71,22 @@
       "track": "Gulfstream Park",
       "date": "May 30",
       "ndate": 20190530
+    },
+    {
+      "carryoverAmount": 1258,
+      "carryover": "$1,258",
+      "wagertype": "Super High Five",
+      "track": "Indiana Grand Race Course",
+      "date": "May 29",
+      "ndate": 20190529
+    },
+    {
+      "carryoverAmount": 1116,
+      "carryover": "$1,116",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Presque Isle Downs",
+      "date": "May 29",
+      "ndate": 20190529
     },
     {
       "carryoverAmount": 1039,
