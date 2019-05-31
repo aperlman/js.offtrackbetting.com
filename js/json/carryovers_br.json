@@ -1,12 +1,44 @@
 {
   "carryovers": [
     {
+      "carryoverAmount": 1718383,
+      "carryover": "$1,718,383",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Gulfstream Park",
+      "date": "May 31",
+      "ndate": 20190531
+    },
+    {
       "carryoverAmount": 32230,
       "carryover": "$32,230",
       "wagertype": "Pick 6 Jackpot",
       "track": "Thistledown",
       "date": "Jun 01",
       "ndate": 20190601
+    },
+    {
+      "carryoverAmount": 22702,
+      "carryover": "$22,702",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Prairie Meadows",
+      "date": "May 31",
+      "ndate": 20190531
+    },
+    {
+      "carryoverAmount": 20390,
+      "carryover": "$20,390",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Churchill Downs",
+      "date": "May 31",
+      "ndate": 20190531
+    },
+    {
+      "carryoverAmount": 19231,
+      "carryover": "$19,231",
+      "wagertype": "Pick 6",
+      "track": "Belmont Park",
+      "date": "May 31",
+      "ndate": 20190531
     },
     {
       "carryoverAmount": 16403,
@@ -49,60 +81,44 @@
       "ndate": 20190531
     },
     {
-      "carryoverAmount": 3844,
-      "carryover": "$3,844",
-      "wagertype": "Jackpot High-5",
-      "track": "Century Mile Tb",
-      "date": "May 30",
-      "ndate": 20190530
-    },
-    {
-      "carryoverAmount": 2890,
-      "carryover": "$2,890",
-      "wagertype": "Pick 6 Jackpot",
+      "carryoverAmount": 3810,
+      "carryover": "$3,810",
+      "wagertype": "Pick 6",
       "track": "Penn National",
-      "date": "May 30",
-      "ndate": 20190530
+      "date": "May 31",
+      "ndate": 20190531
     },
     {
-      "carryoverAmount": 2207,
-      "carryover": "$2,207",
+      "carryoverAmount": 2568,
+      "carryover": "$2,568",
+      "wagertype": "Pick 6",
+      "track": "Belterra Park",
+      "date": "May 31",
+      "ndate": 20190531
+    },
+    {
+      "carryoverAmount": 2423,
+      "carryover": "$2,423",
       "wagertype": "Super High Five",
-      "track": "Churchill Downs",
-      "date": "May 30",
-      "ndate": 20190530
-    },
-    {
-      "carryoverAmount": 2067,
-      "carryover": "$2,067",
-      "wagertype": "Pick 5",
-      "track": "Presque Isle Downs",
-      "date": "May 30",
-      "ndate": 20190530
-    },
-    {
-      "carryoverAmount": 1602,
-      "carryover": "$1,602",
-      "wagertype": "Z-5 Super Hi-5",
       "track": "Gulfstream Park",
-      "date": "May 30",
-      "ndate": 20190530
+      "date": "May 31",
+      "ndate": 20190531
     },
     {
-      "carryoverAmount": 1562,
-      "carryover": "$1,562",
-      "wagertype": "Z-5 Super Hi-5",
-      "track": "Gulfstream Park",
-      "date": "May 30",
-      "ndate": 20190530
+      "carryoverAmount": 1701,
+      "carryover": "$1,701",
+      "wagertype": "Super High Five",
+      "track": "Prairie Meadows",
+      "date": "May 31",
+      "ndate": 20190531
     },
     {
-      "carryoverAmount": 1263,
-      "carryover": "$1,263",
-      "wagertype": "Z-5 Super Hi-5",
-      "track": "Gulfstream Park",
-      "date": "May 30",
-      "ndate": 20190530
+      "carryoverAmount": 1285,
+      "carryover": "$1,285",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Hollywood Casino At Charles To",
+      "date": "May 31",
+      "ndate": 20190531
     },
     {
       "carryoverAmount": 1039,
@@ -111,6 +127,22 @@
       "track": "Golden Gate Fields",
       "date": "May 31",
       "ndate": 20190531
+    },
+    {
+      "carryoverAmount": 622,
+      "carryover": "$622",
+      "wagertype": "Z-5 Super Hi-5",
+      "track": "Gulfstream Park",
+      "date": "May 31",
+      "ndate": 20190531
+    },
+    {
+      "carryoverAmount": 418,
+      "carryover": "$418",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Presque Isle Downs",
+      "date": "Jun 03",
+      "ndate": 20190603
     }
   ]
 }
