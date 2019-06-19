@@ -25,20 +25,28 @@
       "ndate": 20190619
     },
     {
-      "carryoverAmount": 67868,
-      "carryover": "$67,868",
+      "carryoverAmount": 74051,
+      "carryover": "$74,051",
       "wagertype": "Pick 6 Jackpot",
       "track": "Thistledown",
-      "date": "Jun 18",
-      "ndate": 20190618
+      "date": "Jun 19",
+      "ndate": 20190619
     },
     {
-      "carryoverAmount": 55033,
-      "carryover": "$55,033",
+      "carryoverAmount": 61491,
+      "carryover": "$61,491",
       "wagertype": "Pick 6 Jackpot",
       "track": "Louisiana Downs",
-      "date": "Jun 18",
-      "ndate": 20190618
+      "date": "Jun 19",
+      "ndate": 20190619
+    },
+    {
+      "carryoverAmount": 42466,
+      "carryover": "$42,466",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Monmouth Park",
+      "date": "Jun 21",
+      "ndate": 20190621
     },
     {
       "carryoverAmount": 38322,
@@ -49,20 +57,20 @@
       "ndate": 20190621
     },
     {
+      "carryoverAmount": 35327,
+      "carryover": "$35,327",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Louisiana Downs",
+      "date": "Jun 19",
+      "ndate": 20190619
+    },
+    {
       "carryoverAmount": 34226,
       "carryover": "$34,226",
       "wagertype": "Pick 6",
       "track": "Belmont Park",
       "date": "Jun 19",
       "ndate": 20190619
-    },
-    {
-      "carryoverAmount": 31028,
-      "carryover": "$31,028",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Louisiana Downs",
-      "date": "Jun 18",
-      "ndate": 20190618
     },
     {
       "carryoverAmount": 23686,
@@ -137,12 +145,12 @@
       "ndate": 20190620
     },
     {
-      "carryoverAmount": 3591,
-      "carryover": "$3,591",
+      "carryoverAmount": 4481,
+      "carryover": "$4,481",
       "wagertype": "Pick 6 Jackpot",
       "track": "Presque Isle",
-      "date": "Jun 18",
-      "ndate": 20190618
+      "date": "Jun 19",
+      "ndate": 20190619
     },
     {
       "carryoverAmount": 3054,
@@ -169,12 +177,36 @@
       "ndate": 20190621
     },
     {
+      "carryoverAmount": 1213,
+      "carryover": "$1,213",
+      "wagertype": "Super High Five",
+      "track": "Indiana Grand",
+      "date": "Jun 19",
+      "ndate": 20190619
+    },
+    {
+      "carryoverAmount": 1188,
+      "carryover": "$1,188",
+      "wagertype": "Pick 6",
+      "track": "Indiana Grand",
+      "date": "Jun 19",
+      "ndate": 20190619
+    },
+    {
       "carryoverAmount": 1170,
       "carryover": "$1,170",
       "wagertype": "Pick 7 Jackpot",
       "track": "Emerald Downs",
       "date": "Jun 21",
       "ndate": 20190621
+    },
+    {
+      "carryoverAmount": 712,
+      "carryover": "$712",
+      "wagertype": "Super High Five",
+      "track": "Louisiana Downs",
+      "date": "Jun 19",
+      "ndate": 20190619
     },
     {
       "carryoverAmount": 312,
@@ -185,12 +217,12 @@
       "ndate": 20190620
     },
     {
-      "carryoverAmount": 101,
-      "carryover": "$101",
-      "wagertype": "Pick 6",
-      "track": "Indiana Grand",
-      "date": "Jun 18",
-      "ndate": 20190618
+      "carryoverAmount": 186,
+      "carryover": "$186",
+      "wagertype": "Pick 4",
+      "track": "Marquis Downs",
+      "date": "Jun 21",
+      "ndate": 20190621
     }
   ]
 }
