@@ -1,28 +1,28 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 2616516,
-      "carryover": "$2,616,516",
+      "carryoverAmount": 2683444,
+      "carryover": "$2,683,444",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "Jun 21",
-      "ndate": 20190621
+      "date": "Jun 22",
+      "ndate": 20190622
     },
     {
-      "carryoverAmount": 265083,
-      "carryover": "$265,083",
+      "carryoverAmount": 273495,
+      "carryover": "$273,495",
       "wagertype": "Pick 6 Jackpot",
       "track": "Churchill Downs",
-      "date": "Jun 21",
-      "ndate": 20190621
+      "date": "Jun 22",
+      "ndate": 20190622
     },
     {
-      "carryoverAmount": 102203,
-      "carryover": "$102,203",
+      "carryoverAmount": 107039,
+      "carryover": "$107,039",
       "wagertype": "Super High Five Jackpot",
       "track": "Woodbine",
-      "date": "Jun 21",
-      "ndate": 20190621
+      "date": "Jun 22",
+      "ndate": 20190622
     },
     {
       "carryoverAmount": 66767,
@@ -33,12 +33,12 @@
       "ndate": 20190622
     },
     {
-      "carryoverAmount": 42466,
-      "carryover": "$42,466",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Monmouth Park",
-      "date": "Jun 21",
-      "ndate": 20190621
+      "carryoverAmount": 40426,
+      "carryover": "$40,426",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Arlington",
+      "date": "Jun 22",
+      "ndate": 20190622
     },
     {
       "carryoverAmount": 39488,
@@ -49,76 +49,84 @@
       "ndate": 20190622
     },
     {
-      "carryoverAmount": 38322,
-      "carryover": "$38,322",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Arlington",
-      "date": "Jun 21",
-      "ndate": 20190621
+      "carryoverAmount": 33936,
+      "carryover": "$33,936",
+      "wagertype": "Pick 6",
+      "track": "Belmont Park",
+      "date": "Jun 22",
+      "ndate": 20190622
     },
     {
-      "carryoverAmount": 20435,
-      "carryover": "$20,435",
+      "carryoverAmount": 23968,
+      "carryover": "$23,968",
       "wagertype": "Pick 5",
       "track": "Assiniboia",
-      "date": "Jun 21",
-      "ndate": 20190621
+      "date": "Jun 22",
+      "ndate": 20190622
     },
     {
-      "carryoverAmount": 16015,
-      "carryover": "$16,015",
+      "carryoverAmount": 20734,
+      "carryover": "$20,734",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Santa Anita",
+      "date": "Jun 22",
+      "ndate": 20190622
+    },
+    {
+      "carryoverAmount": 16708,
+      "carryover": "$16,708",
       "wagertype": "Tri Super",
       "track": "Ruidoso Downs",
-      "date": "Jun 21",
-      "ndate": 20190621
+      "date": "Jun 22",
+      "ndate": 20190622
     },
     {
-      "carryoverAmount": 13794,
-      "carryover": "$13,794",
-      "wagertype": "Super High Five",
-      "track": "Santa Anita",
-      "date": "Jun 21",
-      "ndate": 20190621
-    },
-    {
-      "carryoverAmount": 13440,
-      "carryover": "$13,440",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Laurel Park",
-      "date": "Jun 21",
-      "ndate": 20190621
-    },
-    {
-      "carryoverAmount": 11853,
-      "carryover": "$11,853",
+      "carryoverAmount": 16313,
+      "carryover": "$16,313",
       "wagertype": "Pick 6",
       "track": "Pleasanton",
-      "date": "Jun 21",
-      "ndate": 20190621
+      "date": "Jun 22",
+      "ndate": 20190622
     },
     {
-      "carryoverAmount": 7421,
-      "carryover": "$7,421",
-      "wagertype": "Super High Five",
-      "track": "Gulfstream Park",
-      "date": "Jun 21",
-      "ndate": 20190621
-    },
-    {
-      "carryoverAmount": 7057,
-      "carryover": "$7,057",
+      "carryoverAmount": 14984,
+      "carryover": "$14,984",
       "wagertype": "Pick 6 Jackpot",
-      "track": "Charles Town",
-      "date": "Jun 21",
-      "ndate": 20190621
+      "track": "Laurel Park",
+      "date": "Jun 22",
+      "ndate": 20190622
     },
     {
-      "carryoverAmount": 6826,
-      "carryover": "$6,826",
+      "carryoverAmount": 9206,
+      "carryover": "$9,206",
       "wagertype": "Super High Five",
       "track": "Pleasanton",
-      "date": "Jun 21",
-      "ndate": 20190621
+      "date": "Jun 22",
+      "ndate": 20190622
+    },
+    {
+      "carryoverAmount": 8294,
+      "carryover": "$8,294",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Charles Town",
+      "date": "Jun 22",
+      "ndate": 20190622
+    },
+    {
+      "carryoverAmount": 7909,
+      "carryover": "$7,909",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Jun 22",
+      "ndate": 20190622
+    },
+    {
+      "carryoverAmount": 7133,
+      "carryover": "$7,133",
+      "wagertype": "Pick 5",
+      "track": "Arlington",
+      "date": "Jun 22",
+      "ndate": 20190622
     },
     {
       "carryoverAmount": 6153,
@@ -129,18 +137,18 @@
       "ndate": 20190624
     },
     {
-      "carryoverAmount": 4981,
-      "carryover": "$4,981",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Assiniboia",
-      "date": "Jun 21",
-      "ndate": 20190621
-    },
-    {
       "carryoverAmount": 4007,
       "carryover": "$4,007",
       "wagertype": "Pick 6 Jackpot",
       "track": "Lone Star",
+      "date": "Jun 22",
+      "ndate": 20190622
+    },
+    {
+      "carryoverAmount": 3760,
+      "carryover": "$3,760",
+      "wagertype": "Pick 6",
+      "track": "Los Alamitos",
       "date": "Jun 22",
       "ndate": 20190622
     },
@@ -153,20 +161,36 @@
       "ndate": 20190622
     },
     {
-      "carryoverAmount": 2852,
-      "carryover": "$2,852",
-      "wagertype": "Pick 6",
-      "track": "Indiana Grand",
-      "date": "Jun 21",
-      "ndate": 20190621
-    },
-    {
-      "carryoverAmount": 2577,
-      "carryover": "$2,577",
+      "carryoverAmount": 3686,
+      "carryover": "$3,686",
       "wagertype": "Pick 6 Jackpot",
       "track": "Arlington",
-      "date": "Jun 21",
-      "ndate": 20190621
+      "date": "Jun 22",
+      "ndate": 20190622
+    },
+    {
+      "carryoverAmount": 3509,
+      "carryover": "$3,509",
+      "wagertype": "Pick 6",
+      "track": "Indiana Grand",
+      "date": "Jun 22",
+      "ndate": 20190622
+    },
+    {
+      "carryoverAmount": 1798,
+      "carryover": "$1,798",
+      "wagertype": "Pick 5",
+      "track": "Churchill Downs",
+      "date": "Jun 22",
+      "ndate": 20190622
+    },
+    {
+      "carryoverAmount": 1680,
+      "carryover": "$1,680",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Prairie Meadows",
+      "date": "Jun 22",
+      "ndate": 20190622
     },
     {
       "carryoverAmount": 1465,
@@ -177,12 +201,20 @@
       "ndate": 20190622
     },
     {
-      "carryoverAmount": 1170,
-      "carryover": "$1,170",
-      "wagertype": "Pick 7 Jackpot",
-      "track": "Emerald Downs",
-      "date": "Jun 21",
-      "ndate": 20190621
+      "carryoverAmount": 1392,
+      "carryover": "$1,392",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Penn National",
+      "date": "Jun 22",
+      "ndate": 20190622
+    },
+    {
+      "carryoverAmount": 1153,
+      "carryover": "$1,153",
+      "wagertype": "Super High Five",
+      "track": "Indiana Grand",
+      "date": "Jun 22",
+      "ndate": 20190622
     },
     {
       "carryoverAmount": 1068,
@@ -193,28 +225,20 @@
       "ndate": 20190624
     },
     {
-      "carryoverAmount": 692,
-      "carryover": "$692",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Penn National",
-      "date": "Jun 21",
-      "ndate": 20190621
-    },
-    {
-      "carryoverAmount": 665,
-      "carryover": "$665",
+      "carryoverAmount": 878,
+      "carryover": "$878",
       "wagertype": "Pick 6",
       "track": "Belterra Park",
-      "date": "Jun 21",
-      "ndate": 20190621
+      "date": "Jun 22",
+      "ndate": 20190622
     },
     {
-      "carryoverAmount": 186,
-      "carryover": "$186",
+      "carryoverAmount": 371,
+      "carryover": "$371",
       "wagertype": "Pick 4",
       "track": "Marquis Downs",
-      "date": "Jun 21",
-      "ndate": 20190621
+      "date": "Jun 22",
+      "ndate": 20190622
     }
   ]
 }
