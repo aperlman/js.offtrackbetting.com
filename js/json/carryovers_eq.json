@@ -1,12 +1,20 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 234522,
-      "carryover": "$234,522",
+      "carryoverAmount": 245975,
+      "carryover": "$245,975",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Gulfstream Park",
+      "date": "Jul 25",
+      "ndate": 20190725
+    },
+    {
+      "carryoverAmount": 245217,
+      "carryover": "$245,217",
       "wagertype": "Pick 6",
       "track": "Sacramento",
-      "date": "Jul 21",
-      "ndate": 20190721
+      "date": "Jul 25",
+      "ndate": 20190725
     },
     {
       "carryoverAmount": 214536,
@@ -17,60 +25,36 @@
       "ndate": 20190722
     },
     {
-      "carryoverAmount": 204809,
-      "carryover": "$204,809",
+      "carryoverAmount": 128992,
+      "carryover": "$128,992",
       "wagertype": "Pick 6 Jackpot",
-      "track": "Gulfstream Park",
-      "date": "Jul 21",
-      "ndate": 20190721
-    },
-    {
-      "carryoverAmount": 124061,
-      "carryover": "$124,061",
-      "wagertype": "Pick 6",
       "track": "Del Mar",
-      "date": "Jul 21",
-      "ndate": 20190721
+      "date": "Jul 24",
+      "ndate": 20190724
     },
     {
-      "carryoverAmount": 101499,
-      "carryover": "$101,499",
+      "carryoverAmount": 106751,
+      "carryover": "$106,751",
       "wagertype": "Pick 5 Jackpot",
       "track": "Prairie Meadows",
-      "date": "Jul 21",
-      "ndate": 20190721
+      "date": "Jul 25",
+      "ndate": 20190725
     },
     {
-      "carryoverAmount": 72656,
-      "carryover": "$72,656",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Del Mar",
-      "date": "Jul 21",
-      "ndate": 20190721
-    },
-    {
-      "carryoverAmount": 60544,
-      "carryover": "$60,544",
+      "carryoverAmount": 70504,
+      "carryover": "$70,504",
       "wagertype": "Super High Five Jackpot",
       "track": "Woodbine",
-      "date": "Jul 21",
-      "ndate": 20190721
+      "date": "Jul 24",
+      "ndate": 20190724
     },
     {
-      "carryoverAmount": 49970,
-      "carryover": "$49,970",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Lone Star",
-      "date": "Jul 21",
-      "ndate": 20190721
-    },
-    {
-      "carryoverAmount": 43991,
-      "carryover": "$43,991",
+      "carryoverAmount": 48273,
+      "carryover": "$48,273",
       "wagertype": "Super High Five Jackpot",
       "track": "Sacramento",
-      "date": "Jul 21",
-      "ndate": 20190721
+      "date": "Jul 25",
+      "ndate": 20190725
     },
     {
       "carryoverAmount": 29673,
@@ -81,6 +65,14 @@
       "ndate": 20190722
     },
     {
+      "carryoverAmount": 19682,
+      "carryover": "$19,682",
+      "wagertype": "Pick 5",
+      "track": "Emerald Downs",
+      "date": "Jul 26",
+      "ndate": 20190726
+    },
+    {
       "carryoverAmount": 13979,
       "carryover": "$13,979",
       "wagertype": "Pick 6 Jackpot",
@@ -89,12 +81,12 @@
       "ndate": 20190722
     },
     {
-      "carryoverAmount": 10108,
-      "carryover": "$10,108",
+      "carryoverAmount": 12385,
+      "carryover": "$12,385",
       "wagertype": "Super High Five Jackpot",
       "track": "Century Mile",
-      "date": "Jul 21",
-      "ndate": 20190721
+      "date": "Jul 25",
+      "ndate": 20190725
     },
     {
       "carryoverAmount": 8346,
@@ -105,28 +97,20 @@
       "ndate": 20190725
     },
     {
-      "carryoverAmount": 8294,
-      "carryover": "$8,294",
-      "wagertype": "Pick 5",
-      "track": "Mountaineer",
-      "date": "Jul 21",
-      "ndate": 20190721
-    },
-    {
-      "carryoverAmount": 5415,
-      "carryover": "$5,415",
-      "wagertype": "Super High Five",
-      "track": "Mountaineer",
-      "date": "Jul 21",
-      "ndate": 20190721
-    },
-    {
-      "carryoverAmount": 4980,
-      "carryover": "$4,980",
+      "carryoverAmount": 6323,
+      "carryover": "$6,323",
       "wagertype": "Tri Super",
       "track": "Ruidoso Downs",
-      "date": "Jul 21",
-      "ndate": 20190721
+      "date": "Jul 26",
+      "ndate": 20190726
+    },
+    {
+      "carryoverAmount": 5788,
+      "carryover": "$5,788",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Arlington",
+      "date": "Jul 25",
+      "ndate": 20190725
     },
     {
       "carryoverAmount": 4117,
@@ -145,28 +129,20 @@
       "ndate": 20190725
     },
     {
-      "carryoverAmount": 3367,
-      "carryover": "$3,367",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Arlington",
-      "date": "Jul 21",
-      "ndate": 20190721
-    },
-    {
-      "carryoverAmount": 2609,
-      "carryover": "$2,609",
-      "wagertype": "Twin Trifecta",
-      "track": "Gillespie",
-      "date": "Jul 21",
-      "ndate": 20190721
-    },
-    {
-      "carryoverAmount": 2119,
-      "carryover": "$2,119",
+      "carryoverAmount": 3391,
+      "carryover": "$3,391",
       "wagertype": "Pick 7 Jackpot",
       "track": "Emerald Downs",
-      "date": "Jul 21",
-      "ndate": 20190721
+      "date": "Jul 26",
+      "ndate": 20190726
+    },
+    {
+      "carryoverAmount": 2750,
+      "carryover": "$2,750",
+      "wagertype": "Super High Five",
+      "track": "Ellis Park",
+      "date": "Jul 26",
+      "ndate": 20190726
     },
     {
       "carryoverAmount": 1289,
@@ -177,28 +153,20 @@
       "ndate": 20190724
     },
     {
-      "carryoverAmount": 1095,
-      "carryover": "$1,095",
+      "carryoverAmount": 899,
+      "carryover": "$899",
       "wagertype": "Super High Five",
+      "track": "Fort Erie",
+      "date": "Jul 23",
+      "ndate": 20190723
+    },
+    {
+      "carryoverAmount": 227,
+      "carryover": "$227",
+      "wagertype": "Pick 6 Jackpot",
       "track": "Presque Isle",
-      "date": "Jul 21",
-      "ndate": 20190721
-    },
-    {
-      "carryoverAmount": 1074,
-      "carryover": "$1,074",
-      "wagertype": "Super High Five",
-      "track": "Ellis Park",
-      "date": "Jul 21",
-      "ndate": 20190721
-    },
-    {
-      "carryoverAmount": 579,
-      "carryover": "$579",
-      "wagertype": "Super High Five",
-      "track": "Prairie Meadows",
-      "date": "Jul 21",
-      "ndate": 20190721
+      "date": "Jul 22",
+      "ndate": 20190722
     }
   ]
 }
