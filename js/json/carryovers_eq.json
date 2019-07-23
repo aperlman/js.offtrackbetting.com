@@ -17,12 +17,12 @@
       "ndate": 20190725
     },
     {
-      "carryoverAmount": 214536,
-      "carryover": "$214,536",
+      "carryoverAmount": 226214,
+      "carryover": "$226,214",
       "wagertype": "Pick 6 Jackpot",
       "track": "Louisiana Downs",
-      "date": "Jul 22",
-      "ndate": 20190722
+      "date": "Jul 23",
+      "ndate": 20190723
     },
     {
       "carryoverAmount": 128992,
@@ -57,12 +57,12 @@
       "ndate": 20190725
     },
     {
-      "carryoverAmount": 29673,
-      "carryover": "$29,673",
+      "carryoverAmount": 36066,
+      "carryover": "$36,066",
       "wagertype": "Pick 5 Jackpot",
       "track": "Louisiana Downs",
-      "date": "Jul 22",
-      "ndate": 20190722
+      "date": "Jul 23",
+      "ndate": 20190723
     },
     {
       "carryoverAmount": 19682,
@@ -73,12 +73,12 @@
       "ndate": 20190726
     },
     {
-      "carryoverAmount": 13979,
-      "carryover": "$13,979",
+      "carryoverAmount": 15568,
+      "carryover": "$15,568",
       "wagertype": "Pick 6 Jackpot",
       "track": "Thistledown",
-      "date": "Jul 22",
-      "ndate": 20190722
+      "date": "Jul 23",
+      "ndate": 20190723
     },
     {
       "carryoverAmount": 12385,
@@ -137,6 +137,14 @@
       "ndate": 20190726
     },
     {
+      "carryoverAmount": 3011,
+      "carryover": "$3,011",
+      "wagertype": "Pick 4",
+      "track": "Canterbury Park",
+      "date": "Jul 25",
+      "ndate": 20190725
+    },
+    {
       "carryoverAmount": 2750,
       "carryover": "$2,750",
       "wagertype": "Super High Five",
@@ -153,20 +161,20 @@
       "ndate": 20190724
     },
     {
+      "carryoverAmount": 950,
+      "carryover": "$950",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Presque Isle",
+      "date": "Jul 23",
+      "ndate": 20190723
+    },
+    {
       "carryoverAmount": 899,
       "carryover": "$899",
       "wagertype": "Super High Five",
       "track": "Fort Erie",
       "date": "Jul 23",
       "ndate": 20190723
-    },
-    {
-      "carryoverAmount": 227,
-      "carryover": "$227",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Presque Isle",
-      "date": "Jul 22",
-      "ndate": 20190722
     }
   ]
 }
