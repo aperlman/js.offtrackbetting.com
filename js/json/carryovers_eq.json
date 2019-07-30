@@ -9,12 +9,12 @@
       "ndate": 20190731
     },
     {
-      "carryoverAmount": 248599,
-      "carryover": "$248,599",
+      "carryoverAmount": 259263,
+      "carryover": "$259,263",
       "wagertype": "Pick 6 Jackpot",
       "track": "Louisiana Downs",
-      "date": "Jul 29",
-      "ndate": 20190729
+      "date": "Jul 30",
+      "ndate": 20190730
     },
     {
       "carryoverAmount": 209286,
@@ -97,14 +97,6 @@
       "ndate": 20190802
     },
     {
-      "carryoverAmount": 10339,
-      "carryover": "$10,339",
-      "wagertype": "Pick 5",
-      "track": "Mountaineer",
-      "date": "Jul 29",
-      "ndate": 20190729
-    },
-    {
       "carryoverAmount": 9294,
       "carryover": "$9,294",
       "wagertype": "Pick 7 Jackpot",
@@ -129,6 +121,22 @@
       "ndate": 20190801
     },
     {
+      "carryoverAmount": 4943,
+      "carryover": "$4,943",
+      "wagertype": "Super High Five",
+      "track": "Presque Isle",
+      "date": "Jul 30",
+      "ndate": 20190730
+    },
+    {
+      "carryoverAmount": 4670,
+      "carryover": "$4,670",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Presque Isle",
+      "date": "Jul 30",
+      "ndate": 20190730
+    },
+    {
       "carryoverAmount": 4046,
       "carryover": "$4,046",
       "wagertype": "Super High Five",
@@ -137,20 +145,12 @@
       "ndate": 20190730
     },
     {
-      "carryoverAmount": 3687,
-      "carryover": "$3,687",
-      "wagertype": "Pick 5",
-      "track": "Finger Lakes",
-      "date": "Jul 29",
-      "ndate": 20190729
-    },
-    {
-      "carryoverAmount": 3256,
-      "carryover": "$3,256",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Presque Isle",
-      "date": "Jul 29",
-      "ndate": 20190729
+      "carryoverAmount": 3240,
+      "carryover": "$3,240",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Louisiana Downs",
+      "date": "Jul 30",
+      "ndate": 20190730
     },
     {
       "carryoverAmount": 3104,
@@ -193,6 +193,14 @@
       "ndate": 20190730
     },
     {
+      "carryoverAmount": 1047,
+      "carryover": "$1,047",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Thistledown",
+      "date": "Jul 30",
+      "ndate": 20190730
+    },
+    {
       "carryoverAmount": 808,
       "carryover": "$808",
       "wagertype": "Pick 6 Jackpot",
@@ -209,36 +217,12 @@
       "ndate": 20190801
     },
     {
-      "carryoverAmount": 522,
-      "carryover": "$522",
-      "wagertype": "Pick 5",
-      "track": "Presque Isle",
-      "date": "Jul 29",
-      "ndate": 20190729
-    },
-    {
-      "carryoverAmount": 326,
-      "carryover": "$326",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Thistledown",
-      "date": "Jul 29",
-      "ndate": 20190729
-    },
-    {
       "carryoverAmount": 169,
       "carryover": "$169",
       "wagertype": "Super High Five Jackpot",
       "track": "Century Mile",
       "date": "Aug 01",
       "ndate": 20190801
-    },
-    {
-      "carryoverAmount": 118,
-      "carryover": "$118",
-      "wagertype": "Super High Five",
-      "track": "Louisiana Downs",
-      "date": "Jul 29",
-      "ndate": 20190729
     }
   ]
 }
