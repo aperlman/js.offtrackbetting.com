@@ -9,12 +9,12 @@
       "ndate": 20190731
     },
     {
-      "carryoverAmount": 259263,
-      "carryover": "$259,263",
+      "carryoverAmount": 270112,
+      "carryover": "$270,112",
       "wagertype": "Pick 6 Jackpot",
       "track": "Louisiana Downs",
-      "date": "Jul 30",
-      "ndate": 20190730
+      "date": "Jul 31",
+      "ndate": 20190731
     },
     {
       "carryoverAmount": 209286,
@@ -113,44 +113,36 @@
       "ndate": 20190801
     },
     {
+      "carryoverAmount": 5955,
+      "carryover": "$5,955",
+      "wagertype": "Super High Five",
+      "track": "Presque Isle",
+      "date": "Jul 31",
+      "ndate": 20190731
+    },
+    {
+      "carryoverAmount": 5843,
+      "carryover": "$5,843",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Louisiana Downs",
+      "date": "Jul 31",
+      "ndate": 20190731
+    },
+    {
+      "carryoverAmount": 5663,
+      "carryover": "$5,663",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Presque Isle",
+      "date": "Jul 31",
+      "ndate": 20190731
+    },
+    {
       "carryoverAmount": 5327,
       "carryover": "$5,327",
       "wagertype": "Pick 5",
       "track": "Laurel Park",
       "date": "Aug 01",
       "ndate": 20190801
-    },
-    {
-      "carryoverAmount": 4943,
-      "carryover": "$4,943",
-      "wagertype": "Super High Five",
-      "track": "Presque Isle",
-      "date": "Jul 30",
-      "ndate": 20190730
-    },
-    {
-      "carryoverAmount": 4670,
-      "carryover": "$4,670",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Presque Isle",
-      "date": "Jul 30",
-      "ndate": 20190730
-    },
-    {
-      "carryoverAmount": 4046,
-      "carryover": "$4,046",
-      "wagertype": "Super High Five",
-      "track": "Fort Erie",
-      "date": "Jul 30",
-      "ndate": 20190730
-    },
-    {
-      "carryoverAmount": 3240,
-      "carryover": "$3,240",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Louisiana Downs",
-      "date": "Jul 30",
-      "ndate": 20190730
     },
     {
       "carryoverAmount": 3158,
@@ -169,20 +161,20 @@
       "ndate": 20190801
     },
     {
+      "carryoverAmount": 2901,
+      "carryover": "$2,901",
+      "wagertype": "Pick 6",
+      "track": "Indiana Grand",
+      "date": "Jul 31",
+      "ndate": 20190731
+    },
+    {
       "carryoverAmount": 2807,
       "carryover": "$2,807",
       "wagertype": "Pick 5",
       "track": "Hastings",
       "date": "Aug 02",
       "ndate": 20190802
-    },
-    {
-      "carryoverAmount": 2573,
-      "carryover": "$2,573",
-      "wagertype": "Pick 5",
-      "track": "Indiana Grand",
-      "date": "Jul 30",
-      "ndate": 20190730
     },
     {
       "carryoverAmount": 2221,
@@ -193,20 +185,20 @@
       "ndate": 20190801
     },
     {
-      "carryoverAmount": 1731,
-      "carryover": "$1,731",
-      "wagertype": "Pick 6",
+      "carryoverAmount": 2132,
+      "carryover": "$2,132",
+      "wagertype": "Super High Five",
       "track": "Indiana Grand",
-      "date": "Jul 30",
-      "ndate": 20190730
+      "date": "Jul 31",
+      "ndate": 20190731
     },
     {
-      "carryoverAmount": 1047,
-      "carryover": "$1,047",
+      "carryoverAmount": 1749,
+      "carryover": "$1,749",
       "wagertype": "Pick 6 Jackpot",
       "track": "Thistledown",
-      "date": "Jul 30",
-      "ndate": 20190730
+      "date": "Jul 31",
+      "ndate": 20190731
     },
     {
       "carryoverAmount": 808,
@@ -225,12 +217,28 @@
       "ndate": 20190801
     },
     {
+      "carryoverAmount": 400,
+      "carryover": "$400",
+      "wagertype": "Superfecta",
+      "track": "Marquis Downs",
+      "date": "Aug 02",
+      "ndate": 20190802
+    },
+    {
       "carryoverAmount": 169,
       "carryover": "$169",
       "wagertype": "Super High Five Jackpot",
       "track": "Century Mile",
       "date": "Aug 01",
       "ndate": 20190801
+    },
+    {
+      "carryoverAmount": 113,
+      "carryover": "$113",
+      "wagertype": "Pick 4",
+      "track": "Marquis Downs",
+      "date": "Aug 02",
+      "ndate": 20190802
     }
   ]
 }
