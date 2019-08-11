@@ -1,84 +1,60 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 526057,
-      "carryover": "$526,057",
+      "carryoverAmount": 560068,
+      "carryover": "$560,068",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "Aug 10",
-      "ndate": 20190810
+      "date": "Aug 11",
+      "ndate": 20190811
     },
     {
-      "carryoverAmount": 189182,
-      "carryover": "$189,182",
+      "carryoverAmount": 200043,
+      "carryover": "$200,043",
       "wagertype": "Pick 6 Jackpot",
       "track": "Monmouth Park",
-      "date": "Aug 10",
-      "ndate": 20190810
+      "date": "Aug 11",
+      "ndate": 20190811
     },
     {
-      "carryoverAmount": 187282,
-      "carryover": "$187,282",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Prairie Meadows",
-      "date": "Aug 10",
-      "ndate": 20190810
-    },
-    {
-      "carryoverAmount": 173050,
-      "carryover": "$173,050",
+      "carryoverAmount": 180316,
+      "carryover": "$180,316",
       "wagertype": "Super High Five Jackpot",
       "track": "Woodbine",
-      "date": "Aug 10",
-      "ndate": 20190810
+      "date": "Aug 11",
+      "ndate": 20190811
     },
     {
-      "carryoverAmount": 93287,
-      "carryover": "$93,287",
+      "carryoverAmount": 163530,
+      "carryover": "$163,530",
       "wagertype": "Pick 6 Jackpot",
       "track": "Saratoga",
-      "date": "Aug 10",
-      "ndate": 20190810
+      "date": "Aug 11",
+      "ndate": 20190811
     },
     {
-      "carryoverAmount": 62490,
-      "carryover": "$62,490",
+      "carryoverAmount": 76383,
+      "carryover": "$76,383",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Arlington",
+      "date": "Aug 11",
+      "ndate": 20190811
+    },
+    {
+      "carryoverAmount": 74832,
+      "carryover": "$74,832",
       "wagertype": "Super High Five Jackpot",
       "track": "Arlington",
-      "date": "Aug 10",
-      "ndate": 20190810
+      "date": "Aug 11",
+      "ndate": 20190811
     },
     {
-      "carryoverAmount": 43150,
-      "carryover": "$43,150",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Arlington",
-      "date": "Aug 10",
-      "ndate": 20190810
-    },
-    {
-      "carryoverAmount": 26402,
-      "carryover": "$26,402",
+      "carryoverAmount": 29499,
+      "carryover": "$29,499",
       "wagertype": "Pick 6 Jackpot",
       "track": "Laurel Park",
-      "date": "Aug 10",
-      "ndate": 20190810
-    },
-    {
-      "carryoverAmount": 19725,
-      "carryover": "$19,725",
-      "wagertype": "Super High Five",
-      "track": "Del Mar",
-      "date": "Aug 10",
-      "ndate": 20190810
-    },
-    {
-      "carryoverAmount": 17273,
-      "carryover": "$17,273",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Del Mar",
-      "date": "Aug 10",
-      "ndate": 20190810
+      "date": "Aug 11",
+      "ndate": 20190811
     },
     {
       "carryoverAmount": 16168,
@@ -89,12 +65,12 @@
       "ndate": 20190811
     },
     {
-      "carryoverAmount": 14717,
-      "carryover": "$14,717",
+      "carryoverAmount": 15279,
+      "carryover": "$15,279",
       "wagertype": "Super High Five Jackpot",
       "track": "Penn National",
-      "date": "Aug 10",
-      "ndate": 20190810
+      "date": "Aug 15",
+      "ndate": 20190815
     },
     {
       "carryoverAmount": 14412,
@@ -105,60 +81,44 @@
       "ndate": 20190811
     },
     {
-      "carryoverAmount": 11576,
-      "carryover": "$11,576",
-      "wagertype": "Pick 5",
-      "track": "Monmouth Park",
-      "date": "Aug 10",
-      "ndate": 20190810
+      "carryoverAmount": 6511,
+      "carryover": "$6,511",
+      "wagertype": "Pick 4",
+      "track": "Assiniboia",
+      "date": "Aug 14",
+      "ndate": 20190814
     },
     {
-      "carryoverAmount": 7158,
-      "carryover": "$7,158",
-      "wagertype": "Super High Five",
-      "track": "Louisiana Downs",
-      "date": "Aug 10",
-      "ndate": 20190810
-    },
-    {
-      "carryoverAmount": 5464,
-      "carryover": "$5,464",
+      "carryoverAmount": 6425,
+      "carryover": "$6,425",
       "wagertype": "Pick 5 Jackpot",
       "track": "Louisiana Downs",
-      "date": "Aug 10",
-      "ndate": 20190810
+      "date": "Aug 12",
+      "ndate": 20190812
     },
     {
-      "carryoverAmount": 4955,
-      "carryover": "$4,955",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Assiniboia",
-      "date": "Aug 10",
-      "ndate": 20190810
+      "carryoverAmount": 5534,
+      "carryover": "$5,534",
+      "wagertype": "Pick 5",
+      "track": "Laurel Park",
+      "date": "Aug 11",
+      "ndate": 20190811
     },
     {
-      "carryoverAmount": 3850,
-      "carryover": "$3,850",
-      "wagertype": "Pick 6",
-      "track": "Los Alamitos",
-      "date": "Aug 10",
-      "ndate": 20190810
+      "carryoverAmount": 3199,
+      "carryover": "$3,199",
+      "wagertype": "Pick 7 Jackpot",
+      "track": "Emerald Downs",
+      "date": "Aug 11",
+      "ndate": 20190811
     },
     {
-      "carryoverAmount": 3691,
-      "carryover": "$3,691",
-      "wagertype": "Twin Trifecta",
-      "track": "Gillespie",
-      "date": "Aug 10",
-      "ndate": 20190810
-    },
-    {
-      "carryoverAmount": 2893,
-      "carryover": "$2,893",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Century Mile",
-      "date": "Aug 10",
-      "ndate": 20190810
+      "carryoverAmount": 3065,
+      "carryover": "$3,065",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Canterbury Park",
+      "date": "Aug 11",
+      "ndate": 20190811
     },
     {
       "carryoverAmount": 2749,
@@ -169,84 +129,68 @@
       "ndate": 20190811
     },
     {
-      "carryoverAmount": 2681,
-      "carryover": "$2,681",
-      "wagertype": "Super High Five",
-      "track": "Gulfstream Park",
-      "date": "Aug 10",
-      "ndate": 20190810
-    },
-    {
-      "carryoverAmount": 2093,
-      "carryover": "$2,093",
-      "wagertype": "Pick 7 Jackpot",
-      "track": "Emerald Downs",
-      "date": "Aug 10",
-      "ndate": 20190810
-    },
-    {
-      "carryoverAmount": 2055,
-      "carryover": "$2,055",
+      "carryoverAmount": 2252,
+      "carryover": "$2,252",
       "wagertype": "Pick 6",
       "track": "Indiana Grand",
-      "date": "Aug 10",
-      "ndate": 20190810
+      "date": "Aug 13",
+      "ndate": 20190813
     },
     {
-      "carryoverAmount": 1984,
-      "carryover": "$1,984",
+      "carryoverAmount": 2230,
+      "carryover": "$2,230",
       "wagertype": "Pick 6",
       "track": "Belterra Park",
-      "date": "Aug 10",
-      "ndate": 20190810
+      "date": "Aug 11",
+      "ndate": 20190811
     },
     {
-      "carryoverAmount": 1874,
-      "carryover": "$1,874",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Assiniboia",
-      "date": "Aug 10",
-      "ndate": 20190810
-    },
-    {
-      "carryoverAmount": 1496,
-      "carryover": "$1,496",
-      "wagertype": "Super High Five",
-      "track": "Indiana Grand",
-      "date": "Aug 10",
-      "ndate": 20190810
-    },
-    {
-      "carryoverAmount": 1410,
-      "carryover": "$1,410",
-      "wagertype": "Super High Five",
-      "track": "Ellis Park",
-      "date": "Aug 10",
-      "ndate": 20190810
-    },
-    {
-      "carryoverAmount": 1055,
-      "carryover": "$1,055",
+      "carryoverAmount": 1515,
+      "carryover": "$1,515",
       "wagertype": "Pick 6 Jackpot",
       "track": "Penn National",
-      "date": "Aug 10",
-      "ndate": 20190810
+      "date": "Aug 15",
+      "ndate": 20190815
     },
     {
-      "carryoverAmount": 895,
-      "carryover": "$895",
+      "carryoverAmount": 1438,
+      "carryover": "$1,438",
       "wagertype": "Tri Super",
       "track": "Ruidoso Downs",
-      "date": "Aug 10",
-      "ndate": 20190810
+      "date": "Aug 11",
+      "ndate": 20190811
     },
     {
-      "carryoverAmount": 772,
-      "carryover": "$772",
+      "carryoverAmount": 1108,
+      "carryover": "$1,108",
+      "wagertype": "Super High Five",
+      "track": "Indiana Grand",
+      "date": "Aug 13",
+      "ndate": 20190813
+    },
+    {
+      "carryoverAmount": 1089,
+      "carryover": "$1,089",
       "wagertype": "Pick 6 Jackpot",
-      "track": "Charles Town",
-      "date": "Aug 10",
-      "ndate": 20190810
+      "track": "Louisiana Downs",
+      "date": "Aug 12",
+      "ndate": 20190812
+    },
+    {
+      "carryoverAmount": 1041,
+      "carryover": "$1,041",
+      "wagertype": "Super High Five",
+      "track": "Santa Rosa",
+      "date": "Aug 11",
+      "ndate": 20190811
+    },
+    {
+      "carryoverAmount": 482,
+      "carryover": "$482",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Thistledown",
+      "date": "Aug 12",
+      "ndate": 20190812
     }
   ]
 }
