@@ -1,62 +1,90 @@
 {
   "todaysraces": {
-    "headline": "OTB Schedule: Tuesday, Sep 03",
+    "headline": "OTB Schedule: Wednesday, Sep 04",
     "tracks": [
       {
+        "name": "Albuquerque",
+        "time": " 8:05 PM"
+      },
+      {
         "name": "Australia A",
-        "time": "10:33 PM"
+        "time": "10:25 PM"
       },
       {
         "name": "Australia B",
-        "time": "11:25 PM"
+        "time": "11:20 PM"
       },
       {
         "name": "Australia C",
-        "time": " 4:58 AM"
+        "time": "11:40 PM"
+      },
+      {
+        "name": "Australia D",
+        "time": "11:47 PM"
+      },
+      {
+        "name": "Bath (UK)",
+        "time": " 9:00 AM"
       },
       {
         "name": "Birmingham Eve",
         "time": " 7:15 PM"
       },
       {
-        "name": "Catterick (UK)",
+        "name": "Birmingham Mat",
+        "time": " 3:00 PM"
+      },
+      {
+        "name": "Chelmsford City (UK)",
+        "time": "12:45 PM"
+      },
+      {
+        "name": "Colonial Downs (TB)",
+        "time": " 5:00 PM"
+      },
+      {
+        "name": "Curraheen (IG)",
+        "time": " 1:57 PM"
+      },
+      {
+        "name": "Delaware Park",
         "time": " 1:15 PM"
       },
       {
         "name": "Finger Lakes",
-        "time": " 1:13 PM"
+        "time": " 1:10 PM"
       },
       {
-        "name": "Flamboro Downs",
-        "time": " 6:35 PM"
+        "name": "Gowran (IRE)",
+        "time": " 9:05 AM"
       },
       {
-        "name": "Fort Erie",
-        "time": " 1:20 PM"
+        "name": "Grand River",
+        "time": " 6:30 PM"
       },
       {
-        "name": "Gawler",
-        "time": "11:50 PM"
+        "name": "Hamilton Park (UK)",
+        "time": "12:30 PM"
       },
       {
-        "name": "Goodwood (UK)",
-        "time": " 1:15 PM"
+        "name": "Harrahs Philly (Chester)",
+        "time": "12:24 PM"
       },
       {
         "name": "Harrington Raceway",
-        "time": " 4:29 PM"
+        "time": " 4:30 PM"
       },
       {
-        "name": "Kempton Park (UK)",
-        "time": "12:54 PM"
+        "name": "Iowa Greyhound Park Eve",
+        "time": " 7:30 PM"
       },
       {
-        "name": "Ladbrokes Park Hillside",
-        "time": "11:00 PM"
+        "name": "Kenilworth (SAF)",
+        "time": " 7:06 AM"
       },
       {
         "name": "Monticello Raceway",
-        "time": "12:57 PM"
+        "time": "12:50 PM"
       },
       {
         "name": "Mountaineer Park",
@@ -64,55 +92,59 @@
       },
       {
         "name": "New Zealand",
-        "time": " 8:32 PM"
+        "time": " 9:07 PM"
       },
       {
-        "name": "Parx Racing",
-        "time": " 1:03 PM"
+        "name": "Northfield Park",
+        "time": " 6:00 PM"
       },
       {
-        "name": "Pocono Downs",
-        "time": " 3:59 PM"
+        "name": "Palm Beach Mat",
+        "time": " 1:00 PM"
       },
       {
-        "name": "Prairie Meadows (TB)",
-        "time": " 7:00 PM"
+        "name": "Penn National",
+        "time": " 6:00 PM"
       },
       {
         "name": "Retama Park",
         "time": " 8:30 PM"
       },
       {
-        "name": "Running Aces",
-        "time": " 8:00 PM"
+        "name": "Sanford Mat",
+        "time": " 1:30 PM"
       },
       {
-        "name": "Salisbury (UK)",
-        "time": "12:04 PM"
+        "name": "Saratoga Harness",
+        "time": "12:00 PM"
       },
       {
-        "name": "Shelbourne Park (IG)",
-        "time": " 2:54 PM"
+        "name": "Scioto Downs",
+        "time": " 6:30 PM"
+      },
+      {
+        "name": "Southland Twilight",
+        "time": " 5:30 PM"
+      },
+      {
+        "name": "Southwell (UK)",
+        "time": " 8:40 AM"
       },
       {
         "name": "Thistledown",
         "time": " 1:40 PM"
       },
       {
-        "name": "Tralee (IG)",
-        "time": " 1:57 PM"
+        "name": "Tri-State Eve",
+        "time": " 7:00 PM"
       },
       {
-        "name": "Turffontein (SAF)",
-        "time": " 1:15 PM"
+        "name": "Uttoxeter (UK)",
+        "time": " 8:50 AM"
       },
       {
-        "name": "Woodbine at Mohawk",
-        "time": " 7:10 PM"
-      },
-      {
-        "name": "Yonkers Raceway",
-        "time": " 6:50 PM"
+        "name": "Wheeling Downs Mat",
+        "time": " 1:00 PM"
       }
     ]
   }
