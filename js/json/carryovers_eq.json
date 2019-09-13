@@ -1,28 +1,28 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 1262470,
-      "carryover": "$1,262,470",
+      "carryoverAmount": 1294231,
+      "carryover": "$1,294,231",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "Sep 12",
-      "ndate": 20190912
+      "date": "Sep 13",
+      "ndate": 20190913
     },
     {
-      "carryoverAmount": 165501,
-      "carryover": "$165,501",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Arlington",
-      "date": "Sep 12",
-      "ndate": 20190912
-    },
-    {
-      "carryoverAmount": 97738,
-      "carryover": "$97,738",
+      "carryoverAmount": 120833,
+      "carryover": "$120,833",
       "wagertype": "Pick 6",
       "track": "Belmont Park",
-      "date": "Sep 12",
-      "ndate": 20190912
+      "date": "Sep 13",
+      "ndate": 20190913
+    },
+    {
+      "carryoverAmount": 32182,
+      "carryover": "$32,182",
+      "wagertype": "Pick 5",
+      "track": "Gulfstream Park",
+      "date": "Sep 13",
+      "ndate": 20190913
     },
     {
       "carryoverAmount": 22546,
@@ -57,12 +57,12 @@
       "ndate": 20190913
     },
     {
-      "carryoverAmount": 10962,
-      "carryover": "$10,962",
-      "wagertype": "Pick 5",
-      "track": "Arlington",
-      "date": "Sep 12",
-      "ndate": 20190912
+      "carryoverAmount": 12133,
+      "carryover": "$12,133",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Charles Town",
+      "date": "Sep 13",
+      "ndate": 20190913
     },
     {
       "carryoverAmount": 10004,
@@ -73,12 +73,12 @@
       "ndate": 20190914
     },
     {
-      "carryoverAmount": 9882,
-      "carryover": "$9,882",
+      "carryoverAmount": 9664,
+      "carryover": "$9,664",
       "wagertype": "Pick 6 Jackpot",
-      "track": "Charles Town",
-      "date": "Sep 12",
-      "ndate": 20190912
+      "track": "Golden Gate",
+      "date": "Sep 13",
+      "ndate": 20190913
     },
     {
       "carryoverAmount": 8034,
@@ -89,26 +89,26 @@
       "ndate": 20190913
     },
     {
-      "carryoverAmount": 6960,
-      "carryover": "$6,960",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Golden Gate",
-      "date": "Sep 12",
-      "ndate": 20190912
-    },
-    {
-      "carryoverAmount": 4589,
-      "carryover": "$4,589",
+      "carryoverAmount": 5346,
+      "carryover": "$5,346",
       "wagertype": "Super High Five Jackpot",
       "track": "Penn National",
-      "date": "Sep 12",
-      "ndate": 20190912
+      "date": "Sep 13",
+      "ndate": 20190913
     },
     {
       "carryoverAmount": 4210,
       "carryover": "$4,210",
       "wagertype": "Super High Five",
       "track": "Los Alamitos",
+      "date": "Sep 13",
+      "ndate": 20190913
+    },
+    {
+      "carryoverAmount": 3547,
+      "carryover": "$3,547",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Remington Park",
       "date": "Sep 13",
       "ndate": 20190913
     },
@@ -121,18 +121,26 @@
       "ndate": 20190913
     },
     {
-      "carryoverAmount": 2871,
-      "carryover": "$2,871",
+      "carryoverAmount": 3444,
+      "carryover": "$3,444",
       "wagertype": "Pick 6 Jackpot",
       "track": "Presque Isle",
-      "date": "Sep 12",
-      "ndate": 20190912
+      "date": "Sep 16",
+      "ndate": 20190916
     },
     {
       "carryoverAmount": 2553,
       "carryover": "$2,553",
       "wagertype": "Pick 6",
       "track": "Indiana Grand",
+      "date": "Sep 13",
+      "ndate": 20190913
+    },
+    {
+      "carryoverAmount": 2349,
+      "carryover": "$2,349",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Penn National",
       "date": "Sep 13",
       "ndate": 20190913
     },
@@ -169,20 +177,36 @@
       "ndate": 20190914
     },
     {
-      "carryoverAmount": 1016,
-      "carryover": "$1,016",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Penn National",
-      "date": "Sep 12",
-      "ndate": 20190912
+      "carryoverAmount": 1125,
+      "carryover": "$1,125",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Sep 13",
+      "ndate": 20190913
     },
     {
-      "carryoverAmount": 399,
-      "carryover": "$399",
+      "carryoverAmount": 1027,
+      "carryover": "$1,027",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Arlington",
+      "date": "Sep 13",
+      "ndate": 20190913
+    },
+    {
+      "carryoverAmount": 1027,
+      "carryover": "$1,027",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Fort Erie",
+      "date": "Sep 15",
+      "ndate": 20190915
+    },
+    {
+      "carryoverAmount": 648,
+      "carryover": "$648",
       "wagertype": "Pick 6",
       "track": "Belterra Park",
-      "date": "Sep 12",
-      "ndate": 20190912
+      "date": "Sep 13",
+      "ndate": 20190913
     }
   ]
 }
