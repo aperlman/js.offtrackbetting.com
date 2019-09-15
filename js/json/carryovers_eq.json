@@ -11,7 +11,7 @@
     {
       "carryoverAmount": 181894,
       "carryover": "$181,894",
-      "wagertype": "Pick 6",
+      "wagertype": "Pick 6 Jackpot",
       "track": "Belmont Park",
       "date": "Sep 15",
       "ndate": 20190915
@@ -137,14 +137,6 @@
       "ndate": 20190918
     },
     {
-      "carryoverAmount": 1759,
-      "carryover": "$1,759",
-      "wagertype": "Super High Five",
-      "track": "Golden Gate",
-      "date": "Sep 15",
-      "ndate": 20190915
-    },
-    {
       "carryoverAmount": 1745,
       "carryover": "$1,745",
       "wagertype": "Super High Five",
@@ -207,14 +199,6 @@
       "track": "Louisiana Downs",
       "date": "Sep 16",
       "ndate": 20190916
-    },
-    {
-      "carryoverAmount": 399,
-      "carryover": "$399",
-      "wagertype": "Super High Five",
-      "track": "Indiana Grand",
-      "date": "Sep 17",
-      "ndate": 20190917
     }
   ]
 }
