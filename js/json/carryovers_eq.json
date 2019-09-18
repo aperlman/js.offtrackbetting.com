@@ -33,12 +33,12 @@
       "ndate": 20190919
     },
     {
-      "carryoverAmount": 26427,
-      "carryover": "$26,427",
+      "carryoverAmount": 28703,
+      "carryover": "$28,703",
       "wagertype": "Pick 6 Jackpot",
       "track": "Thistledown",
-      "date": "Sep 17",
-      "ndate": 20190917
+      "date": "Sep 18",
+      "ndate": 20190918
     },
     {
       "carryoverAmount": 22480,
@@ -55,6 +55,14 @@
       "track": "Golden Gate",
       "date": "Sep 19",
       "ndate": 20190919
+    },
+    {
+      "carryoverAmount": 17997,
+      "carryover": "$17,997",
+      "wagertype": "Pick 5",
+      "track": "Indiana Grand",
+      "date": "Sep 18",
+      "ndate": 20190918
     },
     {
       "carryoverAmount": 12629,
@@ -89,6 +97,14 @@
       "ndate": 20190919
     },
     {
+      "carryoverAmount": 7276,
+      "carryover": "$7,276",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Louisiana Downs",
+      "date": "Sep 18",
+      "ndate": 20190918
+    },
+    {
       "carryoverAmount": 7206,
       "carryover": "$7,206",
       "wagertype": "Super High Five Jackpot",
@@ -97,12 +113,36 @@
       "ndate": 20190918
     },
     {
-      "carryoverAmount": 5830,
-      "carryover": "$5,830",
+      "carryoverAmount": 7089,
+      "carryover": "$7,089",
       "wagertype": "Pick 6 Jackpot",
       "track": "Presque Isle",
-      "date": "Sep 17",
-      "ndate": 20190917
+      "date": "Sep 18",
+      "ndate": 20190918
+    },
+    {
+      "carryoverAmount": 6517,
+      "carryover": "$6,517",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Louisiana Downs",
+      "date": "Sep 18",
+      "ndate": 20190918
+    },
+    {
+      "carryoverAmount": 5467,
+      "carryover": "$5,467",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Presque Isle",
+      "date": "Sep 18",
+      "ndate": 20190918
+    },
+    {
+      "carryoverAmount": 4840,
+      "carryover": "$4,840",
+      "wagertype": "Pick 6",
+      "track": "Indiana Grand",
+      "date": "Sep 18",
+      "ndate": 20190918
     },
     {
       "carryoverAmount": 4817,
@@ -113,44 +153,12 @@
       "ndate": 20190920
     },
     {
-      "carryoverAmount": 3618,
-      "carryover": "$3,618",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Louisiana Downs",
-      "date": "Sep 17",
-      "ndate": 20190917
-    },
-    {
-      "carryoverAmount": 3505,
-      "carryover": "$3,505",
-      "wagertype": "Pick 6",
-      "track": "Indiana Grand",
-      "date": "Sep 17",
-      "ndate": 20190917
-    },
-    {
-      "carryoverAmount": 3460,
-      "carryover": "$3,460",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Louisiana Downs",
-      "date": "Sep 17",
-      "ndate": 20190917
-    },
-    {
       "carryoverAmount": 3403,
       "carryover": "$3,403",
       "wagertype": "Pick 6 Jackpot",
       "track": "Arlington",
       "date": "Sep 18",
       "ndate": 20190918
-    },
-    {
-      "carryoverAmount": 1742,
-      "carryover": "$1,742",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Fort Erie",
-      "date": "Sep 17",
-      "ndate": 20190917
     },
     {
       "carryoverAmount": 1649,
@@ -161,20 +169,20 @@
       "ndate": 20190919
     },
     {
+      "carryoverAmount": 1361,
+      "carryover": "$1,361",
+      "wagertype": "Super High Five",
+      "track": "Indiana Grand",
+      "date": "Sep 18",
+      "ndate": 20190918
+    },
+    {
       "carryoverAmount": 1032,
       "carryover": "$1,032",
       "wagertype": "Pick 6 Jackpot",
       "track": "Charles Town",
       "date": "Sep 19",
       "ndate": 20190919
-    },
-    {
-      "carryoverAmount": 889,
-      "carryover": "$889",
-      "wagertype": "Super High Five",
-      "track": "Indiana Grand",
-      "date": "Sep 17",
-      "ndate": 20190917
     }
   ]
 }
