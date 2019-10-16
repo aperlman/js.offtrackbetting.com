@@ -25,20 +25,20 @@
       "ndate": 20191017
     },
     {
+      "carryoverAmount": 91885,
+      "carryover": "$91,885",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Thistledown",
+      "date": "Oct 16",
+      "ndate": 20191016
+    },
+    {
       "carryoverAmount": 89664,
       "carryover": "$89,664",
       "wagertype": "Pick 6 Jackpot",
       "track": "Belmont Park",
       "date": "Oct 16",
       "ndate": 20191016
-    },
-    {
-      "carryoverAmount": 87351,
-      "carryover": "$87,351",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Thistledown",
-      "date": "Oct 15",
-      "ndate": 20191015
     },
     {
       "carryoverAmount": 84990,
@@ -53,6 +53,14 @@
       "carryover": "$79,929",
       "wagertype": "Super High Five",
       "track": "Santa Anita",
+      "date": "Oct 18",
+      "ndate": 20191018
+    },
+    {
+      "carryoverAmount": 16962,
+      "carryover": "$16,962",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Woodbine",
       "date": "Oct 18",
       "ndate": 20191018
     },
@@ -105,20 +113,36 @@
       "ndate": 20191017
     },
     {
-      "carryoverAmount": 3053,
-      "carryover": "$3,053",
+      "carryoverAmount": 5403,
+      "carryover": "$5,403",
       "wagertype": "Pick 5",
       "track": "Zia Park",
-      "date": "Oct 15",
-      "ndate": 20191015
+      "date": "Oct 19",
+      "ndate": 20191019
     },
     {
-      "carryoverAmount": 2509,
-      "carryover": "$2,509",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Fort Erie",
-      "date": "Oct 15",
-      "ndate": 20191015
+      "carryoverAmount": 3926,
+      "carryover": "$3,926",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Turf Paradise",
+      "date": "Oct 19",
+      "ndate": 20191019
+    },
+    {
+      "carryoverAmount": 2375,
+      "carryover": "$2,375",
+      "wagertype": "Pick 6",
+      "track": "Indiana Grand",
+      "date": "Oct 16",
+      "ndate": 20191016
+    },
+    {
+      "carryoverAmount": 2131,
+      "carryover": "$2,131",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Presque Isle",
+      "date": "Oct 16",
+      "ndate": 20191016
     },
     {
       "carryoverAmount": 2125,
@@ -127,30 +151,6 @@
       "track": "Meadowlands",
       "date": "Oct 18",
       "ndate": 20191018
-    },
-    {
-      "carryoverAmount": 2065,
-      "carryover": "$2,065",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Turf Paradise",
-      "date": "Oct 15",
-      "ndate": 20191015
-    },
-    {
-      "carryoverAmount": 1859,
-      "carryover": "$1,859",
-      "wagertype": "Pick 6",
-      "track": "Indiana Grand",
-      "date": "Oct 15",
-      "ndate": 20191015
-    },
-    {
-      "carryoverAmount": 1312,
-      "carryover": "$1,312",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Presque Isle",
-      "date": "Oct 15",
-      "ndate": 20191015
     },
     {
       "carryoverAmount": 897,
@@ -167,14 +167,6 @@
       "track": "Hawthorne",
       "date": "Oct 17",
       "ndate": 20191017
-    },
-    {
-      "carryoverAmount": 636,
-      "carryover": "$636",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Presque Isle",
-      "date": "Oct 15",
-      "ndate": 20191015
     },
     {
       "carryoverAmount": 204,
