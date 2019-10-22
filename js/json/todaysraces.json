@@ -1,34 +1,42 @@
 {
   "todaysraces": {
-    "headline": "OTB Schedule: Monday, Oct 21",
+    "headline": "OTB Schedule: Tuesday, Oct 22",
     "tracks": [
       {
-        "name": "Ajax Downs",
-        "time": "12:58 PM"
-      },
-      {
         "name": "Australia A",
-        "time": "10:30 PM"
+        "time": " 9:30 PM"
       },
       {
         "name": "Australia B",
-        "time": "10:50 PM"
+        "time": "11:00 PM"
       },
       {
         "name": "Australia C",
-        "time": "11:10 PM"
+        "time": "11:18 PM"
       },
       {
-        "name": "Australia Harness 1",
-        "time": "10:42 PM"
+        "name": "Australia D",
+        "time": " 4:30 AM"
       },
       {
-        "name": "Birmingham Mat",
-        "time": " 3:00 PM"
+        "name": "Bangor Raceway",
+        "time": " 5:00 PM"
+      },
+      {
+        "name": "Birmingham Eve",
+        "time": " 7:15 PM"
       },
       {
         "name": "Caliente Evening",
-        "time": "10:45 PM"
+        "time": " 9:30 PM"
+      },
+      {
+        "name": "Caliente Matinee",
+        "time": " 4:30 PM"
+      },
+      {
+        "name": "Curragh (IRE)",
+        "time": " 8:00 AM"
       },
       {
         "name": "Daytona Beach Eve",
@@ -39,12 +47,12 @@
         "time": " 2:15 PM"
       },
       {
-        "name": "Enniscorthy (IG)",
-        "time": " 3:00 PM"
+        "name": "Durbanville (SAF)",
+        "time": " 7:25 AM"
       },
       {
-        "name": "Fairview| (SAF)",
-        "time": " 6:10 AM"
+        "name": "Exeter (UK)",
+        "time": " 8:50 AM"
       },
       {
         "name": "Finger Lakes",
@@ -52,19 +60,15 @@
       },
       {
         "name": "Gulfstream Park West",
-        "time": " 1:48 PM"
+        "time": " 5:00 PM"
       },
       {
         "name": "Harrington Raceway",
         "time": " 4:30 PM"
       },
       {
-        "name": "Laurel Park",
-        "time": " 5:00 PM"
-      },
-      {
-        "name": "Longford (IG)",
-        "time": " 3:00 PM"
+        "name": "Kempton Park (UK)",
+        "time": "11:55 AM"
       },
       {
         "name": "Monticello Raceway",
@@ -75,44 +79,40 @@
         "time": " 7:00 PM"
       },
       {
-        "name": "Northfield Park",
-        "time": " 6:00 PM"
+        "name": "Newcastle (UK)",
+        "time": " 9:00 AM"
       },
       {
-        "name": "Palm Beach Mat",
-        "time": " 1:00 PM"
+        "name": "New Zealand",
+        "time": " 7:35 PM"
+      },
+      {
+        "name": "Northfield Park",
+        "time": " 6:00 PM"
       },
       {
         "name": "Parx Racing",
         "time": "12:55 PM"
       },
       {
-        "name": "Plainridge",
-        "time": " 1:55 PM"
-      },
-      {
-        "name": "Plumpton (UK)",
-        "time": " 9:10 AM"
-      },
-      {
         "name": "Pocono Downs",
         "time": " 4:00 PM"
       },
       {
-        "name": "Pontefract (UK)",
-        "time": " 9:20 AM"
+        "name": "Shelbourne Park (IG)",
+        "time": " 2:55 PM"
       },
       {
-        "name": "Southwell (UK)",
-        "time": "12:30 PM"
-      },
-      {
-        "name": "St Johns Eve",
-        "time": " 7:45 PM"
+        "name": "Strathalbyn",
+        "time": "10:15 PM"
       },
       {
         "name": "Thistledown",
         "time": " 1:40 PM"
+      },
+      {
+        "name": "Tralee (IG)",
+        "time": " 1:57 PM"
       },
       {
         "name": "Turf Paradise",
@@ -123,20 +123,12 @@
         "time": " 6:15 PM"
       },
       {
-        "name": "Windsor (UK)",
-        "time": " 9:00 AM"
-      },
-      {
-        "name": "Woodbine at Mohawk",
-        "time": " 7:10 PM"
+        "name": "Yarmouth (UK)",
+        "time": " 8:40 AM"
       },
       {
         "name": "Yonkers Raceway",
         "time": " 6:50 PM"
-      },
-      {
-        "name": "Youghal (IG)",
-        "time": " 1:44 PM"
       },
       {
         "name": "Zia Park",
