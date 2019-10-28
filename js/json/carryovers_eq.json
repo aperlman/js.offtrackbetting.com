@@ -1,60 +1,44 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 351352,
-      "carryover": "$351,352",
+      "carryoverAmount": 395207,
+      "carryover": "$395,207",
       "wagertype": "Pick 6 Jackpot",
       "track": "Santa Anita",
-      "date": "Oct 27",
-      "ndate": 20191027
+      "date": "Oct 31",
+      "ndate": 20191031
     },
     {
-      "carryoverAmount": 323262,
-      "carryover": "$323,262",
+      "carryoverAmount": 362758,
+      "carryover": "$362,758",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "Oct 27",
-      "ndate": 20191027
+      "date": "Oct 30",
+      "ndate": 20191030
     },
     {
-      "carryoverAmount": 279432,
-      "carryover": "$279,432",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Belmont Park",
-      "date": "Oct 27",
-      "ndate": 20191027
-    },
-    {
-      "carryoverAmount": 159449,
-      "carryover": "$159,449",
+      "carryoverAmount": 173280,
+      "carryover": "$173,280",
       "wagertype": "Super High Five",
       "track": "Santa Anita",
-      "date": "Oct 27",
-      "ndate": 20191027
+      "date": "Oct 31",
+      "ndate": 20191031
     },
     {
-      "carryoverAmount": 94590,
-      "carryover": "$94,590",
+      "carryoverAmount": 107663,
+      "carryover": "$107,663",
       "wagertype": "Super High Five Jackpot",
       "track": "Woodbine",
-      "date": "Oct 27",
-      "ndate": 20191027
+      "date": "Oct 30",
+      "ndate": 20191030
     },
     {
-      "carryoverAmount": 43252,
-      "carryover": "$43,252",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Monmouth Park",
-      "date": "Oct 27",
-      "ndate": 20191027
-    },
-    {
-      "carryoverAmount": 21884,
-      "carryover": "$21,884",
+      "carryoverAmount": 26801,
+      "carryover": "$26,801",
       "wagertype": "Pick 6",
       "track": "Woodbine",
-      "date": "Oct 27",
-      "ndate": 20191027
+      "date": "Oct 30",
+      "ndate": 20191030
     },
     {
       "carryoverAmount": 19856,
@@ -65,12 +49,28 @@
       "ndate": 20191030
     },
     {
-      "carryoverAmount": 3776,
-      "carryover": "$3,776",
+      "carryoverAmount": 15237,
+      "carryover": "$15,237",
+      "wagertype": "Pick 5",
+      "track": "Mountaineer",
+      "date": "Oct 28",
+      "ndate": 20191028
+    },
+    {
+      "carryoverAmount": 7902,
+      "carryover": "$7,902",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Oct 30",
+      "ndate": 20191030
+    },
+    {
+      "carryoverAmount": 6497,
+      "carryover": "$6,497",
       "wagertype": "Super High Five",
       "track": "Golden Gate",
-      "date": "Oct 27",
-      "ndate": 20191027
+      "date": "Oct 31",
+      "ndate": 20191031
     },
     {
       "carryoverAmount": 3639,
@@ -81,12 +81,36 @@
       "ndate": 20191031
     },
     {
+      "carryoverAmount": 3594,
+      "carryover": "$3,594",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Churchill Downs",
+      "date": "Oct 30",
+      "ndate": 20191030
+    },
+    {
       "carryoverAmount": 2561,
       "carryover": "$2,561",
       "wagertype": "Super High Five Jackpot",
       "track": "Penn National",
       "date": "Oct 31",
       "ndate": 20191031
+    },
+    {
+      "carryoverAmount": 2293,
+      "carryover": "$2,293",
+      "wagertype": "Super High Five",
+      "track": "Churchill Downs",
+      "date": "Oct 30",
+      "ndate": 20191030
+    },
+    {
+      "carryoverAmount": 1894,
+      "carryover": "$1,894",
+      "wagertype": "Super High Five",
+      "track": "Mountaineer",
+      "date": "Oct 28",
+      "ndate": 20191028
     },
     {
       "carryoverAmount": 1817,
@@ -97,6 +121,14 @@
       "ndate": 20191101
     },
     {
+      "carryoverAmount": 1731,
+      "carryover": "$1,731",
+      "wagertype": "Super High Five",
+      "track": "Golden Gate",
+      "date": "Oct 31",
+      "ndate": 20191031
+    },
+    {
       "carryoverAmount": 1347,
       "carryover": "$1,347",
       "wagertype": "Pick 6 Jackpot",
@@ -105,12 +137,12 @@
       "ndate": 20191031
     },
     {
-      "carryoverAmount": 924,
-      "carryover": "$924",
-      "wagertype": "Super High Five",
-      "track": "Golden Gate",
-      "date": "Oct 27",
-      "ndate": 20191027
+      "carryoverAmount": 1346,
+      "carryover": "$1,346",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Turf Paradise",
+      "date": "Oct 28",
+      "ndate": 20191028
     },
     {
       "carryoverAmount": 850,
