@@ -49,20 +49,20 @@
       "ndate": 20191030
     },
     {
-      "carryoverAmount": 12894,
-      "carryover": "$12,894",
-      "wagertype": "Pick 5",
-      "track": "Turf Paradise",
-      "date": "Oct 29",
-      "ndate": 20191029
-    },
-    {
       "carryoverAmount": 7902,
       "carryover": "$7,902",
       "wagertype": "Super High Five",
       "track": "Gulfstream Park",
       "date": "Oct 30",
       "ndate": 20191030
+    },
+    {
+      "carryoverAmount": 6714,
+      "carryover": "$6,714",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Turf Paradise",
+      "date": "Nov 01",
+      "ndate": 20191101
     },
     {
       "carryoverAmount": 6497,
@@ -73,12 +73,12 @@
       "ndate": 20191031
     },
     {
-      "carryoverAmount": 4083,
-      "carryover": "$4,083",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Turf Paradise",
-      "date": "Oct 29",
-      "ndate": 20191029
+      "carryoverAmount": 6123,
+      "carryover": "$6,123",
+      "wagertype": "Pick 6",
+      "track": "Los Alamitos",
+      "date": "Nov 01",
+      "ndate": 20191101
     },
     {
       "carryoverAmount": 3639,
@@ -93,6 +93,14 @@
       "carryover": "$3,594",
       "wagertype": "Pick 6 Jackpot",
       "track": "Churchill Downs",
+      "date": "Oct 30",
+      "ndate": 20191030
+    },
+    {
+      "carryoverAmount": 2744,
+      "carryover": "$2,744",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Mahoning Valley",
       "date": "Oct 30",
       "ndate": 20191030
     },
@@ -121,22 +129,6 @@
       "ndate": 20191101
     },
     {
-      "carryoverAmount": 1731,
-      "carryover": "$1,731",
-      "wagertype": "Super High Five",
-      "track": "Golden Gate",
-      "date": "Oct 31",
-      "ndate": 20191031
-    },
-    {
-      "carryoverAmount": 1699,
-      "carryover": "$1,699",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Mahoning Valley",
-      "date": "Oct 29",
-      "ndate": 20191029
-    },
-    {
       "carryoverAmount": 1347,
       "carryover": "$1,347",
       "wagertype": "Pick 6 Jackpot",
@@ -145,12 +137,20 @@
       "ndate": 20191031
     },
     {
-      "carryoverAmount": 674,
-      "carryover": "$674",
-      "wagertype": "Super High Five",
+      "carryoverAmount": 957,
+      "carryover": "$957",
+      "wagertype": "Pick 6",
       "track": "Indiana Grand",
-      "date": "Oct 29",
-      "ndate": 20191029
+      "date": "Oct 30",
+      "ndate": 20191030
+    },
+    {
+      "carryoverAmount": 893,
+      "carryover": "$893",
+      "wagertype": "Super High Five",
+      "track": "Mahoning Valley",
+      "date": "Oct 30",
+      "ndate": 20191030
     },
     {
       "carryoverAmount": 432,
@@ -159,30 +159,6 @@
       "track": "Hawthorne",
       "date": "Oct 31",
       "ndate": 20191031
-    },
-    {
-      "carryoverAmount": 393,
-      "carryover": "$393",
-      "wagertype": "Super High Five",
-      "track": "Mahoning Valley",
-      "date": "Oct 29",
-      "ndate": 20191029
-    },
-    {
-      "carryoverAmount": 368,
-      "carryover": "$368",
-      "wagertype": "Pick 5",
-      "track": "Indiana Grand",
-      "date": "Oct 29",
-      "ndate": 20191029
-    },
-    {
-      "carryoverAmount": 159,
-      "carryover": "$159",
-      "wagertype": "Pick 6",
-      "track": "Indiana Grand",
-      "date": "Oct 29",
-      "ndate": 20191029
     }
   ]
 }
