@@ -41,12 +41,12 @@
       "ndate": 20191122
     },
     {
-      "carryoverAmount": 54357,
-      "carryover": "$54,357",
+      "carryoverAmount": 67369,
+      "carryover": "$67,369",
       "wagertype": "Pick 6 Jackpot",
       "track": "Turf Paradise",
-      "date": "Nov 18",
-      "ndate": 20191118
+      "date": "Nov 19",
+      "ndate": 20191119
     },
     {
       "carryoverAmount": 18139,
@@ -129,12 +129,28 @@
       "ndate": 20191120
     },
     {
+      "carryoverAmount": 1272,
+      "carryover": "$1,272",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Mahoning Valley",
+      "date": "Nov 19",
+      "ndate": 20191119
+    },
+    {
       "carryoverAmount": 1128,
       "carryover": "$1,128",
       "wagertype": "Pick 6 Jackpot",
       "track": "Laurel Park",
       "date": "Nov 21",
       "ndate": 20191121
+    },
+    {
+      "carryoverAmount": 949,
+      "carryover": "$949",
+      "wagertype": "Super High Five",
+      "track": "Mahoning Valley",
+      "date": "Nov 19",
+      "ndate": 20191119
     }
   ]
 }
