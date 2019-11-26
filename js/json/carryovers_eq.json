@@ -25,12 +25,12 @@
       "ndate": 20191128
     },
     {
-      "carryoverAmount": 38592,
-      "carryover": "$38,592",
+      "carryoverAmount": 45175,
+      "carryover": "$45,175",
       "wagertype": "Pick 6 Jackpot",
       "track": "Remington Park",
-      "date": "Nov 25",
-      "ndate": 20191125
+      "date": "Nov 26",
+      "ndate": 20191126
     },
     {
       "carryoverAmount": 27266,
@@ -47,6 +47,14 @@
       "track": "Penn National",
       "date": "Nov 27",
       "ndate": 20191127
+    },
+    {
+      "carryoverAmount": 22095,
+      "carryover": "$22,095",
+      "wagertype": "Pick 5",
+      "track": "Mountaineer",
+      "date": "Nov 26",
+      "ndate": 20191126
     },
     {
       "carryoverAmount": 10983,
@@ -73,18 +81,42 @@
       "ndate": 20191127
     },
     {
-      "carryoverAmount": 3796,
-      "carryover": "$3,796",
+      "carryoverAmount": 5988,
+      "carryover": "$5,988",
       "wagertype": "Pick 6 Jackpot",
       "track": "Mahoning Valley",
-      "date": "Nov 25",
-      "ndate": 20191125
+      "date": "Nov 26",
+      "ndate": 20191126
+    },
+    {
+      "carryoverAmount": 4466,
+      "carryover": "$4,466",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Turf Paradise",
+      "date": "Nov 26",
+      "ndate": 20191126
+    },
+    {
+      "carryoverAmount": 4031,
+      "carryover": "$4,031",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Hawthorne",
+      "date": "Nov 29",
+      "ndate": 20191129
     },
     {
       "carryoverAmount": 3679,
       "carryover": "$3,679",
       "wagertype": "Pick 6 Jackpot",
       "track": "Charles Town",
+      "date": "Nov 27",
+      "ndate": 20191127
+    },
+    {
+      "carryoverAmount": 3001,
+      "carryover": "$3,001",
+      "wagertype": "Pick 5",
+      "track": "Zia Park",
       "date": "Nov 27",
       "ndate": 20191127
     },
@@ -97,12 +129,20 @@
       "ndate": 20191128
     },
     {
-      "carryoverAmount": 947,
-      "carryover": "$947",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Turf Paradise",
-      "date": "Nov 25",
-      "ndate": 20191125
+      "carryoverAmount": 1426,
+      "carryover": "$1,426",
+      "wagertype": "Super High Five",
+      "track": "Mountaineer",
+      "date": "Nov 26",
+      "ndate": 20191126
+    },
+    {
+      "carryoverAmount": 858,
+      "carryover": "$858",
+      "wagertype": "Super High Five",
+      "track": "Mahoning Valley",
+      "date": "Nov 26",
+      "ndate": 20191126
     },
     {
       "carryoverAmount": 835,
@@ -111,6 +151,14 @@
       "track": "Penn National",
       "date": "Nov 27",
       "ndate": 20191127
+    },
+    {
+      "carryoverAmount": 723,
+      "carryover": "$723",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Hawthorne",
+      "date": "Nov 29",
+      "ndate": 20191129
     }
   ]
 }
