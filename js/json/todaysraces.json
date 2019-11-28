@@ -1,38 +1,30 @@
 {
   "todaysraces": {
-    "headline": "OTB Schedule: Wednesday, Nov 27",
+    "headline": "OTB Schedule: Thursday, Nov 28",
     "tracks": [
       {
         "name": "Aqueduct",
-        "time": "12:20 PM"
+        "time": "11:50 AM"
       },
       {
         "name": "Australia A",
-        "time": " 9:05 PM"
+        "time": " 8:50 PM"
       },
       {
         "name": "Australia B",
-        "time": " 9:20 PM"
+        "time": " 9:00 PM"
       },
       {
         "name": "Australia C",
-        "time": " 9:30 PM"
+        "time": " 9:05 PM"
       },
       {
         "name": "Australia D",
-        "time": "10:42 PM"
+        "time": "10:57 PM"
       },
       {
-        "name": "Batavia Downs",
-        "time": " 5:00 PM"
-      },
-      {
-        "name": "Birmingham Eve",
-        "time": " 7:15 PM"
-      },
-      {
-        "name": "Birmingham Mat",
-        "time": " 3:00 PM"
+        "name": "Busan Gyeongnam Korea",
+        "time": " 9:30 PM"
       },
       {
         "name": "Caliente Evening",
@@ -43,156 +35,72 @@
         "time": " 7:00 PM"
       },
       {
-        "name": "Curraheen (IG)",
-        "time": " 1:57 PM"
+        "name": "Chelmsford City (UK)",
+        "time": "11:00 AM"
       },
       {
-        "name": "Daytona Beach Eve",
-        "time": " 7:25 PM"
+        "name": "Enniscorthy (IG)",
+        "time": " 3:00 AM"
       },
       {
-        "name": "Daytona Beach Mat",
-        "time": " 1:05 PM"
-      },
-      {
-        "name": "Dayton Raceway",
-        "time": " 6:15 PM"
-      },
-      {
-        "name": "Delta Downs",
-        "time": " 2:40 PM"
-      },
-      {
-        "name": "Dover Downs",
-        "time": " 4:30 PM"
-      },
-      {
-        "name": "Evangeline Downs",
-        "time": " 6:35 PM"
-      },
-      {
-        "name": "Finger Lakes",
-        "time": "11:30 AM"
+        "name": "Ffos Las (UK)",
+        "time": " 7:25 AM"
       },
       {
         "name": "Flamboro Downs",
         "time": " 6:35 PM"
       },
       {
-        "name": "Happy Valley (HK)",
-        "time": " 5:45 AM"
-      },
-      {
-        "name": "Harrahs Philly (Chester)",
-        "time": " 2:05 PM"
-      },
-      {
-        "name": "Hereford (UK)",
-        "time": " 7:30 AM"
-      },
-      {
-        "name": "Kempton Park (UK)",
-        "time": "11:10 AM"
-      },
-      {
-        "name": "Kenilworth (SAF)",
-        "time": " 6:04 AM"
-      },
-      {
-        "name": "Kilkenny (IG)",
-        "time": " 3:12 AM"
+        "name": "Golden Gate Fields",
+        "time": " 2:15 PM"
       },
       {
         "name": "Laurel Park",
-        "time": "12:10 PM"
+        "time": "11:25 AM"
       },
       {
-        "name": "Mahoning Valley",
-        "time": "12:45 PM"
+        "name": "Limerick (IG)",
+        "time": " 1:57 AM"
       },
       {
-        "name": "Monticello Raceway",
-        "time": "12:25 PM"
-      },
-      {
-        "name": "Mountaineer Park",
-        "time": " 7:00 PM"
+        "name": "Lingfield (UK)",
+        "time": " 7:10 AM"
       },
       {
         "name": "New Zealand",
-        "time": " 8:38 PM"
+        "time": " 6:53 PM"
       },
       {
-        "name": "Northfield Park",
-        "time": " 6:00 PM"
+        "name": "Port Lincoln",
+        "time": "10:25 PM"
       },
       {
-        "name": "Orange Park Eve",
-        "time": " 7:45 PM"
+        "name": "Rideau Carleton",
+        "time": " 6:30 PM"
       },
       {
-        "name": "Orange Park Mat",
-        "time": "12:35 PM"
+        "name": "Shelbourne Park (IG)",
+        "time": " 2:40 AM"
       },
       {
-        "name": "Palm Beach Mat",
-        "time": " 1:00 PM"
+        "name": "Taunton (UK)",
+        "time": " 7:35 AM"
       },
       {
-        "name": "Penn National",
-        "time": " 6:00 PM"
-      },
-      {
-        "name": "Plainridge",
-        "time": " 1:00 PM"
-      },
-      {
-        "name": "Pompano Park",
-        "time": " 7:20 PM"
-      },
-      {
-        "name": "Rosecroft Raceway",
-        "time": " 7:15 PM"
-      },
-      {
-        "name": "Sanford Mat",
-        "time": " 1:30 PM"
-      },
-      {
-        "name": "Saratoga Harness",
-        "time": "12:00 PM"
-      },
-      {
-        "name": "Southland Twilight",
-        "time": " 5:30 PM"
-      },
-      {
-        "name": "Southwell (UK)",
-        "time": " 7:20 AM"
-      },
-      {
-        "name": "Tampa Bay Downs",
-        "time": "12:25 PM"
+        "name": "Thurles (IRE)",
+        "time": " 7:15 AM"
       },
       {
         "name": "Tri-State Eve",
         "time": " 7:00 PM"
       },
       {
-        "name": "Wetherby (UK)",
-        "time": " 7:40 AM"
+        "name": "Vaal (SAF)",
+        "time": " 6:05 AM"
       },
       {
-        "name": "Wheeling Downs Mat",
-        "time": " 1:00 PM"
-      },
-      {
-        "name": "Woodbine (TB)",
-        "time": " 6:45 PM"
-      },
-      {
-        "name": "Zia Park",
-        "time": " 2:00 PM"
+        "name": "Woodbine at Mohawk",
+        "time": " 7:10 PM"
       }
     ]
   }
