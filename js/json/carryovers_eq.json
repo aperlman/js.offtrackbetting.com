@@ -1,44 +1,44 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 250367,
-      "carryover": "$250,367",
+      "carryoverAmount": 290236,
+      "carryover": "$290,236",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "Dec 11",
-      "ndate": 20191211
+      "date": "Dec 12",
+      "ndate": 20191212
     },
     {
       "carryoverAmount": 69587,
       "carryover": "$69,587",
       "wagertype": "Super High Five Jackpot",
       "track": "Woodbine",
-      "date": "Dec 11",
-      "ndate": 20191211
+      "date": "Dec 13",
+      "ndate": 20191213
     },
     {
-      "carryoverAmount": 35997,
-      "carryover": "$35,997",
+      "carryoverAmount": 46117,
+      "carryover": "$46,117",
       "wagertype": "Pick 6 Jackpot",
       "track": "Turf Paradise",
-      "date": "Dec 11",
-      "ndate": 20191211
+      "date": "Dec 14",
+      "ndate": 20191214
+    },
+    {
+      "carryoverAmount": 22403,
+      "carryover": "$22,403",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Charles Town",
+      "date": "Dec 12",
+      "ndate": 20191212
     },
     {
       "carryoverAmount": 22102,
       "carryover": "$22,102",
       "wagertype": "Pick 6",
       "track": "Woodbine",
-      "date": "Dec 11",
-      "ndate": 20191211
-    },
-    {
-      "carryoverAmount": 20822,
-      "carryover": "$20,822",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Charles Town",
-      "date": "Dec 11",
-      "ndate": 20191211
+      "date": "Dec 13",
+      "ndate": 20191213
     },
     {
       "carryoverAmount": 18086,
@@ -57,6 +57,22 @@
       "ndate": 20191213
     },
     {
+      "carryoverAmount": 10460,
+      "carryover": "$10,460",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Turfway Park",
+      "date": "Dec 12",
+      "ndate": 20191212
+    },
+    {
+      "carryoverAmount": 9740,
+      "carryover": "$9,740",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Remington Park",
+      "date": "Dec 12",
+      "ndate": 20191212
+    },
+    {
       "carryoverAmount": 9450,
       "carryover": "$9,450",
       "wagertype": "Super High Five Jackpot",
@@ -65,44 +81,28 @@
       "ndate": 20191213
     },
     {
-      "carryoverAmount": 7036,
-      "carryover": "$7,036",
-      "wagertype": "Super High Five",
-      "track": "Gulfstream Park",
-      "date": "Dec 11",
-      "ndate": 20191211
-    },
-    {
-      "carryoverAmount": 6391,
-      "carryover": "$6,391",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Turfway Park",
-      "date": "Dec 11",
-      "ndate": 20191211
-    },
-    {
-      "carryoverAmount": 5946,
-      "carryover": "$5,946",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Remington Park",
-      "date": "Dec 11",
-      "ndate": 20191211
-    },
-    {
-      "carryoverAmount": 5617,
-      "carryover": "$5,617",
+      "carryoverAmount": 6824,
+      "carryover": "$6,824",
       "wagertype": "Pick 6 Jackpot",
       "track": "Penn National",
-      "date": "Dec 11",
-      "ndate": 20191211
+      "date": "Dec 12",
+      "ndate": 20191212
     },
     {
-      "carryoverAmount": 4895,
-      "carryover": "$4,895",
+      "carryoverAmount": 6180,
+      "carryover": "$6,180",
       "wagertype": "Pick 6 Jackpot",
       "track": "Mahoning Valley",
-      "date": "Dec 11",
-      "ndate": 20191211
+      "date": "Dec 14",
+      "ndate": 20191214
+    },
+    {
+      "carryoverAmount": 5925,
+      "carryover": "$5,925",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Penn National",
+      "date": "Dec 12",
+      "ndate": 20191212
     },
     {
       "carryoverAmount": 3054,
@@ -113,20 +113,20 @@
       "ndate": 20191213
     },
     {
-      "carryoverAmount": 2532,
-      "carryover": "$2,532",
-      "wagertype": "Super High Five",
-      "track": "Turfway Park",
-      "date": "Dec 11",
-      "ndate": 20191211
-    },
-    {
-      "carryoverAmount": 1146,
-      "carryover": "$1,146",
+      "carryoverAmount": 2662,
+      "carryover": "$2,662",
       "wagertype": "Pick 6",
       "track": "Tampa Bay",
-      "date": "Dec 11",
-      "ndate": 20191211
+      "date": "Dec 13",
+      "ndate": 20191213
+    },
+    {
+      "carryoverAmount": 503,
+      "carryover": "$503",
+      "wagertype": "Super High Five",
+      "track": "Mahoning Valley",
+      "date": "Dec 14",
+      "ndate": 20191214
     }
   ]
 }
