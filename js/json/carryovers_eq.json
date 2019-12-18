@@ -9,12 +9,12 @@
       "ndate": 20191218
     },
     {
-      "carryoverAmount": 76307,
-      "carryover": "$76,307",
+      "carryoverAmount": 95026,
+      "carryover": "$95,026",
       "wagertype": "Pick 6 Jackpot",
       "track": "Turf Paradise",
-      "date": "Dec 17",
-      "ndate": 20191217
+      "date": "Dec 18",
+      "ndate": 20191218
     },
     {
       "carryoverAmount": 30484,
@@ -33,12 +33,12 @@
       "ndate": 20191219
     },
     {
-      "carryoverAmount": 9841,
-      "carryover": "$9,841",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Mahoning Valley",
-      "date": "Dec 17",
-      "ndate": 20191217
+      "carryoverAmount": 14467,
+      "carryover": "$14,467",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Hawthorne",
+      "date": "Dec 20",
+      "ndate": 20191220
     },
     {
       "carryoverAmount": 9781,
@@ -81,6 +81,14 @@
       "ndate": 20191218
     },
     {
+      "carryoverAmount": 1340,
+      "carryover": "$1,340",
+      "wagertype": "Super High Five",
+      "track": "Mahoning Valley",
+      "date": "Dec 18",
+      "ndate": 20191218
+    },
+    {
       "carryoverAmount": 1225,
       "carryover": "$1,225",
       "wagertype": "Super High Five",
@@ -95,6 +103,14 @@
       "track": "Turfway Park",
       "date": "Dec 18",
       "ndate": 20191218
+    },
+    {
+      "carryoverAmount": 375,
+      "carryover": "$375",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Hawthorne",
+      "date": "Dec 20",
+      "ndate": 20191220
     }
   ]
 }
