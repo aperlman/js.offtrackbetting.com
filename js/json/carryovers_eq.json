@@ -9,14 +9,6 @@
       "ndate": 20200101
     },
     {
-      "carryoverAmount": 147315,
-      "carryover": "$147,315",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Aqueduct",
-      "date": "Dec 31",
-      "ndate": 20191231
-    },
-    {
       "carryoverAmount": 117616,
       "carryover": "$117,616",
       "wagertype": "Pick 6 Jackpot",
@@ -33,18 +25,18 @@
       "ndate": 20200101
     },
     {
-      "carryoverAmount": 32877,
-      "carryover": "$32,877",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Turfway Park",
-      "date": "Dec 31",
-      "ndate": 20191231
-    },
-    {
       "carryoverAmount": 23996,
       "carryover": "$23,996",
       "wagertype": "Pick 6 Jackpot",
       "track": "Golden Gate",
+      "date": "Jan 01",
+      "ndate": 20200101
+    },
+    {
+      "carryoverAmount": 20629,
+      "carryover": "$20,629",
+      "wagertype": "Pick 5",
+      "track": "Turf Paradise",
       "date": "Jan 01",
       "ndate": 20200101
     },
@@ -57,34 +49,18 @@
       "ndate": 20200101
     },
     {
+      "carryoverAmount": 11232,
+      "carryover": "$11,232",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Turf Paradise",
+      "date": "Jan 01",
+      "ndate": 20200101
+    },
+    {
       "carryoverAmount": 4637,
       "carryover": "$4,637",
       "wagertype": "Super High Five",
       "track": "Golden Gate",
-      "date": "Jan 01",
-      "ndate": 20200101
-    },
-    {
-      "carryoverAmount": 4347,
-      "carryover": "$4,347",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Turf Paradise",
-      "date": "Dec 31",
-      "ndate": 20191231
-    },
-    {
-      "carryoverAmount": 2499,
-      "carryover": "$2,499",
-      "wagertype": "Super High Five",
-      "track": "Golden Gate",
-      "date": "Jan 01",
-      "ndate": 20200101
-    },
-    {
-      "carryoverAmount": 2271,
-      "carryover": "$2,271",
-      "wagertype": "Super High Five",
-      "track": "Gulfstream Park",
       "date": "Jan 01",
       "ndate": 20200101
     },
@@ -95,30 +71,6 @@
       "track": "Tampa Bay",
       "date": "Jan 01",
       "ndate": 20200101
-    },
-    {
-      "carryoverAmount": 985,
-      "carryover": "$985",
-      "wagertype": "Super High Five",
-      "track": "Gulfstream Park",
-      "date": "Jan 01",
-      "ndate": 20200101
-    },
-    {
-      "carryoverAmount": 763,
-      "carryover": "$763",
-      "wagertype": "Super High Five",
-      "track": "Turfway Park",
-      "date": "Dec 31",
-      "ndate": 20191231
-    },
-    {
-      "carryoverAmount": 312,
-      "carryover": "$312",
-      "wagertype": "Super High Five",
-      "track": "Sunland Park",
-      "date": "Dec 31",
-      "ndate": 20191231
     }
   ]
 }
