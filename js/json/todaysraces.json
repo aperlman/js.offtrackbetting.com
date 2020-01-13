@@ -1,94 +1,90 @@
 {
   "todaysraces": {
-    "headline": "OTB Schedule: Sunday, Jan 12",
+    "headline": "OTB Schedule: Monday, Jan 13",
     "tracks": [
       {
-        "name": "Aqueduct",
-        "time": "12:50 PM"
-      },
-      {
         "name": "Australia A",
-        "time": " 8:25 PM"
+        "time": " 9:18 PM"
       },
       {
         "name": "Australia B",
-        "time": " 9:55 PM"
-      },
-      {
-        "name": "Australia Harness 1",
-        "time": " 9:27 PM"
-      },
-      {
-        "name": "Australia Harness 2",
-        "time": "10:22 PM"
-      },
-      {
-        "name": "Caliente Evening",
         "time": " 9:30 PM"
       },
       {
-        "name": "Caliente Matinee",
-        "time": " 5:00 PM"
+        "name": "Australia C",
+        "time": " 9:35 PM"
       },
       {
-        "name": "Clonmel (IG)",
-        "time": " 2:30 PM"
+        "name": "Australia D",
+        "time": " 9:50 PM"
       },
       {
-        "name": "Flamboro Downs",
-        "time": " 6:55 PM"
+        "name": "Australia Harness 1",
+        "time": " 9:22 PM"
       },
       {
-        "name": "Fraser Downs",
-        "time": " 3:45 PM"
+        "name": "Birmingham Mat",
+        "time": " 3:00 PM"
       },
       {
-        "name": "Golden Gate Fields",
-        "time": " 3:45 PM"
+        "name": "Caliente Evening",
+        "time": "10:45 PM"
       },
       {
-        "name": "Greyville (SAF)",
-        "time": " 5:45 AM"
+        "name": "Daytona Beach Eve",
+        "time": " 7:25 PM"
       },
       {
-        "name": "Gulf Mat",
-        "time": " 1:00 PM"
+        "name": "Dover Downs",
+        "time": " 4:30 PM"
+      },
+      {
+        "name": "Flamingo Park (SAF)",
+        "time": " 5:40 AM"
       },
       {
         "name": "Gulfstream Park",
-        "time": "12:00 PM"
+        "time": "12:30 PM"
       },
       {
-        "name": "Kelso (UK)",
-        "time": " 7:20 AM"
+        "name": "Lingfield (UK)",
+        "time": " 7:35 AM"
       },
       {
-        "name": "Laurel Park",
+        "name": "Longford (IG)",
+        "time": " 3:00 PM"
+      },
+      {
+        "name": "Mahoning Valley",
+        "time": "12:45 PM"
+      },
+      {
+        "name": "Monticello Raceway",
         "time": "12:25 PM"
-      },
-      {
-        "name": "Los Alamitos (QH)",
-        "time": " 8:25 PM"
-      },
-      {
-        "name": "Mullingar (IG)",
-        "time": "10:17 AM"
       },
       {
         "name": "Naples-Ft Myers Mat",
         "time": "12:00 PM"
       },
       {
+        "name": "New Zealand",
+        "time": " 6:47 PM"
+      },
+      {
         "name": "Northfield Park",
         "time": " 6:00 PM"
       },
       {
-        "name": "Orange Park Mat",
-        "time": " 1:30 PM"
+        "name": "Orange Park Eve",
+        "time": " 7:45 PM"
       },
       {
         "name": "Palm Beach Mat",
         "time": " 1:00 PM"
+      },
+      {
+        "name": "Parx Racing",
+        "time": "12:25 PM"
       },
       {
         "name": "Pompano Park",
@@ -96,43 +92,39 @@
       },
       {
         "name": "Punchestown (IRE)",
-        "time": " 7:30 AM"
+        "time": " 7:45 AM"
       },
       {
-        "name": "Santa Anita Park",
-        "time": " 3:30 PM"
-      },
-      {
-        "name": "Southland Twilight",
-        "time": " 6:00 PM"
+        "name": "Sanford Mat",
+        "time": " 1:30 PM"
       },
       {
         "name": "Southwell (UK)",
-        "time": " 7:40 AM"
-      },
-      {
-        "name": "Sunland Park",
-        "time": " 2:25 PM"
-      },
-      {
-        "name": "Tampa Bay Downs",
-        "time": "12:46 PM"
-      },
-      {
-        "name": "Tralee (IG)",
-        "time": " 1:36 PM"
-      },
-      {
-        "name": "Tri-State Eve",
-        "time": " 7:00 PM"
+        "time": " 7:25 AM"
       },
       {
         "name": "Turf Paradise",
         "time": " 2:40 PM"
       },
       {
-        "name": "Wheeling Downs Mat",
-        "time": " 1:00 PM"
+        "name": "Western Fair",
+        "time": " 6:15 PM"
+      },
+      {
+        "name": "Wolverhampton (UK)",
+        "time": "11:20 AM"
+      },
+      {
+        "name": "Woodbine at Mohawk",
+        "time": " 7:10 PM"
+      },
+      {
+        "name": "Yonkers Raceway",
+        "time": " 7:05 PM"
+      },
+      {
+        "name": "Youghal (IG)",
+        "time": " 1:44 PM"
       }
     ]
   }
