@@ -1,62 +1,74 @@
 {
   "todaysraces": {
-    "headline": "OTB Schedule: Monday, Jan 13",
+    "headline": "OTB Schedule: Tuesday, Jan 14",
     "tracks": [
       {
         "name": "Australia A",
-        "time": " 9:18 PM"
+        "time": " 9:00 PM"
       },
       {
         "name": "Australia B",
-        "time": " 9:30 PM"
+        "time": "10:20 PM"
       },
       {
         "name": "Australia C",
-        "time": " 9:35 PM"
+        "time": "11:10 PM"
       },
       {
         "name": "Australia D",
-        "time": " 9:50 PM"
+        "time": " 3:56 AM"
       },
       {
-        "name": "Australia Harness 1",
-        "time": " 9:22 PM"
-      },
-      {
-        "name": "Birmingham Mat",
-        "time": " 3:00 PM"
+        "name": "Birmingham Eve",
+        "time": " 7:15 PM"
       },
       {
         "name": "Caliente Evening",
-        "time": "10:45 PM"
+        "time": " 9:30 PM"
+      },
+      {
+        "name": "Caliente Matinee",
+        "time": " 4:30 PM"
+      },
+      {
+        "name": "Caulfield",
+        "time": "11:40 PM"
+      },
+      {
+        "name": "Chelmsford City (UK)",
+        "time": "11:30 AM"
       },
       {
         "name": "Daytona Beach Eve",
         "time": " 7:25 PM"
       },
       {
+        "name": "Doncaster (UK)",
+        "time": " 8:05 AM"
+      },
+      {
         "name": "Dover Downs",
         "time": " 4:30 PM"
       },
       {
-        "name": "Flamingo Park (SAF)",
-        "time": " 5:40 AM"
+        "name": "Exeter (UK)",
+        "time": " 5:19 AM"
       },
       {
-        "name": "Gulfstream Park",
-        "time": "12:30 PM"
+        "name": "Fairyhouse (IRE)",
+        "time": " 7:45 AM"
       },
       {
-        "name": "Laurel Park",
+        "name": "Gulfstream Park Simulcast",
         "time": " 3:30 PM"
       },
       {
-        "name": "Lingfield (UK)",
-        "time": " 7:35 AM"
+        "name": "Kenilworth (SAF)",
+        "time": " 6:10 AM"
       },
       {
-        "name": "Longford (IG)",
-        "time": " 3:00 PM"
+        "name": "Laurel Park",
+        "time": " 1:30 PM"
       },
       {
         "name": "Mahoning Valley",
@@ -67,24 +79,12 @@
         "time": "12:25 PM"
       },
       {
-        "name": "Naples-Ft Myers Mat",
-        "time": "12:00 PM"
-      },
-      {
         "name": "New Zealand",
-        "time": " 6:47 PM"
+        "time": " 7:10 PM"
       },
       {
         "name": "Northfield Park",
         "time": " 6:00 PM"
-      },
-      {
-        "name": "Orange Park Eve",
-        "time": " 7:45 PM"
-      },
-      {
-        "name": "Palm Beach Mat",
-        "time": " 1:00 PM"
       },
       {
         "name": "Parx Racing",
@@ -95,16 +95,16 @@
         "time": " 7:20 PM"
       },
       {
-        "name": "Punchestown (IRE)",
-        "time": " 7:45 AM"
+        "name": "Strathalbyn",
+        "time": "10:15 PM"
       },
       {
-        "name": "Sanford Mat",
-        "time": " 1:30 PM"
+        "name": "Sunland Park",
+        "time": " 2:25 PM"
       },
       {
-        "name": "Southwell (UK)",
-        "time": " 7:25 AM"
+        "name": "Tralee (IG)",
+        "time": " 1:57 PM"
       },
       {
         "name": "Turf Paradise",
@@ -115,20 +115,8 @@
         "time": " 6:15 PM"
       },
       {
-        "name": "Wolverhampton (UK)",
-        "time": "11:20 AM"
-      },
-      {
-        "name": "Woodbine at Mohawk",
-        "time": " 7:10 PM"
-      },
-      {
         "name": "Yonkers Raceway",
         "time": " 7:05 PM"
-      },
-      {
-        "name": "Youghal (IG)",
-        "time": " 1:44 PM"
       }
     ]
   }
