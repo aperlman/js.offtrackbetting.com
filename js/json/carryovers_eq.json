@@ -57,6 +57,14 @@
       "ndate": 20200122
     },
     {
+      "carryoverAmount": 8593,
+      "carryover": "$8,593",
+      "wagertype": "Pick 6",
+      "track": "Los Alamitos",
+      "date": "Jan 24",
+      "ndate": 20200124
+    },
+    {
       "carryoverAmount": 6910,
       "carryover": "$6,910",
       "wagertype": "Super High Five",
@@ -73,12 +81,12 @@
       "ndate": 20200124
     },
     {
-      "carryoverAmount": 4958,
-      "carryover": "$4,958",
-      "wagertype": "Pick 5",
+      "carryoverAmount": 4666,
+      "carryover": "$4,666",
+      "wagertype": "Pick 6 Jackpot",
       "track": "Turf Paradise",
-      "date": "Jan 21",
-      "ndate": 20200121
+      "date": "Jan 22",
+      "ndate": 20200122
     },
     {
       "carryoverAmount": 4316,
@@ -113,6 +121,22 @@
       "ndate": 20200122
     },
     {
+      "carryoverAmount": 1824,
+      "carryover": "$1,824",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Mahoning Valley",
+      "date": "Jan 22",
+      "ndate": 20200122
+    },
+    {
+      "carryoverAmount": 1559,
+      "carryover": "$1,559",
+      "wagertype": "Super High Five",
+      "track": "Sunland Park",
+      "date": "Jan 24",
+      "ndate": 20200124
+    },
+    {
       "carryoverAmount": 1430,
       "carryover": "$1,430",
       "wagertype": "Pick 6",
@@ -127,38 +151,6 @@
       "track": "Laurel Park",
       "date": "Jan 24",
       "ndate": 20200124
-    },
-    {
-      "carryoverAmount": 1092,
-      "carryover": "$1,092",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Turf Paradise",
-      "date": "Jan 21",
-      "ndate": 20200121
-    },
-    {
-      "carryoverAmount": 1088,
-      "carryover": "$1,088",
-      "wagertype": "Super High Five",
-      "track": "Mahoning Valley",
-      "date": "Jan 21",
-      "ndate": 20200121
-    },
-    {
-      "carryoverAmount": 893,
-      "carryover": "$893",
-      "wagertype": "Super High Five",
-      "track": "Sunland Park",
-      "date": "Jan 21",
-      "ndate": 20200121
-    },
-    {
-      "carryoverAmount": 313,
-      "carryover": "$313",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Mahoning Valley",
-      "date": "Jan 21",
-      "ndate": 20200121
     }
   ]
 }
