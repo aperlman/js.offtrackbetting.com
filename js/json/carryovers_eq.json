@@ -81,10 +81,26 @@
       "ndate": 20200205
     },
     {
+      "carryoverAmount": 6774,
+      "carryover": "$6,774",
+      "wagertype": "Pick 6",
+      "track": "Los Alamitos",
+      "date": "Feb 07",
+      "ndate": 20200207
+    },
+    {
       "carryoverAmount": 6135,
       "carryover": "$6,135",
       "wagertype": "Super High Five",
       "track": "Gulfstream Park",
+      "date": "Feb 05",
+      "ndate": 20200205
+    },
+    {
+      "carryoverAmount": 5909,
+      "carryover": "$5,909",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Mahoning Valley",
       "date": "Feb 05",
       "ndate": 20200205
     },
@@ -121,20 +137,20 @@
       "ndate": 20200205
     },
     {
-      "carryoverAmount": 2786,
-      "carryover": "$2,786",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Mahoning Valley",
-      "date": "Feb 04",
-      "ndate": 20200204
-    },
-    {
       "carryoverAmount": 1627,
       "carryover": "$1,627",
       "wagertype": "Super High Five",
       "track": "Turfway Park",
       "date": "Feb 06",
       "ndate": 20200206
+    },
+    {
+      "carryoverAmount": 1384,
+      "carryover": "$1,384",
+      "wagertype": "Super High Five",
+      "track": "Mahoning Valley",
+      "date": "Feb 05",
+      "ndate": 20200205
     }
   ]
 }
