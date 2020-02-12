@@ -61,8 +61,8 @@
       "carryover": "$15,413",
       "wagertype": "Pick 6 Jackpot",
       "track": "Turf Paradise",
-      "date": "Feb 11",
-      "ndate": 20200211
+      "date": "Feb 12",
+      "ndate": 20200212
     },
     {
       "carryoverAmount": 13161,
@@ -97,6 +97,14 @@
       "ndate": 20200212
     },
     {
+      "carryoverAmount": 8576,
+      "carryover": "$8,576",
+      "wagertype": "Pick 6",
+      "track": "Los Alamitos",
+      "date": "Feb 14",
+      "ndate": 20200214
+    },
+    {
       "carryoverAmount": 3556,
       "carryover": "$3,556",
       "wagertype": "Super High Five",
@@ -105,12 +113,28 @@
       "ndate": 20200213
     },
     {
-      "carryoverAmount": 1783,
-      "carryover": "$1,783",
-      "wagertype": "Super High Five",
+      "carryoverAmount": 3235,
+      "carryover": "$3,235",
+      "wagertype": "Pick 5",
+      "track": "Sunland Park",
+      "date": "Feb 14",
+      "ndate": 20200214
+    },
+    {
+      "carryoverAmount": 2488,
+      "carryover": "$2,488",
+      "wagertype": "Pick 6 Jackpot",
       "track": "Mahoning Valley",
-      "date": "Feb 11",
-      "ndate": 20200211
+      "date": "Feb 12",
+      "ndate": 20200212
+    },
+    {
+      "carryoverAmount": 1546,
+      "carryover": "$1,546",
+      "wagertype": "Super High Five",
+      "track": "Sunland Park",
+      "date": "Feb 14",
+      "ndate": 20200214
     },
     {
       "carryoverAmount": 470,
@@ -127,14 +151,6 @@
       "track": "Turfway Park",
       "date": "Feb 13",
       "ndate": 20200213
-    },
-    {
-      "carryoverAmount": 324,
-      "carryover": "$324",
-      "wagertype": "Super High Five",
-      "track": "Sunland Park",
-      "date": "Feb 11",
-      "ndate": 20200211
     }
   ]
 }
