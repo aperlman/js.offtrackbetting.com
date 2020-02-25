@@ -9,12 +9,12 @@
       "ndate": 20200226
     },
     {
-      "carryoverAmount": 153458,
-      "carryover": "$153,458",
+      "carryoverAmount": 175568,
+      "carryover": "$175,568",
       "wagertype": "Pick 5 Jackpot",
       "track": "Fair Grounds",
-      "date": "Feb 24",
-      "ndate": 20200224
+      "date": "Feb 25",
+      "ndate": 20200225
     },
     {
       "carryoverAmount": 139161,
@@ -31,6 +31,14 @@
       "track": "Santa Anita",
       "date": "Feb 28",
       "ndate": 20200228
+    },
+    {
+      "carryoverAmount": 56162,
+      "carryover": "$56,162",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Tampa Bay",
+      "date": "Feb 26",
+      "ndate": 20200226
     },
     {
       "carryoverAmount": 37604,
@@ -57,12 +65,12 @@
       "ndate": 20200228
     },
     {
-      "carryoverAmount": 10847,
-      "carryover": "$10,847",
+      "carryoverAmount": 18693,
+      "carryover": "$18,693",
       "wagertype": "Pick 6 Jackpot",
       "track": "Turf Paradise",
-      "date": "Feb 24",
-      "ndate": 20200224
+      "date": "Feb 25",
+      "ndate": 20200225
     },
     {
       "carryoverAmount": 9973,
@@ -89,20 +97,12 @@
       "ndate": 20200226
     },
     {
-      "carryoverAmount": 2962,
-      "carryover": "$2,962",
-      "wagertype": "Super High Five",
-      "track": "Gulfstream Park",
-      "date": "Feb 26",
-      "ndate": 20200226
-    },
-    {
-      "carryoverAmount": 1272,
-      "carryover": "$1,272",
-      "wagertype": "Super High Five",
-      "track": "Gulfstream Park",
-      "date": "Feb 26",
-      "ndate": 20200226
+      "carryoverAmount": 1924,
+      "carryover": "$1,924",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Mahoning Valley",
+      "date": "Feb 25",
+      "ndate": 20200225
     },
     {
       "carryoverAmount": 1246,
@@ -119,14 +119,6 @@
       "track": "Laurel Park",
       "date": "Feb 27",
       "ndate": 20200227
-    },
-    {
-      "carryoverAmount": 557,
-      "carryover": "$557",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Mahoning Valley",
-      "date": "Feb 24",
-      "ndate": 20200224
     }
   ]
 }
