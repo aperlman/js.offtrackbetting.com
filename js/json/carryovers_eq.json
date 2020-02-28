@@ -1,28 +1,20 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 258372,
-      "carryover": "$258,372",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Gulfstream Park",
-      "date": "Feb 27",
-      "ndate": 20200227
-    },
-    {
-      "carryoverAmount": 204799,
-      "carryover": "$204,799",
+      "carryoverAmount": 218723,
+      "carryover": "$218,723",
       "wagertype": "Pick 5 Jackpot",
       "track": "Fair Grounds",
-      "date": "Feb 27",
-      "ndate": 20200227
+      "date": "Feb 28",
+      "ndate": 20200228
     },
     {
-      "carryoverAmount": 139161,
-      "carryover": "$139,161",
+      "carryoverAmount": 146956,
+      "carryover": "$146,956",
       "wagertype": "Pick 6 Jackpot",
       "track": "Golden Gate",
-      "date": "Feb 27",
-      "ndate": 20200227
+      "date": "Feb 28",
+      "ndate": 20200228
     },
     {
       "carryoverAmount": 62717,
@@ -41,20 +33,20 @@
       "ndate": 20200228
     },
     {
+      "carryoverAmount": 47305,
+      "carryover": "$47,305",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Charles Town",
+      "date": "Feb 28",
+      "ndate": 20200228
+    },
+    {
       "carryoverAmount": 46986,
       "carryover": "$46,986",
       "wagertype": "Pick 6 Jackpot",
       "track": "Turf Paradise",
       "date": "Feb 29",
       "ndate": 20200229
-    },
-    {
-      "carryoverAmount": 41958,
-      "carryover": "$41,958",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Charles Town",
-      "date": "Feb 27",
-      "ndate": 20200227
     },
     {
       "carryoverAmount": 26242,
@@ -89,12 +81,12 @@
       "ndate": 20200228
     },
     {
-      "carryoverAmount": 9666,
-      "carryover": "$9,666",
+      "carryoverAmount": 11469,
+      "carryover": "$11,469",
       "wagertype": "Super High Five",
       "track": "Turfway Park",
-      "date": "Feb 27",
-      "ndate": 20200227
+      "date": "Feb 28",
+      "ndate": 20200228
     },
     {
       "carryoverAmount": 9024,
@@ -121,20 +113,28 @@
       "ndate": 20200228
     },
     {
-      "carryoverAmount": 4325,
-      "carryover": "$4,325",
-      "wagertype": "Super High Five",
-      "track": "Gulfstream Park",
-      "date": "Feb 27",
-      "ndate": 20200227
-    },
-    {
       "carryoverAmount": 4204,
       "carryover": "$4,204",
       "wagertype": "Pick 6 Jackpot",
       "track": "Mahoning Valley",
       "date": "Feb 29",
       "ndate": 20200229
+    },
+    {
+      "carryoverAmount": 3867,
+      "carryover": "$3,867",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Feb 28",
+      "ndate": 20200228
+    },
+    {
+      "carryoverAmount": 3100,
+      "carryover": "$3,100",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Laurel Park",
+      "date": "Feb 28",
+      "ndate": 20200228
     },
     {
       "carryoverAmount": 2781,
@@ -145,28 +145,36 @@
       "ndate": 20200228
     },
     {
-      "carryoverAmount": 2729,
-      "carryover": "$2,729",
+      "carryoverAmount": 2632,
+      "carryover": "$2,632",
       "wagertype": "Super High Five",
       "track": "Gulfstream Park",
-      "date": "Feb 27",
-      "ndate": 20200227
+      "date": "Feb 28",
+      "ndate": 20200228
     },
     {
-      "carryoverAmount": 1118,
-      "carryover": "$1,118",
+      "carryoverAmount": 1649,
+      "carryover": "$1,649",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Feb 28",
+      "ndate": 20200228
+    },
+    {
+      "carryoverAmount": 1067,
+      "carryover": "$1,067",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Feb 28",
+      "ndate": 20200228
+    },
+    {
+      "carryoverAmount": 384,
+      "carryover": "$384",
       "wagertype": "Pick 6 Jackpot",
-      "track": "Laurel Park",
-      "date": "Feb 27",
-      "ndate": 20200227
-    },
-    {
-      "carryoverAmount": 918,
-      "carryover": "$918",
-      "wagertype": "Super High Five",
-      "track": "Gulfstream Park",
-      "date": "Feb 27",
-      "ndate": 20200227
+      "track": "Turfway Park",
+      "date": "Feb 28",
+      "ndate": 20200228
     }
   ]
 }
