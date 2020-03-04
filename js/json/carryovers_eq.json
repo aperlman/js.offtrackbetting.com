@@ -17,12 +17,20 @@
       "ndate": 20200305
     },
     {
-      "carryoverAmount": 74281,
-      "carryover": "$74,281",
+      "carryoverAmount": 140715,
+      "carryover": "$140,715",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Santa Anita",
+      "date": "Mar 06",
+      "ndate": 20200306
+    },
+    {
+      "carryoverAmount": 98868,
+      "carryover": "$98,868",
       "wagertype": "Pick 6 Jackpot",
       "track": "Turf Paradise",
-      "date": "Mar 03",
-      "ndate": 20200303
+      "date": "Mar 04",
+      "ndate": 20200304
     },
     {
       "carryoverAmount": 55101,
@@ -89,18 +97,18 @@
       "ndate": 20200304
     },
     {
-      "carryoverAmount": 2783,
-      "carryover": "$2,783",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Mahoning Valley",
-      "date": "Mar 03",
-      "ndate": 20200303
-    },
-    {
       "carryoverAmount": 2336,
       "carryover": "$2,336",
       "wagertype": "Pick 6 Jackpot",
       "track": "Tampa Bay",
+      "date": "Mar 04",
+      "ndate": 20200304
+    },
+    {
+      "carryoverAmount": 2184,
+      "carryover": "$2,184",
+      "wagertype": "Super High Five",
+      "track": "Mahoning Valley",
       "date": "Mar 04",
       "ndate": 20200304
     },
@@ -117,8 +125,8 @@
       "carryover": "$874",
       "wagertype": "Super High Five",
       "track": "Sunland Park",
-      "date": "Mar 03",
-      "ndate": 20200303
+      "date": "Mar 06",
+      "ndate": 20200306
     },
     {
       "carryoverAmount": 457,
