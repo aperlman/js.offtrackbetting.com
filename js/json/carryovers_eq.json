@@ -57,6 +57,14 @@
       "ndate": 20200310
     },
     {
+      "carryoverAmount": 13468,
+      "carryover": "$13,468",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Turf Paradise",
+      "date": "Mar 10",
+      "ndate": 20200310
+    },
+    {
       "carryoverAmount": 13104,
       "carryover": "$13,104",
       "wagertype": "Pick 6 Jackpot",
@@ -81,20 +89,12 @@
       "ndate": 20200312
     },
     {
-      "carryoverAmount": 3047,
-      "carryover": "$3,047",
-      "wagertype": "Super High Five",
-      "track": "Golden Gate",
-      "date": "Mar 12",
-      "ndate": 20200312
-    },
-    {
-      "carryoverAmount": 2990,
-      "carryover": "$2,990",
+      "carryoverAmount": 2763,
+      "carryover": "$2,763",
       "wagertype": "Pick 6 Jackpot",
-      "track": "Turf Paradise",
-      "date": "Mar 09",
-      "ndate": 20200309
+      "track": "Mahoning Valley",
+      "date": "Mar 10",
+      "ndate": 20200310
     },
     {
       "carryoverAmount": 1950,
@@ -121,28 +121,12 @@
       "ndate": 20200312
     },
     {
-      "carryoverAmount": 1302,
-      "carryover": "$1,302",
-      "wagertype": "Super High Five",
-      "track": "Gulfstream Park",
-      "date": "Mar 11",
-      "ndate": 20200311
-    },
-    {
       "carryoverAmount": 887,
       "carryover": "$887",
       "wagertype": "Super High Five Jackpot",
       "track": "Penn National",
       "date": "Mar 11",
       "ndate": 20200311
-    },
-    {
-      "carryoverAmount": 637,
-      "carryover": "$637",
-      "wagertype": "Super High Five",
-      "track": "Mahoning Valley",
-      "date": "Mar 09",
-      "ndate": 20200309
     }
   ]
 }
