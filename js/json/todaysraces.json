@@ -1,82 +1,50 @@
 {
   "todaysraces": {
-    "headline": "OTB Schedule: Saturday, Mar 21",
+    "headline": "OTB Schedule: Sunday, Mar 22",
     "tracks": [
       {
         "name": "Australia A",
-        "time": " 9:55 PM"
+        "time": "10:55 PM"
       },
       {
         "name": "Australia B",
-        "time": "10:20 PM"
+        "time": "11:15 PM"
       },
       {
-        "name": "Australia C",
-        "time": "10:40 PM"
-      },
-      {
-        "name": "Australia D",
-        "time": "10:45 PM"
-      },
-      {
-        "name": "Cal Expo",
-        "time": " 9:10 PM"
+        "name": "Australia Harness 1",
+        "time": "10:35 PM"
       },
       {
         "name": "Caliente Evening",
-        "time": "10:45 PM"
+        "time": " 9:30 PM"
       },
       {
         "name": "Caliente Matinee",
         "time": " 5:00 PM"
       },
       {
-        "name": "Charles Town",
-        "time": " 7:00 PM"
-      },
-      {
-        "name": "Curraheen (IG)",
-        "time": " 2:50 PM"
-      },
-      {
-        "name": "Dundalk (IG)",
-        "time": " 2:00 PM"
-      },
-      {
-        "name": "Durbanville (SAF)",
-        "time": " 7:15 AM"
-      },
-      {
-        "name": "Galway (IG)",
-        "time": " 2:52 PM"
+        "name": "Downpatrick (IRE)",
+        "time": " 9:40 AM"
       },
       {
         "name": "Golden Gate Fields",
         "time": " 3:45 PM"
       },
       {
+        "name": "Greyville (SAF)",
+        "time": " 6:44 AM"
+      },
+      {
         "name": "Gulfstream Park",
-        "time": "12:45 PM"
-      },
-      {
-        "name": "Laurel Park",
-        "time": " 9:07 AM"
-      },
-      {
-        "name": "Limerick (IG)",
-        "time": " 2:39 AM"
+        "time": " 1:00 PM"
       },
       {
         "name": "Los Alamitos (QH)",
-        "time": " 9:00 PM"
+        "time": " 8:25 PM"
       },
       {
         "name": "Mullingar (IG)",
-        "time": " 2:48 PM"
-      },
-      {
-        "name": "Naples-Ft Myers Eve",
-        "time": " 6:30 PM"
+        "time": " 3:17 PM"
       },
       {
         "name": "Naples-Ft Myers Mat",
@@ -84,67 +52,27 @@
       },
       {
         "name": "New Zealand",
-        "time": " 7:42 PM"
-      },
-      {
-        "name": "Northfield Park",
-        "time": " 6:00 PM"
-      },
-      {
-        "name": "Port Lincoln",
-        "time": "10:25 PM"
+        "time": " 6:38 PM"
       },
       {
         "name": "Remington Park",
-        "time": " 7:00 PM"
-      },
-      {
-        "name": "Sam Houston",
-        "time": " 7:45 PM"
-      },
-      {
-        "name": "Sanford Eve",
-        "time": " 7:35 PM"
-      },
-      {
-        "name": "Sanford Mat",
-        "time": " 1:30 PM"
+        "time": " 2:30 PM"
       },
       {
         "name": "Santa Anita Park",
         "time": " 3:30 PM"
       },
       {
-        "name": "Sha Tin (HK)",
-        "time": " 1:00 AM"
-      },
-      {
-        "name": "Shelbourne Park (IG)",
-        "time": " 2:42 AM"
+        "name": "Saratoga Harness",
+        "time": "12:00 PM"
       },
       {
         "name": "Tampa Bay Downs",
-        "time": "12:35 PM"
-      },
-      {
-        "name": "Thurles (IG)",
-        "time": " 2:50 PM"
-      },
-      {
-        "name": "Thurles (IRE)",
-        "time": " 9:40 AM"
+        "time": "12:25 PM"
       },
       {
         "name": "Tralee (IG)",
-        "time": " 2:44 PM"
-      },
-      {
-        "name": "Turffontein (SAF)",
-        "time": " 6:55 AM"
-      },
-      {
-        "name": "Waterford (IG)",
-        "time": " 2:45 AM"
+        "time": " 1:36 PM"
       }
     ]
   }
