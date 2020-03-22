@@ -49,14 +49,6 @@
       "ndate": 20200322
     },
     {
-      "carryoverAmount": 12231,
-      "carryover": "$12,231",
-      "wagertype": "Super High Five",
-      "track": "Gulfstream Park",
-      "date": "Mar 22",
-      "ndate": 20200322
-    },
-    {
       "carryoverAmount": 10216,
       "carryover": "$10,216",
       "wagertype": "Pick 6 Jackpot",
@@ -81,36 +73,12 @@
       "ndate": 20200326
     },
     {
-      "carryoverAmount": 3509,
-      "carryover": "$3,509",
-      "wagertype": "Super High Five",
-      "track": "Gulfstream Park",
-      "date": "Mar 22",
-      "ndate": 20200322
-    },
-    {
-      "carryoverAmount": 2679,
-      "carryover": "$2,679",
-      "wagertype": "Super High Five",
-      "track": "Gulfstream Park",
-      "date": "Mar 22",
-      "ndate": 20200322
-    },
-    {
       "carryoverAmount": 2620,
       "carryover": "$2,620",
       "wagertype": "Pick 6 Jackpot",
       "track": "Mahoning Valley",
       "date": "Mar 23",
       "ndate": 20200323
-    },
-    {
-      "carryoverAmount": 2574,
-      "carryover": "$2,574",
-      "wagertype": "Super High Five",
-      "track": "Golden Gate",
-      "date": "Mar 22",
-      "ndate": 20200322
     }
   ]
 }
