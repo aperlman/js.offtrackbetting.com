@@ -1,20 +1,20 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 1416111,
-      "carryover": "$1,416,111",
+      "carryoverAmount": 1519752,
+      "carryover": "$1,519,752",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "Mar 26",
-      "ndate": 20200326
+      "date": "Mar 27",
+      "ndate": 20200327
     },
     {
-      "carryoverAmount": 315457,
-      "carryover": "$315,457",
+      "carryoverAmount": 333386,
+      "carryover": "$333,386",
       "wagertype": "Pick 6 Jackpot",
       "track": "Golden Gate",
-      "date": "Mar 26",
-      "ndate": 20200326
+      "date": "Mar 27",
+      "ndate": 20200327
     },
     {
       "carryoverAmount": 167744,
@@ -37,8 +37,8 @@
       "carryover": "$51,809",
       "wagertype": "Pick 6 Jackpot",
       "track": "Sam Houston",
-      "date": "Mar 27",
-      "ndate": 20200327
+      "date": "Mar 28",
+      "ndate": 20200328
     },
     {
       "carryoverAmount": 40991,
@@ -49,20 +49,28 @@
       "ndate": 20200327
     },
     {
-      "carryoverAmount": 9135,
-      "carryover": "$9,135",
+      "carryoverAmount": 14507,
+      "carryover": "$14,507",
       "wagertype": "Pick 6 Jackpot",
       "track": "Remington Park",
-      "date": "Mar 26",
-      "ndate": 20200326
+      "date": "Mar 27",
+      "ndate": 20200327
     },
     {
       "carryoverAmount": 3954,
       "carryover": "$3,954",
       "wagertype": "Pick 6 Jackpot",
       "track": "Turfway Park",
-      "date": "Mar 26",
-      "ndate": 20200326
+      "date": "Mar 27",
+      "ndate": 20200327
+    },
+    {
+      "carryoverAmount": 1939,
+      "carryover": "$1,939",
+      "wagertype": "Super High Five",
+      "track": "Golden Gate",
+      "date": "Mar 27",
+      "ndate": 20200327
     }
   ]
 }
