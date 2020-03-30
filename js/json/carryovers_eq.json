@@ -1,12 +1,12 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 372990,
-      "carryover": "$372,990",
+      "carryoverAmount": 398294,
+      "carryover": "$398,294",
       "wagertype": "Pick 6 Jackpot",
       "track": "Golden Gate",
-      "date": "Mar 29",
-      "ndate": 20200329
+      "date": "Apr 02",
+      "ndate": 20200402
     },
     {
       "carryoverAmount": 167744,
@@ -17,36 +17,36 @@
       "ndate": 20200330
     },
     {
-      "carryoverAmount": 75661,
-      "carryover": "$75,661",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Santa Anita",
-      "date": "Mar 29",
-      "ndate": 20200329
-    },
-    {
-      "carryoverAmount": 53753,
-      "carryover": "$53,753",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Tampa Bay",
-      "date": "Mar 29",
-      "ndate": 20200329
-    },
-    {
-      "carryoverAmount": 23752,
-      "carryover": "$23,752",
+      "carryoverAmount": 25635,
+      "carryover": "$25,635",
       "wagertype": "Pick 6 Jackpot",
       "track": "Remington Park",
-      "date": "Mar 29",
-      "ndate": 20200329
+      "date": "Apr 02",
+      "ndate": 20200402
     },
     {
-      "carryoverAmount": 19149,
-      "carryover": "$19,149",
+      "carryoverAmount": 11433,
+      "carryover": "$11,433",
       "wagertype": "Super High Five",
       "track": "Gulfstream Park",
-      "date": "Mar 29",
-      "ndate": 20200329
+      "date": "Apr 02",
+      "ndate": 20200402
+    },
+    {
+      "carryoverAmount": 5617,
+      "carryover": "$5,617",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Apr 02",
+      "ndate": 20200402
+    },
+    {
+      "carryoverAmount": 1445,
+      "carryover": "$1,445",
+      "wagertype": "Super High Five",
+      "track": "Golden Gate",
+      "date": "Apr 02",
+      "ndate": 20200402
     }
   ]
 }
