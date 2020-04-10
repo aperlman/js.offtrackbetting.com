@@ -1,12 +1,12 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 368329,
-      "carryover": "$368,329",
+      "carryoverAmount": 465998,
+      "carryover": "$465,998",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "Apr 09",
-      "ndate": 20200409
+      "date": "Apr 10",
+      "ndate": 20200410
     },
     {
       "carryoverAmount": 35278,
@@ -25,20 +25,12 @@
       "ndate": 20200413
     },
     {
-      "carryoverAmount": 16050,
-      "carryover": "$16,050",
+      "carryoverAmount": 26224,
+      "carryover": "$26,224",
       "wagertype": "Pick 6 Jackpot",
       "track": "Remington Park",
-      "date": "Apr 09",
-      "ndate": 20200409
-    },
-    {
-      "carryoverAmount": 12901,
-      "carryover": "$12,901",
-      "wagertype": "Super High Five",
-      "track": "Gulfstream Park",
-      "date": "Apr 09",
-      "ndate": 20200409
+      "date": "Apr 10",
+      "ndate": 20200410
     }
   ]
 }
