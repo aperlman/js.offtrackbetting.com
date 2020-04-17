@@ -1,38 +1,42 @@
 {
   "todaysraces": {
-    "headline": "OTB Schedule: Thursday, Apr 16",
+    "headline": "OTB Schedule: Friday, Apr 17",
     "tracks": [
       {
         "name": "Australia A",
-        "time": " 9:12 PM"
+        "time": " 9:33 PM"
       },
       {
         "name": "Australia B",
-        "time": "10:35 PM"
+        "time": " 9:55 PM"
       },
       {
         "name": "Australia C",
-        "time": "10:50 PM"
+        "time": "10:19 PM"
       },
       {
         "name": "Australia D",
-        "time": "11:00 PM"
+        "time": "11:13 PM"
       },
       {
-        "name": "Australia Harness 1",
-        "time": "10:30 PM"
-      },
-      {
-        "name": "Australia Harness 2",
-        "time": "10:42 PM"
+        "name": "Caulfield",
+        "time": "10:15 PM"
       },
       {
         "name": "Gulfstream Park",
         "time": " 1:00 PM"
       },
       {
-        "name": "Kawasaki JPN",
-        "time": " 2:30 AM"
+        "name": "Los Alamitos (QH)",
+        "time": " 9:00 PM"
+      },
+      {
+        "name": "Morphettville",
+        "time": "10:26 PM"
+      },
+      {
+        "name": "Naples-Ft Myers Eve",
+        "time": " 5:00 PM"
       },
       {
         "name": "Naples-Ft Myers Mat",
@@ -41,6 +45,10 @@
       {
         "name": "Remington Park",
         "time": " 7:00 PM"
+      },
+      {
+        "name": "Tampa Bay Downs",
+        "time": "12:24 PM"
       }
     ]
   }
