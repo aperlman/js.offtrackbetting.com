@@ -1,50 +1,30 @@
 {
   "todaysraces": {
-    "headline": "OTB Schedule: Saturday, Apr 18",
+    "headline": "OTB Schedule: Sunday, Apr 19",
     "tracks": [
       {
         "name": "Australia A",
-        "time": " 9:00 PM"
-      },
-      {
-        "name": "Australia B",
-        "time": " 9:30 PM"
-      },
-      {
-        "name": "Australia C",
         "time": "10:35 PM"
       },
       {
-        "name": "Australia D",
-        "time": "11:00 PM"
-      },
-      {
         "name": "Australia Harness 1",
-        "time": "10:27 PM"
+        "time": "10:54 PM"
       },
       {
         "name": "Australia Harness 2",
-        "time": " 4:46 AM"
-      },
-      {
-        "name": "Gawler",
-        "time": "11:40 PM"
+        "time": "11:34 PM"
       },
       {
         "name": "Gulfstream Park",
-        "time": "12:45 PM"
-      },
-      {
-        "name": "Japan G1 Races",
-        "time": " 9:05 PM"
+        "time": "12:55 PM"
       },
       {
         "name": "Los Alamitos (QH)",
         "time": " 9:00 PM"
       },
       {
-        "name": "Naples-Ft Myers Eve",
-        "time": " 5:00 PM"
+        "name": "Mornington",
+        "time": "11:15 PM"
       },
       {
         "name": "Naples-Ft Myers Mat",
@@ -55,12 +35,8 @@
         "time": " 7:00 PM"
       },
       {
-        "name": "Sha Tin (HK)",
-        "time": "12:45 AM"
-      },
-      {
         "name": "Tampa Bay Downs",
-        "time": "12:28 PM"
+        "time": "12:40 PM"
       }
     ]
   }
