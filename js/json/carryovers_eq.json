@@ -1,14 +1,6 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 1366160,
-      "carryover": "$1,366,160",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Gulfstream Park",
-      "date": "Apr 19",
-      "ndate": 20200419
-    },
-    {
       "carryoverAmount": 272132,
       "carryover": "$272,132",
       "wagertype": "Pick 5 Jackpot",
@@ -17,12 +9,44 @@
       "ndate": 20200420
     },
     {
-      "carryoverAmount": 5004,
-      "carryover": "$5,004",
+      "carryoverAmount": 13835,
+      "carryover": "$13,835",
       "wagertype": "Pick 6 Jackpot",
       "track": "Tampa Bay",
-      "date": "Apr 19",
-      "ndate": 20200419
+      "date": "Apr 22",
+      "ndate": 20200422
+    },
+    {
+      "carryoverAmount": 4689,
+      "carryover": "$4,689",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Apr 23",
+      "ndate": 20200423
+    },
+    {
+      "carryoverAmount": 4531,
+      "carryover": "$4,531",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Apr 23",
+      "ndate": 20200423
+    },
+    {
+      "carryoverAmount": 3328,
+      "carryover": "$3,328",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Apr 23",
+      "ndate": 20200423
+    },
+    {
+      "carryoverAmount": 1840,
+      "carryover": "$1,840",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Apr 23",
+      "ndate": 20200423
     }
   ]
 }
