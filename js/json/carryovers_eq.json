@@ -1,20 +1,36 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 528481,
-      "carryover": "$528,481",
+      "carryoverAmount": 646063,
+      "carryover": "$646,063",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "May 01",
-      "ndate": 20200501
+      "date": "May 02",
+      "ndate": 20200502
     },
     {
-      "carryoverAmount": 21019,
-      "carryover": "$21,019",
+      "carryoverAmount": 28752,
+      "carryover": "$28,752",
       "wagertype": "Pick 6 Jackpot",
       "track": "Tampa Bay",
-      "date": "May 01",
-      "ndate": 20200501
+      "date": "May 02",
+      "ndate": 20200502
+    },
+    {
+      "carryoverAmount": 7990,
+      "carryover": "$7,990",
+      "wagertype": "Pick 6",
+      "track": "Los Alamitos",
+      "date": "May 02",
+      "ndate": 20200502
+    },
+    {
+      "carryoverAmount": 5026,
+      "carryover": "$5,026",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "May 02",
+      "ndate": 20200502
     }
   ]
 }
