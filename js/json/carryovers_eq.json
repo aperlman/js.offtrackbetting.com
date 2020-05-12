@@ -9,12 +9,12 @@
       "ndate": 20200514
     },
     {
-      "carryoverAmount": 159547,
-      "carryover": "$159,547",
+      "carryoverAmount": 232925,
+      "carryover": "$232,925",
       "wagertype": "Pick 5 Jackpot",
       "track": "Fonner Park",
-      "date": "May 11",
-      "ndate": 20200511
+      "date": "May 12",
+      "ndate": 20200512
     },
     {
       "carryoverAmount": 118408,
@@ -31,6 +31,14 @@
       "track": "Tampa Bay",
       "date": "May 13",
       "ndate": 20200513
+    },
+    {
+      "carryoverAmount": 10216,
+      "carryover": "$10,216",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Charles Town",
+      "date": "May 14",
+      "ndate": 20200514
     }
   ]
 }
