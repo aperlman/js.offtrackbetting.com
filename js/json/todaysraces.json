@@ -1,26 +1,30 @@
 {
   "todaysraces": {
-    "headline": "OTB Schedule: Friday, May 15",
+    "headline": "OTB Schedule: Saturday, May 16",
     "tracks": [
       {
         "name": "Australia A",
-        "time": " 9:19 PM"
+        "time": " 8:40 PM"
       },
       {
         "name": "Australia B",
-        "time": " 9:35 PM"
+        "time": "10:15 PM"
       },
       {
         "name": "Australia C",
-        "time": " 9:45 PM"
+        "time": "10:20 PM"
       },
       {
         "name": "Australia D",
-        "time": "12:02 AM"
+        "time": "10:35 PM"
       },
       {
         "name": "Australia Harness 1",
-        "time": " 6:30 PM"
+        "time": "10:19 PM"
+      },
+      {
+        "name": "Australia Harness 2",
+        "time": "10:42 PM"
       },
       {
         "name": "Charles Town",
@@ -32,19 +36,19 @@
       },
       {
         "name": "Golden Gate Fields",
-        "time": " 3:15 PM"
+        "time": " 3:45 PM"
       },
       {
         "name": "Gulfstream Park",
-        "time": " 1:00 PM"
+        "time": "12:45 PM"
+      },
+      {
+        "name": "Iowa Greyhound Park Eve",
+        "time": " 5:30 PM"
       },
       {
         "name": "Los Alamitos (QH)",
         "time": " 9:00 PM"
-      },
-      {
-        "name": "Morphettville",
-        "time": "10:00 PM"
       },
       {
         "name": "Palm Beach Mat",
@@ -59,8 +63,16 @@
         "time": " 3:30 PM"
       },
       {
+        "name": "Sha Tin (HK)",
+        "time": " 1:00 AM"
+      },
+      {
+        "name": "Strathalbyn",
+        "time": "11:15 PM"
+      },
+      {
         "name": "Tampa Bay Downs",
-        "time": "12:25 PM"
+        "time": "12:35 PM"
       }
     ]
   }
