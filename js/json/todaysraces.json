@@ -1,38 +1,26 @@
 {
   "todaysraces": {
-    "headline": "OTB Schedule: Saturday, May 16",
+    "headline": "OTB Schedule: Sunday, May 17",
     "tracks": [
       {
         "name": "Australia A",
-        "time": " 8:40 PM"
-      },
-      {
-        "name": "Australia B",
-        "time": "10:15 PM"
-      },
-      {
-        "name": "Australia C",
         "time": "10:20 PM"
       },
       {
-        "name": "Australia D",
-        "time": "10:35 PM"
+        "name": "Australia B",
+        "time": "10:30 PM"
+      },
+      {
+        "name": "Australia C",
+        "time": "11:15 PM"
       },
       {
         "name": "Australia Harness 1",
-        "time": "10:19 PM"
+        "time": "11:23 PM"
       },
       {
         "name": "Australia Harness 2",
-        "time": "10:42 PM"
-      },
-      {
-        "name": "Charles Town",
-        "time": " 7:00 PM"
-      },
-      {
-        "name": "Derby Lane Mat",
-        "time": "12:30 PM"
+        "time": "12:17 AM"
       },
       {
         "name": "Golden Gate Fields",
@@ -43,20 +31,24 @@
         "time": "12:45 PM"
       },
       {
-        "name": "Iowa Greyhound Park Eve",
-        "time": " 5:30 PM"
-      },
-      {
-        "name": "Japan G1 Races",
-        "time": " 9:05 PM"
+        "name": "Iowa Greyhound Park Mat",
+        "time": " 2:00 PM"
       },
       {
         "name": "Los Alamitos (QH)",
-        "time": " 9:00 PM"
+        "time": " 8:55 PM"
+      },
+      {
+        "name": "Oi JPN",
+        "time": " 1:40 AM"
       },
       {
         "name": "Palm Beach Mat",
         "time": " 1:00 PM"
+      },
+      {
+        "name": "Pimlico",
+        "time": "12:20 PM"
       },
       {
         "name": "Remington Park",
@@ -65,18 +57,6 @@
       {
         "name": "Santa Anita Park",
         "time": " 3:30 PM"
-      },
-      {
-        "name": "Sha Tin (HK)",
-        "time": " 1:00 AM"
-      },
-      {
-        "name": "Strathalbyn",
-        "time": "11:15 PM"
-      },
-      {
-        "name": "Tampa Bay Downs",
-        "time": "12:35 PM"
       }
     ]
   }
