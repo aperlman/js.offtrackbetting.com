@@ -1,44 +1,84 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 279065,
-      "carryover": "$279,065",
+      "carryoverAmount": 371518,
+      "carryover": "$371,518",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "May 16",
-      "ndate": 20200516
+      "date": "May 17",
+      "ndate": 20200517
     },
     {
-      "carryoverAmount": 143829,
-      "carryover": "$143,829",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Tampa Bay",
-      "date": "May 16",
-      "ndate": 20200516
-    },
-    {
-      "carryoverAmount": 109204,
-      "carryover": "$109,204",
+      "carryoverAmount": 166278,
+      "carryover": "$166,278",
       "wagertype": "Pick 6 Jackpot",
       "track": "Santa Anita",
-      "date": "May 16",
-      "ndate": 20200516
+      "date": "May 17",
+      "ndate": 20200517
     },
     {
-      "carryoverAmount": 32482,
-      "carryover": "$32,482",
+      "carryoverAmount": 159664,
+      "carryover": "$159,664",
       "wagertype": "Pick 6 Jackpot",
-      "track": "Charles Town",
-      "date": "May 16",
-      "ndate": 20200516
+      "track": "Tampa Bay",
+      "date": "May 20",
+      "ndate": 20200520
     },
     {
-      "carryoverAmount": 7699,
-      "carryover": "$7,699",
+      "carryoverAmount": 16344,
+      "carryover": "$16,344",
       "wagertype": "Pick 6 Jackpot",
       "track": "Golden Gate",
-      "date": "May 16",
-      "ndate": 20200516
+      "date": "May 17",
+      "ndate": 20200517
+    },
+    {
+      "carryoverAmount": 6995,
+      "carryover": "$6,995",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Churchill Downs",
+      "date": "May 17",
+      "ndate": 20200517
+    },
+    {
+      "carryoverAmount": 3176,
+      "carryover": "$3,176",
+      "wagertype": "Super High Five",
+      "track": "Golden Gate",
+      "date": "May 17",
+      "ndate": 20200517
+    },
+    {
+      "carryoverAmount": 3103,
+      "carryover": "$3,103",
+      "wagertype": "Super High Five",
+      "track": "Churchill Downs",
+      "date": "May 17",
+      "ndate": 20200517
+    },
+    {
+      "carryoverAmount": 2869,
+      "carryover": "$2,869",
+      "wagertype": "Super High Five",
+      "track": "Golden Gate",
+      "date": "May 17",
+      "ndate": 20200517
+    },
+    {
+      "carryoverAmount": 1553,
+      "carryover": "$1,553",
+      "wagertype": "Super High Five",
+      "track": "Golden Gate",
+      "date": "May 17",
+      "ndate": 20200517
+    },
+    {
+      "carryoverAmount": 844,
+      "carryover": "$844",
+      "wagertype": "Super High Five",
+      "track": "Golden Gate",
+      "date": "May 17",
+      "ndate": 20200517
     }
   ]
 }
