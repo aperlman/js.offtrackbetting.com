@@ -1,20 +1,20 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 371518,
-      "carryover": "$371,518",
+      "carryoverAmount": 480541,
+      "carryover": "$480,541",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "May 17",
-      "ndate": 20200517
+      "date": "May 21",
+      "ndate": 20200521
     },
     {
-      "carryoverAmount": 166278,
-      "carryover": "$166,278",
+      "carryoverAmount": 224102,
+      "carryover": "$224,102",
       "wagertype": "Pick 6 Jackpot",
       "track": "Santa Anita",
-      "date": "May 17",
-      "ndate": 20200517
+      "date": "May 22",
+      "ndate": 20200522
     },
     {
       "carryoverAmount": 159664,
@@ -25,28 +25,44 @@
       "ndate": 20200520
     },
     {
-      "carryoverAmount": 16344,
-      "carryover": "$16,344",
+      "carryoverAmount": 71805,
+      "carryover": "$71,805",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Churchill Downs",
+      "date": "May 21",
+      "ndate": 20200521
+    },
+    {
+      "carryoverAmount": 24243,
+      "carryover": "$24,243",
       "wagertype": "Pick 6 Jackpot",
       "track": "Golden Gate",
-      "date": "May 17",
-      "ndate": 20200517
+      "date": "May 21",
+      "ndate": 20200521
     },
     {
-      "carryoverAmount": 6995,
-      "carryover": "$6,995",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Churchill Downs",
-      "date": "May 17",
-      "ndate": 20200517
+      "carryoverAmount": 19910,
+      "carryover": "$19,910",
+      "wagertype": "Super High Five",
+      "track": "Santa Anita",
+      "date": "May 22",
+      "ndate": 20200522
     },
     {
-      "carryoverAmount": 3103,
-      "carryover": "$3,103",
+      "carryoverAmount": 10255,
+      "carryover": "$10,255",
       "wagertype": "Super High Five",
       "track": "Churchill Downs",
-      "date": "May 17",
-      "ndate": 20200517
+      "date": "May 21",
+      "ndate": 20200521
+    },
+    {
+      "carryoverAmount": 2867,
+      "carryover": "$2,867",
+      "wagertype": "Super High Five",
+      "track": "Golden Gate",
+      "date": "May 21",
+      "ndate": 20200521
     }
   ]
 }
