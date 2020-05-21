@@ -1,38 +1,46 @@
 {
   "todaysraces": {
-    "headline": "OTB Schedule: Wednesday, May 20",
+    "headline": "OTB Schedule: Thursday, May 21",
     "tracks": [
       {
         "name": "Australia A",
-        "time": " 9:55 PM"
+        "time": " 9:42 PM"
       },
       {
         "name": "Australia B",
-        "time": "10:15 PM"
+        "time": "10:10 PM"
       },
       {
         "name": "Australia C",
-        "time": "10:30 PM"
+        "time": "10:25 PM"
       },
       {
         "name": "Australia D",
-        "time": "12:12 AM"
+        "time": "10:30 PM"
       },
       {
         "name": "Australia Harness 1",
-        "time": "10:22 PM"
+        "time": "10:37 PM"
       },
       {
         "name": "Australia Harness 2",
-        "time": "10:45 PM"
+        "time": "11:33 PM"
+      },
+      {
+        "name": "Charles Town",
+        "time": " 7:00 PM"
       },
       {
         "name": "Derby Lane Mat",
         "time": "12:30 PM"
       },
       {
-        "name": "Happy Valley (HK)",
-        "time": " 6:45 AM"
+        "name": "Golden Gate Fields",
+        "time": " 3:45 PM"
+      },
+      {
+        "name": "Gulfstream Park",
+        "time": "12:45 PM"
       },
       {
         "name": "Iowa Greyhound Park Eve",
@@ -47,20 +55,12 @@
         "time": " 1:00 PM"
       },
       {
+        "name": "Remington Park",
+        "time": " 7:00 PM"
+      },
+      {
         "name": "St Johns Eve",
         "time": " 7:45 PM"
-      },
-      {
-        "name": "St Johns Mat",
-        "time": "12:35 PM"
-      },
-      {
-        "name": "Tampa Bay Downs",
-        "time": " 1:00 PM"
-      },
-      {
-        "name": "Will Rogers Downs",
-        "time": " 2:15 PM"
       }
     ]
   }
