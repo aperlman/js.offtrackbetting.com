@@ -1,28 +1,36 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 555619,
-      "carryover": "$555,619",
+      "carryoverAmount": 628433,
+      "carryover": "$628,433",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "May 22",
-      "ndate": 20200522
+      "date": "May 23",
+      "ndate": 20200523
     },
     {
-      "carryoverAmount": 224102,
-      "carryover": "$224,102",
+      "carryoverAmount": 259163,
+      "carryover": "$259,163",
       "wagertype": "Pick 6 Jackpot",
       "track": "Santa Anita",
-      "date": "May 22",
-      "ndate": 20200522
+      "date": "May 23",
+      "ndate": 20200523
     },
     {
-      "carryoverAmount": 187347,
-      "carryover": "$187,347",
+      "carryoverAmount": 200443,
+      "carryover": "$200,443",
       "wagertype": "Pick 6 Jackpot",
       "track": "Tampa Bay",
-      "date": "May 22",
-      "ndate": 20200522
+      "date": "May 23",
+      "ndate": 20200523
+    },
+    {
+      "carryoverAmount": 87566,
+      "carryover": "$87,566",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Churchill Downs",
+      "date": "May 23",
+      "ndate": 20200523
     },
     {
       "carryoverAmount": 79917,
@@ -33,44 +41,52 @@
       "ndate": 20200525
     },
     {
-      "carryoverAmount": 79288,
-      "carryover": "$79,288",
-      "wagertype": "Pick 6 Jackpot",
+      "carryoverAmount": 44229,
+      "carryover": "$44,229",
+      "wagertype": "Super High Five",
       "track": "Churchill Downs",
-      "date": "May 22",
-      "ndate": 20200522
+      "date": "May 23",
+      "ndate": 20200523
     },
     {
-      "carryoverAmount": 31673,
-      "carryover": "$31,673",
+      "carryoverAmount": 38379,
+      "carryover": "$38,379",
       "wagertype": "Pick 6 Jackpot",
       "track": "Golden Gate",
-      "date": "May 22",
-      "ndate": 20200522
+      "date": "May 23",
+      "ndate": 20200523
     },
     {
-      "carryoverAmount": 24103,
-      "carryover": "$24,103",
-      "wagertype": "Super High Five",
-      "track": "Churchill Downs",
-      "date": "May 22",
-      "ndate": 20200522
-    },
-    {
-      "carryoverAmount": 19910,
-      "carryover": "$19,910",
-      "wagertype": "Super High Five",
-      "track": "Santa Anita",
-      "date": "May 22",
-      "ndate": 20200522
-    },
-    {
-      "carryoverAmount": 6301,
-      "carryover": "$6,301",
+      "carryoverAmount": 10935,
+      "carryover": "$10,935",
       "wagertype": "Pick 6 Jackpot",
       "track": "Charles Town",
-      "date": "May 22",
-      "ndate": 20200522
+      "date": "May 23",
+      "ndate": 20200523
+    },
+    {
+      "carryoverAmount": 2046,
+      "carryover": "$2,046",
+      "wagertype": "Super High Five",
+      "track": "Lone Star",
+      "date": "May 23",
+      "ndate": 20200523
+    },
+    {
+      "carryoverAmount": 675,
+      "carryover": "$675",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Lone Star",
+      "date": "May 23",
+      "ndate": 20200523
+    },
+    {
+      "carryoverAmount": 238,
+      "carryover": "$238",
+      "wagertype": "Super High Five",
+      "track": "Lone Star",
+      "date": "May 23",
+      "ndate": 20200523
     }
   ]
 }
