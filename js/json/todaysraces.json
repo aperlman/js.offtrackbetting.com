@@ -1,26 +1,42 @@
 {
   "todaysraces": {
-    "headline": "OTB Schedule: Sunday, May 24",
+    "headline": "OTB Schedule: Monday, May 25",
     "tracks": [
       {
+        "name": "Assiniboia Downs",
+        "time": " 7:35 PM"
+      },
+      {
         "name": "Australia A",
-        "time": "10:30 PM"
+        "time": " 9:05 PM"
       },
       {
         "name": "Australia B",
-        "time": "10:40 PM"
+        "time": "10:30 PM"
       },
       {
         "name": "Australia C",
-        "time": "10:55 PM"
+        "time": "10:45 PM"
+      },
+      {
+        "name": "Australia D",
+        "time": "11:00 PM"
       },
       {
         "name": "Australia Harness 1",
-        "time": "11:18 PM"
+        "time": "11:33 PM"
       },
       {
         "name": "Australia Harness 2",
-        "time": "11:25 PM"
+        "time": "11:47 PM"
+      },
+      {
+        "name": "Derby Lane Mat",
+        "time": "12:30 PM"
+      },
+      {
+        "name": "Fonner Park",
+        "time": " 5:00 PM"
       },
       {
         "name": "Golden Gate Fields",
@@ -35,20 +51,12 @@
         "time": " 2:00 PM"
       },
       {
-        "name": "Lone Star Park",
-        "time": " 4:05 PM"
-      },
-      {
-        "name": "Los Alamitos (QH)",
-        "time": " 8:30 PM"
-      },
-      {
         "name": "Palm Beach Mat",
         "time": " 1:00 PM"
       },
       {
         "name": "Pimlico",
-        "time": "12:28 PM"
+        "time": "12:30 PM"
       },
       {
         "name": "Remington Park",
@@ -63,8 +71,12 @@
         "time": " 3:30 PM"
       },
       {
+        "name": "Scioto Downs",
+        "time": " 6:30 PM"
+      },
+      {
         "name": "St Johns Mat",
-        "time": " 1:30 PM"
+        "time": "12:35 PM"
       }
     ]
   }
