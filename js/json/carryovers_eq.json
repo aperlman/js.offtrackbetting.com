@@ -1,28 +1,20 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 729156,
-      "carryover": "$729,156",
+      "carryoverAmount": 816547,
+      "carryover": "$816,547",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "May 24",
-      "ndate": 20200524
+      "date": "May 25",
+      "ndate": 20200525
     },
     {
-      "carryoverAmount": 305806,
-      "carryover": "$305,806",
+      "carryoverAmount": 362967,
+      "carryover": "$362,967",
       "wagertype": "Pick 6 Jackpot",
       "track": "Santa Anita",
-      "date": "May 24",
-      "ndate": 20200524
-    },
-    {
-      "carryoverAmount": 105951,
-      "carryover": "$105,951",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Churchill Downs",
-      "date": "May 24",
-      "ndate": 20200524
+      "date": "May 25",
+      "ndate": 20200525
     },
     {
       "carryoverAmount": 79917,
@@ -33,20 +25,12 @@
       "ndate": 20200525
     },
     {
-      "carryoverAmount": 46652,
-      "carryover": "$46,652",
+      "carryoverAmount": 53623,
+      "carryover": "$53,623",
       "wagertype": "Pick 6 Jackpot",
       "track": "Golden Gate",
-      "date": "May 24",
-      "ndate": 20200524
-    },
-    {
-      "carryoverAmount": 20070,
-      "carryover": "$20,070",
-      "wagertype": "Super High Five",
-      "track": "Gulfstream Park",
-      "date": "May 24",
-      "ndate": 20200524
+      "date": "May 25",
+      "ndate": 20200525
     },
     {
       "carryoverAmount": 18970,
@@ -57,28 +41,52 @@
       "ndate": 20200528
     },
     {
-      "carryoverAmount": 3220,
-      "carryover": "$3,220",
+      "carryoverAmount": 6985,
+      "carryover": "$6,985",
       "wagertype": "Super High Five",
-      "track": "Lone Star",
-      "date": "May 24",
-      "ndate": 20200524
+      "track": "Santa Anita",
+      "date": "May 25",
+      "ndate": 20200525
     },
     {
-      "carryoverAmount": 1752,
-      "carryover": "$1,752",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Lone Star",
-      "date": "May 24",
-      "ndate": 20200524
+      "carryoverAmount": 5767,
+      "carryover": "$5,767",
+      "wagertype": "Super High Five",
+      "track": "Churchill Downs",
+      "date": "May 25",
+      "ndate": 20200525
     },
     {
-      "carryoverAmount": 553,
-      "carryover": "$553",
+      "carryoverAmount": 4433,
+      "carryover": "$4,433",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "May 25",
+      "ndate": 20200525
+    },
+    {
+      "carryoverAmount": 3020,
+      "carryover": "$3,020",
+      "wagertype": "Super High Five",
+      "track": "Golden Gate",
+      "date": "May 25",
+      "ndate": 20200525
+    },
+    {
+      "carryoverAmount": 2586,
+      "carryover": "$2,586",
+      "wagertype": "Super High Five",
+      "track": "Golden Gate",
+      "date": "May 25",
+      "ndate": 20200525
+    },
+    {
+      "carryoverAmount": 816,
+      "carryover": "$816",
       "wagertype": "Pick 5",
       "track": "Ruidoso Downs",
-      "date": "May 24",
-      "ndate": 20200524
+      "date": "May 25",
+      "ndate": 20200525
     }
   ]
 }
