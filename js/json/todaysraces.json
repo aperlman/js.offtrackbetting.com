@@ -1,6 +1,6 @@
 {
   "todaysraces": {
-    "headline": "OTB Schedule: Tuesday, May 26",
+    "headline": "OTB Schedule: Wednesday, May 27",
     "tracks": [
       {
         "name": "Assiniboia Downs",
@@ -8,23 +8,27 @@
       },
       {
         "name": "Australia A",
-        "time": " 9:08 PM"
+        "time": "10:35 PM"
       },
       {
         "name": "Australia B",
-        "time": "10:25 PM"
+        "time": "10:42 PM"
       },
       {
         "name": "Australia C",
-        "time": "10:50 PM"
+        "time": "10:55 PM"
       },
       {
         "name": "Australia D",
-        "time": "11:43 PM"
+        "time": "11:00 PM"
       },
       {
         "name": "Australia Harness 1",
-        "time": "10:43 PM"
+        "time": "10:23 PM"
+      },
+      {
+        "name": "Australia Harness 2",
+        "time": "11:21 PM"
       },
       {
         "name": "Derby Lane Mat",
@@ -35,6 +39,10 @@
         "time": " 5:00 PM"
       },
       {
+        "name": "Iowa Greyhound Park Eve",
+        "time": " 5:30 PM"
+      },
+      {
         "name": "Northfield Park",
         "time": " 6:00 PM"
       },
@@ -43,8 +51,24 @@
         "time": " 1:00 PM"
       },
       {
-        "name": "Strathalbyn",
-        "time": "10:40 PM"
+        "name": "Scioto Downs",
+        "time": " 6:30 PM"
+      },
+      {
+        "name": "Sha Tin (HK)",
+        "time": " 6:45 AM"
+      },
+      {
+        "name": "St Johns Eve",
+        "time": " 7:45 PM"
+      },
+      {
+        "name": "St Johns Mat",
+        "time": "12:35 PM"
+      },
+      {
+        "name": "Tampa Bay Downs",
+        "time": " 1:00 PM"
       }
     ]
   }
