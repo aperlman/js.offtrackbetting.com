@@ -1,6 +1,6 @@
 {
   "todaysraces": {
-    "headline": "OTB Schedule: Tuesday, Jun 02",
+    "headline": "OTB Schedule: Wednesday, Jun 03",
     "tracks": [
       {
         "name": "Assiniboia Downs",
@@ -8,59 +8,63 @@
       },
       {
         "name": "Australia A",
-        "time": " 9:26 PM"
+        "time": " 9:32 PM"
       },
       {
         "name": "Australia B",
-        "time": "10:29 PM"
+        "time": "10:20 PM"
       },
       {
         "name": "Australia C",
-        "time": "10:50 PM"
+        "time": "10:30 PM"
       },
       {
         "name": "Australia D",
-        "time": " 1:14 AM"
+        "time": "11:10 PM"
       },
       {
         "name": "Australia Harness 1",
-        "time": "10:43 PM"
+        "time": "10:25 PM"
+      },
+      {
+        "name": "Belmont Park",
+        "time": " 1:15 PM"
+      },
+      {
+        "name": "Buffalo Raceway",
+        "time": " 6:00 PM"
       },
       {
         "name": "Derby Lane Mat",
         "time": "12:30 PM"
       },
       {
-        "name": "Fort Erie",
-        "time": " 1:20 PM"
+        "name": "Gulfstream Park",
+        "time": "12:00 PM"
       },
       {
-        "name": "Gawler",
-        "time": "10:40 PM"
+        "name": "Happy Valley (HK)",
+        "time": " 6:45 AM"
+      },
+      {
+        "name": "Iowa Greyhound Park Eve",
+        "time": " 5:30 PM"
       },
       {
         "name": "Kempton Park (UK)",
         "time": " 8:00 AM"
       },
       {
-        "name": "Ladbrokes Park Lakeside",
-        "time": "10:25 PM"
+        "name": "Kenilworth (SAF)",
+        "time": " 6:30 AM"
       },
       {
         "name": "Laurel Park",
-        "time": " 1:58 PM"
+        "time": "12:30 PM"
       },
       {
         "name": "Lone Star Park",
         "time": " 2:35 PM"
-      },
-      {
-        "name": "Mountaineer Park",
-        "time": " 7:00 PM"
-      },
-      {
-        "name": "Newcastle (UK)",
-        "time": " 7:45 AM"
       },
       {
         "name": "Northfield Park",
@@ -76,11 +80,23 @@
       },
       {
         "name": "Scioto Downs",
-        "time": " 2:00 PM"
+        "time": " 6:30 PM"
       },
       {
-        "name": "Vaal (SAF)",
-        "time": " 6:00 AM"
+        "name": "St Johns Eve",
+        "time": " 7:45 PM"
+      },
+      {
+        "name": "St Johns Mat",
+        "time": "12:35 PM"
+      },
+      {
+        "name": "Tampa Bay Downs",
+        "time": "12:50 PM"
+      },
+      {
+        "name": "Yarmouth (UK)",
+        "time": " 7:45 AM"
       }
     ]
   }
