@@ -1,14 +1,10 @@
 {
   "todaysraces": {
-    "headline": "OTB Schedule: Wednesday, Jun 03",
+    "headline": "OTB Schedule: Thursday, Jun 04",
     "tracks": [
       {
-        "name": "Assiniboia Downs",
-        "time": " 7:35 PM"
-      },
-      {
         "name": "Australia A",
-        "time": " 9:32 PM"
+        "time": "10:00 PM"
       },
       {
         "name": "Australia B",
@@ -20,18 +16,30 @@
       },
       {
         "name": "Australia D",
-        "time": "11:10 PM"
+        "time": "11:57 PM"
       },
       {
         "name": "Australia Harness 1",
-        "time": "10:25 PM"
+        "time": "10:24 PM"
+      },
+      {
+        "name": "Australia Harness 2",
+        "time": "10:47 PM"
       },
       {
         "name": "Belmont Park",
-        "time": " 1:20 PM"
+        "time": " 1:15 PM"
       },
       {
-        "name": "Buffalo Raceway",
+        "name": "Belterra Park",
+        "time": "12:35 PM"
+      },
+      {
+        "name": "Charles Town",
+        "time": " 7:00 PM"
+      },
+      {
+        "name": "Charlottetown",
         "time": " 6:00 PM"
       },
       {
@@ -39,36 +47,20 @@
         "time": "12:30 PM"
       },
       {
-        "name": "Gulfstream Park",
-        "time": "12:00 PM"
-      },
-      {
-        "name": "Happy Valley (HK)",
-        "time": " 6:45 AM"
+        "name": "Golden Gate Fields",
+        "time": " 3:45 PM"
       },
       {
         "name": "Iowa Greyhound Park Eve",
         "time": " 5:30 PM"
       },
       {
-        "name": "Kempton Park (UK)",
+        "name": "Newcastle (UK)",
         "time": " 8:00 AM"
       },
       {
-        "name": "Kenilworth (SAF)",
-        "time": " 6:30 AM"
-      },
-      {
-        "name": "Laurel Park",
-        "time": "12:28 PM"
-      },
-      {
-        "name": "Lone Star Park",
-        "time": " 2:35 PM"
-      },
-      {
-        "name": "Northfield Park",
-        "time": " 6:00 PM"
+        "name": "Newmarket (UK)",
+        "time": " 8:15 AM"
       },
       {
         "name": "Oi JPN",
@@ -76,10 +68,6 @@
       },
       {
         "name": "Palm Beach Mat",
-        "time": " 1:00 PM"
-      },
-      {
-        "name": "Scarborough Downs",
         "time": " 1:00 PM"
       },
       {
@@ -91,16 +79,12 @@
         "time": " 7:45 PM"
       },
       {
-        "name": "St Johns Mat",
-        "time": "12:35 PM"
+        "name": "Thistledown",
+        "time": "12:50 PM"
       },
       {
-        "name": "Tampa Bay Downs",
-        "time": "12:47 PM"
-      },
-      {
-        "name": "Yarmouth (UK)",
-        "time": " 7:45 AM"
+        "name": "Vaal (SAF)",
+        "time": " 6:10 AM"
       }
     ]
   }
