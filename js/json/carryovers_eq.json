@@ -17,12 +17,20 @@
       "ndate": 20200605
     },
     {
-      "carryoverAmount": 162029,
-      "carryover": "$162,029",
+      "carryoverAmount": 327647,
+      "carryover": "$327,647",
+      "wagertype": "Pick 5",
+      "track": "Belmont Park",
+      "date": "Jun 05",
+      "ndate": 20200605
+    },
+    {
+      "carryoverAmount": 170608,
+      "carryover": "$170,608",
       "wagertype": "Pick 6 Jackpot",
       "track": "Churchill Downs",
-      "date": "Jun 04",
-      "ndate": 20200604
+      "date": "Jun 05",
+      "ndate": 20200605
     },
     {
       "carryoverAmount": 145881,
@@ -33,6 +41,14 @@
       "ndate": 20200608
     },
     {
+      "carryoverAmount": 78246,
+      "carryover": "$78,246",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Belmont Park",
+      "date": "Jun 05",
+      "ndate": 20200605
+    },
+    {
       "carryoverAmount": 73629,
       "carryover": "$73,629",
       "wagertype": "Pick 5",
@@ -41,20 +57,20 @@
       "ndate": 20200605
     },
     {
-      "carryoverAmount": 55060,
-      "carryover": "$55,060",
+      "carryoverAmount": 64962,
+      "carryover": "$64,962",
       "wagertype": "Pick 6 Jackpot",
       "track": "Charles Town",
-      "date": "Jun 04",
-      "ndate": 20200604
+      "date": "Jun 05",
+      "ndate": 20200605
     },
     {
-      "carryoverAmount": 51220,
-      "carryover": "$51,220",
+      "carryoverAmount": 31784,
+      "carryover": "$31,784",
       "wagertype": "Pick 6 Jackpot",
-      "track": "Belmont Park",
-      "date": "Jun 04",
-      "ndate": 20200604
+      "track": "Tampa Bay",
+      "date": "Jun 08",
+      "ndate": 20200608
     },
     {
       "carryoverAmount": 31438,
@@ -73,20 +89,28 @@
       "ndate": 20200608
     },
     {
+      "carryoverAmount": 9782,
+      "carryover": "$9,782",
+      "wagertype": "Super High Five",
+      "track": "Golden Gate",
+      "date": "Jun 05",
+      "ndate": 20200605
+    },
+    {
+      "carryoverAmount": 8551,
+      "carryover": "$8,551",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Golden Gate",
+      "date": "Jun 05",
+      "ndate": 20200605
+    },
+    {
       "carryoverAmount": 6832,
       "carryover": "$6,832",
       "wagertype": "Super High Five Jackpot",
       "track": "Assiniboia",
       "date": "Jun 08",
       "ndate": 20200608
-    },
-    {
-      "carryoverAmount": 4287,
-      "carryover": "$4,287",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Golden Gate",
-      "date": "Jun 04",
-      "ndate": 20200604
     },
     {
       "carryoverAmount": 3285,
@@ -97,10 +121,42 @@
       "ndate": 20200605
     },
     {
+      "carryoverAmount": 2445,
+      "carryover": "$2,445",
+      "wagertype": "Super High Five",
+      "track": "Churchill Downs",
+      "date": "Jun 05",
+      "ndate": 20200605
+    },
+    {
+      "carryoverAmount": 1573,
+      "carryover": "$1,573",
+      "wagertype": "Super High Five",
+      "track": "Golden Gate",
+      "date": "Jun 05",
+      "ndate": 20200605
+    },
+    {
       "carryoverAmount": 664,
       "carryover": "$664",
       "wagertype": "Pick 5",
       "track": "Ruidoso Downs",
+      "date": "Jun 05",
+      "ndate": 20200605
+    },
+    {
+      "carryoverAmount": 534,
+      "carryover": "$534",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Thistledown",
+      "date": "Jun 08",
+      "ndate": 20200608
+    },
+    {
+      "carryoverAmount": 406,
+      "carryover": "$406",
+      "wagertype": "Pick 6",
+      "track": "Belterra Park",
       "date": "Jun 05",
       "ndate": 20200605
     }
