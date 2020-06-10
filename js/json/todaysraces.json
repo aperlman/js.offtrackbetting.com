@@ -1,7 +1,11 @@
 {
   "todaysraces": {
-    "headline": "OTB Schedule: Tuesday, Jun 09",
+    "headline": "OTB Schedule: Wednesday, Jun 10",
     "tracks": [
+      {
+        "name": "Ajax Downs",
+        "time": "12:55 PM"
+      },
       {
         "name": "Arapahoe Park",
         "time": " 6:00 PM"
@@ -12,79 +16,87 @@
       },
       {
         "name": "Australia A",
-        "time": " 9:23 PM"
+        "time": "10:10 PM"
       },
       {
         "name": "Australia B",
-        "time": " 9:50 PM"
+        "time": "10:17 PM"
       },
       {
         "name": "Australia C",
-        "time": "11:25 PM"
+        "time": "10:30 PM"
       },
       {
         "name": "Australia D",
-        "time": "12:39 AM"
+        "time": "11:00 PM"
       },
       {
         "name": "Australia Harness 1",
-        "time": "10:43 PM"
+        "time": "10:37 PM"
+      },
+      {
+        "name": "Australia Harness 2",
+        "time": "10:55 PM"
       },
       {
         "name": "Belterra Park",
         "time": "12:35 PM"
       },
       {
-        "name": "Chelmsford City (UK)",
-        "time": "11:40 AM"
+        "name": "Buffalo Raceway",
+        "time": " 6:00 PM"
+      },
+      {
+        "name": "Delta Downs",
+        "time": " 6:15 PM"
       },
       {
         "name": "Derby Lane Mat",
         "time": "12:30 PM"
       },
       {
-        "name": "Fair Meadows",
-        "time": " 7:00 PM"
+        "name": "Evangeline Downs",
+        "time": " 6:50 PM"
       },
       {
-        "name": "Fairmount Park",
+        "name": "Grand River",
+        "time": " 6:30 PM"
+      },
+      {
+        "name": "Gulfstream Park",
+        "time": "12:00 PM"
+      },
+      {
+        "name": "Happy Valley (HK)",
+        "time": " 6:45 AM"
+      },
+      {
+        "name": "Iowa Greyhound Park Eve",
         "time": " 5:30 PM"
       },
       {
-        "name": "Fort Erie",
-        "time": " 1:20 PM"
-      },
-      {
-        "name": "Georgian Downs",
-        "time": " 7:15 PM"
-      },
-      {
-        "name": "Haydock Park (UK)",
-        "time": " 7:45 AM"
-      },
-      {
         "name": "Kawasaki JPN",
-        "time": " 1:45 AM"
+        "time": " 2:00 AM"
       },
       {
-        "name": "Kenilworth (SAF)",
-        "time": " 6:00 AM"
+        "name": "Kempton Park (UK)",
+        "time": "12:00 PM"
       },
       {
         "name": "Laurel Park",
-        "time": " 1:58 PM"
-      },
-      {
-        "name": "Leopardstown (IRE)",
-        "time": " 8:00 AM"
+        "time": "12:30 PM"
       },
       {
         "name": "Lone Star Park",
         "time": " 2:35 PM"
       },
       {
-        "name": "Mountaineer Park",
+        "name": "Mardi Gras WV Eve",
         "time": " 7:00 PM"
+      },
+      {
+        "name": "Navan (IRE)",
+        "time": " 8:00 AM"
       },
       {
         "name": "Northfield Park",
@@ -95,24 +107,52 @@
         "time": " 1:00 PM"
       },
       {
-        "name": "Scioto Downs",
-        "time": " 2:00 PM"
+        "name": "Pontefract (UK)",
+        "time": " 7:45 AM"
       },
       {
-        "name": "Strathalbyn",
-        "time": "10:40 PM"
+        "name": "Scarborough Downs",
+        "time": " 1:00 PM"
+      },
+      {
+        "name": "Scioto Downs",
+        "time": " 6:30 PM"
+      },
+      {
+        "name": "Scotsville (SAF)",
+        "time": " 5:25 AM"
+      },
+      {
+        "name": "St Johns Eve",
+        "time": " 7:45 PM"
+      },
+      {
+        "name": "St Johns Mat",
+        "time": "12:35 PM"
+      },
+      {
+        "name": "Tampa Bay Downs",
+        "time": "12:23 PM"
       },
       {
         "name": "Thistledown",
         "time": "12:50 PM"
       },
       {
-        "name": "Wolverhampton (UK)",
-        "time": "12:00 PM"
+        "name": "Vernon Downs",
+        "time": " 4:00 PM"
       },
       {
-        "name": "Woodbine at Mohawk",
-        "time": " 7:00 PM"
+        "name": "Wheeling Downs Mat",
+        "time": " 1:00 PM"
+      },
+      {
+        "name": "Wolverhampton (UK)",
+        "time": " 9:10 AM"
+      },
+      {
+        "name": "Yarmouth (UK)",
+        "time": "11:35 AM"
       }
     ]
   }
