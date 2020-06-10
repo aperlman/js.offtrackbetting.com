@@ -41,6 +41,14 @@
       "ndate": 20200614
     },
     {
+      "carryoverAmount": 31784,
+      "carryover": "$31,784",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Tampa Bay",
+      "date": "Jun 10",
+      "ndate": 20200610
+    },
+    {
       "carryoverAmount": 22763,
       "carryover": "$22,763",
       "wagertype": "Pick 6 Jackpot",
@@ -167,14 +175,6 @@
       "track": "Mountaineer",
       "date": "Jun 14",
       "ndate": 20200614
-    },
-    {
-      "carryoverAmount": 280,
-      "carryover": "$280",
-      "wagertype": "Exacta",
-      "track": "Tampa Bay",
-      "date": "Jun 10",
-      "ndate": 20200610
     }
   ]
 }
