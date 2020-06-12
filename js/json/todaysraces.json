@@ -1,30 +1,22 @@
 {
   "todaysraces": {
-    "headline": "OTB Schedule: Thursday, Jun 11",
+    "headline": "OTB Schedule: Friday, Jun 12",
     "tracks": [
       {
         "name": "Australia A",
-        "time": " 9:05 PM"
+        "time": " 9:25 PM"
       },
       {
         "name": "Australia B",
-        "time": " 9:47 PM"
+        "time": " 9:35 PM"
       },
       {
         "name": "Australia C",
-        "time": "10:00 PM"
+        "time": "10:20 PM"
       },
       {
         "name": "Australia D",
-        "time": "10:30 PM"
-      },
-      {
-        "name": "Australia Harness 1",
-        "time": "10:25 PM"
-      },
-      {
-        "name": "Australia Harness 2",
-        "time": "10:42 PM"
+        "time": "11:27 PM"
       },
       {
         "name": "Belmont Park",
@@ -35,10 +27,6 @@
         "time": "12:35 PM"
       },
       {
-        "name": "Beverley (UK)",
-        "time": " 7:45 AM"
-      },
-      {
         "name": "Charles Town",
         "time": " 7:00 PM"
       },
@@ -47,8 +35,12 @@
         "time": " 6:00 PM"
       },
       {
+        "name": "Curragh (IRE)",
+        "time": "11:05 AM"
+      },
+      {
         "name": "Delta Downs",
-        "time": " 6:15 PM"
+        "time": " 4:50 PM"
       },
       {
         "name": "Derby Lane Mat",
@@ -59,40 +51,76 @@
         "time": " 6:50 PM"
       },
       {
+        "name": "Fair Meadows",
+        "time": " 7:00 PM"
+      },
+      {
+        "name": "Fairview| (SAF)",
+        "time": " 7:10 AM"
+      },
+      {
         "name": "Golden Gate Fields",
         "time": " 3:45 PM"
       },
       {
-        "name": "Gowran (IRE)",
-        "time": " 8:00 AM"
+        "name": "Grand River",
+        "time": " 6:30 PM"
       },
       {
-        "name": "Iowa Greyhound Park Eve",
-        "time": " 5:30 PM"
+        "name": "Gulfstream Park",
+        "time": "12:00 PM"
       },
       {
-        "name": "Kawasaki JPN",
-        "time": " 2:00 AM"
+        "name": "Hawthorne (H)",
+        "time": " 8:10 PM"
       },
       {
-        "name": "Lingfield (UK)",
-        "time": "11:35 AM"
+        "name": "Kempton Park (UK)",
+        "time": " 7:15 AM"
+      },
+      {
+        "name": "Laurel Park",
+        "time": "12:40 PM"
+      },
+      {
+        "name": "Los Alamitos (QH)",
+        "time": " 9:00 PM"
       },
       {
         "name": "Mardi Gras WV Eve",
         "time": " 7:00 PM"
       },
       {
+        "name": "Meadowlands (H)",
+        "time": " 7:15 PM"
+      },
+      {
+        "name": "Murray Bridge",
+        "time": " 9:55 PM"
+      },
+      {
         "name": "Newbury (UK)",
-        "time": " 9:10 AM"
+        "time": "11:55 AM"
+      },
+      {
+        "name": "Palm Beach Eve",
+        "time": " 7:00 PM"
       },
       {
         "name": "Palm Beach Mat",
         "time": " 1:00 PM"
       },
       {
-        "name": "Rideau Carleton",
+        "name": "Ruidoso Downs",
+        "time": " 3:00 PM"
+      },
+      {
+        "name": "Santa Anita Park",
         "time": " 4:00 PM"
+      },
+      {
+        "name": "Scarborough Downs",
+        "time": " 1:00 PM"
       },
       {
         "name": "Scioto Downs",
@@ -103,32 +131,24 @@
         "time": " 7:45 PM"
       },
       {
-        "name": "Thistledown",
-        "time": "12:50 PM"
+        "name": "Stronach Pick 5",
+        "time": " 4:25 PM"
       },
       {
-        "name": "Vaal (SAF)",
-        "time": " 5:55 AM"
-      },
-      {
-        "name": "Vernon Downs",
-        "time": " 4:00 PM"
+        "name": "Wheeling Downs Eve",
+        "time": " 5:30 PM"
       },
       {
         "name": "Wheeling Downs Mat",
         "time": " 1:00 PM"
       },
       {
+        "name": "Wolverhampton (UK)",
+        "time": " 7:00 AM"
+      },
+      {
         "name": "Woodbine at Mohawk",
         "time": " 7:00 PM"
-      },
-      {
-        "name": "Woodbine (TB)",
-        "time": " 3:45 PM"
-      },
-      {
-        "name": "Yarmouth (UK)",
-        "time": "12:00 PM"
       }
     ]
   }
