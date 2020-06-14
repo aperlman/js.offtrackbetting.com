@@ -1,82 +1,62 @@
 {
   "todaysraces": {
-    "headline": "OTB Schedule: Saturday, Jun 13",
+    "headline": "OTB Schedule: Sunday, Jun 14",
     "tracks": [
       {
+        "name": "Arapahoe Park",
+        "time": " 2:00 PM"
+      },
+      {
         "name": "Australia A",
-        "time": " 9:10 PM"
+        "time": "10:30 PM"
       },
       {
         "name": "Australia B",
-        "time": " 9:50 PM"
+        "time": "10:35 PM"
       },
       {
         "name": "Australia C",
-        "time": "10:10 PM"
-      },
-      {
-        "name": "Australia D",
-        "time": "12:07 AM"
+        "time": "10:50 PM"
       },
       {
         "name": "Australia Harness 1",
-        "time": "10:14 PM"
+        "time": "11:03 PM"
       },
       {
         "name": "Australia Harness 2",
-        "time": "11:04 PM"
+        "time": "11:17 PM"
       },
       {
         "name": "Belmont Park",
         "time": " 1:15 PM"
       },
       {
-        "name": "Buffalo Raceway",
-        "time": " 6:00 PM"
-      },
-      {
-        "name": "Charles Town",
-        "time": " 7:00 PM"
-      },
-      {
-        "name": "Charlottetown",
-        "time": " 6:00 PM"
-      },
-      {
-        "name": "Curragh (IRE)",
-        "time": "11:00 AM"
-      },
-      {
-        "name": "Delta Downs",
-        "time": " 3:35 PM"
-      },
-      {
-        "name": "Derby Lane Eve",
-        "time": " 7:30 PM"
-      },
-      {
-        "name": "Derby Lane Mat",
-        "time": "12:30 PM"
+        "name": "Clinton Raceway",
+        "time": " 1:30 PM"
       },
       {
         "name": "Doncaster (UK)",
-        "time": " 7:00 AM"
-      },
-      {
-        "name": "Evangeline Downs",
-        "time": " 6:50 PM"
+        "time": " 7:15 AM"
       },
       {
         "name": "Fair Meadows",
         "time": " 7:00 PM"
       },
       {
+        "name": "Funabashi JPN",
+        "time": " 2:00 AM"
+      },
+      {
         "name": "Georgian Downs",
-        "time": " 7:15 PM"
+        "time": " 6:00 PM"
       },
       {
         "name": "Golden Gate Fields",
         "time": " 3:15 PM"
+      },
+      {
+        "name": "Goodwood (UK)",
+        "time": " 7:00 AM"
       },
       {
         "name": "Gulfstream Park",
@@ -87,20 +67,20 @@
         "time": " 8:10 PM"
       },
       {
-        "name": "Iowa Greyhound Park Eve",
-        "time": " 5:30 PM"
-      },
-      {
-        "name": "Kawartha Downs",
-        "time": " 7:00 PM"
+        "name": "Iowa Greyhound Park Mat",
+        "time": " 2:00 PM"
       },
       {
         "name": "Laurel Park",
-        "time": "12:40 PM"
+        "time": " 1:30 PM"
       },
       {
-        "name": "Leicester (UK)",
-        "time": "12:00 PM"
+        "name": "Leopardstown (IRE)",
+        "time": " 8:55 AM"
+      },
+      {
+        "name": "Lone Star Park",
+        "time": " 4:05 PM"
       },
       {
         "name": "Los Alamitos (QH)",
@@ -111,76 +91,48 @@
         "time": " 7:00 PM"
       },
       {
-        "name": "Meadowlands (H)",
-        "time": " 7:15 PM"
-      },
-      {
-        "name": "Mount Gambier",
-        "time": "11:20 PM"
-      },
-      {
-        "name": "Newbury (UK)",
-        "time": " 7:15 AM"
-      },
-      {
-        "name": "Northfield Park",
-        "time": " 6:00 PM"
-      },
-      {
-        "name": "NYRA Cross Country P5",
-        "time": " 4:32 PM"
-      },
-      {
-        "name": "Palm Beach Eve",
+        "name": "Mountaineer Park",
         "time": " 7:00 PM"
+      },
+      {
+        "name": "Newmarket (UK)",
+        "time": " 8:35 AM"
       },
       {
         "name": "Palm Beach Mat",
         "time": " 1:00 PM"
       },
       {
-        "name": "Ruidoso Downs",
-        "time": " 2:00 PM"
+        "name": "Rideau Carleton",
+        "time": " 6:30 PM"
       },
       {
-        "name": "Sandown Park (UK)",
-        "time": " 7:55 AM"
+        "name": "Ruidoso Downs",
+        "time": " 3:00 PM"
       },
       {
         "name": "Santa Anita Park",
         "time": " 4:00 PM"
       },
       {
-        "name": "Scotsville (SAF)",
-        "time": " 5:06 AM"
-      },
-      {
-        "name": "Sha Tin (HK)",
-        "time": "12:30 AM"
-      },
-      {
-        "name": "St Johns Eve",
-        "time": " 7:45 PM"
+        "name": "Scioto Downs",
+        "time": " 6:30 PM"
       },
       {
         "name": "St Johns Mat",
-        "time": "12:35 PM"
+        "time": " 1:30 PM"
       },
       {
-        "name": "Thistledown",
-        "time": "12:50 PM"
+        "name": "Tioga Downs",
+        "time": " 4:00 PM"
       },
       {
-        "name": "Wheeling Downs Eve",
-        "time": " 5:30 PM"
+        "name": "Turffontein (SAF)",
+        "time": " 6:05 AM"
       },
       {
         "name": "Wheeling Downs Mat",
         "time": " 1:00 PM"
-      },
-      {
-        "name": "Woodbine at Mohawk",
-        "time": " 7:00 PM"
       },
       {
         "name": "Woodbine (TB)",
