@@ -1,10 +1,14 @@
 {
   "todaysraces": {
-    "headline": "OTB Schedule: Monday, Jun 15",
+    "headline": "OTB Schedule: Tuesday, Jun 16",
     "tracks": [
       {
         "name": "Arapahoe Park",
         "time": " 6:00 PM"
+      },
+      {
+        "name": "Ascot (UK)",
+        "time": " 8:15 AM"
       },
       {
         "name": "Assiniboia Downs",
@@ -12,31 +16,27 @@
       },
       {
         "name": "Australia A",
-        "time": " 9:45 PM"
+        "time": " 9:23 PM"
       },
       {
         "name": "Australia B",
-        "time": " 9:50 PM"
+        "time": "10:50 PM"
       },
       {
         "name": "Australia C",
-        "time": "10:40 PM"
+        "time": "11:54 PM"
       },
       {
         "name": "Australia D",
-        "time": "11:00 PM"
+        "time": " 4:49 AM"
       },
       {
-        "name": "Australia Harness 1",
-        "time": "11:03 PM"
+        "name": "Belterra Park",
+        "time": "12:35 PM"
       },
       {
-        "name": "Australia Harness 2",
-        "time": " 5:32 AM"
-      },
-      {
-        "name": "Chepstow (UK)",
-        "time": "11:55 AM"
+        "name": "Chelmsford City (UK)",
+        "time": "11:00 AM"
       },
       {
         "name": "Derby Lane Mat",
@@ -51,14 +51,6 @@
         "time": " 5:30 PM"
       },
       {
-        "name": "Fairview| (SAF)",
-        "time": " 6:50 AM"
-      },
-      {
-        "name": "Fairyhouse (IRE)",
-        "time": " 8:00 AM"
-      },
-      {
         "name": "Fort Erie",
         "time": " 1:20 PM"
       },
@@ -67,24 +59,28 @@
         "time": " 2:00 AM"
       },
       {
-        "name": "Goodwood (UK)",
-        "time": " 7:00 AM"
+        "name": "Gawler",
+        "time": "10:40 PM"
       },
       {
-        "name": "Grand River",
-        "time": " 6:30 PM"
-      },
-      {
-        "name": "Gulfstream Park Simulcast",
-        "time": " 1:30 PM"
+        "name": "Georgian Downs",
+        "time": " 7:15 PM"
       },
       {
         "name": "Harrington Raceway",
         "time": " 4:30 PM"
       },
       {
-        "name": "Kempton Park (UK)",
-        "time": "11:30 AM"
+        "name": "Kenilworth (SAF)",
+        "time": " 5:45 AM"
+      },
+      {
+        "name": "Ladbrokes Park Hillside",
+        "time": "10:25 PM"
+      },
+      {
+        "name": "Laurel Park",
+        "time": " 2:00 PM"
       },
       {
         "name": "Lone Star Park",
@@ -103,32 +99,20 @@
         "time": " 1:00 PM"
       },
       {
-        "name": "Pontefract (UK)",
-        "time": " 7:20 AM"
+        "name": "Scioto Downs",
+        "time": " 2:00 PM"
       },
       {
-        "name": "Roscommon (IRE)",
-        "time": "11:15 AM"
-      },
-      {
-        "name": "Scarborough Downs",
-        "time": " 1:00 PM"
-      },
-      {
-        "name": "St Johns Eve",
-        "time": " 7:45 PM"
-      },
-      {
-        "name": "Tampa Bay Downs",
-        "time": "12:27 PM"
+        "name": "Thirsk (UK)",
+        "time": " 8:00 AM"
       },
       {
         "name": "Thistledown",
         "time": "12:50 PM"
       },
       {
-        "name": "Tioga Downs",
-        "time": " 4:00 PM"
+        "name": "Windsor (UK)",
+        "time": "12:00 PM"
       },
       {
         "name": "Woodbine at Mohawk",
