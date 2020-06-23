@@ -1,12 +1,12 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 304403,
-      "carryover": "$304,403",
+      "carryoverAmount": 332281,
+      "carryover": "$332,281",
       "wagertype": "Pick 5 Jackpot",
       "track": "Assiniboia",
-      "date": "Jun 22",
-      "ndate": 20200622
+      "date": "Jun 23",
+      "ndate": 20200623
     },
     {
       "carryoverAmount": 168347,
@@ -25,12 +25,20 @@
       "ndate": 20200625
     },
     {
-      "carryoverAmount": 69154,
-      "carryover": "$69,154",
+      "carryoverAmount": 78224,
+      "carryover": "$78,224",
       "wagertype": "Pick 6 Jackpot",
       "track": "Lone Star",
-      "date": "Jun 22",
-      "ndate": 20200622
+      "date": "Jun 23",
+      "ndate": 20200623
+    },
+    {
+      "carryoverAmount": 55797,
+      "carryover": "$55,797",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Tampa Bay",
+      "date": "Jun 24",
+      "ndate": 20200624
     },
     {
       "carryoverAmount": 55762,
@@ -41,36 +49,20 @@
       "ndate": 20200625
     },
     {
-      "carryoverAmount": 48058,
-      "carryover": "$48,058",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Tampa Bay",
-      "date": "Jun 22",
-      "ndate": 20200622
-    },
-    {
-      "carryoverAmount": 37386,
-      "carryover": "$37,386",
+      "carryoverAmount": 42676,
+      "carryover": "$42,676",
       "wagertype": "Super High Five Jackpot",
       "track": "Assiniboia",
-      "date": "Jun 22",
-      "ndate": 20200622
+      "date": "Jun 23",
+      "ndate": 20200623
     },
     {
-      "carryoverAmount": 37361,
-      "carryover": "$37,361",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Louisiana Downs",
-      "date": "Jun 22",
-      "ndate": 20200622
-    },
-    {
-      "carryoverAmount": 12789,
-      "carryover": "$12,789",
+      "carryoverAmount": 16935,
+      "carryover": "$16,935",
       "wagertype": "Super High Five Jackpot",
       "track": "Fort Erie",
-      "date": "Jun 22",
-      "ndate": 20200622
+      "date": "Jun 23",
+      "ndate": 20200623
     },
     {
       "carryoverAmount": 12031,
@@ -81,36 +73,12 @@
       "ndate": 20200626
     },
     {
-      "carryoverAmount": 7935,
-      "carryover": "$7,935",
-      "wagertype": "Super High Five",
-      "track": "Lone Star",
-      "date": "Jun 22",
-      "ndate": 20200622
-    },
-    {
       "carryoverAmount": 7816,
       "carryover": "$7,816",
       "wagertype": "Pick 5",
       "track": "Grants Pass",
       "date": "Jun 23",
       "ndate": 20200623
-    },
-    {
-      "carryoverAmount": 6629,
-      "carryover": "$6,629",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Louisiana Downs",
-      "date": "Jun 22",
-      "ndate": 20200622
-    },
-    {
-      "carryoverAmount": 6470,
-      "carryover": "$6,470",
-      "wagertype": "Super High Five",
-      "track": "Gulfstream Park",
-      "date": "Jun 24",
-      "ndate": 20200624
     },
     {
       "carryoverAmount": 5502,
@@ -121,12 +89,12 @@
       "ndate": 20200625
     },
     {
-      "carryoverAmount": 4550,
-      "carryover": "$4,550",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Prairie Meadows",
-      "date": "Jun 22",
-      "ndate": 20200622
+      "carryoverAmount": 4752,
+      "carryover": "$4,752",
+      "wagertype": "Super High Five",
+      "track": "Indiana Grand",
+      "date": "Jun 23",
+      "ndate": 20200623
     },
     {
       "carryoverAmount": 4193,
@@ -153,6 +121,14 @@
       "ndate": 20200623
     },
     {
+      "carryoverAmount": 3256,
+      "carryover": "$3,256",
+      "wagertype": "Super High Five",
+      "track": "Prairie Meadows",
+      "date": "Jun 26",
+      "ndate": 20200626
+    },
+    {
       "carryoverAmount": 3100,
       "carryover": "$3,100",
       "wagertype": "Pick 6",
@@ -161,20 +137,20 @@
       "ndate": 20200623
     },
     {
-      "carryoverAmount": 3037,
-      "carryover": "$3,037",
+      "carryoverAmount": 1487,
+      "carryover": "$1,487",
       "wagertype": "Super High Five",
-      "track": "Louisiana Downs",
-      "date": "Jun 22",
-      "ndate": 20200622
+      "track": "Indiana Grand",
+      "date": "Jun 23",
+      "ndate": 20200623
     },
     {
-      "carryoverAmount": 2271,
-      "carryover": "$2,271",
+      "carryoverAmount": 896,
+      "carryover": "$896",
       "wagertype": "Super High Five",
-      "track": "Prairie Meadows",
-      "date": "Jun 22",
-      "ndate": 20200622
+      "track": "Lone Star",
+      "date": "Jun 23",
+      "ndate": 20200623
     },
     {
       "carryoverAmount": 833,
@@ -183,6 +159,22 @@
       "track": "Century Mile",
       "date": "Jun 26",
       "ndate": 20200626
+    },
+    {
+      "carryoverAmount": 701,
+      "carryover": "$701",
+      "wagertype": "Super High Five",
+      "track": "Mountaineer",
+      "date": "Jun 23",
+      "ndate": 20200623
+    },
+    {
+      "carryoverAmount": 595,
+      "carryover": "$595",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Thistledown",
+      "date": "Jun 23",
+      "ndate": 20200623
     },
     {
       "carryoverAmount": 289,
