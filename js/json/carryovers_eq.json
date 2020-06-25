@@ -1,20 +1,12 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 358659,
-      "carryover": "$358,659",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Assiniboia",
-      "date": "Jun 24",
-      "ndate": 20200624
-    },
-    {
-      "carryoverAmount": 168347,
-      "carryover": "$168,347",
+      "carryoverAmount": 216447,
+      "carryover": "$216,447",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "Jun 24",
-      "ndate": 20200624
+      "date": "Jun 26",
+      "ndate": 20200626
     },
     {
       "carryoverAmount": 140718,
@@ -25,20 +17,12 @@
       "ndate": 20200625
     },
     {
-      "carryoverAmount": 96087,
-      "carryover": "$96,087",
+      "carryoverAmount": 108884,
+      "carryover": "$108,884",
       "wagertype": "Pick 6 Jackpot",
       "track": "Lone Star",
-      "date": "Jun 24",
-      "ndate": 20200624
-    },
-    {
-      "carryoverAmount": 55797,
-      "carryover": "$55,797",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Tampa Bay",
-      "date": "Jun 24",
-      "ndate": 20200624
+      "date": "Jun 27",
+      "ndate": 20200627
     },
     {
       "carryoverAmount": 55762,
@@ -49,20 +33,12 @@
       "ndate": 20200625
     },
     {
-      "carryoverAmount": 47935,
-      "carryover": "$47,935",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Assiniboia",
-      "date": "Jun 24",
-      "ndate": 20200624
-    },
-    {
-      "carryoverAmount": 12536,
-      "carryover": "$12,536",
+      "carryoverAmount": 14955,
+      "carryover": "$14,955",
       "wagertype": "Pick 5",
-      "track": "Grants Pass",
-      "date": "Jun 24",
-      "ndate": 20200624
+      "track": "Delaware Park",
+      "date": "Jun 27",
+      "ndate": 20200627
     },
     {
       "carryoverAmount": 12031,
@@ -81,6 +57,22 @@
       "ndate": 20200626
     },
     {
+      "carryoverAmount": 6225,
+      "carryover": "$6,225",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Louisiana Downs",
+      "date": "Jun 27",
+      "ndate": 20200627
+    },
+    {
+      "carryoverAmount": 5917,
+      "carryover": "$5,917",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Canterbury Park",
+      "date": "Jun 25",
+      "ndate": 20200625
+    },
+    {
       "carryoverAmount": 5502,
       "carryover": "$5,502",
       "wagertype": "Pick 6 Jackpot",
@@ -89,34 +81,34 @@
       "ndate": 20200625
     },
     {
-      "carryoverAmount": 4765,
-      "carryover": "$4,765",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Canterbury Park",
-      "date": "Jun 24",
-      "ndate": 20200624
+      "carryoverAmount": 4124,
+      "carryover": "$4,124",
+      "wagertype": "Pick 5",
+      "track": "Penn National",
+      "date": "Jun 26",
+      "ndate": 20200626
     },
     {
-      "carryoverAmount": 4193,
-      "carryover": "$4,193",
+      "carryoverAmount": 3956,
+      "carryover": "$3,956",
       "wagertype": "Super High Five",
-      "track": "Gulfstream Park",
-      "date": "Jun 24",
-      "ndate": 20200624
-    },
-    {
-      "carryoverAmount": 3924,
-      "carryover": "$3,924",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Louisiana Downs",
-      "date": "Jun 24",
-      "ndate": 20200624
+      "track": "Lone Star",
+      "date": "Jun 27",
+      "ndate": 20200627
     },
     {
       "carryoverAmount": 3598,
       "carryover": "$3,598",
       "wagertype": "Super High Five",
       "track": "Pleasanton",
+      "date": "Jun 26",
+      "ndate": 20200626
+    },
+    {
+      "carryoverAmount": 3399,
+      "carryover": "$3,399",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
       "date": "Jun 26",
       "ndate": 20200626
     },
@@ -129,34 +121,74 @@
       "ndate": 20200626
     },
     {
-      "carryoverAmount": 2217,
-      "carryover": "$2,217",
-      "wagertype": "Super High Five",
-      "track": "Lone Star",
-      "date": "Jun 24",
-      "ndate": 20200624
-    },
-    {
-      "carryoverAmount": 2143,
-      "carryover": "$2,143",
+      "carryoverAmount": 2381,
+      "carryover": "$2,381",
       "wagertype": "Pick 6 Jackpot",
       "track": "Thistledown",
-      "date": "Jun 24",
-      "ndate": 20200624
+      "date": "Jun 27",
+      "ndate": 20200627
     },
     {
-      "carryoverAmount": 1199,
-      "carryover": "$1,199",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Louisiana Downs",
-      "date": "Jun 24",
-      "ndate": 20200624
+      "carryoverAmount": 2118,
+      "carryover": "$2,118",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Jun 26",
+      "ndate": 20200626
+    },
+    {
+      "carryoverAmount": 1435,
+      "carryover": "$1,435",
+      "wagertype": "Pick 7 Jackpot",
+      "track": "Emerald Downs",
+      "date": "Jun 25",
+      "ndate": 20200625
+    },
+    {
+      "carryoverAmount": 1084,
+      "carryover": "$1,084",
+      "wagertype": "Super High Five",
+      "track": "Indiana Grand",
+      "date": "Jun 25",
+      "ndate": 20200625
+    },
+    {
+      "carryoverAmount": 1060,
+      "carryover": "$1,060",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Jun 26",
+      "ndate": 20200626
+    },
+    {
+      "carryoverAmount": 1021,
+      "carryover": "$1,021",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Jun 26",
+      "ndate": 20200626
     },
     {
       "carryoverAmount": 833,
       "carryover": "$833",
       "wagertype": "Super High Five Jackpot",
       "track": "Century Mile",
+      "date": "Jun 26",
+      "ndate": 20200626
+    },
+    {
+      "carryoverAmount": 462,
+      "carryover": "$462",
+      "wagertype": "Pick 6",
+      "track": "Belterra Park",
+      "date": "Jun 25",
+      "ndate": 20200625
+    },
+    {
+      "carryoverAmount": 456,
+      "carryover": "$456",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Penn National",
       "date": "Jun 26",
       "ndate": 20200626
     },
