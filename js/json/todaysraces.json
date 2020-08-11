@@ -1,6 +1,6 @@
 {
   "todaysraces": {
-    "headline": "OTB Schedule: Monday, Aug 10",
+    "headline": "OTB Schedule: Tuesday, Aug 11",
     "tracks": [
       {
         "name": "Arapahoe Park",
@@ -12,59 +12,35 @@
       },
       {
         "name": "Australia A",
-        "time": "10:27 PM"
+        "time": "10:33 PM"
       },
       {
         "name": "Australia B",
-        "time": "10:55 PM"
+        "time": "11:25 PM"
       },
       {
         "name": "Australia C",
-        "time": "11:00 PM"
-      },
-      {
-        "name": "Australia D",
-        "time": "11:15 PM"
-      },
-      {
-        "name": "Australia Greyhound 1",
-        "time": " 6:15 AM"
+        "time": " 1:14 AM"
       },
       {
         "name": "Australia Harness 1",
-        "time": "11:46 PM"
+        "time": "10:03 PM"
       },
       {
-        "name": "Australia Harness 2",
-        "time": "11:22 PM"
+        "name": "Belterra Park",
+        "time": "12:35 PM"
       },
       {
-        "name": "Ballinrobe (IRE)",
-        "time": "11:40 AM"
-      },
-      {
-        "name": "Caliente Evening",
-        "time": "10:45 PM"
-      },
-      {
-        "name": "Chester (UK)",
-        "time": "11:25 AM"
+        "name": "Century Downs H",
+        "time": " 4:15 PM"
       },
       {
         "name": "Colonial Downs (TB)",
         "time": " 5:30 PM"
       },
       {
-        "name": "Delaware Park",
-        "time": " 1:15 PM"
-      },
-      {
         "name": "Derby Lane Mat",
         "time": "12:30 PM"
-      },
-      {
-        "name": "Enniscorthy (IG)",
-        "time": " 3:00 PM"
       },
       {
         "name": "Fairmount Park",
@@ -79,20 +55,28 @@
         "time": " 1:10 PM"
       },
       {
-        "name": "Grand River",
-        "time": " 6:30 PM"
+        "name": "Georgian Downs",
+        "time": " 7:15 PM"
       },
       {
         "name": "Gulfstream Park Simulcast",
-        "time": " 2:45 PM"
+        "time": " 2:30 PM"
       },
       {
-        "name": "Laurel Park",
-        "time": " 2:28 PM"
+        "name": "Haydock Park (UK)",
+        "time": " 8:25 AM"
       },
       {
-        "name": "Leicester (UK)",
-        "time": " 8:31 AM"
+        "name": "Kenilworth (SAF)",
+        "time": " 6:25 AM"
+      },
+      {
+        "name": "Ladbrokes Park Hillside",
+        "time": "10:25 PM"
+      },
+      {
+        "name": "Lingfield (UK)",
+        "time": "10:50 AM"
       },
       {
         "name": "Lone Star Park",
@@ -103,12 +87,12 @@
         "time": " 7:00 PM"
       },
       {
-        "name": "Northfield Park",
-        "time": " 6:00 PM"
+        "name": "Naracoorte",
+        "time": "11:15 PM"
       },
       {
-        "name": "Orange Park Eve",
-        "time": " 7:45 PM"
+        "name": "New Zealand",
+        "time": " 7:25 PM"
       },
       {
         "name": "Palm Beach Mat",
@@ -119,36 +103,44 @@
         "time": "12:55 PM"
       },
       {
-        "name": "Plainridge",
-        "time": " 4:00 PM"
+        "name": "Perth (UK)",
+        "time": "11:00 AM"
       },
       {
         "name": "Pocono Downs",
         "time": "12:30 PM"
       },
       {
-        "name": "Prairie Meadows (TB)",
-        "time": " 5:00 PM"
-      },
-      {
         "name": "Red Mile",
         "time": " 1:00 PM"
+      },
+      {
+        "name": "Running Aces",
+        "time": " 2:00 PM"
       },
       {
         "name": "Saratoga Harness",
         "time": "12:00 PM"
       },
       {
-        "name": "Southwell (UK)",
-        "time": " 8:15 AM"
+        "name": "Scarborough Downs",
+        "time": " 1:30 PM"
+      },
+      {
+        "name": "Scioto Downs",
+        "time": " 6:15 PM"
       },
       {
         "name": "Thistledown",
         "time": "12:50 PM"
       },
       {
-        "name": "Turffontein (SAF)",
-        "time": " 6:55 AM"
+        "name": "Tralee (IG)",
+        "time": " 1:53 PM"
+      },
+      {
+        "name": "Wolverhampton (UK)",
+        "time": " 8:40 AM"
       },
       {
         "name": "Woodbine at Mohawk",
@@ -157,10 +149,6 @@
       {
         "name": "Yonkers Raceway",
         "time": " 7:12 PM"
-      },
-      {
-        "name": "Youghal (IG)",
-        "time": " 2:40 PM"
       }
     ]
   }
