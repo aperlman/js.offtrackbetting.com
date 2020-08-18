@@ -1,6 +1,6 @@
 {
   "todaysraces": {
-    "headline": "OTB Schedule: Monday, Aug 17",
+    "headline": "OTB Schedule: Tuesday, Aug 18",
     "tracks": [
       {
         "name": "Arapahoe Park",
@@ -12,55 +12,43 @@
       },
       {
         "name": "Australia A",
-        "time": "10:42 PM"
+        "time": "10:33 PM"
       },
       {
         "name": "Australia B",
-        "time": "11:00 PM"
+        "time": "11:25 PM"
       },
       {
         "name": "Australia C",
-        "time": "11:10 PM"
-      },
-      {
-        "name": "Australia D",
-        "time": "11:35 PM"
+        "time": " 1:49 AM"
       },
       {
         "name": "Australia Greyhound 1",
-        "time": " 6:06 AM"
+        "time": " 5:58 AM"
       },
       {
         "name": "Australia Harness 1",
-        "time": "11:21 PM"
+        "time": "10:19 PM"
       },
       {
-        "name": "Australia Harness 2",
-        "time": "11:42 PM"
+        "name": "Belterra Park",
+        "time": "12:35 PM"
       },
       {
-        "name": "Caliente Evening",
-        "time": "10:45 PM"
+        "name": "Beverley (UK)",
+        "time": " 8:00 AM"
       },
       {
-        "name": "Catterick (UK)",
-        "time": " 8:15 AM"
+        "name": "Century Downs H",
+        "time": " 4:15 PM"
       },
       {
         "name": "Charlottetown",
         "time": " 7:00 PM"
       },
       {
-        "name": "Delaware Park",
-        "time": " 1:15 PM"
-      },
-      {
         "name": "Derby Lane Mat",
         "time": "12:30 PM"
-      },
-      {
-        "name": "Enniscorthy (IG)",
-        "time": " 3:00 PM"
       },
       {
         "name": "Fairmount Park",
@@ -71,40 +59,52 @@
         "time": " 1:10 PM"
       },
       {
+        "name": "Fontwell (UK)",
+        "time": " 8:45 AM"
+      },
+      {
         "name": "Fort Erie",
         "time": " 1:10 PM"
       },
       {
-        "name": "Grand River",
-        "time": " 6:30 PM"
+        "name": "Gawler",
+        "time": "11:15 PM"
       },
       {
-        "name": "Gulfstream Park",
-        "time": "12:00 PM"
+        "name": "Georgian Downs",
+        "time": " 7:15 PM"
+      },
+      {
+        "name": "Gulfstream Park Simulcast",
+        "time": " 2:30 PM"
       },
       {
         "name": "Harrington Raceway",
         "time": " 4:30 PM"
       },
       {
+        "name": "Kempton Park (UK)",
+        "time": "11:25 AM"
+      },
+      {
+        "name": "Kenilworth (SAF)",
+        "time": " 6:00 AM"
+      },
+      {
+        "name": "Ladbrokes Park Lakeside",
+        "time": "10:25 PM"
+      },
+      {
         "name": "Laurel Park",
-        "time": " 2:43 PM"
+        "time": " 4:45 PM"
       },
       {
         "name": "Mountaineer Park",
         "time": " 7:00 PM"
       },
       {
-        "name": "Northfield Park",
-        "time": " 6:00 PM"
-      },
-      {
-        "name": "Oi JPN",
-        "time": " 1:40 AM"
-      },
-      {
-        "name": "Orange Park Eve",
-        "time": " 7:45 PM"
+        "name": "New Zealand",
+        "time": " 7:44 PM"
       },
       {
         "name": "Palm Beach Mat",
@@ -115,44 +115,40 @@
         "time": "12:55 PM"
       },
       {
-        "name": "Plainridge",
-        "time": " 4:00 PM"
-      },
-      {
         "name": "Pocono Downs",
         "time": "12:30 PM"
-      },
-      {
-        "name": "Prairie Meadows (TB)",
-        "time": " 5:00 PM"
       },
       {
         "name": "Red Mile",
         "time": " 1:00 PM"
       },
       {
+        "name": "Roscommon (IRE)",
+        "time": "11:10 AM"
+      },
+      {
+        "name": "Running Aces",
+        "time": " 2:00 PM"
+      },
+      {
         "name": "Saratoga Harness",
         "time": "12:00 PM"
+      },
+      {
+        "name": "Scarborough Downs",
+        "time": " 1:30 PM"
+      },
+      {
+        "name": "Scioto Downs",
+        "time": " 6:15 PM"
       },
       {
         "name": "Thistledown",
         "time": "12:50 PM"
       },
       {
-        "name": "Tipperary (IRE)",
-        "time": " 8:00 AM"
-      },
-      {
-        "name": "Uttoxeter (UK)",
-        "time": " 8:35 AM"
-      },
-      {
-        "name": "Vaal (SAF)",
-        "time": " 7:40 AM"
-      },
-      {
-        "name": "Windsor (UK)",
-        "time": "10:55 AM"
+        "name": "Tralee (IG)",
+        "time": " 1:53 PM"
       },
       {
         "name": "Woodbine at Mohawk",
@@ -161,10 +157,6 @@
       {
         "name": "Yonkers Raceway",
         "time": " 7:12 PM"
-      },
-      {
-        "name": "Youghal (IG)",
-        "time": " 2:40 PM"
       }
     ]
   }
