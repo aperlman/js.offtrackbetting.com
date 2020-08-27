@@ -1,70 +1,70 @@
 {
   "todaysraces": {
-    "headline": "OTB Schedule: Wednesday, Aug 26",
+    "headline": "OTB Schedule: Thursday, Aug 27",
     "tracks": [
       {
-        "name": "Ajax Downs",
-        "time": "12:52 PM"
-      },
-      {
-        "name": "Albuquerque",
-        "time": " 3:30 PM"
-      },
-      {
-        "name": "Arapahoe Park",
-        "time": " 3:00 PM"
-      },
-      {
-        "name": "Assiniboia Downs",
-        "time": " 7:35 PM"
-      },
-      {
         "name": "Australia A",
-        "time": "11:05 PM"
+        "time": " 9:56 PM"
       },
       {
         "name": "Australia B",
-        "time": "11:20 PM"
+        "time": "10:20 PM"
       },
       {
         "name": "Australia C",
-        "time": " 1:34 AM"
+        "time": "10:45 PM"
+      },
+      {
+        "name": "Australia D",
+        "time": "10:59 PM"
       },
       {
         "name": "Australia Greyhound 1",
-        "time": " 6:04 AM"
+        "time": " 5:58 AM"
       },
       {
         "name": "Australia Harness 1",
-        "time": "10:52 PM"
-      },
-      {
-        "name": "Australia Harness 2",
-        "time": "11:23 PM"
-      },
-      {
-        "name": "Bangor Raceway",
-        "time": " 3:00 PM"
-      },
-      {
-        "name": "Batavia Downs",
-        "time": " 5:00 PM"
+        "time": "11:13 PM"
       },
       {
         "name": "Bellewstown (IRE)",
-        "time": "10:45 AM"
+        "time": "10:40 AM"
       },
       {
         "name": "Belterra Park",
         "time": "12:35 PM"
       },
       {
+        "name": "Beverley (UK)",
+        "time": " 8:00 AM"
+      },
+      {
+        "name": "Bordertown",
+        "time": "11:10 PM"
+      },
+      {
+        "name": "Busan Korea",
+        "time": "10:30 PM"
+      },
+      {
         "name": "Caliente Evening",
         "time": "10:45 PM"
       },
       {
-        "name": "Chepstow (UK)",
-        "time": " 6:34 AM"
+        "name": "Charles Town",
+        "time": " 7:00 PM"
+      },
+      {
+        "name": "Charlottetown",
+        "time": " 6:00 PM"
+      },
+      {
+        "name": "Chelmsford City (UK)",
+        "time": " 7:40 AM"
+      },
+      {
+        "name": "Curraheen (IG)",
+        "time": " 2:50 PM"
       },
       {
         "name": "Delaware Park",
@@ -76,23 +76,27 @@
       },
       {
         "name": "Emerald Downs",
-        "time": " 5:15 PM"
+        "time": " 8:00 PM"
       },
       {
-        "name": "Evangeline Downs",
-        "time": " 6:50 PM"
+        "name": "Enniscorthy (IG)",
+        "time": " 3:00 PM"
       },
       {
-        "name": "Finger Lakes",
-        "time": " 1:10 PM"
+        "name": "Golden Gate Fields",
+        "time": " 4:45 PM"
       },
       {
-        "name": "Grand River",
-        "time": " 6:30 PM"
+        "name": "Gulfstream Park",
+        "time": "12:00 PM"
       },
       {
         "name": "Harrahs Philly (Chester)",
         "time": "12:25 PM"
+      },
+      {
+        "name": "Hastings Park",
+        "time": " 7:30 PM"
       },
       {
         "name": "Iowa Greyhound Park Eve",
@@ -103,79 +107,63 @@
         "time": " 2:00 AM"
       },
       {
-        "name": "Kenilworth (SAF)",
-        "time": " 6:30 AM"
-      },
-      {
         "name": "Kilkenny (IG)",
-        "time": " 3:12 AM"
+        "time": " 3:00 PM"
       },
       {
         "name": "Laurel Park",
-        "time": "12:58 PM"
+        "time": "12:40 PM"
+      },
+      {
+        "name": "Limerick (IG)",
+        "time": " 1:53 PM"
       },
       {
         "name": "Lingfield (UK)",
-        "time": " 9:55 AM"
+        "time": "10:20 AM"
       },
       {
         "name": "Mardi Gras WV Eve",
         "time": " 7:00 PM"
       },
       {
-        "name": "Mornington",
-        "time": "11:00 PM"
-      },
-      {
-        "name": "Mountaineer Park",
-        "time": " 7:00 PM"
-      },
-      {
-        "name": "Musselburgh (UK)",
-        "time": " 8:00 AM"
-      },
-      {
-        "name": "Northfield Park",
-        "time": " 6:00 PM"
+        "name": "New Zealand",
+        "time": " 8:28 PM"
       },
       {
         "name": "Orange Park Eve",
         "time": " 7:45 PM"
       },
       {
-        "name": "Orange Park Mat",
-        "time": "12:35 PM"
-      },
-      {
         "name": "Palm Beach Mat",
         "time": " 1:00 PM"
       },
       {
-        "name": "Parx Racing",
-        "time": "12:55 PM"
+        "name": "Plainridge",
+        "time": " 4:00 PM"
       },
       {
-        "name": "Penn National",
-        "time": " 6:00 PM"
+        "name": "Retama Park",
+        "time": " 7:45 PM"
       },
       {
-        "name": "Saratoga Harness",
-        "time": " 7:15 PM"
+        "name": "Rideau Carleton",
+        "time": " 4:00 PM"
       },
       {
         "name": "Saratoga TB",
-        "time": "12:50 PM"
+        "time": " 1:10 PM"
       },
       {
         "name": "Scioto Downs",
         "time": " 6:15 PM"
       },
       {
-        "name": "Southland Twilight",
-        "time": " 6:00 PM"
+        "name": "Sedgefield (UK)",
+        "time": " 7:20 AM"
       },
       {
-        "name": "Summerside",
+        "name": "Southland Twilight",
         "time": " 6:00 PM"
       },
       {
@@ -183,12 +171,32 @@
         "time": "12:50 PM"
       },
       {
+        "name": "Tipperary (IRE)",
+        "time": " 6:30 AM"
+      },
+      {
+        "name": "Vaal (SAF)",
+        "time": " 7:05 AM"
+      },
+      {
+        "name": "Waterford (IG)",
+        "time": " 3:12 AM"
+      },
+      {
         "name": "Wheeling Downs Mat",
         "time": " 1:00 PM"
       },
       {
-        "name": "Youghal (IG)",
-        "time": " 1:40 PM"
+        "name": "Woodbine at Mohawk",
+        "time": " 7:00 PM"
+      },
+      {
+        "name": "Woodbine (TB)",
+        "time": " 3:20 PM"
+      },
+      {
+        "name": "Yonkers Raceway",
+        "time": " 7:12 PM"
       }
     ]
   }
