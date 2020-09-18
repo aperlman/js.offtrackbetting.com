@@ -1,44 +1,52 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 375348,
-      "carryover": "$375,348",
+      "carryoverAmount": 415638,
+      "carryover": "$415,638",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "Sep 17",
-      "ndate": 20200917
+      "date": "Sep 18",
+      "ndate": 20200918
     },
     {
-      "carryoverAmount": 119541,
-      "carryover": "$119,541",
+      "carryoverAmount": 93439,
+      "carryover": "$93,439",
       "wagertype": "Pick 6 Jackpot",
-      "track": "Woodbine",
-      "date": "Sep 17",
-      "ndate": 20200917
-    },
-    {
-      "carryoverAmount": 88170,
-      "carryover": "$88,170",
-      "wagertype": "Pick 6",
       "track": "Golden Gate",
-      "date": "Sep 17",
-      "ndate": 20200917
+      "date": "Sep 18",
+      "ndate": 20200918
     },
     {
-      "carryoverAmount": 46036,
-      "carryover": "$46,036",
+      "carryoverAmount": 53221,
+      "carryover": "$53,221",
       "wagertype": "Super High Five Jackpot",
       "track": "Arlington",
-      "date": "Sep 17",
-      "ndate": 20200917
+      "date": "Sep 18",
+      "ndate": 20200918
     },
     {
-      "carryoverAmount": 30967,
-      "carryover": "$30,967",
+      "carryoverAmount": 34816,
+      "carryover": "$34,816",
       "wagertype": "Pick 6 Jackpot",
       "track": "Charles Town",
-      "date": "Sep 17",
-      "ndate": 20200917
+      "date": "Sep 18",
+      "ndate": 20200918
+    },
+    {
+      "carryoverAmount": 34020,
+      "carryover": "$34,020",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Woodbine",
+      "date": "Sep 18",
+      "ndate": 20200918
+    },
+    {
+      "carryoverAmount": 29130,
+      "carryover": "$29,130",
+      "wagertype": "Pick 6",
+      "track": "Indiana Grand",
+      "date": "Sep 21",
+      "ndate": 20200921
     },
     {
       "carryoverAmount": 28914,
@@ -49,22 +57,6 @@
       "ndate": 20200919
     },
     {
-      "carryoverAmount": 25801,
-      "carryover": "$25,801",
-      "wagertype": "Pick 6",
-      "track": "Indiana Grand",
-      "date": "Sep 17",
-      "ndate": 20200917
-    },
-    {
-      "carryoverAmount": 25791,
-      "carryover": "$25,791",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Woodbine",
-      "date": "Sep 17",
-      "ndate": 20200917
-    },
-    {
       "carryoverAmount": 23774,
       "carryover": "$23,774",
       "wagertype": "Pick 5 Jackpot",
@@ -73,36 +65,20 @@
       "ndate": 20200918
     },
     {
-      "carryoverAmount": 16949,
-      "carryover": "$16,949",
-      "wagertype": "Pick 5",
-      "track": "Delaware Park",
-      "date": "Sep 17",
-      "ndate": 20200917
-    },
-    {
-      "carryoverAmount": 16669,
-      "carryover": "$16,669",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Laurel Park",
-      "date": "Sep 17",
-      "ndate": 20200917
-    },
-    {
-      "carryoverAmount": 16244,
-      "carryover": "$16,244",
+      "carryoverAmount": 17990,
+      "carryover": "$17,990",
       "wagertype": "Pick 6 Jackpot",
       "track": "Thistledown",
-      "date": "Sep 17",
-      "ndate": 20200917
+      "date": "Sep 21",
+      "ndate": 20200921
     },
     {
-      "carryoverAmount": 7617,
-      "carryover": "$7,617",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Canterbury Park",
-      "date": "Sep 17",
-      "ndate": 20200917
+      "carryoverAmount": 11481,
+      "carryover": "$11,481",
+      "wagertype": "Super High Five",
+      "track": "Laurel Park",
+      "date": "Sep 18",
+      "ndate": 20200918
     },
     {
       "carryoverAmount": 7316,
@@ -121,20 +97,20 @@
       "ndate": 20200919
     },
     {
-      "carryoverAmount": 5878,
-      "carryover": "$5,878",
-      "wagertype": "Super High Five",
-      "track": "Laurel Park",
-      "date": "Sep 17",
-      "ndate": 20200917
-    },
-    {
       "carryoverAmount": 5453,
       "carryover": "$5,453",
       "wagertype": "Pick 6 Jackpot",
       "track": "Lone Star",
       "date": "Sep 19",
       "ndate": 20200919
+    },
+    {
+      "carryoverAmount": 5304,
+      "carryover": "$5,304",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Sep 18",
+      "ndate": 20200918
     },
     {
       "carryoverAmount": 4630,
@@ -145,10 +121,42 @@
       "ndate": 20200919
     },
     {
+      "carryoverAmount": 4531,
+      "carryover": "$4,531",
+      "wagertype": "Pick 6",
+      "track": "Arlington",
+      "date": "Sep 18",
+      "ndate": 20200918
+    },
+    {
+      "carryoverAmount": 3769,
+      "carryover": "$3,769",
+      "wagertype": "Pick 7",
+      "track": "Arlington",
+      "date": "Sep 18",
+      "ndate": 20200918
+    },
+    {
       "carryoverAmount": 3679,
       "carryover": "$3,679",
       "wagertype": "Super High Five Jackpot",
       "track": "Penn National",
+      "date": "Sep 18",
+      "ndate": 20200918
+    },
+    {
+      "carryoverAmount": 3644,
+      "carryover": "$3,644",
+      "wagertype": "Super High Five",
+      "track": "Indiana Grand",
+      "date": "Sep 21",
+      "ndate": 20200921
+    },
+    {
+      "carryoverAmount": 3487,
+      "carryover": "$3,487",
+      "wagertype": "Super High Five",
+      "track": "Golden Gate",
       "date": "Sep 18",
       "ndate": 20200918
     },
@@ -161,28 +169,28 @@
       "ndate": 20200920
     },
     {
+      "carryoverAmount": 3089,
+      "carryover": "$3,089",
+      "wagertype": "Super High Five",
+      "track": "Churchill Downs",
+      "date": "Sep 18",
+      "ndate": 20200918
+    },
+    {
       "carryoverAmount": 3062,
       "carryover": "$3,062",
       "wagertype": "Pick 7 Jackpot",
       "track": "Emerald Downs",
-      "date": "Sep 17",
-      "ndate": 20200917
+      "date": "Sep 18",
+      "ndate": 20200918
     },
     {
-      "carryoverAmount": 2793,
-      "carryover": "$2,793",
-      "wagertype": "Pick 6",
-      "track": "Arlington",
-      "date": "Sep 17",
-      "ndate": 20200917
-    },
-    {
-      "carryoverAmount": 2305,
-      "carryover": "$2,305",
-      "wagertype": "Pick 7",
-      "track": "Arlington",
-      "date": "Sep 17",
-      "ndate": 20200917
+      "carryoverAmount": 2430,
+      "carryover": "$2,430",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Churchill Downs",
+      "date": "Sep 18",
+      "ndate": 20200918
     },
     {
       "carryoverAmount": 2199,
@@ -191,14 +199,6 @@
       "track": "Louisiana Downs",
       "date": "Sep 19",
       "ndate": 20200919
-    },
-    {
-      "carryoverAmount": 2075,
-      "carryover": "$2,075",
-      "wagertype": "Super High Five",
-      "track": "Golden Gate",
-      "date": "Sep 17",
-      "ndate": 20200917
     },
     {
       "carryoverAmount": 2012,
@@ -217,20 +217,28 @@
       "ndate": 20200919
     },
     {
+      "carryoverAmount": 1109,
+      "carryover": "$1,109",
+      "wagertype": "Super High Five",
+      "track": "Golden Gate",
+      "date": "Sep 18",
+      "ndate": 20200918
+    },
+    {
+      "carryoverAmount": 896,
+      "carryover": "$896",
+      "wagertype": "Pick 6",
+      "track": "Belterra Park",
+      "date": "Sep 18",
+      "ndate": 20200918
+    },
+    {
       "carryoverAmount": 816,
       "carryover": "$816",
       "wagertype": "Super High Five",
       "track": "Lone Star",
       "date": "Sep 19",
       "ndate": 20200919
-    },
-    {
-      "carryoverAmount": 778,
-      "carryover": "$778",
-      "wagertype": "Pick 6",
-      "track": "Belterra Park",
-      "date": "Sep 17",
-      "ndate": 20200917
     },
     {
       "carryoverAmount": 744,
@@ -245,16 +253,16 @@
       "carryover": "$701",
       "wagertype": "Pick 6 Jackpot",
       "track": "Hastings",
-      "date": "Sep 17",
-      "ndate": 20200917
+      "date": "Sep 19",
+      "ndate": 20200919
     },
     {
-      "carryoverAmount": 574,
-      "carryover": "$574",
+      "carryoverAmount": 676,
+      "carryover": "$676",
       "wagertype": "Pick 6 Jackpot",
       "track": "Presque Isle",
-      "date": "Sep 17",
-      "ndate": 20200917
+      "date": "Sep 21",
+      "ndate": 20200921
     }
   ]
 }
