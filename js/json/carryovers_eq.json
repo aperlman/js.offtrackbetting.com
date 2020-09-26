@@ -1,52 +1,52 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 636677,
-      "carryover": "$636,677",
+      "carryoverAmount": 670605,
+      "carryover": "$670,605",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "Sep 25",
-      "ndate": 20200925
+      "date": "Sep 26",
+      "ndate": 20200926
     },
     {
-      "carryoverAmount": 161336,
-      "carryover": "$161,336",
+      "carryoverAmount": 174320,
+      "carryover": "$174,320",
       "wagertype": "Pick 6 Jackpot",
       "track": "Golden Gate",
-      "date": "Sep 25",
-      "ndate": 20200925
+      "date": "Sep 26",
+      "ndate": 20200926
     },
     {
-      "carryoverAmount": 104457,
-      "carryover": "$104,457",
+      "carryoverAmount": 132302,
+      "carryover": "$132,302",
       "wagertype": "Pick 6 Jackpot",
       "track": "Belmont Park",
-      "date": "Sep 25",
-      "ndate": 20200925
+      "date": "Sep 26",
+      "ndate": 20200926
     },
     {
-      "carryoverAmount": 87076,
-      "carryover": "$87,076",
+      "carryoverAmount": 91356,
+      "carryover": "$91,356",
       "wagertype": "Super High Five Jackpot",
       "track": "Arlington",
-      "date": "Sep 25",
-      "ndate": 20200925
+      "date": "Sep 26",
+      "ndate": 20200926
     },
     {
-      "carryoverAmount": 79998,
-      "carryover": "$79,998",
+      "carryoverAmount": 87349,
+      "carryover": "$87,349",
       "wagertype": "Super High Five Jackpot",
       "track": "Woodbine",
-      "date": "Sep 25",
-      "ndate": 20200925
+      "date": "Sep 26",
+      "ndate": 20200926
     },
     {
-      "carryoverAmount": 56348,
-      "carryover": "$56,348",
+      "carryoverAmount": 63893,
+      "carryover": "$63,893",
       "wagertype": "Pick 6 Jackpot",
       "track": "Woodbine",
-      "date": "Sep 25",
-      "ndate": 20200925
+      "date": "Sep 26",
+      "ndate": 20200926
     },
     {
       "carryoverAmount": 53774,
@@ -55,6 +55,14 @@
       "track": "Indiana Grand",
       "date": "Sep 28",
       "ndate": 20200928
+    },
+    {
+      "carryoverAmount": 47790,
+      "carryover": "$47,790",
+      "wagertype": "Pick 5",
+      "track": "Golden Gate",
+      "date": "Sep 26",
+      "ndate": 20200926
     },
     {
       "carryoverAmount": 26648,
@@ -73,6 +81,14 @@
       "ndate": 20200928
     },
     {
+      "carryoverAmount": 21553,
+      "carryover": "$21,553",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Santa Anita",
+      "date": "Sep 26",
+      "ndate": 20200926
+    },
+    {
       "carryoverAmount": 16633,
       "carryover": "$16,633",
       "wagertype": "Pick 5",
@@ -81,20 +97,20 @@
       "ndate": 20200928
     },
     {
-      "carryoverAmount": 9298,
-      "carryover": "$9,298",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Prairie Meadows",
-      "date": "Sep 25",
-      "ndate": 20200925
+      "carryoverAmount": 10297,
+      "carryover": "$10,297",
+      "wagertype": "Super High Five",
+      "track": "Golden Gate",
+      "date": "Sep 26",
+      "ndate": 20200926
     },
     {
-      "carryoverAmount": 8674,
-      "carryover": "$8,674",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Charles Town",
-      "date": "Sep 25",
-      "ndate": 20200925
+      "carryoverAmount": 9656,
+      "carryover": "$9,656",
+      "wagertype": "Pick 7 Jackpot",
+      "track": "Emerald Downs",
+      "date": "Sep 30",
+      "ndate": 20200930
     },
     {
       "carryoverAmount": 7340,
@@ -105,12 +121,28 @@
       "ndate": 20200926
     },
     {
-      "carryoverAmount": 6033,
-      "carryover": "$6,033",
-      "wagertype": "Pick 5",
-      "track": "Pimlico",
-      "date": "Sep 25",
-      "ndate": 20200925
+      "carryoverAmount": 6804,
+      "carryover": "$6,804",
+      "wagertype": "Super High Five",
+      "track": "Santa Anita",
+      "date": "Sep 26",
+      "ndate": 20200926
+    },
+    {
+      "carryoverAmount": 5879,
+      "carryover": "$5,879",
+      "wagertype": "Super High Five",
+      "track": "Golden Gate",
+      "date": "Sep 26",
+      "ndate": 20200926
+    },
+    {
+      "carryoverAmount": 5818,
+      "carryover": "$5,818",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Penn National",
+      "date": "Sep 30",
+      "ndate": 20200930
     },
     {
       "carryoverAmount": 4987,
@@ -121,36 +153,52 @@
       "ndate": 20200926
     },
     {
-      "carryoverAmount": 4754,
-      "carryover": "$4,754",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Penn National",
-      "date": "Sep 25",
-      "ndate": 20200925
-    },
-    {
-      "carryoverAmount": 3333,
-      "carryover": "$3,333",
-      "wagertype": "Pick 6",
-      "track": "Arlington",
-      "date": "Sep 25",
-      "ndate": 20200925
-    },
-    {
-      "carryoverAmount": 3038,
-      "carryover": "$3,038",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Prairie Meadows",
-      "date": "Sep 25",
-      "ndate": 20200925
-    },
-    {
-      "carryoverAmount": 2809,
-      "carryover": "$2,809",
+      "carryoverAmount": 4851,
+      "carryover": "$4,851",
       "wagertype": "Pick 7",
       "track": "Arlington",
-      "date": "Sep 25",
-      "ndate": 20200925
+      "date": "Sep 26",
+      "ndate": 20200926
+    },
+    {
+      "carryoverAmount": 4517,
+      "carryover": "$4,517",
+      "wagertype": "Pick 6",
+      "track": "Arlington",
+      "date": "Sep 26",
+      "ndate": 20200926
+    },
+    {
+      "carryoverAmount": 3749,
+      "carryover": "$3,749",
+      "wagertype": "Super High Five",
+      "track": "Golden Gate",
+      "date": "Sep 26",
+      "ndate": 20200926
+    },
+    {
+      "carryoverAmount": 3612,
+      "carryover": "$3,612",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Sep 26",
+      "ndate": 20200926
+    },
+    {
+      "carryoverAmount": 2913,
+      "carryover": "$2,913",
+      "wagertype": "Super High Five",
+      "track": "Pimlico",
+      "date": "Sep 26",
+      "ndate": 20200926
+    },
+    {
+      "carryoverAmount": 2775,
+      "carryover": "$2,775",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Sep 26",
+      "ndate": 20200926
     },
     {
       "carryoverAmount": 2745,
@@ -161,18 +209,42 @@
       "ndate": 20200928
     },
     {
-      "carryoverAmount": 2279,
-      "carryover": "$2,279",
+      "carryoverAmount": 2640,
+      "carryover": "$2,640",
       "wagertype": "Pick 6",
       "track": "Belterra Park",
-      "date": "Sep 25",
-      "ndate": 20200925
+      "date": "Sep 28",
+      "ndate": 20200928
+    },
+    {
+      "carryoverAmount": 2324,
+      "carryover": "$2,324",
+      "wagertype": "Super High Five",
+      "track": "Golden Gate",
+      "date": "Sep 26",
+      "ndate": 20200926
     },
     {
       "carryoverAmount": 2130,
       "carryover": "$2,130",
       "wagertype": "Pick 6 Jackpot",
       "track": "Monmouth Park",
+      "date": "Sep 26",
+      "ndate": 20200926
+    },
+    {
+      "carryoverAmount": 2076,
+      "carryover": "$2,076",
+      "wagertype": "Super High Five",
+      "track": "Golden Gate",
+      "date": "Sep 26",
+      "ndate": 20200926
+    },
+    {
+      "carryoverAmount": 2011,
+      "carryover": "$2,011",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Pimlico",
       "date": "Sep 26",
       "ndate": 20200926
     },
@@ -185,10 +257,50 @@
       "ndate": 20200928
     },
     {
+      "carryoverAmount": 1952,
+      "carryover": "$1,952",
+      "wagertype": "Super High Five",
+      "track": "Pimlico",
+      "date": "Sep 26",
+      "ndate": 20200926
+    },
+    {
       "carryoverAmount": 1735,
       "carryover": "$1,735",
       "wagertype": "Super High Five",
       "track": "Lone Star",
+      "date": "Sep 26",
+      "ndate": 20200926
+    },
+    {
+      "carryoverAmount": 1638,
+      "carryover": "$1,638",
+      "wagertype": "Super High Five",
+      "track": "Pimlico",
+      "date": "Sep 26",
+      "ndate": 20200926
+    },
+    {
+      "carryoverAmount": 1133,
+      "carryover": "$1,133",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Sep 26",
+      "ndate": 20200926
+    },
+    {
+      "carryoverAmount": 1039,
+      "carryover": "$1,039",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Sep 26",
+      "ndate": 20200926
+    },
+    {
+      "carryoverAmount": 848,
+      "carryover": "$848",
+      "wagertype": "Super High Five",
+      "track": "Pimlico",
       "date": "Sep 26",
       "ndate": 20200926
     },
@@ -215,14 +327,6 @@
       "track": "Hastings",
       "date": "Sep 27",
       "ndate": 20200927
-    },
-    {
-      "carryoverAmount": 390,
-      "carryover": "$390",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Pimlico",
-      "date": "Sep 25",
-      "ndate": 20200925
     }
   ]
 }
