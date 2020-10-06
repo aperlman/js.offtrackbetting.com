@@ -1,30 +1,26 @@
 {
   "todaysraces": {
-    "headline": "OTB Schedule: Monday, Oct 05",
+    "headline": "OTB Schedule: Tuesday, Oct 06",
     "tracks": [
       {
-        "name": "Ajax Downs",
-        "time": "12:53 PM"
-      },
-      {
         "name": "Australia A",
-        "time": "11:10 PM"
+        "time": "10:20 PM"
       },
       {
         "name": "Australia B",
-        "time": "11:25 PM"
+        "time": "11:15 PM"
       },
       {
         "name": "Australia C",
-        "time": "11:34 PM"
+        "time": " 1:47 AM"
+      },
+      {
+        "name": "Australia Greyhound 1",
+        "time": " 9:13 PM"
       },
       {
         "name": "Australia Harness 1",
-        "time": " 9:53 PM"
-      },
-      {
-        "name": "Australia Harness 2",
-        "time": "10:42 PM"
+        "time": "11:42 PM"
       },
       {
         "name": "Belterra Park",
@@ -35,28 +31,44 @@
         "time": "10:45 PM"
       },
       {
-        "name": "Dayton Raceway",
-        "time": " 1:30 PM"
+        "name": "Caliente Matinee",
+        "time": " 4:00 PM"
       },
       {
-        "name": "Delaware Park",
-        "time": " 1:15 PM"
+        "name": "Catterick (UK)",
+        "time": " 8:00 AM"
+      },
+      {
+        "name": "Century Downs H",
+        "time": " 3:15 PM"
+      },
+      {
+        "name": "Chantilly FR",
+        "time": " 7:50 AM"
+      },
+      {
+        "name": "Dayton Raceway",
+        "time": " 1:30 PM"
       },
       {
         "name": "Derby Lane Mat",
         "time": "12:30 PM"
       },
       {
-        "name": "Enniscorthy (IG)",
-        "time": " 3:00 PM"
+        "name": "Dundalk (IG)",
+        "time": " 2:30 PM"
+      },
+      {
+        "name": "Durbanville (SAF)",
+        "time": " 6:00 AM"
       },
       {
         "name": "Finger Lakes",
         "time": " 1:10 PM"
       },
       {
-        "name": "Fontainebleau FR",
-        "time": " 5:55 AM"
+        "name": "Flamboro Downs",
+        "time": " 6:35 PM"
       },
       {
         "name": "Fort Erie",
@@ -67,20 +79,24 @@
         "time": " 7:00 PM"
       },
       {
-        "name": "Greyville (SAF)",
-        "time": " 6:45 AM"
-      },
-      {
         "name": "Gulfstream Park West",
-        "time": " 3:30 PM"
+        "time": "12:00 PM"
       },
       {
         "name": "Harrington Raceway",
         "time": " 4:30 PM"
       },
       {
-        "name": "Killarney (IRE)",
-        "time": " 9:05 AM"
+        "name": "Hyeres FR",
+        "time": " 5:55 AM"
+      },
+      {
+        "name": "Leicester (UK)",
+        "time": " 8:15 AM"
+      },
+      {
+        "name": "Lingfield (UK)",
+        "time": " 9:10 AM"
       },
       {
         "name": "Monticello Raceway",
@@ -89,6 +105,14 @@
       {
         "name": "Mountaineer Park",
         "time": " 7:00 PM"
+      },
+      {
+        "name": "New Zealand",
+        "time": " 6:39 PM"
+      },
+      {
+        "name": "Northfield Park",
+        "time": " 6:00 PM"
       },
       {
         "name": "Oi JPN",
@@ -103,44 +127,36 @@
         "time": "12:55 PM"
       },
       {
-        "name": "Plainridge",
-        "time": " 2:00 PM"
-      },
-      {
-        "name": "Pontefract (UK)",
-        "time": " 7:00 AM"
-      },
-      {
-        "name": "Prairie Meadows (TB)",
-        "time": " 5:00 PM"
-      },
-      {
-        "name": "Reims FR",
-        "time": " 7:50 AM"
+        "name": "Pocono Downs",
+        "time": "12:30 PM"
       },
       {
         "name": "Saratoga Harness",
         "time": "12:00 PM"
       },
       {
-        "name": "St Johns Eve",
-        "time": " 7:45 PM"
+        "name": "Scarborough Downs",
+        "time": " 1:30 PM"
       },
       {
-        "name": "Stratford (UK)",
-        "time": " 8:31 AM"
+        "name": "Shelbourne Park (IG)",
+        "time": " 2:40 AM"
+      },
+      {
+        "name": "Southwell (UK)",
+        "time": "12:20 PM"
       },
       {
         "name": "Thistledown",
         "time": "12:50 PM"
       },
       {
-        "name": "Toulouse FR",
-        "time": "10:27 AM"
+        "name": "Tralee (IG)",
+        "time": " 1:53 PM"
       },
       {
-        "name": "Wolverhampton (UK)",
-        "time": "11:15 AM"
+        "name": "Vincennes FR",
+        "time": "10:27 AM"
       },
       {
         "name": "Woodbine at Mohawk",
@@ -149,10 +165,6 @@
       {
         "name": "Yonkers Raceway",
         "time": " 7:12 PM"
-      },
-      {
-        "name": "Youghal (IG)",
-        "time": " 1:40 PM"
       },
       {
         "name": "Zia Park",
