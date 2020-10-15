@@ -25,12 +25,12 @@
       "ndate": 20201015
     },
     {
-      "carryoverAmount": 64193,
-      "carryover": "$64,193",
+      "carryoverAmount": 68410,
+      "carryover": "$68,410",
       "wagertype": "Pick 6 Jackpot",
       "track": "Thistledown",
-      "date": "Oct 14",
-      "ndate": 20201014
+      "date": "Oct 17",
+      "ndate": 20201017
     },
     {
       "carryoverAmount": 53426,
@@ -41,12 +41,12 @@
       "ndate": 20201016
     },
     {
-      "carryoverAmount": 22437,
-      "carryover": "$22,437",
+      "carryoverAmount": 27182,
+      "carryover": "$27,182",
       "wagertype": "Pick 6 Jackpot",
       "track": "Indiana Grand",
-      "date": "Oct 14",
-      "ndate": 20201014
+      "date": "Oct 15",
+      "ndate": 20201015
     },
     {
       "carryoverAmount": 20579,
@@ -73,20 +73,44 @@
       "ndate": 20201017
     },
     {
-      "carryoverAmount": 9737,
-      "carryover": "$9,737",
+      "carryoverAmount": 11202,
+      "carryover": "$11,202",
       "wagertype": "Super High Five Jackpot",
       "track": "Penn National",
-      "date": "Oct 14",
-      "ndate": 20201014
+      "date": "Oct 16",
+      "ndate": 20201016
     },
     {
-      "carryoverAmount": 6731,
-      "carryover": "$6,731",
+      "carryoverAmount": 9401,
+      "carryover": "$9,401",
+      "wagertype": "Super High Five",
+      "track": "Keeneland",
+      "date": "Oct 15",
+      "ndate": 20201015
+    },
+    {
+      "carryoverAmount": 8400,
+      "carryover": "$8,400",
       "wagertype": "Pick 6",
       "track": "Finger Lakes",
-      "date": "Oct 14",
-      "ndate": 20201014
+      "date": "Oct 19",
+      "ndate": 20201019
+    },
+    {
+      "carryoverAmount": 7701,
+      "carryover": "$7,701",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Grants Pass",
+      "date": "Oct 19",
+      "ndate": 20201019
+    },
+    {
+      "carryoverAmount": 6610,
+      "carryover": "$6,610",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Monmouth Park",
+      "date": "Oct 17",
+      "ndate": 20201017
     },
     {
       "carryoverAmount": 6382,
@@ -105,14 +129,6 @@
       "ndate": 20201016
     },
     {
-      "carryoverAmount": 4685,
-      "carryover": "$4,685",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Monmouth Park",
-      "date": "Oct 14",
-      "ndate": 20201014
-    },
-    {
       "carryoverAmount": 3180,
       "carryover": "$3,180",
       "wagertype": "Pick 5",
@@ -125,6 +141,14 @@
       "carryover": "$3,161",
       "wagertype": "Pick 6 Jackpot",
       "track": "Laurel Park",
+      "date": "Oct 15",
+      "ndate": 20201015
+    },
+    {
+      "carryoverAmount": 1884,
+      "carryover": "$1,884",
+      "wagertype": "Pick 7 Jackpot",
+      "track": "Emerald Downs",
       "date": "Oct 15",
       "ndate": 20201015
     },
@@ -145,28 +169,20 @@
       "ndate": 20201016
     },
     {
-      "carryoverAmount": 991,
-      "carryover": "$991",
+      "carryoverAmount": 1210,
+      "carryover": "$1,210",
       "wagertype": "Pick 6 Jackpot",
       "track": "Presque Isle",
-      "date": "Oct 14",
-      "ndate": 20201014
+      "date": "Oct 15",
+      "ndate": 20201015
     },
     {
-      "carryoverAmount": 884,
-      "carryover": "$884",
-      "wagertype": "Pick 7 Jackpot",
-      "track": "Emerald Downs",
-      "date": "Oct 14",
-      "ndate": 20201014
-    },
-    {
-      "carryoverAmount": 814,
-      "carryover": "$814",
-      "wagertype": "Pick 5",
-      "track": "Zia Park",
-      "date": "Oct 14",
-      "ndate": 20201014
+      "carryoverAmount": 1017,
+      "carryover": "$1,017",
+      "wagertype": "Super High Five",
+      "track": "Mountaineer",
+      "date": "Oct 18",
+      "ndate": 20201018
     }
   ]
 }
