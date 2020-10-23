@@ -1,12 +1,20 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 134371,
-      "carryover": "$134,371",
+      "carryoverAmount": 156841,
+      "carryover": "$156,841",
       "wagertype": "Pick 6 Jackpot",
       "track": "Belmont Park",
-      "date": "Oct 22",
-      "ndate": 20201022
+      "date": "Oct 23",
+      "ndate": 20201023
+    },
+    {
+      "carryoverAmount": 93829,
+      "carryover": "$93,829",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Woodbine",
+      "date": "Oct 23",
+      "ndate": 20201023
     },
     {
       "carryoverAmount": 86131,
@@ -17,20 +25,12 @@
       "ndate": 20201023
     },
     {
-      "carryoverAmount": 73262,
-      "carryover": "$73,262",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Woodbine",
-      "date": "Oct 22",
-      "ndate": 20201022
-    },
-    {
-      "carryoverAmount": 25322,
-      "carryover": "$25,322",
+      "carryoverAmount": 30970,
+      "carryover": "$30,970",
       "wagertype": "Pick 6 Jackpot",
       "track": "Woodbine",
-      "date": "Oct 22",
-      "ndate": 20201022
+      "date": "Oct 23",
+      "ndate": 20201023
     },
     {
       "carryoverAmount": 23346,
@@ -41,12 +41,20 @@
       "ndate": 20201024
     },
     {
-      "carryoverAmount": 17532,
-      "carryover": "$17,532",
+      "carryoverAmount": 20189,
+      "carryover": "$20,189",
       "wagertype": "Pick 6 Jackpot",
       "track": "Charles Town",
-      "date": "Oct 22",
-      "ndate": 20201022
+      "date": "Oct 23",
+      "ndate": 20201023
+    },
+    {
+      "carryoverAmount": 19245,
+      "carryover": "$19,245",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Gulfstream Park",
+      "date": "Oct 23",
+      "ndate": 20201023
     },
     {
       "carryoverAmount": 14164,
@@ -57,12 +65,12 @@
       "ndate": 20201023
     },
     {
-      "carryoverAmount": 8987,
-      "carryover": "$8,987",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Gulfstream Park",
-      "date": "Oct 22",
-      "ndate": 20201022
+      "carryoverAmount": 13817,
+      "carryover": "$13,817",
+      "wagertype": "Pick 6",
+      "track": "Keeneland",
+      "date": "Oct 23",
+      "ndate": 20201023
     },
     {
       "carryoverAmount": 6745,
@@ -105,20 +113,12 @@
       "ndate": 20201026
     },
     {
-      "carryoverAmount": 3189,
-      "carryover": "$3,189",
+      "carryoverAmount": 2501,
+      "carryover": "$2,501",
       "wagertype": "Pick 6 Jackpot",
-      "track": "Presque Isle",
-      "date": "Oct 22",
-      "ndate": 20201022
-    },
-    {
-      "carryoverAmount": 1037,
-      "carryover": "$1,037",
-      "wagertype": "Pick 7 Jackpot",
-      "track": "Emerald Downs",
-      "date": "Oct 22",
-      "ndate": 20201022
+      "track": "Golden Gate",
+      "date": "Oct 23",
+      "ndate": 20201023
     },
     {
       "carryoverAmount": 840,
@@ -135,6 +135,14 @@
       "track": "Finger Lakes",
       "date": "Oct 26",
       "ndate": 20201026
+    },
+    {
+      "carryoverAmount": 608,
+      "carryover": "$608",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Laurel Park",
+      "date": "Oct 23",
+      "ndate": 20201023
     }
   ]
 }
