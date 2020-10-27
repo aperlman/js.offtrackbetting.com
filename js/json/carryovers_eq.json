@@ -57,6 +57,14 @@
       "ndate": 20201028
     },
     {
+      "carryoverAmount": 9626,
+      "carryover": "$9,626",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Mahoning Valley",
+      "date": "Oct 27",
+      "ndate": 20201027
+    },
+    {
       "carryoverAmount": 8449,
       "carryover": "$8,449",
       "wagertype": "Pick 6 Jackpot",
@@ -73,6 +81,14 @@
       "ndate": 20201029
     },
     {
+      "carryoverAmount": 7384,
+      "carryover": "$7,384",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Grants Pass",
+      "date": "Oct 27",
+      "ndate": 20201027
+    },
+    {
       "carryoverAmount": 5901,
       "carryover": "$5,901",
       "wagertype": "Pick 6 Jackpot",
@@ -87,22 +103,6 @@
       "track": "Woodbine",
       "date": "Oct 29",
       "ndate": 20201029
-    },
-    {
-      "carryoverAmount": 4420,
-      "carryover": "$4,420",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Mahoning Valley",
-      "date": "Oct 26",
-      "ndate": 20201026
-    },
-    {
-      "carryoverAmount": 3244,
-      "carryover": "$3,244",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Grants Pass",
-      "date": "Oct 26",
-      "ndate": 20201026
     },
     {
       "carryoverAmount": 3042,
@@ -129,44 +129,28 @@
       "ndate": 20201031
     },
     {
+      "carryoverAmount": 2077,
+      "carryover": "$2,077",
+      "wagertype": "Pick 5",
+      "track": "Zia Park",
+      "date": "Oct 27",
+      "ndate": 20201027
+    },
+    {
+      "carryoverAmount": 2040,
+      "carryover": "$2,040",
+      "wagertype": "Pick 6",
+      "track": "Finger Lakes",
+      "date": "Oct 27",
+      "ndate": 20201027
+    },
+    {
       "carryoverAmount": 1781,
       "carryover": "$1,781",
       "wagertype": "Pick 7 Jackpot",
       "track": "Emerald Downs",
       "date": "Oct 28",
       "ndate": 20201028
-    },
-    {
-      "carryoverAmount": 1762,
-      "carryover": "$1,762",
-      "wagertype": "Super High Five",
-      "track": "Indiana Grand",
-      "date": "Oct 26",
-      "ndate": 20201026
-    },
-    {
-      "carryoverAmount": 840,
-      "carryover": "$840",
-      "wagertype": "Pick 5",
-      "track": "Zia Park",
-      "date": "Oct 26",
-      "ndate": 20201026
-    },
-    {
-      "carryoverAmount": 674,
-      "carryover": "$674",
-      "wagertype": "Pick 6",
-      "track": "Finger Lakes",
-      "date": "Oct 26",
-      "ndate": 20201026
-    },
-    {
-      "carryoverAmount": 388,
-      "carryover": "$388",
-      "wagertype": "Super High Five",
-      "track": "Indiana Grand",
-      "date": "Oct 26",
-      "ndate": 20201026
     }
   ]
 }
