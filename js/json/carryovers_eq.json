@@ -17,20 +17,28 @@
       "ndate": 20201029
     },
     {
-      "carryoverAmount": 59224,
-      "carryover": "$59,224",
+      "carryoverAmount": 73676,
+      "carryover": "$73,676",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "Oct 28",
-      "ndate": 20201028
+      "date": "Oct 29",
+      "ndate": 20201029
     },
     {
-      "carryoverAmount": 41919,
-      "carryover": "$41,919",
+      "carryoverAmount": 48980,
+      "carryover": "$48,980",
       "wagertype": "Pick 6 Jackpot",
       "track": "Churchill Downs",
-      "date": "Oct 28",
-      "ndate": 20201028
+      "date": "Oct 29",
+      "ndate": 20201029
+    },
+    {
+      "carryoverAmount": 34855,
+      "carryover": "$34,855",
+      "wagertype": "Pick 5",
+      "track": "Mountaineer",
+      "date": "Nov 01",
+      "ndate": 20201101
     },
     {
       "carryoverAmount": 29170,
@@ -49,20 +57,36 @@
       "ndate": 20201029
     },
     {
-      "carryoverAmount": 15461,
-      "carryover": "$15,461",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Penn National",
-      "date": "Oct 28",
-      "ndate": 20201028
-    },
-    {
-      "carryoverAmount": 14795,
-      "carryover": "$14,795",
+      "carryoverAmount": 17388,
+      "carryover": "$17,388",
       "wagertype": "Pick 6 Jackpot",
       "track": "Mahoning Valley",
-      "date": "Oct 28",
-      "ndate": 20201028
+      "date": "Oct 31",
+      "ndate": 20201031
+    },
+    {
+      "carryoverAmount": 16827,
+      "carryover": "$16,827",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Penn National",
+      "date": "Oct 30",
+      "ndate": 20201030
+    },
+    {
+      "carryoverAmount": 14553,
+      "carryover": "$14,553",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Grants Pass",
+      "date": "Nov 02",
+      "ndate": 20201102
+    },
+    {
+      "carryoverAmount": 10197,
+      "carryover": "$10,197",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Indiana Grand",
+      "date": "Oct 29",
+      "ndate": 20201029
     },
     {
       "carryoverAmount": 8449,
@@ -81,14 +105,6 @@
       "ndate": 20201029
     },
     {
-      "carryoverAmount": 7125,
-      "carryover": "$7,125",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Indiana Grand",
-      "date": "Oct 28",
-      "ndate": 20201028
-    },
-    {
       "carryoverAmount": 5901,
       "carryover": "$5,901",
       "wagertype": "Pick 6 Jackpot",
@@ -97,10 +113,26 @@
       "ndate": 20201031
     },
     {
+      "carryoverAmount": 4977,
+      "carryover": "$4,977",
+      "wagertype": "Super High Five",
+      "track": "Mountaineer",
+      "date": "Nov 01",
+      "ndate": 20201101
+    },
+    {
       "carryoverAmount": 4667,
       "carryover": "$4,667",
       "wagertype": "Pick 6 Jackpot",
       "track": "Woodbine",
+      "date": "Oct 29",
+      "ndate": 20201029
+    },
+    {
+      "carryoverAmount": 3331,
+      "carryover": "$3,331",
+      "wagertype": "Pick 7 Jackpot",
+      "track": "Emerald Downs",
       "date": "Oct 29",
       "ndate": 20201029
     },
@@ -113,60 +145,12 @@
       "ndate": 20201030
     },
     {
-      "carryoverAmount": 2991,
-      "carryover": "$2,991",
-      "wagertype": "Super High Five",
-      "track": "Churchill Downs",
-      "date": "Oct 28",
-      "ndate": 20201028
-    },
-    {
-      "carryoverAmount": 2751,
-      "carryover": "$2,751",
-      "wagertype": "Super High Five",
-      "track": "Indiana Grand",
-      "date": "Oct 28",
-      "ndate": 20201028
-    },
-    {
       "carryoverAmount": 2403,
       "carryover": "$2,403",
       "wagertype": "Super High Five",
       "track": "Lone Star",
       "date": "Oct 31",
       "ndate": 20201031
-    },
-    {
-      "carryoverAmount": 2077,
-      "carryover": "$2,077",
-      "wagertype": "Pick 5",
-      "track": "Zia Park",
-      "date": "Oct 28",
-      "ndate": 20201028
-    },
-    {
-      "carryoverAmount": 1781,
-      "carryover": "$1,781",
-      "wagertype": "Pick 7 Jackpot",
-      "track": "Emerald Downs",
-      "date": "Oct 28",
-      "ndate": 20201028
-    },
-    {
-      "carryoverAmount": 1301,
-      "carryover": "$1,301",
-      "wagertype": "Super High Five",
-      "track": "Mountaineer",
-      "date": "Oct 28",
-      "ndate": 20201028
-    },
-    {
-      "carryoverAmount": 304,
-      "carryover": "$304",
-      "wagertype": "Super High Five",
-      "track": "Mahoning Valley",
-      "date": "Oct 28",
-      "ndate": 20201028
     }
   ]
 }
