@@ -1,42 +1,50 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 99167,
-      "carryover": "$99,167",
+      "carryoverAmount": 106481,
+      "carryover": "$106,481",
       "wagertype": "Pick 6 Jackpot",
       "track": "Churchill Downs",
-      "date": "Nov 12",
-      "ndate": 20201112
+      "date": "Nov 13",
+      "ndate": 20201113
     },
     {
-      "carryoverAmount": 68827,
-      "carryover": "$68,827",
+      "carryoverAmount": 76913,
+      "carryover": "$76,913",
       "wagertype": "Pick 6 Jackpot",
       "track": "Indiana Grand",
-      "date": "Nov 12",
-      "ndate": 20201112
+      "date": "Nov 16",
+      "ndate": 20201116
     },
     {
-      "carryoverAmount": 60756,
-      "carryover": "$60,756",
+      "carryoverAmount": 74578,
+      "carryover": "$74,578",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "Nov 12",
-      "ndate": 20201112
+      "date": "Nov 13",
+      "ndate": 20201113
     },
     {
-      "carryoverAmount": 41298,
-      "carryover": "$41,298",
+      "carryoverAmount": 52368,
+      "carryover": "$52,368",
       "wagertype": "Pick 6 Jackpot",
       "track": "Aqueduct",
-      "date": "Nov 12",
-      "ndate": 20201112
+      "date": "Nov 13",
+      "ndate": 20201113
     },
     {
       "carryoverAmount": 28316,
       "carryover": "$28,316",
       "wagertype": "Pick 6 Jackpot",
       "track": "Hawthorne",
+      "date": "Nov 13",
+      "ndate": 20201113
+    },
+    {
+      "carryoverAmount": 26201,
+      "carryover": "$26,201",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Golden Gate",
       "date": "Nov 13",
       "ndate": 20201113
     },
@@ -49,12 +57,12 @@
       "ndate": 20201113
     },
     {
-      "carryoverAmount": 22345,
-      "carryover": "$22,345",
+      "carryoverAmount": 23556,
+      "carryover": "$23,556",
       "wagertype": "Pick 6 Jackpot",
-      "track": "Golden Gate",
-      "date": "Nov 12",
-      "ndate": 20201112
+      "track": "Woodbine",
+      "date": "Nov 13",
+      "ndate": 20201113
     },
     {
       "carryoverAmount": 20798,
@@ -63,14 +71,6 @@
       "track": "Mahoning Valley",
       "date": "Nov 14",
       "ndate": 20201114
-    },
-    {
-      "carryoverAmount": 18970,
-      "carryover": "$18,970",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Woodbine",
-      "date": "Nov 12",
-      "ndate": 20201112
     },
     {
       "carryoverAmount": 15998,
@@ -89,12 +89,12 @@
       "ndate": 20201113
     },
     {
-      "carryoverAmount": 10851,
-      "carryover": "$10,851",
+      "carryoverAmount": 12211,
+      "carryover": "$12,211",
       "wagertype": "Pick 6 Jackpot",
       "track": "Laurel Park",
-      "date": "Nov 12",
-      "ndate": 20201112
+      "date": "Nov 13",
+      "ndate": 20201113
     },
     {
       "carryoverAmount": 6703,
@@ -105,6 +105,14 @@
       "ndate": 20201114
     },
     {
+      "carryoverAmount": 5989,
+      "carryover": "$5,989",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Woodbine",
+      "date": "Nov 13",
+      "ndate": 20201113
+    },
+    {
       "carryoverAmount": 5412,
       "carryover": "$5,412",
       "wagertype": "Super High Five",
@@ -113,12 +121,20 @@
       "ndate": 20201114
     },
     {
-      "carryoverAmount": 2981,
-      "carryover": "$2,981",
+      "carryoverAmount": 2525,
+      "carryover": "$2,525",
       "wagertype": "Super High Five",
-      "track": "Laurel Park",
-      "date": "Nov 12",
-      "ndate": 20201112
+      "track": "Indiana Grand",
+      "date": "Nov 16",
+      "ndate": 20201116
+    },
+    {
+      "carryoverAmount": 2402,
+      "carryover": "$2,402",
+      "wagertype": "Super High Five",
+      "track": "Indiana Grand",
+      "date": "Nov 16",
+      "ndate": 20201116
     },
     {
       "carryoverAmount": 2100,
@@ -127,6 +143,14 @@
       "track": "Lone Star",
       "date": "Nov 14",
       "ndate": 20201114
+    },
+    {
+      "carryoverAmount": 1903,
+      "carryover": "$1,903",
+      "wagertype": "Super High Five",
+      "track": "Golden Gate",
+      "date": "Nov 13",
+      "ndate": 20201113
     },
     {
       "carryoverAmount": 343,
