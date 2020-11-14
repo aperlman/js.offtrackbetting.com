@@ -1,12 +1,20 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 106481,
-      "carryover": "$106,481",
+      "carryoverAmount": 114107,
+      "carryover": "$114,107",
       "wagertype": "Pick 6 Jackpot",
       "track": "Churchill Downs",
-      "date": "Nov 13",
-      "ndate": 20201113
+      "date": "Nov 14",
+      "ndate": 20201114
+    },
+    {
+      "carryoverAmount": 90926,
+      "carryover": "$90,926",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Gulfstream Park",
+      "date": "Nov 14",
+      "ndate": 20201114
     },
     {
       "carryoverAmount": 76913,
@@ -17,84 +25,68 @@
       "ndate": 20201116
     },
     {
-      "carryoverAmount": 74578,
-      "carryover": "$74,578",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Gulfstream Park",
-      "date": "Nov 13",
-      "ndate": 20201113
-    },
-    {
-      "carryoverAmount": 52368,
-      "carryover": "$52,368",
+      "carryoverAmount": 67147,
+      "carryover": "$67,147",
       "wagertype": "Pick 6 Jackpot",
       "track": "Aqueduct",
-      "date": "Nov 13",
-      "ndate": 20201113
+      "date": "Nov 14",
+      "ndate": 20201114
     },
     {
-      "carryoverAmount": 28316,
-      "carryover": "$28,316",
+      "carryoverAmount": 34063,
+      "carryover": "$34,063",
       "wagertype": "Pick 6 Jackpot",
       "track": "Hawthorne",
-      "date": "Nov 13",
-      "ndate": 20201113
+      "date": "Nov 14",
+      "ndate": 20201114
+    },
+    {
+      "carryoverAmount": 30262,
+      "carryover": "$30,262",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Woodbine",
+      "date": "Nov 14",
+      "ndate": 20201114
+    },
+    {
+      "carryoverAmount": 27461,
+      "carryover": "$27,461",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Penn National",
+      "date": "Nov 18",
+      "ndate": 20201118
     },
     {
       "carryoverAmount": 26201,
       "carryover": "$26,201",
       "wagertype": "Pick 6 Jackpot",
       "track": "Golden Gate",
-      "date": "Nov 13",
-      "ndate": 20201113
-    },
-    {
-      "carryoverAmount": 24236,
-      "carryover": "$24,236",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Penn National",
-      "date": "Nov 13",
-      "ndate": 20201113
-    },
-    {
-      "carryoverAmount": 23556,
-      "carryover": "$23,556",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Woodbine",
-      "date": "Nov 13",
-      "ndate": 20201113
-    },
-    {
-      "carryoverAmount": 20798,
-      "carryover": "$20,798",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Mahoning Valley",
       "date": "Nov 14",
       "ndate": 20201114
     },
     {
-      "carryoverAmount": 15998,
-      "carryover": "$15,998",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Del Mar",
-      "date": "Nov 13",
-      "ndate": 20201113
+      "carryoverAmount": 15592,
+      "carryover": "$15,592",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Woodbine",
+      "date": "Nov 14",
+      "ndate": 20201114
     },
     {
-      "carryoverAmount": 13086,
-      "carryover": "$13,086",
+      "carryoverAmount": 15314,
+      "carryover": "$15,314",
       "wagertype": "Super High Five Jackpot",
       "track": "Hawthorne",
-      "date": "Nov 13",
-      "ndate": 20201113
+      "date": "Nov 14",
+      "ndate": 20201114
     },
     {
-      "carryoverAmount": 12211,
-      "carryover": "$12,211",
+      "carryoverAmount": 14637,
+      "carryover": "$14,637",
       "wagertype": "Pick 6 Jackpot",
       "track": "Laurel Park",
-      "date": "Nov 13",
-      "ndate": 20201113
+      "date": "Nov 14",
+      "ndate": 20201114
     },
     {
       "carryoverAmount": 6703,
@@ -103,14 +95,6 @@
       "track": "Lone Star",
       "date": "Nov 14",
       "ndate": 20201114
-    },
-    {
-      "carryoverAmount": 5989,
-      "carryover": "$5,989",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Woodbine",
-      "date": "Nov 13",
-      "ndate": 20201113
     },
     {
       "carryoverAmount": 5412,
@@ -149,14 +133,14 @@
       "carryover": "$1,903",
       "wagertype": "Super High Five",
       "track": "Golden Gate",
-      "date": "Nov 13",
-      "ndate": 20201113
+      "date": "Nov 14",
+      "ndate": 20201114
     },
     {
-      "carryoverAmount": 343,
-      "carryover": "$343",
+      "carryoverAmount": 1060,
+      "carryover": "$1,060",
       "wagertype": "Super High Five",
-      "track": "Mahoning Valley",
+      "track": "Laurel Park",
       "date": "Nov 14",
       "ndate": 20201114
     }
