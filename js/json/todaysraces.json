@@ -1,106 +1,110 @@
 {
   "todaysraces": {
-    "headline": "OTB Schedule: Monday, Nov 16",
+    "headline": "OTB Schedule: Tuesday, Nov 17",
     "tracks": [
       {
         "name": "Australia A",
-        "time": " 9:35 PM"
+        "time": "10:00 PM"
       },
       {
         "name": "Australia B",
-        "time": "11:05 PM"
+        "time": "10:18 PM"
       },
       {
-        "name": "Australia Greyhound 1",
-        "time": " 7:36 PM"
+        "name": "Australia C",
+        "time": "12:24 AM"
+      },
+      {
+        "name": "Australia D",
+        "time": " 1:25 AM"
       },
       {
         "name": "Australia Harness 1",
-        "time": " 9:46 PM"
-      },
-      {
-        "name": "Australia Harness 2",
-        "time": "10:03 PM"
+        "time": " 9:18 PM"
       },
       {
         "name": "Caliente Evening",
-        "time": " 7:55 PM"
+        "time": " 6:30 PM"
       },
       {
-        "name": "Century Mile H",
-        "time": " 8:15 PM"
-      },
-      {
-        "name": "Dayton Raceway",
+        "name": "Caliente Matinee",
         "time": " 1:30 PM"
+      },
+      {
+        "name": "Crayford Eve (UK GH)",
+        "time": " 1:17 PM"
+      },
+      {
+        "name": "Curraheen (IG)",
+        "time": " 3:00 PM"
       },
       {
         "name": "Derby Lane Mat",
         "time": "12:30 PM"
       },
       {
-        "name": "Doncaster DG Eve (UK GH)",
-        "time": " 1:09 PM"
-      },
-      {
         "name": "Dover Downs",
         "time": " 4:30 PM"
       },
       {
-        "name": "Dundalk (IRE)",
-        "time": " 9:15 AM"
+        "name": "Dundalk (IG)",
+        "time": " 2:20 PM"
       },
       {
-        "name": "Enniscorthy (IG)",
-        "time": " 3:00 PM"
+        "name": "Fakenham (UK)",
+        "time": " 7:33 AM"
       },
       {
-        "name": "Fairview| (SAF)",
-        "time": " 5:35 AM"
-      },
-      {
-        "name": "Fontainebleau FR",
-        "time": " 5:55 AM"
+        "name": "Flamboro Downs",
+        "time": " 6:35 PM"
       },
       {
         "name": "Gulfstream Park West",
-        "time": " 2:30 PM"
-      },
-      {
-        "name": "Harlow Eve (UK GH)",
-        "time": " 1:17 PM"
-      },
-      {
-        "name": "Kempton Park (UK)",
-        "time": "11:25 AM"
-      },
-      {
-        "name": "Laurel Park",
         "time": " 2:00 PM"
       },
       {
-        "name": "Leicester (UK)",
-        "time": " 7:30 AM"
+        "name": "Henlow Eve (UK GH)",
+        "time": " 1:09 PM"
       },
       {
-        "name": "Lyon-La Soie FR",
-        "time": " 9:52 AM"
+        "name": "Laurel Park",
+        "time": "12:15 PM"
+      },
+      {
+        "name": "Limerick (IRE)",
+        "time": " 7:25 AM"
+      },
+      {
+        "name": "Lingfield (UK)",
+        "time": " 7:41 AM"
+      },
+      {
+        "name": "Lyon-Parilly FR",
+        "time": " 5:55 AM"
+      },
+      {
+        "name": "Marseille Pont de Vivaux FR",
+        "time": "10:45 AM"
       },
       {
         "name": "Monticello Raceway",
         "time": "12:25 PM"
       },
       {
+        "name": "Mornington",
+        "time": " 9:00 PM"
+      },
+      {
         "name": "Mountaineer Park",
         "time": " 7:00 PM"
       },
       {
-        "name": "Mullingar (IG)",
-        "time": " 2:00 PM"
+        "name": "Newcastle (UK)",
+        "time": "10:40 AM"
       },
       {
         "name": "New Zealand",
-        "time": " 5:40 PM"
+        "time": " 6:32 PM"
       },
       {
         "name": "Northfield Park",
@@ -119,14 +123,6 @@
         "time": "12:25 PM"
       },
       {
-        "name": "Plainridge",
-        "time": " 1:00 PM"
-      },
-      {
-        "name": "Plumpton (UK)",
-        "time": " 7:45 AM"
-      },
-      {
         "name": "Pompano Park",
         "time": " 7:20 PM"
       },
@@ -135,36 +131,40 @@
         "time": " 1:00 PM"
       },
       {
+        "name": "Saint-Cloud FR",
+        "time": " 6:10 AM"
+      },
+      {
         "name": "Saratoga Harness",
         "time": "12:00 PM"
       },
       {
-        "name": "St Johns Eve",
-        "time": " 7:45 PM"
+        "name": "Southwell (UK)",
+        "time": " 7:20 AM"
+      },
+      {
+        "name": "Strathalbyn",
+        "time": " 8:40 PM"
+      },
+      {
+        "name": "Tralee (IG)",
+        "time": " 1:53 PM"
+      },
+      {
+        "name": "Vaal (SAF)",
+        "time": " 6:15 AM"
       },
       {
         "name": "Vincennes FR",
-        "time": " 7:50 AM"
+        "time": "10:27 AM"
       },
       {
-        "name": "Western Fair",
-        "time": " 6:15 PM"
-      },
-      {
-        "name": "Wolverhampton (UK)",
-        "time": " 9:10 AM"
-      },
-      {
-        "name": "Woodbine at Mohawk",
-        "time": " 7:00 PM"
+        "name": "Waterford (IG)",
+        "time": " 2:30 PM"
       },
       {
         "name": "Yonkers Raceway",
         "time": " 7:12 PM"
-      },
-      {
-        "name": "Youghal (IG)",
-        "time": " 1:40 PM"
       }
     ]
   }
