@@ -41,6 +41,14 @@
       "ndate": 20201127
     },
     {
+      "carryoverAmount": 32390,
+      "carryover": "$32,390",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Mahoning Valley",
+      "date": "Nov 24",
+      "ndate": 20201124
+    },
+    {
       "carryoverAmount": 31801,
       "carryover": "$31,801",
       "wagertype": "Super High Five Jackpot",
@@ -63,14 +71,6 @@
       "track": "Del Mar",
       "date": "Nov 26",
       "ndate": 20201126
-    },
-    {
-      "carryoverAmount": 20798,
-      "carryover": "$20,798",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Mahoning Valley",
-      "date": "Nov 23",
-      "ndate": 20201123
     },
     {
       "carryoverAmount": 20050,
@@ -137,20 +137,12 @@
       "ndate": 20201128
     },
     {
-      "carryoverAmount": 731,
-      "carryover": "$731",
-      "wagertype": "Super High Five",
-      "track": "Mountaineer",
-      "date": "Nov 23",
-      "ndate": 20201123
-    },
-    {
-      "carryoverAmount": 343,
-      "carryover": "$343",
+      "carryoverAmount": 1983,
+      "carryover": "$1,983",
       "wagertype": "Super High Five",
       "track": "Mahoning Valley",
-      "date": "Nov 23",
-      "ndate": 20201123
+      "date": "Nov 24",
+      "ndate": 20201124
     }
   ]
 }
