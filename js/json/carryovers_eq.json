@@ -9,36 +9,20 @@
       "ndate": 20201130
     },
     {
-      "carryoverAmount": 52666,
-      "carryover": "$52,666",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Churchill Downs",
-      "date": "Nov 29",
-      "ndate": 20201129
-    },
-    {
-      "carryoverAmount": 46058,
-      "carryover": "$46,058",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Del Mar",
-      "date": "Nov 29",
-      "ndate": 20201129
-    },
-    {
-      "carryoverAmount": 39016,
-      "carryover": "$39,016",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Hawthorne",
-      "date": "Nov 29",
-      "ndate": 20201129
-    },
-    {
       "carryoverAmount": 37629,
       "carryover": "$37,629",
       "wagertype": "Super High Five Jackpot",
       "track": "Penn National",
       "date": "Dec 02",
       "ndate": 20201202
+    },
+    {
+      "carryoverAmount": 32117,
+      "carryover": "$32,117",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Aqueduct",
+      "date": "Dec 03",
+      "ndate": 20201203
     },
     {
       "carryoverAmount": 8576,
@@ -57,20 +41,12 @@
       "ndate": 20201202
     },
     {
-      "carryoverAmount": 1449,
-      "carryover": "$1,449",
-      "wagertype": "Super High Five",
-      "track": "Laurel Park",
-      "date": "Nov 29",
-      "ndate": 20201129
-    },
-    {
-      "carryoverAmount": 940,
-      "carryover": "$940",
+      "carryoverAmount": 1622,
+      "carryover": "$1,622",
       "wagertype": "Pick 6 Jackpot",
-      "track": "Hawthorne",
-      "date": "Nov 29",
-      "ndate": 20201129
+      "track": "Laurel Park",
+      "date": "Dec 03",
+      "ndate": 20201203
     }
   ]
 }
