@@ -1,12 +1,12 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 96862,
-      "carryover": "$96,862",
+      "carryoverAmount": 120064,
+      "carryover": "$120,064",
       "wagertype": "Pick 6 Jackpot",
       "track": "Mahoning Valley",
-      "date": "Dec 01",
-      "ndate": 20201201
+      "date": "Dec 02",
+      "ndate": 20201202
     },
     {
       "carryoverAmount": 37629,
@@ -47,6 +47,14 @@
       "track": "Laurel Park",
       "date": "Dec 03",
       "ndate": 20201203
+    },
+    {
+      "carryoverAmount": 915,
+      "carryover": "$915",
+      "wagertype": "Super High Five",
+      "track": "Mahoning Valley",
+      "date": "Dec 02",
+      "ndate": 20201202
     }
   ]
 }
