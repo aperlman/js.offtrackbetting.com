@@ -1,62 +1,42 @@
 {
   "todaysraces": {
-    "headline": "OTB Schedule: Tuesday, Dec 15",
+    "headline": "OTB Schedule: Wednesday, Dec 16",
     "tracks": [
       {
-        "name": "Amiens FR",
-        "time": "11:20 AM"
-      },
-      {
         "name": "Australia A",
-        "time": "10:20 PM"
+        "time": " 9:15 PM"
       },
       {
         "name": "Australia B",
-        "time": "10:37 PM"
+        "time": "10:17 PM"
       },
       {
         "name": "Australia C",
-        "time": " 1:04 AM"
+        "time": "11:25 PM"
       },
       {
         "name": "Australia D",
-        "time": " 1:20 AM"
+        "time": "12:27 AM"
       },
       {
         "name": "Australia GH1 Eve",
-        "time": " 8:00 PM"
+        "time": " 8:15 PM"
       },
       {
         "name": "Australia Harness 1",
-        "time": " 9:12 PM"
+        "time": " 9:22 PM"
+      },
+      {
+        "name": "Cabourg FR",
+        "time": " 6:00 AM"
       },
       {
         "name": "Caliente Evening",
-        "time": " 6:30 PM"
+        "time": " 7:55 PM"
       },
       {
-        "name": "Caliente Matinee",
-        "time": " 1:30 PM"
-      },
-      {
-        "name": "Catterick (UK)",
-        "time": " 7:20 AM"
-      },
-      {
-        "name": "Caulfield",
-        "time": "11:40 PM"
-      },
-      {
-        "name": "Crayford Eve (UK GH)",
-        "time": " 1:17 PM"
-      },
-      {
-        "name": "Curraheen (IG)",
-        "time": " 3:00 PM"
-      },
-      {
-        "name": "Dayton Raceway",
-        "time": " 1:30 PM"
+        "name": "Charles Town",
+        "time": " 7:00 PM"
       },
       {
         "name": "Delta Downs",
@@ -67,36 +47,76 @@
         "time": "12:30 PM"
       },
       {
+        "name": "Doncaster DG Eve (UK GH)",
+        "time": " 1:09 PM"
+      },
+      {
         "name": "Dover Downs",
         "time": " 4:30 PM"
       },
       {
-        "name": "Dundalk (IG)",
-        "time": " 2:20 PM"
+        "name": "Dundalk (IRE)",
+        "time": " 9:05 AM"
       },
       {
-        "name": "Flamboro Downs",
+        "name": "Evangeline Downs",
         "time": " 6:35 PM"
       },
       {
-        "name": "Gulfstream Park",
-        "time": "11:00 AM"
+        "name": "Fraser Downs",
+        "time": "10:00 PM"
       },
       {
-        "name": "Henlow Eve (UK GH)",
-        "time": " 1:09 PM"
+        "name": "Gulfstream Park",
+        "time": "12:35 PM"
+      },
+      {
+        "name": "Happy Valley (HK)",
+        "time": " 6:15 AM"
+      },
+      {
+        "name": "Harlow Eve (UK GH)",
+        "time": " 1:17 PM"
       },
       {
         "name": "Kawasaki JPN",
-        "time": "12:45 AM"
+        "time": " 1:00 AM"
+      },
+      {
+        "name": "Kempton Park (UK)",
+        "time": "11:00 AM"
+      },
+      {
+        "name": "Kenilworth (SAF)",
+        "time": " 6:10 AM"
+      },
+      {
+        "name": "Kilkenny (IG)",
+        "time": " 3:12 AM"
       },
       {
         "name": "Laurel Park",
-        "time": " 2:00 PM"
+        "time": "12:30 PM"
+      },
+      {
+        "name": "Lingfield (UK)",
+        "time": " 6:30 AM"
+      },
+      {
+        "name": "Ludlow (UK)",
+        "time": " 7:20 AM"
       },
       {
         "name": "Mahoning Valley",
         "time": "12:45 PM"
+      },
+      {
+        "name": "Mardi Gras WV Eve",
+        "time": " 7:00 PM"
+      },
+      {
+        "name": "Marseille Pont de Vivaux FR",
+        "time": "10:32 AM"
       },
       {
         "name": "Monticello Raceway",
@@ -107,12 +127,12 @@
         "time": " 7:00 PM"
       },
       {
-        "name": "Newcastle (UK)",
-        "time": " 8:45 AM"
+        "name": "Newbury (UK)",
+        "time": " 7:10 AM"
       },
       {
         "name": "New Zealand",
-        "time": " 7:34 PM"
+        "time": " 6:05 PM"
       },
       {
         "name": "Northfield Park",
@@ -127,52 +147,40 @@
         "time": "12:25 PM"
       },
       {
-        "name": "Pau FR",
-        "time": " 6:10 AM"
-      },
-      {
         "name": "Pompano Park",
         "time": " 7:20 PM"
       },
       {
-        "name": "Pornichet-La Baule FR",
-        "time": "10:27 AM"
+        "name": "Rosecroft Raceway",
+        "time": " 7:15 PM"
       },
       {
-        "name": "Shelbourne Park (IG)",
-        "time": " 2:40 AM"
+        "name": "Southland Twilight",
+        "time": " 6:00 PM"
       },
       {
-        "name": "Strathalbyn",
-        "time": "11:25 PM"
-      },
-      {
-        "name": "Tralee (IG)",
-        "time": " 1:53 PM"
-      },
-      {
-        "name": "Vaal (SAF)",
-        "time": " 6:10 AM"
+        "name": "Tampa Bay Downs",
+        "time": "12:42 PM"
       },
       {
         "name": "Vincennes FR",
-        "time": " 5:55 AM"
+        "time": " 7:55 AM"
       },
       {
-        "name": "Waterford (IG)",
-        "time": " 2:30 PM"
+        "name": "Warrnambool",
+        "time": " 9:30 PM"
       },
       {
-        "name": "Wincanton (UK)",
-        "time": " 7:05 AM"
+        "name": "Western Fair",
+        "time": " 6:15 PM"
       },
       {
-        "name": "Wolverhampton (UK)",
-        "time": "11:05 AM"
+        "name": "Wheeling Downs Mat",
+        "time": " 1:00 PM"
       },
       {
-        "name": "Yonkers Raceway",
-        "time": " 7:12 PM"
+        "name": "Youghal (IG)",
+        "time": " 1:40 PM"
       },
       {
         "name": "Zia Park",
