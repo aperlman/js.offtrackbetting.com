@@ -1,28 +1,36 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 668449,
-      "carryover": "$668,449",
+      "carryoverAmount": 757752,
+      "carryover": "$757,752",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "Dec 17",
-      "ndate": 20201217
+      "date": "Dec 18",
+      "ndate": 20201218
     },
     {
-      "carryoverAmount": 145798,
-      "carryover": "$145,798",
+      "carryoverAmount": 423178,
+      "carryover": "$423,178",
       "wagertype": "Pick 6",
       "track": "Los Alamitos",
-      "date": "Dec 17",
-      "ndate": 20201217
+      "date": "Dec 18",
+      "ndate": 20201218
     },
     {
       "carryoverAmount": 105471,
       "carryover": "$105,471",
       "wagertype": "Pick 6 Jackpot",
       "track": "Aqueduct",
-      "date": "Dec 17",
-      "ndate": 20201217
+      "date": "Dec 18",
+      "ndate": 20201218
+    },
+    {
+      "carryoverAmount": 69226,
+      "carryover": "$69,226",
+      "wagertype": "Super High Five",
+      "track": "Los Alamitos",
+      "date": "Dec 18",
+      "ndate": 20201218
     },
     {
       "carryoverAmount": 47181,
@@ -39,14 +47,6 @@
       "track": "Mahoning Valley",
       "date": "Dec 18",
       "ndate": 20201218
-    },
-    {
-      "carryoverAmount": 19554,
-      "carryover": "$19,554",
-      "wagertype": "Super High Five",
-      "track": "Los Alamitos",
-      "date": "Dec 17",
-      "ndate": 20201217
     },
     {
       "carryoverAmount": 13695,
@@ -77,32 +77,56 @@
       "carryover": "$5,251",
       "wagertype": "Pick 6 Jackpot",
       "track": "Laurel Park",
-      "date": "Dec 17",
-      "ndate": 20201217
+      "date": "Dec 18",
+      "ndate": 20201218
     },
     {
       "carryoverAmount": 5099,
       "carryover": "$5,099",
       "wagertype": "Pick 6 Jackpot",
       "track": "Charles Town",
-      "date": "Dec 17",
-      "ndate": 20201217
+      "date": "Dec 18",
+      "ndate": 20201218
     },
     {
-      "carryoverAmount": 2182,
-      "carryover": "$2,182",
+      "carryoverAmount": 2814,
+      "carryover": "$2,814",
       "wagertype": "Super High Five",
-      "track": "Turfway Park",
-      "date": "Dec 17",
-      "ndate": 20201217
+      "track": "Gulfstream Park",
+      "date": "Dec 18",
+      "ndate": 20201218
+    },
+    {
+      "carryoverAmount": 2547,
+      "carryover": "$2,547",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Dec 18",
+      "ndate": 20201218
+    },
+    {
+      "carryoverAmount": 2242,
+      "carryover": "$2,242",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Dec 18",
+      "ndate": 20201218
     },
     {
       "carryoverAmount": 1458,
       "carryover": "$1,458",
       "wagertype": "Super High Five",
       "track": "Laurel Park",
-      "date": "Dec 17",
-      "ndate": 20201217
+      "date": "Dec 18",
+      "ndate": 20201218
+    },
+    {
+      "carryoverAmount": 1069,
+      "carryover": "$1,069",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Turfway Park",
+      "date": "Dec 18",
+      "ndate": 20201218
     }
   ]
 }
