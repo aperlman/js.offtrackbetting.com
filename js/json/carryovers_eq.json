@@ -1,6 +1,14 @@
 {
   "carryovers": [
     {
+      "carryoverAmount": 50400,
+      "carryover": "$50,400",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Mahoning Valley",
+      "date": "Dec 22",
+      "ndate": 20201222
+    },
+    {
       "carryoverAmount": 47541,
       "carryover": "$47,541",
       "wagertype": "Pick 6 Jackpot",
@@ -17,14 +25,6 @@
       "ndate": 20201222
     },
     {
-      "carryoverAmount": 34530,
-      "carryover": "$34,530",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Mahoning Valley",
-      "date": "Dec 21",
-      "ndate": 20201221
-    },
-    {
       "carryoverAmount": 21067,
       "carryover": "$21,067",
       "wagertype": "Pick 6 Jackpot",
@@ -37,6 +37,14 @@
       "carryover": "$20,484",
       "wagertype": "Pick 6 Jackpot",
       "track": "Turfway Park",
+      "date": "Dec 26",
+      "ndate": 20201226
+    },
+    {
+      "carryoverAmount": 10052,
+      "carryover": "$10,052",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Hawthorne",
       "date": "Dec 26",
       "ndate": 20201226
     },
@@ -73,6 +81,14 @@
       "ndate": 20201226
     },
     {
+      "carryoverAmount": 1349,
+      "carryover": "$1,349",
+      "wagertype": "Super High Five",
+      "track": "Mountaineer",
+      "date": "Dec 22",
+      "ndate": 20201222
+    },
+    {
       "carryoverAmount": 1193,
       "carryover": "$1,193",
       "wagertype": "Super High Five",
@@ -87,6 +103,14 @@
       "track": "Gulfstream Park",
       "date": "Dec 23",
       "ndate": 20201223
+    },
+    {
+      "carryoverAmount": 992,
+      "carryover": "$992",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Hawthorne",
+      "date": "Dec 26",
+      "ndate": 20201226
     }
   ]
 }
