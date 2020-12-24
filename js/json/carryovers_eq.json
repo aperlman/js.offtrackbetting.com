@@ -1,28 +1,28 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 49992,
-      "carryover": "$49,992",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Penn National",
-      "date": "Dec 23",
-      "ndate": 20201223
-    },
-    {
-      "carryoverAmount": 47541,
-      "carryover": "$47,541",
+      "carryoverAmount": 89481,
+      "carryover": "$89,481",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "Dec 23",
-      "ndate": 20201223
+      "date": "Dec 24",
+      "ndate": 20201224
     },
     {
-      "carryoverAmount": 21067,
-      "carryover": "$21,067",
+      "carryoverAmount": 53279,
+      "carryover": "$53,279",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Penn National",
+      "date": "Dec 29",
+      "ndate": 20201229
+    },
+    {
+      "carryoverAmount": 24553,
+      "carryover": "$24,553",
       "wagertype": "Pick 6 Jackpot",
       "track": "Tampa Bay",
-      "date": "Dec 23",
-      "ndate": 20201223
+      "date": "Dec 24",
+      "ndate": 20201224
     },
     {
       "carryoverAmount": 20484,
@@ -31,6 +31,14 @@
       "track": "Turfway Park",
       "date": "Dec 26",
       "ndate": 20201226
+    },
+    {
+      "carryoverAmount": 10789,
+      "carryover": "$10,789",
+      "wagertype": "Pick 5",
+      "track": "Penn National",
+      "date": "Dec 29",
+      "ndate": 20201229
     },
     {
       "carryoverAmount": 10052,
@@ -49,12 +57,20 @@
       "ndate": 20201226
     },
     {
-      "carryoverAmount": 3675,
-      "carryover": "$3,675",
+      "carryoverAmount": 5636,
+      "carryover": "$5,636",
       "wagertype": "Super High Five",
       "track": "Gulfstream Park",
-      "date": "Dec 23",
-      "ndate": 20201223
+      "date": "Dec 24",
+      "ndate": 20201224
+    },
+    {
+      "carryoverAmount": 3128,
+      "carryover": "$3,128",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Mahoning Valley",
+      "date": "Dec 26",
+      "ndate": 20201226
     },
     {
       "carryoverAmount": 2971,
@@ -65,20 +81,12 @@
       "ndate": 20201226
     },
     {
-      "carryoverAmount": 2565,
-      "carryover": "$2,565",
+      "carryoverAmount": 2202,
+      "carryover": "$2,202",
       "wagertype": "Super High Five",
-      "track": "Mountaineer",
-      "date": "Dec 23",
-      "ndate": 20201223
-    },
-    {
-      "carryoverAmount": 1620,
-      "carryover": "$1,620",
-      "wagertype": "Pick 5",
-      "track": "Zia Park",
-      "date": "Dec 23",
-      "ndate": 20201223
+      "track": "Mahoning Valley",
+      "date": "Dec 26",
+      "ndate": 20201226
     },
     {
       "carryoverAmount": 992,
@@ -87,14 +95,6 @@
       "track": "Hawthorne",
       "date": "Dec 26",
       "ndate": 20201226
-    },
-    {
-      "carryoverAmount": 635,
-      "carryover": "$635",
-      "wagertype": "Super High Five",
-      "track": "Mahoning Valley",
-      "date": "Dec 23",
-      "ndate": 20201223
     }
   ]
 }
