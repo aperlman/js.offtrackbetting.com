@@ -1,12 +1,20 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 152976,
-      "carryover": "$152,976",
+      "carryoverAmount": 249332,
+      "carryover": "$249,332",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "Dec 26",
-      "ndate": 20201226
+      "date": "Dec 27",
+      "ndate": 20201227
+    },
+    {
+      "carryoverAmount": 110804,
+      "carryover": "$110,804",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Santa Anita",
+      "date": "Dec 27",
+      "ndate": 20201227
     },
     {
       "carryoverAmount": 53279,
@@ -17,20 +25,20 @@
       "ndate": 20201229
     },
     {
-      "carryoverAmount": 30403,
-      "carryover": "$30,403",
+      "carryoverAmount": 36800,
+      "carryover": "$36,800",
       "wagertype": "Pick 6 Jackpot",
       "track": "Tampa Bay",
-      "date": "Dec 26",
-      "ndate": 20201226
+      "date": "Dec 27",
+      "ndate": 20201227
     },
     {
-      "carryoverAmount": 20484,
-      "carryover": "$20,484",
+      "carryoverAmount": 14260,
+      "carryover": "$14,260",
       "wagertype": "Pick 6 Jackpot",
-      "track": "Turfway Park",
-      "date": "Dec 26",
-      "ndate": 20201226
+      "track": "Laurel Park",
+      "date": "Dec 27",
+      "ndate": 20201227
     },
     {
       "carryoverAmount": 10789,
@@ -41,60 +49,76 @@
       "ndate": 20201229
     },
     {
-      "carryoverAmount": 10052,
-      "carryover": "$10,052",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Hawthorne",
-      "date": "Dec 26",
-      "ndate": 20201226
+      "carryoverAmount": 5069,
+      "carryover": "$5,069",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Dec 27",
+      "ndate": 20201227
     },
     {
-      "carryoverAmount": 9551,
-      "carryover": "$9,551",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Laurel Park",
-      "date": "Dec 26",
-      "ndate": 20201226
+      "carryoverAmount": 4748,
+      "carryover": "$4,748",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Dec 27",
+      "ndate": 20201227
+    },
+    {
+      "carryoverAmount": 4476,
+      "carryover": "$4,476",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Dec 27",
+      "ndate": 20201227
     },
     {
       "carryoverAmount": 3128,
       "carryover": "$3,128",
       "wagertype": "Pick 6 Jackpot",
       "track": "Mahoning Valley",
-      "date": "Dec 26",
-      "ndate": 20201226
+      "date": "Dec 28",
+      "ndate": 20201228
     },
     {
-      "carryoverAmount": 2971,
-      "carryover": "$2,971",
-      "wagertype": "Super High Five",
-      "track": "Turfway Park",
-      "date": "Dec 26",
-      "ndate": 20201226
+      "carryoverAmount": 2976,
+      "carryover": "$2,976",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Hawthorne",
+      "date": "Dec 27",
+      "ndate": 20201227
     },
     {
       "carryoverAmount": 2202,
       "carryover": "$2,202",
       "wagertype": "Super High Five",
       "track": "Mahoning Valley",
-      "date": "Dec 26",
-      "ndate": 20201226
+      "date": "Dec 28",
+      "ndate": 20201228
     },
     {
-      "carryoverAmount": 1559,
-      "carryover": "$1,559",
+      "carryoverAmount": 2057,
+      "carryover": "$2,057",
       "wagertype": "Super High Five",
       "track": "Gulfstream Park",
-      "date": "Dec 26",
-      "ndate": 20201226
+      "date": "Dec 27",
+      "ndate": 20201227
     },
     {
-      "carryoverAmount": 992,
-      "carryover": "$992",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Hawthorne",
-      "date": "Dec 26",
-      "ndate": 20201226
+      "carryoverAmount": 1780,
+      "carryover": "$1,780",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Dec 27",
+      "ndate": 20201227
+    },
+    {
+      "carryoverAmount": 1696,
+      "carryover": "$1,696",
+      "wagertype": "Super High Five",
+      "track": "Laurel Park",
+      "date": "Dec 27",
+      "ndate": 20201227
     }
   ]
 }
