@@ -1,118 +1,90 @@
 {
   "todaysraces": {
-    "headline": "OTB Schedule: Wednesday, Dec 30",
+    "headline": "OTB Schedule: Thursday, Dec 31",
     "tracks": [
       {
+        "name": "Aqueduct",
+        "time": "12:50 PM"
+      },
+      {
         "name": "Australia A",
-        "time": " 9:35 PM"
+        "time": " 8:36 PM"
       },
       {
         "name": "Australia B",
-        "time": " 9:49 PM"
+        "time": " 9:35 PM"
       },
       {
         "name": "Australia C",
-        "time": "10:34 PM"
+        "time": " 9:54 PM"
       },
       {
         "name": "Australia D",
-        "time": "12:35 AM"
-      },
-      {
-        "name": "Australia GH1 Eve",
-        "time": ""
-      },
-      {
-        "name": "Australia Harness 1",
-        "time": " 8:39 PM"
-      },
-      {
-        "name": "Cagnes-Sur-Mer FR",
-        "time": " 7:10 AM"
+        "time": "12:04 AM"
       },
       {
         "name": "Caliente Evening",
         "time": " 7:55 PM"
       },
       {
-        "name": "Dayton Raceway",
-        "time": " 1:30 PM"
+        "name": "Charlottetown",
+        "time": " 6:30 PM"
       },
       {
         "name": "Delta Downs",
         "time": " 1:55 PM"
       },
       {
-        "name": "Doncaster DG Eve (UK GH)",
-        "time": " 1:09 PM"
-      },
-      {
         "name": "Dover Downs",
         "time": " 4:30 PM"
       },
       {
-        "name": "Echuca",
-        "time": " 8:50 PM"
+        "name": "Flemington",
+        "time": "10:25 PM"
       },
       {
-        "name": "Galway (IG)",
-        "time": " 2:52 PM"
-      },
-      {
-        "name": "Greyville (SAF)",
-        "time": " 5:20 AM"
+        "name": "Freehold Raceway",
+        "time": "12:30 PM"
       },
       {
         "name": "Gulfstream Park",
         "time": "12:35 PM"
       },
       {
-        "name": "Harlow Eve (UK GH)",
-        "time": " 1:17 PM"
-      },
-      {
-        "name": "Kilkenny (IG)",
-        "time": " 3:12 AM"
+        "name": "Kawasaki JPN",
+        "time": " 9:20 PM"
       },
       {
         "name": "Laurel Park",
-        "time": "11:28 AM"
+        "time": "12:25 PM"
       },
       {
-        "name": "Limerick (IRE)",
-        "time": " 7:50 AM"
-      },
-      {
-        "name": "Mahoning Valley",
-        "time": "12:45 PM"
+        "name": "Lingfield (UK)",
+        "time": " 7:25 AM"
       },
       {
         "name": "Mardi Gras WV Eve",
         "time": " 7:00 PM"
       },
       {
-        "name": "Market Rasen (UK)",
-        "time": " 7:10 AM"
-      },
-      {
-        "name": "Mauquenchy FR",
-        "time": "10:27 AM"
-      },
-      {
         "name": "Monticello Raceway",
         "time": "12:25 PM"
       },
       {
-        "name": "Newbridge (IG)",
-        "time": " 2:00 PM"
+        "name": "Mornington",
+        "time": " 9:31 PM"
       },
       {
-        "name": "Northfield Park",
-        "time": " 4:20 PM"
+        "name": "Newcastle (UK)",
+        "time": " 9:15 AM"
       },
       {
-        "name": "Oi JPN",
-        "time": " 8:55 PM"
+        "name": "New Zealand",
+        "time": " 6:20 PM"
+      },
+      {
+        "name": "New Zealand 2",
+        "time": " 6:44 PM"
       },
       {
         "name": "Palm Beach Eve",
@@ -123,48 +95,48 @@
         "time": " 1:00 PM"
       },
       {
-        "name": "Parx Racing",
-        "time": "12:25 PM"
-      },
-      {
-        "name": "Penn National",
-        "time": " 6:00 PM"
+        "name": "Pau FR",
+        "time": " 5:55 AM"
       },
       {
         "name": "Pompano Park",
         "time": " 7:20 PM"
       },
       {
-        "name": "Port Lincoln",
-        "time": " 9:30 PM"
+        "name": "Punchestown (IRE)",
+        "time": " 7:30 AM"
+      },
+      {
+        "name": "Santa Anita Park",
+        "time": " 3:30 PM"
+      },
+      {
+        "name": "Sha Tin (HK)",
+        "time": "11:30 PM"
       },
       {
         "name": "Southland Twilight",
         "time": " 6:00 PM"
       },
       {
-        "name": "Tampa Bay Downs",
-        "time": "12:42 PM"
-      },
-      {
-        "name": "Taunton (UK)",
-        "time": " 7:35 AM"
+        "name": "Turffontein (SAF)",
+        "time": " 4:40 AM"
       },
       {
         "name": "Vincennes FR",
-        "time": " 5:55 AM"
+        "time": " 6:41 AM"
+      },
+      {
+        "name": "Warwick (UK)",
+        "time": " 7:16 AM"
+      },
+      {
+        "name": "Waterford (IG)",
+        "time": " 3:12 AM"
       },
       {
         "name": "Wheeling Downs Mat",
         "time": " 1:00 PM"
-      },
-      {
-        "name": "Wolverhampton (UK)",
-        "time": " 9:25 AM"
-      },
-      {
-        "name": "Youghal (IG)",
-        "time": " 1:40 PM"
       }
     ]
   }
