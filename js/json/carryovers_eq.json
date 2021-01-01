@@ -1,28 +1,12 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 419144,
-      "carryover": "$419,144",
+      "carryoverAmount": 503603,
+      "carryover": "$503,603",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "Dec 31",
-      "ndate": 20201231
-    },
-    {
-      "carryoverAmount": 183471,
-      "carryover": "$183,471",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Aqueduct",
-      "date": "Dec 31",
-      "ndate": 20201231
-    },
-    {
-      "carryoverAmount": 167262,
-      "carryover": "$167,262",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Santa Anita",
-      "date": "Dec 31",
-      "ndate": 20201231
+      "date": "Jan 01",
+      "ndate": 20210101
     },
     {
       "carryoverAmount": 48988,
@@ -33,44 +17,20 @@
       "ndate": 20210101
     },
     {
-      "carryoverAmount": 35414,
-      "carryover": "$35,414",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Turfway Park",
-      "date": "Dec 31",
-      "ndate": 20201231
-    },
-    {
-      "carryoverAmount": 17539,
-      "carryover": "$17,539",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Laurel Park",
-      "date": "Dec 31",
-      "ndate": 20201231
-    },
-    {
-      "carryoverAmount": 11195,
-      "carryover": "$11,195",
+      "carryoverAmount": 7107,
+      "carryover": "$7,107",
       "wagertype": "Super High Five",
       "track": "Gulfstream Park",
-      "date": "Dec 31",
-      "ndate": 20201231
+      "date": "Jan 01",
+      "ndate": 20210101
     },
     {
-      "carryoverAmount": 7112,
-      "carryover": "$7,112",
+      "carryoverAmount": 4126,
+      "carryover": "$4,126",
       "wagertype": "Super High Five",
-      "track": "Turfway Park",
-      "date": "Dec 31",
-      "ndate": 20201231
-    },
-    {
-      "carryoverAmount": 332,
-      "carryover": "$332",
-      "wagertype": "Super High Five",
-      "track": "Laurel Park",
-      "date": "Dec 31",
-      "ndate": 20201231
+      "track": "Santa Anita",
+      "date": "Jan 01",
+      "ndate": 20210101
     }
   ]
 }
