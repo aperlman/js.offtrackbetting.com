@@ -1,86 +1,78 @@
 {
   "todaysraces": {
-    "headline": "OTB Schedule: Tuesday, Jan 05",
+    "headline": "OTB Schedule: Wednesday, Jan 06",
     "tracks": [
       {
         "name": "Australia A",
-        "time": " 8:18 PM"
+        "time": " 8:25 PM"
       },
       {
         "name": "Australia B",
-        "time": " 9:25 PM"
+        "time": " 9:15 PM"
       },
       {
         "name": "Australia C",
-        "time": "10:20 PM"
+        "time": " 9:57 PM"
       },
       {
         "name": "Australia D",
-        "time": "11:34 PM"
+        "time": " 1:22 AM"
       },
       {
-        "name": "Australia GH1 Eve",
-        "time": " 7:32 PM"
+        "name": "Australia Harness 1",
+        "time": " 8:39 PM"
       },
       {
-        "name": "Bordertown",
-        "time": "10:15 PM"
-      },
-      {
-        "name": "Cagnes-Sur-Mer FR",
-        "time": " 5:50 AM"
+        "name": "Cabourg FR",
+        "time": "10:45 AM"
       },
       {
         "name": "Caliente Evening",
-        "time": " 6:30 PM"
+        "time": " 7:55 PM"
       },
       {
-        "name": "Caliente Matinee",
-        "time": " 1:30 PM"
-      },
-      {
-        "name": "Charlottetown",
-        "time": " 6:00 PM"
-      },
-      {
-        "name": "Crayford Eve (UK GH)",
-        "time": " 1:17 PM"
+        "name": "Charles Town",
+        "time": " 7:00 PM"
       },
       {
         "name": "Delta Downs",
         "time": " 1:55 PM"
       },
       {
+        "name": "Doncaster DG Eve (UK GH)",
+        "time": " 1:09 PM"
+      },
+      {
         "name": "Dover Downs",
         "time": " 4:30 PM"
       },
       {
-        "name": "Dundalk (IG)",
-        "time": " 2:20 PM"
+        "name": "Geelong",
+        "time": " 9:30 PM"
       },
       {
-        "name": "Henlow Eve (UK GH)",
-        "time": " 1:09 PM"
+        "name": "Greyville (SAF)",
+        "time": " 5:27 AM"
       },
       {
-        "name": "Ladbrokes Park Lakeside",
-        "time": "11:40 PM"
+        "name": "Gulfstream Park",
+        "time": "12:35 PM"
+      },
+      {
+        "name": "Happy Valley (HK)",
+        "time": " 5:45 AM"
+      },
+      {
+        "name": "Harlow Eve (UK GH)",
+        "time": " 1:17 PM"
+      },
+      {
+        "name": "Kempton Park (UK)",
+        "time": "10:40 AM"
       },
       {
         "name": "Laurel Park",
-        "time": "11:43 AM"
-      },
-      {
-        "name": "Lingfield (UK)",
-        "time": " 7:40 AM"
-      },
-      {
-        "name": "Ludlow (UK)",
-        "time": " 8:31 AM"
-      },
-      {
-        "name": "Lyon-La Soie FR",
-        "time": " 9:56 AM"
+        "time": "12:30 PM"
       },
       {
         "name": "Mahoning Valley",
@@ -95,6 +87,10 @@
         "time": "12:25 PM"
       },
       {
+        "name": "New Zealand",
+        "time": " 6:27 PM"
+      },
+      {
         "name": "Northfield Park",
         "time": " 4:20 PM"
       },
@@ -103,12 +99,16 @@
         "time": "12:25 PM"
       },
       {
+        "name": "Pau FR",
+        "time": " 6:00 AM"
+      },
+      {
         "name": "Pompano Park",
         "time": " 7:20 PM"
       },
       {
-        "name": "Tralee (IG)",
-        "time": " 1:53 PM"
+        "name": "Tampa Bay Downs",
+        "time": "12:42 PM"
       },
       {
         "name": "Turf Paradise",
@@ -119,24 +119,20 @@
         "time": " 8:20 PM"
       },
       {
-        "name": "Vaal (SAF)",
-        "time": " 5:35 AM"
-      },
-      {
         "name": "Vincennes FR",
-        "time": " 7:50 AM"
+        "time": " 7:25 AM"
       },
       {
-        "name": "Wangaratta",
-        "time": " 9:30 PM"
-      },
-      {
-        "name": "Waterford (IG)",
-        "time": " 2:30 PM"
+        "name": "Wheeling Downs Mat",
+        "time": " 1:00 PM"
       },
       {
         "name": "Wolverhampton (UK)",
-        "time": "11:10 AM"
+        "time": " 7:45 AM"
+      },
+      {
+        "name": "Youghal (IG)",
+        "time": " 1:40 PM"
       }
     ]
   }
