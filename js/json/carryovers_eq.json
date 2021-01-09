@@ -1,44 +1,60 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 985824,
-      "carryover": "$985,824",
+      "carryoverAmount": 1066989,
+      "carryover": "$1,066,989",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "Jan 08",
-      "ndate": 20210108
+      "date": "Jan 09",
+      "ndate": 20210109
     },
     {
-      "carryoverAmount": 144099,
-      "carryover": "$144,099",
+      "carryoverAmount": 180002,
+      "carryover": "$180,002",
       "wagertype": "Pick 6 Jackpot",
       "track": "Santa Anita",
-      "date": "Jan 08",
-      "ndate": 20210108
+      "date": "Jan 09",
+      "ndate": 20210109
     },
     {
-      "carryoverAmount": 78714,
-      "carryover": "$78,714",
-      "wagertype": "Pick 5",
-      "track": "Turfway Park",
-      "date": "Jan 08",
-      "ndate": 20210108
-    },
-    {
-      "carryoverAmount": 72710,
-      "carryover": "$72,710",
+      "carryoverAmount": 79151,
+      "carryover": "$79,151",
       "wagertype": "Pick 6 Jackpot",
       "track": "Tampa Bay",
-      "date": "Jan 08",
-      "ndate": 20210108
+      "date": "Jan 09",
+      "ndate": 20210109
     },
     {
-      "carryoverAmount": 66962,
-      "carryover": "$66,962",
+      "carryoverAmount": 77368,
+      "carryover": "$77,368",
       "wagertype": "Pick 6 Jackpot",
       "track": "Turf Paradise",
-      "date": "Jan 08",
-      "ndate": 20210108
+      "date": "Jan 11",
+      "ndate": 20210111
+    },
+    {
+      "carryoverAmount": 66086,
+      "carryover": "$66,086",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Penn National",
+      "date": "Jan 13",
+      "ndate": 20210113
+    },
+    {
+      "carryoverAmount": 58970,
+      "carryover": "$58,970",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Sam Houston",
+      "date": "Jan 09",
+      "ndate": 20210109
+    },
+    {
+      "carryoverAmount": 26168,
+      "carryover": "$26,168",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Jan 09",
+      "ndate": 20210109
     },
     {
       "carryoverAmount": 23706,
@@ -49,44 +65,84 @@
       "ndate": 20210109
     },
     {
-      "carryoverAmount": 17997,
-      "carryover": "$17,997",
+      "carryoverAmount": 21593,
+      "carryover": "$21,593",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Turfway Park",
+      "date": "Jan 09",
+      "ndate": 20210109
+    },
+    {
+      "carryoverAmount": 8592,
+      "carryover": "$8,592",
       "wagertype": "Super High Five",
       "track": "Gulfstream Park",
-      "date": "Jan 08",
-      "ndate": 20210108
+      "date": "Jan 09",
+      "ndate": 20210109
     },
     {
-      "carryoverAmount": 10991,
-      "carryover": "$10,991",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Turfway Park",
-      "date": "Jan 08",
-      "ndate": 20210108
-    },
-    {
-      "carryoverAmount": 8634,
-      "carryover": "$8,634",
-      "wagertype": "Super High Five",
-      "track": "Santa Anita",
-      "date": "Jan 08",
-      "ndate": 20210108
-    },
-    {
-      "carryoverAmount": 5225,
-      "carryover": "$5,225",
+      "carryoverAmount": 7651,
+      "carryover": "$7,651",
       "wagertype": "Pick 6 Jackpot",
       "track": "Charles Town",
-      "date": "Jan 08",
-      "ndate": 20210108
+      "date": "Jan 09",
+      "ndate": 20210109
     },
     {
-      "carryoverAmount": 1323,
-      "carryover": "$1,323",
+      "carryoverAmount": 7200,
+      "carryover": "$7,200",
+      "wagertype": "Super High Five",
+      "track": "Santa Anita",
+      "date": "Jan 09",
+      "ndate": 20210109
+    },
+    {
+      "carryoverAmount": 6813,
+      "carryover": "$6,813",
+      "wagertype": "Pick 6",
+      "track": "Los Alamitos",
+      "date": "Jan 09",
+      "ndate": 20210109
+    },
+    {
+      "carryoverAmount": 6412,
+      "carryover": "$6,412",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Sam Houston",
+      "date": "Jan 09",
+      "ndate": 20210109
+    },
+    {
+      "carryoverAmount": 2427,
+      "carryover": "$2,427",
       "wagertype": "Super High Five",
       "track": "Turfway Park",
-      "date": "Jan 08",
-      "ndate": 20210108
+      "date": "Jan 09",
+      "ndate": 20210109
+    },
+    {
+      "carryoverAmount": 2009,
+      "carryover": "$2,009",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Jan 09",
+      "ndate": 20210109
+    },
+    {
+      "carryoverAmount": 486,
+      "carryover": "$486",
+      "wagertype": "Super High Five",
+      "track": "Laurel Park",
+      "date": "Jan 09",
+      "ndate": 20210109
+    },
+    {
+      "carryoverAmount": 412,
+      "carryover": "$412",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Laurel Park",
+      "date": "Jan 09",
+      "ndate": 20210109
     }
   ]
 }
