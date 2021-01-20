@@ -25,12 +25,12 @@
       "ndate": 20210120
     },
     {
-      "carryoverAmount": 24548,
-      "carryover": "$24,548",
+      "carryoverAmount": 33579,
+      "carryover": "$33,579",
       "wagertype": "Pick 6 Jackpot",
       "track": "Mahoning Valley",
-      "date": "Jan 19",
-      "ndate": 20210119
+      "date": "Jan 20",
+      "ndate": 20210120
     },
     {
       "carryoverAmount": 23759,
@@ -57,17 +57,17 @@
       "ndate": 20210122
     },
     {
+      "carryoverAmount": 7001,
+      "carryover": "$7,001",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Turf Paradise",
+      "date": "Jan 20",
+      "ndate": 20210120
+    },
+    {
       "carryoverAmount": 6954,
       "carryover": "$6,954",
       "wagertype": "Pick 6 Jackpot",
-      "track": "Golden Gate",
-      "date": "Jan 22",
-      "ndate": 20210122
-    },
-    {
-      "carryoverAmount": 6243,
-      "carryover": "$6,243",
-      "wagertype": "Super High Five",
       "track": "Golden Gate",
       "date": "Jan 22",
       "ndate": 20210122
@@ -89,28 +89,12 @@
       "ndate": 20210121
     },
     {
-      "carryoverAmount": 1733,
-      "carryover": "$1,733",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Turf Paradise",
-      "date": "Jan 19",
-      "ndate": 20210119
-    },
-    {
       "carryoverAmount": 1480,
       "carryover": "$1,480",
       "wagertype": "Super High Five Jackpot",
       "track": "Sam Houston",
       "date": "Jan 21",
       "ndate": 20210121
-    },
-    {
-      "carryoverAmount": 1425,
-      "carryover": "$1,425",
-      "wagertype": "Super High Five",
-      "track": "Golden Gate",
-      "date": "Jan 22",
-      "ndate": 20210122
     }
   ]
 }
