@@ -1,30 +1,34 @@
 {
   "todaysraces": {
-    "headline": "OTB Schedule: Monday, Jan 25",
+    "headline": "OTB Schedule: Tuesday, Jan 26",
     "tracks": [
       {
         "name": "Australia A",
-        "time": " 9:15 PM"
+        "time": "10:20 PM"
       },
       {
         "name": "Australia B",
-        "time": "10:50 PM"
+        "time": "10:38 PM"
       },
       {
         "name": "Australia C",
-        "time": "11:15 PM"
+        "time": "12:44 AM"
       },
       {
         "name": "Australia D",
-        "time": "11:20 PM"
+        "time": " 1:45 AM"
+      },
+      {
+        "name": "Australia GH1 Eve",
+        "time": " 8:00 PM"
       },
       {
         "name": "Australia Harness 1",
-        "time": "12:18 PM"
+        "time": "10:13 PM"
       },
       {
-        "name": "Australia Harness 2",
-        "time": "11:27 PM"
+        "name": "Bordertown",
+        "time": "10:45 PM"
       },
       {
         "name": "Cagnes-Sur-Mer FR",
@@ -32,107 +36,115 @@
       },
       {
         "name": "Caliente Evening",
-        "time": " 7:55 PM"
+        "time": " 6:30 PM"
       },
       {
-        "name": "Caulfield",
-        "time": " 9:10 PM"
+        "name": "Caliente Matinee",
+        "time": " 1:30 PM"
       },
       {
-        "name": "Chelmsford City (UK)",
-        "time": " 8:10 AM"
+        "name": "Crayford Eve (UK GH)",
+        "time": " 1:17 PM"
+      },
+      {
+        "name": "Curraheen (IG)",
+        "time": " 3:00 PM"
       },
       {
         "name": "Delta Downs",
         "time": " 1:55 PM"
       },
       {
-        "name": "Doncaster DG Eve (UK GH)",
-        "time": " 1:09 PM"
-      },
-      {
         "name": "Dover Downs",
         "time": " 4:30 PM"
       },
       {
-        "name": "Fairview| (SAF)",
-        "time": " 5:30 AM"
+        "name": "Dundalk (IG)",
+        "time": " 2:20 PM"
       },
       {
-        "name": "Gulfstream Park Simulcast",
-        "time": " 2:00 PM"
+        "name": "Geelong",
+        "time": "11:40 PM"
       },
       {
-        "name": "Harlow Eve (UK GH)",
-        "time": " 1:17 PM"
+        "name": "Gulfstream Park",
+        "time": " 1:45 PM"
+      },
+      {
+        "name": "Henlow Eve (UK GH)",
+        "time": " 1:09 PM"
       },
       {
         "name": "Kawasaki JPN",
         "time": " 8:50 PM"
       },
       {
-        "name": "Kempton Park (UK)",
-        "time": "11:15 AM"
-      },
-      {
-        "name": "Kyneton",
-        "time": " 8:51 PM"
-      },
-      {
         "name": "Laurel Park",
-        "time": " 1:28 PM"
+        "time": " 2:00 PM"
       },
       {
         "name": "Mahoning Valley",
         "time": "12:45 PM"
       },
       {
-        "name": "Marseille Pont de Vivaux FR",
-        "time": " 9:50 AM"
+        "name": "Mardi Gras WV Eve",
+        "time": " 7:00 PM"
       },
       {
         "name": "Monticello Raceway",
         "time": "12:25 PM"
       },
       {
-        "name": "Mullingar (IG)",
-        "time": " 2:00 PM"
-      },
-      {
-        "name": "Murray Bridge",
-        "time": " 9:21 PM"
+        "name": "Northfield Park",
+        "time": " 4:20 PM"
       },
       {
         "name": "Parx Racing",
         "time": "12:25 PM"
       },
       {
-        "name": "Plumpton (UK)",
-        "time": " 8:50 AM"
-      },
-      {
         "name": "Pompano Park",
         "time": " 7:20 PM"
       },
       {
-        "name": "Southland Twilight",
-        "time": " 6:00 PM"
+        "name": "Southwell (UK)",
+        "time": " 8:25 AM"
+      },
+      {
+        "name": "Thurles (IG)",
+        "time": " 1:45 PM"
+      },
+      {
+        "name": "Toulouse FR",
+        "time": " 9:50 AM"
+      },
+      {
+        "name": "Tralee (IG)",
+        "time": " 1:53 PM"
       },
       {
         "name": "Turf Paradise",
-        "time": "12:13 PM"
+        "time": " 2:30 PM"
+      },
+      {
+        "name": "Vaal (SAF)",
+        "time": " 5:55 AM"
       },
       {
         "name": "Vincennes FR",
         "time": " 8:05 AM"
       },
       {
-        "name": "Yonkers Raceway",
-        "time": " 7:15 PM"
+        "name": "Waterford (IG)",
+        "time": " 1:00 PM"
       },
       {
-        "name": "Youghal (IG)",
-        "time": " 1:40 PM"
+        "name": "Wolverhampton (UK)",
+        "time": "10:10 AM"
+      },
+      {
+        "name": "Yonkers Raceway",
+        "time": " 7:15 PM"
       }
     ]
   }
