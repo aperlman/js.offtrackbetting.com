@@ -9,14 +9,6 @@
       "ndate": 20210127
     },
     {
-      "carryoverAmount": 47008,
-      "carryover": "$47,008",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Mahoning Valley",
-      "date": "Jan 25",
-      "ndate": 20210125
-    },
-    {
       "carryoverAmount": 46459,
       "carryover": "$46,459",
       "wagertype": "Pick 6 Jackpot",
@@ -37,8 +29,8 @@
       "carryover": "$15,535",
       "wagertype": "Pick 6 Jackpot",
       "track": "Turf Paradise",
-      "date": "Jan 25",
-      "ndate": 20210125
+      "date": "Jan 26",
+      "ndate": 20210126
     },
     {
       "carryoverAmount": 15030,
@@ -97,20 +89,20 @@
       "ndate": 20210127
     },
     {
-      "carryoverAmount": 2972,
-      "carryover": "$2,972",
-      "wagertype": "Super High Five",
-      "track": "Gulfstream Park",
-      "date": "Jan 27",
-      "ndate": 20210127
-    },
-    {
       "carryoverAmount": 2210,
       "carryover": "$2,210",
       "wagertype": "Super High Five",
       "track": "Turfway Park",
       "date": "Jan 28",
       "ndate": 20210128
+    },
+    {
+      "carryoverAmount": 714,
+      "carryover": "$714",
+      "wagertype": "Super High Five",
+      "track": "Mahoning Valley",
+      "date": "Jan 26",
+      "ndate": 20210126
     }
   ]
 }
