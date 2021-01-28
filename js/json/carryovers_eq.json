@@ -1,28 +1,44 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 82601,
-      "carryover": "$82,601",
+      "carryoverAmount": 710208,
+      "carryover": "$710,208",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Santa Anita",
+      "date": "Jan 30",
+      "ndate": 20210130
+    },
+    {
+      "carryoverAmount": 87799,
+      "carryover": "$87,799",
       "wagertype": "Super High Five Jackpot",
       "track": "Penn National",
-      "date": "Jan 27",
-      "ndate": 20210127
+      "date": "Jan 29",
+      "ndate": 20210129
     },
     {
-      "carryoverAmount": 46459,
-      "carryover": "$46,459",
+      "carryoverAmount": 51660,
+      "carryover": "$51,660",
       "wagertype": "Pick 6 Jackpot",
       "track": "Charles Town",
-      "date": "Jan 27",
-      "ndate": 20210127
+      "date": "Jan 28",
+      "ndate": 20210128
     },
     {
-      "carryoverAmount": 22797,
-      "carryover": "$22,797",
+      "carryoverAmount": 34288,
+      "carryover": "$34,288",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Gulfstream Park",
+      "date": "Jan 28",
+      "ndate": 20210128
+    },
+    {
+      "carryoverAmount": 27319,
+      "carryover": "$27,319",
       "wagertype": "Pick 6 Jackpot",
       "track": "Turf Paradise",
-      "date": "Jan 27",
-      "ndate": 20210127
+      "date": "Jan 28",
+      "ndate": 20210128
     },
     {
       "carryoverAmount": 16091,
@@ -65,28 +81,36 @@
       "ndate": 20210128
     },
     {
-      "carryoverAmount": 6358,
-      "carryover": "$6,358",
-      "wagertype": "Super High Five",
-      "track": "Gulfstream Park",
-      "date": "Jan 27",
-      "ndate": 20210127
-    },
-    {
-      "carryoverAmount": 4105,
-      "carryover": "$4,105",
-      "wagertype": "Pick 5",
-      "track": "Penn National",
-      "date": "Jan 27",
-      "ndate": 20210127
-    },
-    {
-      "carryoverAmount": 3192,
-      "carryover": "$3,192",
+      "carryoverAmount": 5472,
+      "carryover": "$5,472",
       "wagertype": "Pick 6 Jackpot",
       "track": "Tampa Bay",
-      "date": "Jan 27",
-      "ndate": 20210127
+      "date": "Jan 29",
+      "ndate": 20210129
+    },
+    {
+      "carryoverAmount": 4906,
+      "carryover": "$4,906",
+      "wagertype": "Pick 4",
+      "track": "Mahoning Valley",
+      "date": "Jan 30",
+      "ndate": 20210130
+    },
+    {
+      "carryoverAmount": 3188,
+      "carryover": "$3,188",
+      "wagertype": "Super High Five",
+      "track": "Mahoning Valley",
+      "date": "Jan 30",
+      "ndate": 20210130
+    },
+    {
+      "carryoverAmount": 3050,
+      "carryover": "$3,050",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Jan 28",
+      "ndate": 20210128
     },
     {
       "carryoverAmount": 2210,
@@ -97,12 +121,12 @@
       "ndate": 20210128
     },
     {
-      "carryoverAmount": 2016,
-      "carryover": "$2,016",
-      "wagertype": "Super High Five",
+      "carryoverAmount": 1565,
+      "carryover": "$1,565",
+      "wagertype": "Pick 6 Jackpot",
       "track": "Mahoning Valley",
-      "date": "Jan 27",
-      "ndate": 20210127
+      "date": "Jan 30",
+      "ndate": 20210130
     }
   ]
 }
