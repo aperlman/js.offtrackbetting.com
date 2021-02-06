@@ -1,36 +1,52 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 843236,
-      "carryover": "$843,236",
+      "carryoverAmount": 898063,
+      "carryover": "$898,063",
       "wagertype": "Pick 6 Jackpot",
       "track": "Santa Anita",
-      "date": "Feb 05",
-      "ndate": 20210205
+      "date": "Feb 06",
+      "ndate": 20210206
     },
     {
-      "carryoverAmount": 494341,
-      "carryover": "$494,341",
+      "carryoverAmount": 562640,
+      "carryover": "$562,640",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "Feb 05",
-      "ndate": 20210205
+      "date": "Feb 06",
+      "ndate": 20210206
     },
     {
-      "carryoverAmount": 95025,
-      "carryover": "$95,025",
+      "carryoverAmount": 117381,
+      "carryover": "$117,381",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Turf Paradise",
+      "date": "Feb 08",
+      "ndate": 20210208
+    },
+    {
+      "carryoverAmount": 98753,
+      "carryover": "$98,753",
       "wagertype": "Super High Five Jackpot",
       "track": "Penn National",
-      "date": "Feb 05",
-      "ndate": 20210205
+      "date": "Feb 10",
+      "ndate": 20210210
     },
     {
-      "carryoverAmount": 86829,
-      "carryover": "$86,829",
+      "carryoverAmount": 94890,
+      "carryover": "$94,890",
       "wagertype": "Pick 6 Jackpot",
       "track": "Charles Town",
-      "date": "Feb 05",
-      "ndate": 20210205
+      "date": "Feb 06",
+      "ndate": 20210206
+    },
+    {
+      "carryoverAmount": 60191,
+      "carryover": "$60,191",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Turfway Park",
+      "date": "Feb 06",
+      "ndate": 20210206
     },
     {
       "carryoverAmount": 41599,
@@ -41,44 +57,68 @@
       "ndate": 20210206
     },
     {
-      "carryoverAmount": 40607,
-      "carryover": "$40,607",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Turfway Park",
-      "date": "Feb 05",
-      "ndate": 20210205
-    },
-    {
-      "carryoverAmount": 32471,
-      "carryover": "$32,471",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Golden Gate",
-      "date": "Feb 05",
-      "ndate": 20210205
-    },
-    {
-      "carryoverAmount": 29806,
-      "carryover": "$29,806",
+      "carryoverAmount": 33145,
+      "carryover": "$33,145",
       "wagertype": "Super High Five Jackpot",
       "track": "Sam Houston",
-      "date": "Feb 05",
-      "ndate": 20210205
+      "date": "Feb 06",
+      "ndate": 20210206
     },
     {
-      "carryoverAmount": 4682,
-      "carryover": "$4,682",
-      "wagertype": "Pick 6",
-      "track": "Sam Houston",
-      "date": "Feb 05",
-      "ndate": 20210205
+      "carryoverAmount": 5344,
+      "carryover": "$5,344",
+      "wagertype": "Pick 5",
+      "track": "Turf Paradise",
+      "date": "Feb 08",
+      "ndate": 20210208
     },
     {
-      "carryoverAmount": 875,
-      "carryover": "$875",
+      "carryoverAmount": 3810,
+      "carryover": "$3,810",
       "wagertype": "Super High Five",
       "track": "Laurel Park",
-      "date": "Feb 05",
-      "ndate": 20210205
+      "date": "Feb 06",
+      "ndate": 20210206
+    },
+    {
+      "carryoverAmount": 2841,
+      "carryover": "$2,841",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Feb 06",
+      "ndate": 20210206
+    },
+    {
+      "carryoverAmount": 2484,
+      "carryover": "$2,484",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Feb 06",
+      "ndate": 20210206
+    },
+    {
+      "carryoverAmount": 2116,
+      "carryover": "$2,116",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Tampa Bay",
+      "date": "Feb 06",
+      "ndate": 20210206
+    },
+    {
+      "carryoverAmount": 1089,
+      "carryover": "$1,089",
+      "wagertype": "Super High Five",
+      "track": "Turfway Park",
+      "date": "Feb 06",
+      "ndate": 20210206
+    },
+    {
+      "carryoverAmount": 401,
+      "carryover": "$401",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Laurel Park",
+      "date": "Feb 06",
+      "ndate": 20210206
     }
   ]
 }
