@@ -1,38 +1,34 @@
 {
   "todaysraces": {
-    "headline": "OTB Schedule: Wednesday, Feb 17",
+    "headline": "OTB Schedule: Thursday, Feb 18",
     "tracks": [
       {
+        "name": "Argentan FR",
+        "time": " 4:35 AM"
+      },
+      {
         "name": "Australia A",
-        "time": " 9:25 PM"
+        "time": " 9:04 PM"
       },
       {
         "name": "Australia B",
-        "time": " 9:39 PM"
+        "time": " 9:25 PM"
       },
       {
         "name": "Australia C",
-        "time": "10:21 PM"
+        "time": " 9:11 PM"
       },
       {
         "name": "Australia D",
-        "time": "11:44 PM"
-      },
-      {
-        "name": "Australia GH1 Eve",
-        "time": " 8:00 PM"
+        "time": " 1:45 AM"
       },
       {
         "name": "Australia Harness 1",
-        "time": " 9:28 PM"
+        "time": " 9:02 PM"
       },
       {
-        "name": "Buffalo Raceway",
-        "time": " 6:00 PM"
-      },
-      {
-        "name": "Cagnes-Sur-Mer FR",
-        "time": " 7:55 AM"
+        "name": "Benalla",
+        "time": " 9:00 PM"
       },
       {
         "name": "Caliente Evening",
@@ -43,140 +39,116 @@
         "time": " 7:00 PM"
       },
       {
-        "name": "Doncaster DG Eve (UK GH)",
-        "time": " 1:09 PM"
+        "name": "Chelmsford City (UK)",
+        "time": "11:20 AM"
+      },
+      {
+        "name": "Clonmel (IRE)",
+        "time": " 8:08 AM"
       },
       {
         "name": "Dover Downs",
         "time": " 4:30 PM"
       },
       {
-        "name": "Dundalk (IRE)",
-        "time": " 9:20 AM"
+        "name": "Dubai at Meydan",
+        "time": " 9:30 AM"
+      },
+      {
+        "name": "Fontainebleau FR",
+        "time": " 5:51 AM"
+      },
+      {
+        "name": "Fontwell (UK)",
+        "time": " 8:38 AM"
       },
       {
         "name": "Gulfstream Park",
         "time": " 1:10 PM"
       },
       {
-        "name": "Happy Valley (HK)",
-        "time": " 5:45 AM"
-      },
-      {
-        "name": "Harlow Eve (UK GH)",
-        "time": " 1:17 PM"
-      },
-      {
-        "name": "Hereford (UK)",
-        "time": " 8:55 AM"
-      },
-      {
-        "name": "Kempton Park (UK)",
-        "time": "11:15 AM"
-      },
-      {
-        "name": "Kenilworth (SAF)",
-        "time": " 5:55 AM"
-      },
-      {
-        "name": "Kilkenny (IG)",
-        "time": " 3:12 AM"
-      },
-      {
-        "name": "Kingscote AUS",
-        "time": " 9:50 PM"
+        "name": "Hove Eve (UK GH)",
+        "time": " 1:09 PM"
       },
       {
         "name": "Laurel Park",
-        "time": "11:58 AM"
+        "time": "11:17 AM"
       },
       {
-        "name": "Laval FR",
-        "time": " 5:00 AM"
+        "name": "Leicester (UK)",
+        "time": " 7:30 AM"
       },
       {
-        "name": "Mahoning Valley",
-        "time": "12:45 PM"
+        "name": "Limerick (IG)",
+        "time": " 1:53 PM"
       },
       {
         "name": "Mardi Gras WV Eve",
         "time": " 7:00 PM"
       },
       {
-        "name": "Monticello Raceway",
-        "time": " 1:02 PM"
+        "name": "Marseille Pont de Vivaux FR",
+        "time": " 9:35 AM"
+      },
+      {
+        "name": "Monmore Eve (UK GH)",
+        "time": " 1:17 PM"
+      },
+      {
+        "name": "Moonee Valley",
+        "time": " 2:30 AM"
       },
       {
         "name": "Newbridge (IG)",
         "time": " 2:00 PM"
       },
       {
-        "name": "Northfield Park",
-        "time": " 5:00 PM"
+        "name": "New Zealand",
+        "time": " 6:00 PM"
       },
       {
         "name": "Oi JPN",
         "time": " 8:40 PM"
       },
       {
-        "name": "Parx Racing",
-        "time": "12:25 PM"
-      },
-      {
-        "name": "Penn National",
-        "time": " 6:00 PM"
-      },
-      {
         "name": "Pompano Park",
         "time": " 7:20 PM"
       },
       {
-        "name": "Rosecroft Raceway",
-        "time": " 7:15 PM"
-      },
-      {
-        "name": "Tampa Bay Downs",
-        "time": "12:15 PM"
+        "name": "Sandown Park (UK)",
+        "time": " 8:20 AM"
       },
       {
         "name": "The Meadows",
         "time": "12:45 PM"
       },
       {
-        "name": "Toulouse FR",
-        "time": " 9:10 AM"
-      },
-      {
         "name": "Turf Paradise",
         "time": " 2:55 PM"
       },
       {
-        "name": "Warrnambool",
-        "time": " 9:00 PM"
+        "name": "Vaal (SAF)",
+        "time": " 5:45 AM"
       },
       {
-        "name": "Western Fair",
-        "time": " 6:15 PM"
+        "name": "Vincennes FR",
+        "time": " 7:50 AM"
       },
       {
-        "name": "Wetherby (UK)",
-        "time": " 7:30 AM"
+        "name": "Waterford (IG)",
+        "time": " 3:12 AM"
       },
       {
         "name": "Wheeling Downs Mat",
         "time": " 1:00 PM"
       },
       {
-        "name": "Wolverhampton (UK)",
-        "time": " 8:15 AM"
+        "name": "Woodbine at Mohawk",
+        "time": " 7:00 PM"
       },
       {
         "name": "Yonkers Raceway",
         "time": " 7:15 PM"
-      },
-      {
-        "name": "Youghal (IG)",
-        "time": " 1:40 PM"
       }
     ]
   }
