@@ -1,28 +1,20 @@
 {
   "carryovers": [
     {
+      "carryoverAmount": 338039,
+      "carryover": "$338,039",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Santa Anita",
+      "date": "Feb 21",
+      "ndate": 20210221
+    },
+    {
       "carryoverAmount": 330622,
       "carryover": "$330,622",
       "wagertype": "Pick 6 Jackpot",
       "track": "Turf Paradise",
       "date": "Feb 22",
       "ndate": 20210222
-    },
-    {
-      "carryoverAmount": 281967,
-      "carryover": "$281,967",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Gulfstream Park",
-      "date": "Feb 20",
-      "ndate": 20210220
-    },
-    {
-      "carryoverAmount": 270380,
-      "carryover": "$270,380",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Santa Anita",
-      "date": "Feb 20",
-      "ndate": 20210220
     },
     {
       "carryoverAmount": 111676,
@@ -33,60 +25,68 @@
       "ndate": 20210224
     },
     {
+      "carryoverAmount": 52952,
+      "carryover": "$52,952",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Tampa Bay",
+      "date": "Feb 21",
+      "ndate": 20210221
+    },
+    {
       "carryoverAmount": 50051,
       "carryover": "$50,051",
       "wagertype": "Super High Five Jackpot",
       "track": "Sam Houston",
-      "date": "Feb 20",
-      "ndate": 20210220
+      "date": "Feb 24",
+      "ndate": 20210224
     },
     {
-      "carryoverAmount": 46659,
-      "carryover": "$46,659",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Tampa Bay",
-      "date": "Feb 20",
-      "ndate": 20210220
-    },
-    {
-      "carryoverAmount": 34905,
-      "carryover": "$34,905",
+      "carryoverAmount": 40539,
+      "carryover": "$40,539",
       "wagertype": "Pick 6 Jackpot",
       "track": "Golden Gate",
-      "date": "Feb 20",
-      "ndate": 20210220
+      "date": "Feb 21",
+      "ndate": 20210221
     },
     {
-      "carryoverAmount": 18895,
-      "carryover": "$18,895",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Mahoning Valley",
-      "date": "Feb 20",
-      "ndate": 20210220
-    },
-    {
-      "carryoverAmount": 10734,
-      "carryover": "$10,734",
+      "carryoverAmount": 38946,
+      "carryover": "$38,946",
       "wagertype": "Pick 6",
       "track": "Los Alamitos",
-      "date": "Feb 20",
-      "ndate": 20210220
+      "date": "Feb 21",
+      "ndate": 20210221
     },
     {
-      "carryoverAmount": 4889,
-      "carryover": "$4,889",
+      "carryoverAmount": 23349,
+      "carryover": "$23,349",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Mahoning Valley",
+      "date": "Feb 22",
+      "ndate": 20210222
+    },
+    {
+      "carryoverAmount": 9897,
+      "carryover": "$9,897",
       "wagertype": "Pick 6 Jackpot",
       "track": "Laurel Park",
-      "date": "Feb 20",
-      "ndate": 20210220
+      "date": "Feb 21",
+      "ndate": 20210221
     },
     {
-      "carryoverAmount": 3806,
-      "carryover": "$3,806",
+      "carryoverAmount": 8475,
+      "carryover": "$8,475",
       "wagertype": "Pick 5 Jackpot",
       "track": "Fonner Park",
-      "date": "Feb 20",
-      "ndate": 20210220
+      "date": "Feb 21",
+      "ndate": 20210221
+    },
+    {
+      "carryoverAmount": 8399,
+      "carryover": "$8,399",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Feb 21",
+      "ndate": 20210221
     },
     {
       "carryoverAmount": 2639,
@@ -97,20 +97,20 @@
       "ndate": 20210224
     },
     {
-      "carryoverAmount": 880,
-      "carryover": "$880",
+      "carryoverAmount": 2023,
+      "carryover": "$2,023",
       "wagertype": "Super High Five",
-      "track": "Tampa Bay",
-      "date": "Feb 20",
-      "ndate": 20210220
+      "track": "Gulfstream Park",
+      "date": "Feb 21",
+      "ndate": 20210221
     },
     {
-      "carryoverAmount": 370,
-      "carryover": "$370",
+      "carryoverAmount": 535,
+      "carryover": "$535",
       "wagertype": "Super High Five",
-      "track": "Mahoning Valley",
-      "date": "Feb 20",
-      "ndate": 20210220
+      "track": "Golden Gate",
+      "date": "Feb 21",
+      "ndate": 20210221
     }
   ]
 }
