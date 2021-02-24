@@ -1,20 +1,20 @@
 {
   "carryovers": [
     {
+      "carryoverAmount": 450210,
+      "carryover": "$450,210",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Turf Paradise",
+      "date": "Feb 24",
+      "ndate": 20210224
+    },
+    {
       "carryoverAmount": 424910,
       "carryover": "$424,910",
       "wagertype": "Pick 6 Jackpot",
       "track": "Santa Anita",
       "date": "Feb 26",
       "ndate": 20210226
-    },
-    {
-      "carryoverAmount": 391648,
-      "carryover": "$391,648",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Turf Paradise",
-      "date": "Feb 23",
-      "ndate": 20210223
     },
     {
       "carryoverAmount": 111676,
@@ -61,8 +61,8 @@
       "carryover": "$34,026",
       "wagertype": "Pick 6 Jackpot",
       "track": "Mahoning Valley",
-      "date": "Feb 23",
-      "ndate": 20210223
+      "date": "Feb 24",
+      "ndate": 20210224
     },
     {
       "carryoverAmount": 2639,
@@ -77,8 +77,8 @@
       "carryover": "$1,370",
       "wagertype": "Super High Five",
       "track": "Mahoning Valley",
-      "date": "Feb 23",
-      "ndate": 20210223
+      "date": "Feb 24",
+      "ndate": 20210224
     }
   ]
 }
