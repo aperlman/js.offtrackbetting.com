@@ -1,20 +1,20 @@
 {
   "carryovers": [
     {
+      "carryoverAmount": 144477,
+      "carryover": "$144,477",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Mahoning Valley",
+      "date": "Mar 10",
+      "ndate": 20210310
+    },
+    {
       "carryoverAmount": 128543,
       "carryover": "$128,543",
       "wagertype": "Super High Five Jackpot",
       "track": "Penn National",
       "date": "Mar 10",
       "ndate": 20210310
-    },
-    {
-      "carryoverAmount": 123143,
-      "carryover": "$123,143",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Mahoning Valley",
-      "date": "Mar 09",
-      "ndate": 20210309
     },
     {
       "carryoverAmount": 90289,
@@ -45,6 +45,14 @@
       "carryover": "$20,914",
       "wagertype": "Pick 6 Jackpot",
       "track": "Charles Town",
+      "date": "Mar 10",
+      "ndate": 20210310
+    },
+    {
+      "carryoverAmount": 15902,
+      "carryover": "$15,902",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Turf Paradise",
       "date": "Mar 10",
       "ndate": 20210310
     },
@@ -81,14 +89,6 @@
       "ndate": 20210312
     },
     {
-      "carryoverAmount": 7828,
-      "carryover": "$7,828",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Turf Paradise",
-      "date": "Mar 09",
-      "ndate": 20210309
-    },
-    {
       "carryoverAmount": 4239,
       "carryover": "$4,239",
       "wagertype": "Super High Five",
@@ -101,6 +101,14 @@
       "carryover": "$1,896",
       "wagertype": "Super High Five",
       "track": "Turfway Park",
+      "date": "Mar 10",
+      "ndate": 20210310
+    },
+    {
+      "carryoverAmount": 1614,
+      "carryover": "$1,614",
+      "wagertype": "Super High Five",
+      "track": "Mahoning Valley",
       "date": "Mar 10",
       "ndate": 20210310
     }
