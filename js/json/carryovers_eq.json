@@ -1,12 +1,20 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 237822,
-      "carryover": "$237,822",
+      "carryoverAmount": 315073,
+      "carryover": "$315,073",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "Mar 14",
-      "ndate": 20210314
+      "date": "Mar 17",
+      "ndate": 20210317
+    },
+    {
+      "carryoverAmount": 181922,
+      "carryover": "$181,922",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Santa Anita",
+      "date": "Mar 19",
+      "ndate": 20210319
     },
     {
       "carryoverAmount": 175759,
@@ -25,14 +33,6 @@
       "ndate": 20210317
     },
     {
-      "carryoverAmount": 130772,
-      "carryover": "$130,772",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Santa Anita",
-      "date": "Mar 14",
-      "ndate": 20210314
-    },
-    {
       "carryoverAmount": 73004,
       "carryover": "$73,004",
       "wagertype": "Pick 6 Jackpot",
@@ -41,20 +41,12 @@
       "ndate": 20210317
     },
     {
-      "carryoverAmount": 47415,
-      "carryover": "$47,415",
-      "wagertype": "Pick 5",
-      "track": "Fair Grounds",
-      "date": "Mar 14",
-      "ndate": 20210314
-    },
-    {
-      "carryoverAmount": 13588,
-      "carryover": "$13,588",
+      "carryoverAmount": 15617,
+      "carryover": "$15,617",
       "wagertype": "Pick 6 Jackpot",
       "track": "Laurel Park",
-      "date": "Mar 14",
-      "ndate": 20210314
+      "date": "Mar 19",
+      "ndate": 20210319
     },
     {
       "carryoverAmount": 11656,
@@ -65,36 +57,28 @@
       "ndate": 20210317
     },
     {
-      "carryoverAmount": 10000,
-      "carryover": "$10,000",
-      "wagertype": "Pick 6",
-      "track": "Los Alamitos",
-      "date": "Mar 14",
-      "ndate": 20210314
-    },
-    {
-      "carryoverAmount": 6397,
-      "carryover": "$6,397",
-      "wagertype": "Super High Five",
-      "track": "Laurel Park",
-      "date": "Mar 14",
-      "ndate": 20210314
-    },
-    {
-      "carryoverAmount": 2987,
-      "carryover": "$2,987",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Hawthorne",
-      "date": "Mar 14",
-      "ndate": 20210314
-    },
-    {
-      "carryoverAmount": 2509,
-      "carryover": "$2,509",
+      "carryoverAmount": 3912,
+      "carryover": "$3,912",
       "wagertype": "Pick 6 Jackpot",
-      "track": "Hawthorne",
-      "date": "Mar 14",
-      "ndate": 20210314
+      "track": "Golden Gate",
+      "date": "Mar 18",
+      "ndate": 20210318
+    },
+    {
+      "carryoverAmount": 2313,
+      "carryover": "$2,313",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Tampa Bay",
+      "date": "Mar 17",
+      "ndate": 20210317
+    },
+    {
+      "carryoverAmount": 1897,
+      "carryover": "$1,897",
+      "wagertype": "Super High Five",
+      "track": "Golden Gate",
+      "date": "Mar 18",
+      "ndate": 20210318
     },
     {
       "carryoverAmount": 923,
