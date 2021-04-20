@@ -1,12 +1,12 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 225649,
-      "carryover": "$225,649",
+      "carryoverAmount": 247360,
+      "carryover": "$247,360",
       "wagertype": "Pick 6 Jackpot",
       "track": "Turf Paradise",
-      "date": "Apr 19",
-      "ndate": 20210419
+      "date": "Apr 20",
+      "ndate": 20210420
     },
     {
       "carryoverAmount": 181502,
@@ -33,20 +33,20 @@
       "ndate": 20210422
     },
     {
+      "carryoverAmount": 11154,
+      "carryover": "$11,154",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Indiana Grand",
+      "date": "Apr 20",
+      "ndate": 20210420
+    },
+    {
       "carryoverAmount": 7886,
       "carryover": "$7,886",
       "wagertype": "Super High Five",
       "track": "Keeneland",
       "date": "Apr 21",
       "ndate": 20210421
-    },
-    {
-      "carryoverAmount": 6513,
-      "carryover": "$6,513",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Indiana Grand",
-      "date": "Apr 19",
-      "ndate": 20210419
     },
     {
       "carryoverAmount": 4462,
@@ -57,36 +57,12 @@
       "ndate": 20210423
     },
     {
-      "carryoverAmount": 3136,
-      "carryover": "$3,136",
-      "wagertype": "Super High Five",
-      "track": "Gulfstream Park",
-      "date": "Apr 22",
-      "ndate": 20210422
-    },
-    {
-      "carryoverAmount": 2785,
-      "carryover": "$2,785",
-      "wagertype": "Super High Five",
-      "track": "Indiana Grand",
-      "date": "Apr 19",
-      "ndate": 20210419
-    },
-    {
       "carryoverAmount": 1718,
       "carryover": "$1,718",
       "wagertype": "Pick 6 Jackpot",
       "track": "Tampa Bay",
       "date": "Apr 21",
       "ndate": 20210421
-    },
-    {
-      "carryoverAmount": 1193,
-      "carryover": "$1,193",
-      "wagertype": "Super High Five",
-      "track": "Golden Gate",
-      "date": "Apr 23",
-      "ndate": 20210423
     }
   ]
 }
