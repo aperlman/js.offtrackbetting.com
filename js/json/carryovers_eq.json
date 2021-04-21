@@ -1,14 +1,6 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 247360,
-      "carryover": "$247,360",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Turf Paradise",
-      "date": "Apr 20",
-      "ndate": 20210420
-    },
-    {
       "carryoverAmount": 181502,
       "carryover": "$181,502",
       "wagertype": "Super High Five Jackpot",
@@ -33,12 +25,20 @@
       "ndate": 20210422
     },
     {
-      "carryoverAmount": 11154,
-      "carryover": "$11,154",
-      "wagertype": "Pick 6 Jackpot",
+      "carryoverAmount": 44093,
+      "carryover": "$44,093",
+      "wagertype": "Pick 5",
       "track": "Indiana Grand",
-      "date": "Apr 20",
-      "ndate": 20210420
+      "date": "Apr 21",
+      "ndate": 20210421
+    },
+    {
+      "carryoverAmount": 31276,
+      "carryover": "$31,276",
+      "wagertype": "Pick 5",
+      "track": "Turf Paradise",
+      "date": "Apr 21",
+      "ndate": 20210421
     },
     {
       "carryoverAmount": 7886,
@@ -55,6 +55,14 @@
       "track": "Golden Gate",
       "date": "Apr 23",
       "ndate": 20210423
+    },
+    {
+      "carryoverAmount": 3129,
+      "carryover": "$3,129",
+      "wagertype": "Super High Five",
+      "track": "Indiana Grand",
+      "date": "Apr 21",
+      "ndate": 20210421
     },
     {
       "carryoverAmount": 1718,
