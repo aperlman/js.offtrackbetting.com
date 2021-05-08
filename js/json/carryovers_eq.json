@@ -1,44 +1,52 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 371294,
-      "carryover": "$371,294",
+      "carryoverAmount": 419268,
+      "carryover": "$419,268",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "May 07",
-      "ndate": 20210507
+      "date": "May 08",
+      "ndate": 20210508
     },
     {
-      "carryoverAmount": 314702,
-      "carryover": "$314,702",
+      "carryoverAmount": 344312,
+      "carryover": "$344,312",
       "wagertype": "Pick 6 Jackpot",
       "track": "Santa Anita",
-      "date": "May 07",
-      "ndate": 20210507
+      "date": "May 08",
+      "ndate": 20210508
     },
     {
-      "carryoverAmount": 200955,
-      "carryover": "$200,955",
+      "carryoverAmount": 204057,
+      "carryover": "$204,057",
       "wagertype": "Super High Five Jackpot",
       "track": "Penn National",
-      "date": "May 07",
-      "ndate": 20210507
+      "date": "May 12",
+      "ndate": 20210512
     },
     {
-      "carryoverAmount": 54842,
-      "carryover": "$54,842",
+      "carryoverAmount": 62752,
+      "carryover": "$62,752",
       "wagertype": "Pick 6 Jackpot",
       "track": "Lone Star",
-      "date": "May 07",
-      "ndate": 20210507
+      "date": "May 08",
+      "ndate": 20210508
     },
     {
-      "carryoverAmount": 32756,
-      "carryover": "$32,756",
+      "carryoverAmount": 41572,
+      "carryover": "$41,572",
+      "wagertype": "Pick 6",
+      "track": "Belmont Park",
+      "date": "May 08",
+      "ndate": 20210508
+    },
+    {
+      "carryoverAmount": 37727,
+      "carryover": "$37,727",
       "wagertype": "Pick 6 Jackpot",
       "track": "Golden Gate",
-      "date": "May 07",
-      "ndate": 20210507
+      "date": "May 08",
+      "ndate": 20210508
     },
     {
       "carryoverAmount": 27715,
@@ -49,12 +57,20 @@
       "ndate": 20210510
     },
     {
-      "carryoverAmount": 14941,
-      "carryover": "$14,941",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Pimlico",
-      "date": "May 07",
-      "ndate": 20210507
+      "carryoverAmount": 8418,
+      "carryover": "$8,418",
+      "wagertype": "Super High Five",
+      "track": "Churchill Downs",
+      "date": "May 08",
+      "ndate": 20210508
+    },
+    {
+      "carryoverAmount": 8303,
+      "carryover": "$8,303",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Prairie Meadows",
+      "date": "May 08",
+      "ndate": 20210508
     },
     {
       "carryoverAmount": 8003,
@@ -65,12 +81,12 @@
       "ndate": 20210508
     },
     {
-      "carryoverAmount": 6545,
-      "carryover": "$6,545",
-      "wagertype": "Super High Five",
-      "track": "Lone Star",
-      "date": "May 07",
-      "ndate": 20210507
+      "carryoverAmount": 7173,
+      "carryover": "$7,173",
+      "wagertype": "Pick 6",
+      "track": "Los Alamitos",
+      "date": "May 08",
+      "ndate": 20210508
     },
     {
       "carryoverAmount": 6115,
@@ -81,12 +97,20 @@
       "ndate": 20210508
     },
     {
-      "carryoverAmount": 4753,
-      "carryover": "$4,753",
+      "carryoverAmount": 5603,
+      "carryover": "$5,603",
       "wagertype": "Pick 6",
       "track": "Sam Houston",
-      "date": "May 07",
-      "ndate": 20210507
+      "date": "May 08",
+      "ndate": 20210508
+    },
+    {
+      "carryoverAmount": 4659,
+      "carryover": "$4,659",
+      "wagertype": "Super High Five",
+      "track": "Pimlico",
+      "date": "May 08",
+      "ndate": 20210508
     },
     {
       "carryoverAmount": 4525,
@@ -97,22 +121,6 @@
       "ndate": 20210508
     },
     {
-      "carryoverAmount": 3462,
-      "carryover": "$3,462",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Charles Town",
-      "date": "May 07",
-      "ndate": 20210507
-    },
-    {
-      "carryoverAmount": 3394,
-      "carryover": "$3,394",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Churchill Downs",
-      "date": "May 07",
-      "ndate": 20210507
-    },
-    {
       "carryoverAmount": 3338,
       "carryover": "$3,338",
       "wagertype": "Super High Five Jackpot",
@@ -121,28 +129,12 @@
       "ndate": 20210508
     },
     {
-      "carryoverAmount": 3224,
-      "carryover": "$3,224",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Prairie Meadows",
-      "date": "May 07",
-      "ndate": 20210507
-    },
-    {
-      "carryoverAmount": 2933,
-      "carryover": "$2,933",
-      "wagertype": "Super High Five",
-      "track": "Churchill Downs",
-      "date": "May 07",
-      "ndate": 20210507
-    },
-    {
-      "carryoverAmount": 2440,
-      "carryover": "$2,440",
+      "carryoverAmount": 2400,
+      "carryover": "$2,400",
       "wagertype": "Pick 5",
       "track": "Sam Houston",
-      "date": "May 07",
-      "ndate": 20210507
+      "date": "May 08",
+      "ndate": 20210508
     },
     {
       "carryoverAmount": 2135,
@@ -153,6 +145,22 @@
       "ndate": 20210510
     },
     {
+      "carryoverAmount": 2134,
+      "carryover": "$2,134",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Prairie Meadows",
+      "date": "May 08",
+      "ndate": 20210508
+    },
+    {
+      "carryoverAmount": 1573,
+      "carryover": "$1,573",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Sam Houston",
+      "date": "May 08",
+      "ndate": 20210508
+    },
+    {
       "carryoverAmount": 1500,
       "carryover": "$1,500",
       "wagertype": "Pick 7",
@@ -161,20 +169,36 @@
       "ndate": 20210508
     },
     {
-      "carryoverAmount": 1460,
-      "carryover": "$1,460",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Prairie Meadows",
-      "date": "May 07",
-      "ndate": 20210507
+      "carryoverAmount": 1491,
+      "carryover": "$1,491",
+      "wagertype": "Super High Five",
+      "track": "Lone Star",
+      "date": "May 08",
+      "ndate": 20210508
     },
     {
-      "carryoverAmount": 359,
-      "carryover": "$359",
+      "carryoverAmount": 858,
+      "carryover": "$858",
+      "wagertype": "Super High Five",
+      "track": "Pimlico",
+      "date": "May 08",
+      "ndate": 20210508
+    },
+    {
+      "carryoverAmount": 556,
+      "carryover": "$556",
       "wagertype": "Super High Five Jackpot",
       "track": "Sunray Park",
-      "date": "May 07",
-      "ndate": 20210507
+      "date": "May 08",
+      "ndate": 20210508
+    },
+    {
+      "carryoverAmount": 428,
+      "carryover": "$428",
+      "wagertype": "Super High Five",
+      "track": "Pimlico",
+      "date": "May 08",
+      "ndate": 20210508
     }
   ]
 }
