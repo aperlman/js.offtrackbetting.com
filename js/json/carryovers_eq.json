@@ -9,18 +9,26 @@
       "ndate": 20210514
     },
     {
-      "carryoverAmount": 204057,
-      "carryover": "$204,057",
+      "carryoverAmount": 209210,
+      "carryover": "$209,210",
       "wagertype": "Super High Five Jackpot",
       "track": "Penn National",
-      "date": "May 12",
-      "ndate": 20210512
+      "date": "May 14",
+      "ndate": 20210514
     },
     {
       "carryoverAmount": 78729,
       "carryover": "$78,729",
       "wagertype": "Pick 6 Jackpot",
       "track": "Lone Star",
+      "date": "May 13",
+      "ndate": 20210513
+    },
+    {
+      "carryoverAmount": 68215,
+      "carryover": "$68,215",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Indiana Grand",
       "date": "May 13",
       "ndate": 20210513
     },
@@ -33,14 +41,6 @@
       "ndate": 20210513
     },
     {
-      "carryoverAmount": 51809,
-      "carryover": "$51,809",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Indiana Grand",
-      "date": "May 12",
-      "ndate": 20210512
-    },
-    {
       "carryoverAmount": 41402,
       "carryover": "$41,402",
       "wagertype": "Pick 6 Jackpot",
@@ -49,20 +49,28 @@
       "ndate": 20210513
     },
     {
-      "carryoverAmount": 25237,
-      "carryover": "$25,237",
+      "carryoverAmount": 40604,
+      "carryover": "$40,604",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "May 12",
-      "ndate": 20210512
+      "date": "May 17",
+      "ndate": 20210517
     },
     {
-      "carryoverAmount": 11702,
-      "carryover": "$11,702",
+      "carryoverAmount": 14557,
+      "carryover": "$14,557",
       "wagertype": "Pick 5 Jackpot",
       "track": "Louisiana Downs",
-      "date": "May 12",
-      "ndate": 20210512
+      "date": "May 15",
+      "ndate": 20210515
+    },
+    {
+      "carryoverAmount": 11976,
+      "carryover": "$11,976",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Grants Pass",
+      "date": "May 17",
+      "ndate": 20210517
     },
     {
       "carryoverAmount": 10766,
@@ -71,6 +79,14 @@
       "track": "Arlington",
       "date": "May 14",
       "ndate": 20210514
+    },
+    {
+      "carryoverAmount": 10760,
+      "carryover": "$10,760",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Louisiana Downs",
+      "date": "May 15",
+      "ndate": 20210515
     },
     {
       "carryoverAmount": 10206,
@@ -89,20 +105,12 @@
       "ndate": 20210515
     },
     {
-      "carryoverAmount": 8346,
-      "carryover": "$8,346",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Louisiana Downs",
-      "date": "May 12",
-      "ndate": 20210512
-    },
-    {
-      "carryoverAmount": 6745,
-      "carryover": "$6,745",
+      "carryoverAmount": 8483,
+      "carryover": "$8,483",
       "wagertype": "Pick 6",
       "track": "Finger Lakes",
-      "date": "May 12",
-      "ndate": 20210512
+      "date": "May 17",
+      "ndate": 20210517
     },
     {
       "carryoverAmount": 6330,
@@ -111,6 +119,14 @@
       "track": "Arlington",
       "date": "May 14",
       "ndate": 20210514
+    },
+    {
+      "carryoverAmount": 5199,
+      "carryover": "$5,199",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Thistledown",
+      "date": "May 15",
+      "ndate": 20210515
     },
     {
       "carryoverAmount": 5125,
@@ -153,20 +169,20 @@
       "ndate": 20210513
     },
     {
-      "carryoverAmount": 3557,
-      "carryover": "$3,557",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Thistledown",
-      "date": "May 12",
-      "ndate": 20210512
-    },
-    {
       "carryoverAmount": 959,
       "carryover": "$959",
       "wagertype": "Super High Five Jackpot",
       "track": "Sunray Park",
       "date": "May 14",
       "ndate": 20210514
+    },
+    {
+      "carryoverAmount": 683,
+      "carryover": "$683",
+      "wagertype": "Super High Five",
+      "track": "Louisiana Downs",
+      "date": "May 15",
+      "ndate": 20210515
     }
   ]
 }
