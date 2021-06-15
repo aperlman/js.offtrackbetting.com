@@ -17,12 +17,12 @@
       "ndate": 20210618
     },
     {
-      "carryoverAmount": 267592,
-      "carryover": "$267,592",
+      "carryoverAmount": 153991,
+      "carryover": "$153,991",
       "wagertype": "Pick 5 Jackpot",
-      "track": "Parx Racing",
-      "date": "Jun 14",
-      "ndate": 20210614
+      "track": "Prairie Meadows",
+      "date": "Jun 18",
+      "ndate": 20210618
     },
     {
       "carryoverAmount": 140499,
@@ -33,14 +33,6 @@
       "ndate": 20210618
     },
     {
-      "carryoverAmount": 140483,
-      "carryover": "$140,483",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Prairie Meadows",
-      "date": "Jun 14",
-      "ndate": 20210614
-    },
-    {
       "carryoverAmount": 123086,
       "carryover": "$123,086",
       "wagertype": "Pick 6 Jackpot",
@@ -49,26 +41,34 @@
       "ndate": 20210617
     },
     {
-      "carryoverAmount": 75445,
-      "carryover": "$75,445",
+      "carryoverAmount": 82141,
+      "carryover": "$82,141",
       "wagertype": "Pick 5 Jackpot",
       "track": "Louisiana Downs",
-      "date": "Jun 14",
-      "ndate": 20210614
+      "date": "Jun 15",
+      "ndate": 20210615
     },
     {
-      "carryoverAmount": 65866,
-      "carryover": "$65,866",
+      "carryoverAmount": 77636,
+      "carryover": "$77,636",
       "wagertype": "Pick 5 Jackpot",
       "track": "Assiniboia",
-      "date": "Jun 14",
-      "ndate": 20210614
+      "date": "Jun 15",
+      "ndate": 20210615
     },
     {
       "carryoverAmount": 52316,
       "carryover": "$52,316",
       "wagertype": "Pick 5 Jackpot",
       "track": "Grants Pass",
+      "date": "Jun 15",
+      "ndate": 20210615
+    },
+    {
+      "carryoverAmount": 47916,
+      "carryover": "$47,916",
+      "wagertype": "Pick 5",
+      "track": "Hastings",
       "date": "Jun 15",
       "ndate": 20210615
     },
@@ -89,12 +89,12 @@
       "ndate": 20210617
     },
     {
-      "carryoverAmount": 42962,
-      "carryover": "$42,962",
+      "carryoverAmount": 45379,
+      "carryover": "$45,379",
       "wagertype": "Super High Five Jackpot",
       "track": "Prairie Meadows",
-      "date": "Jun 14",
-      "ndate": 20210614
+      "date": "Jun 18",
+      "ndate": 20210618
     },
     {
       "carryoverAmount": 40751,
@@ -113,14 +113,6 @@
       "ndate": 20210616
     },
     {
-      "carryoverAmount": 35528,
-      "carryover": "$35,528",
-      "wagertype": "Pick 5",
-      "track": "Hastings",
-      "date": "Jun 14",
-      "ndate": 20210614
-    },
-    {
       "carryoverAmount": 28714,
       "carryover": "$28,714",
       "wagertype": "Pick 8",
@@ -129,12 +121,20 @@
       "ndate": 20210617
     },
     {
-      "carryoverAmount": 25732,
-      "carryover": "$25,732",
+      "carryoverAmount": 26953,
+      "carryover": "$26,953",
       "wagertype": "Pick 6 Jackpot",
       "track": "Thistledown",
-      "date": "Jun 14",
-      "ndate": 20210614
+      "date": "Jun 15",
+      "ndate": 20210615
+    },
+    {
+      "carryoverAmount": 23589,
+      "carryover": "$23,589",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Lone Star",
+      "date": "Jun 18",
+      "ndate": 20210618
     },
     {
       "carryoverAmount": 22984,
@@ -145,20 +145,28 @@
       "ndate": 20210617
     },
     {
-      "carryoverAmount": 22532,
-      "carryover": "$22,532",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Indiana Grand",
-      "date": "Jun 14",
-      "ndate": 20210614
+      "carryoverAmount": 8540,
+      "carryover": "$8,540",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Assiniboia",
+      "date": "Jun 15",
+      "ndate": 20210615
     },
     {
-      "carryoverAmount": 17760,
-      "carryover": "$17,760",
+      "carryoverAmount": 8381,
+      "carryover": "$8,381",
       "wagertype": "Pick 6 Jackpot",
-      "track": "Lone Star",
-      "date": "Jun 14",
-      "ndate": 20210614
+      "track": "Hastings",
+      "date": "Jun 15",
+      "ndate": 20210615
+    },
+    {
+      "carryoverAmount": 8186,
+      "carryover": "$8,186",
+      "wagertype": "Pick 6",
+      "track": "Finger Lakes",
+      "date": "Jun 15",
+      "ndate": 20210615
     },
     {
       "carryoverAmount": 8091,
@@ -169,44 +177,12 @@
       "ndate": 20210615
     },
     {
-      "carryoverAmount": 6493,
-      "carryover": "$6,493",
-      "wagertype": "Pick 6",
-      "track": "Finger Lakes",
-      "date": "Jun 14",
-      "ndate": 20210614
-    },
-    {
       "carryoverAmount": 6253,
       "carryover": "$6,253",
       "wagertype": "Pick 5",
       "track": "Penn National",
       "date": "Jun 15",
       "ndate": 20210615
-    },
-    {
-      "carryoverAmount": 4689,
-      "carryover": "$4,689",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Hastings",
-      "date": "Jun 14",
-      "ndate": 20210614
-    },
-    {
-      "carryoverAmount": 4231,
-      "carryover": "$4,231",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Lone Star",
-      "date": "Jun 14",
-      "ndate": 20210614
-    },
-    {
-      "carryoverAmount": 4068,
-      "carryover": "$4,068",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Assiniboia",
-      "date": "Jun 14",
-      "ndate": 20210614
     },
     {
       "carryoverAmount": 3597,
@@ -217,20 +193,20 @@
       "ndate": 20210615
     },
     {
-      "carryoverAmount": 3325,
-      "carryover": "$3,325",
-      "wagertype": "Super High Five",
-      "track": "Pimlico",
-      "date": "Jun 18",
-      "ndate": 20210618
-    },
-    {
       "carryoverAmount": 3209,
       "carryover": "$3,209",
       "wagertype": "Super High Five",
       "track": "Churchill Downs",
       "date": "Jun 17",
       "ndate": 20210617
+    },
+    {
+      "carryoverAmount": 3083,
+      "carryover": "$3,083",
+      "wagertype": "Super High Five",
+      "track": "Louisiana Downs",
+      "date": "Jun 15",
+      "ndate": 20210615
     },
     {
       "carryoverAmount": 3038,
@@ -241,42 +217,18 @@
       "ndate": 20210615
     },
     {
-      "carryoverAmount": 2884,
-      "carryover": "$2,884",
+      "carryoverAmount": 2751,
+      "carryover": "$2,751",
       "wagertype": "Super High Five",
-      "track": "Gulfstream Park",
-      "date": "Jun 18",
-      "ndate": 20210618
+      "track": "Indiana Grand",
+      "date": "Jun 15",
+      "ndate": 20210615
     },
     {
       "carryoverAmount": 2674,
       "carryover": "$2,674",
       "wagertype": "Super High Five",
       "track": "Gulfstream Park",
-      "date": "Jun 18",
-      "ndate": 20210618
-    },
-    {
-      "carryoverAmount": 2527,
-      "carryover": "$2,527",
-      "wagertype": "Super High Five",
-      "track": "Pimlico",
-      "date": "Jun 18",
-      "ndate": 20210618
-    },
-    {
-      "carryoverAmount": 2368,
-      "carryover": "$2,368",
-      "wagertype": "Super High Five",
-      "track": "Gulfstream Park",
-      "date": "Jun 18",
-      "ndate": 20210618
-    },
-    {
-      "carryoverAmount": 1336,
-      "carryover": "$1,336",
-      "wagertype": "Super High Five",
-      "track": "Pimlico",
       "date": "Jun 18",
       "ndate": 20210618
     },
@@ -289,12 +241,12 @@
       "ndate": 20210615
     },
     {
-      "carryoverAmount": 628,
-      "carryover": "$628",
+      "carryoverAmount": 642,
+      "carryover": "$642",
       "wagertype": "Super High Five",
-      "track": "Pimlico",
-      "date": "Jun 18",
-      "ndate": 20210618
+      "track": "Mountaineer",
+      "date": "Jun 15",
+      "ndate": 20210615
     },
     {
       "carryoverAmount": 405,
@@ -303,14 +255,6 @@
       "track": "Ruidoso Downs",
       "date": "Jun 18",
       "ndate": 20210618
-    },
-    {
-      "carryoverAmount": 395,
-      "carryover": "$395",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Louisiana Downs",
-      "date": "Jun 14",
-      "ndate": 20210614
     },
     {
       "carryoverAmount": 364,
