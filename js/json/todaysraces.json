@@ -5,6 +5,12 @@
     "headline": "OTB Schedule: Thursday, Jun 17",
     "tracks": [
       {
+               "name": "Amiens FR",
+               "time": "10:22 AM",
+             "meetno": 495,
+        "results_url": "https://www.offtrackbetting.com/results/495/amiens-%28fr%29.html"
+      },
+      {
                "name": "Ascot (UK)",
                "time": " 9:30 AM",
              "meetno": 301,
@@ -60,7 +66,7 @@
       },
       {
                "name": "Belterra Park",
-               "time": "12:35 PM",
+               "time": "12:34 PM",
              "meetno": 207,
         "results_url": "https://www.offtrackbetting.com/results/207/belterra-park.html"
       },
@@ -132,7 +138,7 @@
       },
       {
                "name": "Ffos Las (UK)",
-               "time": "12:45 PM",
+               "time": "12:44 PM",
              "meetno": 318,
         "results_url": "https://www.offtrackbetting.com/results/318/ffos-las-%28uk%29.html"
       },
@@ -144,7 +150,7 @@
       },
       {
                "name": "Harrahs Philly (Chester)",
-               "time": "12:25 PM",
+               "time": "12:24 PM",
              "meetno": 296,
         "results_url": "https://www.offtrackbetting.com/results/296/harrahs-philly-%28chester%29.html"
       },
@@ -186,7 +192,7 @@
       },
       {
                "name": "Lingfield (UK)",
-               "time": "12:30 PM",
+               "time": "12:29 PM",
              "meetno": 329,
         "results_url": "https://www.offtrackbetting.com/results/329/lingfield-%28uk%29.html"
       },
@@ -210,7 +216,7 @@
       },
       {
                "name": "Monticello Raceway",
-               "time": "12:10 PM",
+               "time": "12:09 PM",
              "meetno": 56,
         "results_url": "https://www.offtrackbetting.com/results/56/monticello-raceway.html"
       },
@@ -246,7 +252,7 @@
       },
       {
                "name": "Ripon (UK)",
-               "time": " 8:15 AM",
+               "time": " 8:31 AM",
              "meetno": 342,
         "results_url": "https://www.offtrackbetting.com/results/342/ripon-%28uk%29.html"
       },
@@ -270,7 +276,7 @@
       },
       {
                "name": "The Meadows",
-               "time": "12:45 PM",
+               "time": "12:44 PM",
              "meetno": 94,
         "results_url": "https://www.offtrackbetting.com/results/94/the-meadows.html"
       },
