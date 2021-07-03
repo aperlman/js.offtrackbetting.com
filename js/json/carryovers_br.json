@@ -1,20 +1,20 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 1351929,
-      "carryover": "$1,351,929",
+      "carryoverAmount": 1396320,
+      "carryover": "$1,396,320",
       "wagertype": "Pick 6 Jackpot",
       "track": "Pimlico",
-      "date": "Jul 02",
-      "ndate": 20210702
+      "date": "Jul 03",
+      "ndate": 20210703
     },
     {
-      "carryoverAmount": 254977,
-      "carryover": "$254,977",
+      "carryoverAmount": 372379,
+      "carryover": "$372,379",
       "wagertype": "Pick 5 Jackpot",
       "track": "Prairie Meadows",
-      "date": "Jul 02",
-      "ndate": 20210702
+      "date": "Jul 03",
+      "ndate": 20210703
     },
     {
       "carryoverAmount": 143472,
@@ -25,12 +25,12 @@
       "ndate": 20210703
     },
     {
-      "carryoverAmount": 140758,
-      "carryover": "$140,758",
+      "carryoverAmount": 143375,
+      "carryover": "$143,375",
       "wagertype": "Super High Five",
       "track": "Pleasanton",
-      "date": "Jul 02",
-      "ndate": 20210702
+      "date": "Jul 03",
+      "ndate": 20210703
     },
     {
       "carryoverAmount": 136800,
@@ -49,12 +49,20 @@
       "ndate": 20210705
     },
     {
-      "carryoverAmount": 81695,
-      "carryover": "$81,695",
+      "carryoverAmount": 93380,
+      "carryover": "$93,380",
       "wagertype": "Pick 6 Jackpot",
       "track": "Monmouth Park",
-      "date": "Jul 02",
-      "ndate": 20210702
+      "date": "Jul 03",
+      "ndate": 20210703
+    },
+    {
+      "carryoverAmount": 83385,
+      "carryover": "$83,385",
+      "wagertype": "Jackpot High-5",
+      "track": "Arlington",
+      "date": "Jul 03",
+      "ndate": 20210703
     },
     {
       "carryoverAmount": 71752,
@@ -65,44 +73,52 @@
       "ndate": 20210704
     },
     {
-      "carryoverAmount": 57760,
-      "carryover": "$57,760",
+      "carryoverAmount": 68122,
+      "carryover": "$68,122",
+      "wagertype": "Jackpot High-5",
+      "track": "Prairie Meadows",
+      "date": "Jul 03",
+      "ndate": 20210703
+    },
+    {
+      "carryoverAmount": 66773,
+      "carryover": "$66,773",
       "wagertype": "Pick 6 Jackpot",
       "track": "Pleasanton",
-      "date": "Jul 02",
-      "ndate": 20210702
+      "date": "Jul 03",
+      "ndate": 20210703
     },
     {
-      "carryoverAmount": 48354,
-      "carryover": "$48,354",
+      "carryoverAmount": 57242,
+      "carryover": "$57,242",
       "wagertype": "Jackpot High-5",
       "track": "Woodbine",
-      "date": "Jul 02",
-      "ndate": 20210702
+      "date": "Jul 03",
+      "ndate": 20210703
     },
     {
-      "carryoverAmount": 37205,
-      "carryover": "$37,205",
-      "wagertype": "Pick 6",
-      "track": "Los Alamitos Race Course",
-      "date": "Jul 02",
-      "ndate": 20210702
-    },
-    {
-      "carryoverAmount": 35884,
-      "carryover": "$35,884",
+      "carryoverAmount": 46198,
+      "carryover": "$46,198",
       "wagertype": "Pick 6 Jackpot",
       "track": "Woodbine",
-      "date": "Jul 02",
-      "ndate": 20210702
+      "date": "Jul 03",
+      "ndate": 20210703
     },
     {
-      "carryoverAmount": 13223,
-      "carryover": "$13,223",
+      "carryoverAmount": 13812,
+      "carryover": "$13,812",
       "wagertype": "Jackpot High-5",
       "track": "Penn National",
-      "date": "Jul 02",
-      "ndate": 20210702
+      "date": "Jul 06",
+      "ndate": 20210706
+    },
+    {
+      "carryoverAmount": 13061,
+      "carryover": "$13,061",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Lone Star Park",
+      "date": "Jul 03",
+      "ndate": 20210703
     },
     {
       "carryoverAmount": 12389,
@@ -121,6 +137,14 @@
       "ndate": 20210703
     },
     {
+      "carryoverAmount": 8441,
+      "carryover": "$8,441",
+      "wagertype": "Jackpot High-5",
+      "track": "Lone Star Park",
+      "date": "Jul 03",
+      "ndate": 20210703
+    },
+    {
       "carryoverAmount": 7922,
       "carryover": "$7,922",
       "wagertype": "Pick 6 Jackpot",
@@ -129,12 +153,28 @@
       "ndate": 20210703
     },
     {
-      "carryoverAmount": 7846,
-      "carryover": "$7,846",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Lone Star Park",
-      "date": "Jul 02",
-      "ndate": 20210702
+      "carryoverAmount": 7168,
+      "carryover": "$7,168",
+      "wagertype": "Pick 5",
+      "track": "Century Mile Tb",
+      "date": "Jul 04",
+      "ndate": 20210704
+    },
+    {
+      "carryoverAmount": 6912,
+      "carryover": "$6,912",
+      "wagertype": "Pick 7",
+      "track": "Fanduel Sportsbook And Horse R",
+      "date": "Jul 03",
+      "ndate": 20210703
+    },
+    {
+      "carryoverAmount": 6895,
+      "carryover": "$6,895",
+      "wagertype": "Jackpot High-5",
+      "track": "Sam Houston Race Park",
+      "date": "Jul 07",
+      "ndate": 20210707
     },
     {
       "carryoverAmount": 6892,
@@ -145,20 +185,20 @@
       "ndate": 20210703
     },
     {
-      "carryoverAmount": 5846,
-      "carryover": "$5,846",
-      "wagertype": "Jackpot High-5",
+      "carryoverAmount": 6574,
+      "carryover": "$6,574",
+      "wagertype": "Z-5 Super Hi-5",
       "track": "Lone Star Park",
-      "date": "Jul 02",
-      "ndate": 20210702
+      "date": "Jul 03",
+      "ndate": 20210703
     },
     {
-      "carryoverAmount": 5338,
-      "carryover": "$5,338",
-      "wagertype": "Pick 7",
-      "track": "Fanduel Sportsbook And Horse R",
-      "date": "Jul 02",
-      "ndate": 20210702
+      "carryoverAmount": 5614,
+      "carryover": "$5,614",
+      "wagertype": "Pick 8",
+      "track": "Arlington",
+      "date": "Jul 03",
+      "ndate": 20210703
     },
     {
       "carryoverAmount": 4940,
@@ -169,12 +209,20 @@
       "ndate": 20210703
     },
     {
-      "carryoverAmount": 4160,
-      "carryover": "$4,160",
-      "wagertype": "Z-5 Super Hi-5",
-      "track": "Lone Star Park",
-      "date": "Jul 02",
-      "ndate": 20210702
+      "carryoverAmount": 4514,
+      "carryover": "$4,514",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Hollywood Casino At Charles To",
+      "date": "Jul 03",
+      "ndate": 20210703
+    },
+    {
+      "carryoverAmount": 3802,
+      "carryover": "$3,802",
+      "wagertype": "Pick 7",
+      "track": "Arlington",
+      "date": "Jul 03",
+      "ndate": 20210703
     },
     {
       "carryoverAmount": 3732,
@@ -185,28 +233,44 @@
       "ndate": 20210705
     },
     {
-      "carryoverAmount": 2694,
-      "carryover": "$2,694",
-      "wagertype": "Jackpot High-5",
-      "track": "Sam Houston Race Park",
-      "date": "Jul 02",
-      "ndate": 20210702
-    },
-    {
-      "carryoverAmount": 2039,
-      "carryover": "$2,039",
+      "carryoverAmount": 3216,
+      "carryover": "$3,216",
       "wagertype": "Z-5 Super Hi-5",
       "track": "Sam Houston Race Park",
-      "date": "Jul 02",
-      "ndate": 20210702
+      "date": "Jul 07",
+      "ndate": 20210707
     },
     {
-      "carryoverAmount": 739,
-      "carryover": "$739",
+      "carryoverAmount": 2913,
+      "carryover": "$2,913",
+      "wagertype": "Super High Five",
+      "track": "Century Mile Tb",
+      "date": "Jul 04",
+      "ndate": 20210704
+    },
+    {
+      "carryoverAmount": 1720,
+      "carryover": "$1,720",
       "wagertype": "Pick 6",
       "track": "Sam Houston Race Park",
-      "date": "Jul 02",
-      "ndate": 20210702
+      "date": "Jul 07",
+      "ndate": 20210707
+    },
+    {
+      "carryoverAmount": 1456,
+      "carryover": "$1,456",
+      "wagertype": "Super High Five",
+      "track": "Pimlico",
+      "date": "Jul 03",
+      "ndate": 20210703
+    },
+    {
+      "carryoverAmount": 920,
+      "carryover": "$920",
+      "wagertype": "Super High Five",
+      "track": "Ellis Park",
+      "date": "Jul 03",
+      "ndate": 20210703
     },
     {
       "carryoverAmount": 292,
