@@ -1,12 +1,44 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 136671,
-      "carryover": "$136,671",
+      "carryoverAmount": 189088,
+      "carryover": "$189,088",
       "wagertype": "Pick 5 Jackpot",
-      "track": "Parx Racing",
-      "date": "Jul 12",
-      "ndate": 20210712
+      "track": "Assiniboia Downs",
+      "date": "Jul 13",
+      "ndate": 20210713
+    },
+    {
+      "carryoverAmount": 185368,
+      "carryover": "$185,368",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Louisiana Downs",
+      "date": "Jul 13",
+      "ndate": 20210713
+    },
+    {
+      "carryoverAmount": 104703,
+      "carryover": "$104,703",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Hastings Racecourse",
+      "date": "Jul 13",
+      "ndate": 20210713
+    },
+    {
+      "carryoverAmount": 90417,
+      "carryover": "$90,417",
+      "wagertype": "Jackpot High-5",
+      "track": "Prairie Meadows",
+      "date": "Jul 16",
+      "ndate": 20210716
+    },
+    {
+      "carryoverAmount": 38714,
+      "carryover": "$38,714",
+      "wagertype": "Jackpot High-5",
+      "track": "Assiniboia Downs",
+      "date": "Jul 13",
+      "ndate": 20210713
     },
     {
       "carryoverAmount": 25709,
@@ -15,6 +47,14 @@
       "track": "Hollywood Casino At Charles To",
       "date": "Jul 15",
       "ndate": 20210715
+    },
+    {
+      "carryoverAmount": 23154,
+      "carryover": "$23,154",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Louisiana Downs",
+      "date": "Jul 13",
+      "ndate": 20210713
     },
     {
       "carryoverAmount": 23101,
@@ -41,6 +81,14 @@
       "ndate": 20210713
     },
     {
+      "carryoverAmount": 16171,
+      "carryover": "$16,171",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Prairie Meadows",
+      "date": "Jul 16",
+      "ndate": 20210716
+    },
+    {
       "carryoverAmount": 13697,
       "carryover": "$13,697",
       "wagertype": "Pick 7",
@@ -49,12 +97,28 @@
       "ndate": 20210713
     },
     {
-      "carryoverAmount": 7709,
-      "carryover": "$7,709",
+      "carryoverAmount": 12846,
+      "carryover": "$12,846",
       "wagertype": "Pick 6 Jackpot",
       "track": "Indiana Grand Race Course",
-      "date": "Jul 12",
-      "ndate": 20210712
+      "date": "Jul 13",
+      "ndate": 20210713
+    },
+    {
+      "carryoverAmount": 5269,
+      "carryover": "$5,269",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Thistledown",
+      "date": "Jul 13",
+      "ndate": 20210713
+    },
+    {
+      "carryoverAmount": 4842,
+      "carryover": "$4,842",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Hastings Racecourse",
+      "date": "Jul 13",
+      "ndate": 20210713
     },
     {
       "carryoverAmount": 4134,
@@ -63,14 +127,6 @@
       "track": "Sam Houston Race Park",
       "date": "Jul 14",
       "ndate": 20210714
-    },
-    {
-      "carryoverAmount": 3407,
-      "carryover": "$3,407",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Thistledown",
-      "date": "Jul 12",
-      "ndate": 20210712
     },
     {
       "carryoverAmount": 2723,
@@ -89,12 +145,12 @@
       "ndate": 20210716
     },
     {
-      "carryoverAmount": 960,
-      "carryover": "$960",
+      "carryoverAmount": 1482,
+      "carryover": "$1,482",
       "wagertype": "Pick 6 Jackpot",
       "track": "Presque Isle Downs",
-      "date": "Jul 12",
-      "ndate": 20210712
+      "date": "Jul 13",
+      "ndate": 20210713
     }
   ]
 }
