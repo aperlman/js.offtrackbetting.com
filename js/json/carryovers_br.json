@@ -9,10 +9,26 @@
       "ndate": 20210717
     },
     {
+      "carryoverAmount": 132083,
+      "carryover": "$132,083",
+      "wagertype": "Jackpot High-5",
+      "track": "Arlington",
+      "date": "Jul 16",
+      "ndate": 20210716
+    },
+    {
       "carryoverAmount": 90417,
       "carryover": "$90,417",
       "wagertype": "Jackpot High-5",
       "track": "Prairie Meadows",
+      "date": "Jul 16",
+      "ndate": 20210716
+    },
+    {
+      "carryoverAmount": 30546,
+      "carryover": "$30,546",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Hollywood Casino At Charles To",
       "date": "Jul 16",
       "ndate": 20210716
     },
@@ -25,26 +41,50 @@
       "ndate": 20210717
     },
     {
-      "carryoverAmount": 25709,
-      "carryover": "$25,709",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Hollywood Casino At Charles To",
-      "date": "Jul 15",
-      "ndate": 20210715
+      "carryoverAmount": 24986,
+      "carryover": "$24,986",
+      "wagertype": "Jackpot High-5",
+      "track": "Woodbine",
+      "date": "Jul 16",
+      "ndate": 20210716
     },
     {
-      "carryoverAmount": 24507,
-      "carryover": "$24,507",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Indiana Grand Race Course",
-      "date": "Jul 15",
-      "ndate": 20210715
+      "carryoverAmount": 16590,
+      "carryover": "$16,590",
+      "wagertype": "Pick 5",
+      "track": "Delaware Park",
+      "date": "Jul 17",
+      "ndate": 20210717
     },
     {
       "carryoverAmount": 16171,
       "carryover": "$16,171",
       "wagertype": "Pick 5 Jackpot",
       "track": "Prairie Meadows",
+      "date": "Jul 16",
+      "ndate": 20210716
+    },
+    {
+      "carryoverAmount": 6031,
+      "carryover": "$6,031",
+      "wagertype": "Pick 7",
+      "track": "Arlington",
+      "date": "Jul 16",
+      "ndate": 20210716
+    },
+    {
+      "carryoverAmount": 5550,
+      "carryover": "$5,550",
+      "wagertype": "Pick 6",
+      "track": "Sam Houston Race Park",
+      "date": "Jul 16",
+      "ndate": 20210716
+    },
+    {
+      "carryoverAmount": 2567,
+      "carryover": "$2,567",
+      "wagertype": "Pick 6",
+      "track": "Arlington",
       "date": "Jul 16",
       "ndate": 20210716
     },
@@ -73,12 +113,12 @@
       "ndate": 20210716
     },
     {
-      "carryoverAmount": 926,
-      "carryover": "$926",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Thistledown",
-      "date": "Jul 15",
-      "ndate": 20210715
+      "carryoverAmount": 672,
+      "carryover": "$672",
+      "wagertype": "Jackpot High-5",
+      "track": "Sam Houston Race Park",
+      "date": "Jul 16",
+      "ndate": 20210716
     }
   ]
 }
