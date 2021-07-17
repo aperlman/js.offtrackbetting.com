@@ -1,6 +1,14 @@
 {
   "carryovers": [
     {
+      "carryoverAmount": 251242,
+      "carryover": "$251,242",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Gulfstream Park",
+      "date": "Jul 17",
+      "ndate": 20210717
+    },
+    {
       "carryoverAmount": 194744,
       "carryover": "$194,744",
       "wagertype": "Pick 5 Jackpot",
@@ -9,28 +17,28 @@
       "ndate": 20210717
     },
     {
-      "carryoverAmount": 132083,
-      "carryover": "$132,083",
+      "carryoverAmount": 187616,
+      "carryover": "$187,616",
+      "wagertype": "Super High Five",
+      "track": "Pleasanton",
+      "date": "Jul 17",
+      "ndate": 20210717
+    },
+    {
+      "carryoverAmount": 170197,
+      "carryover": "$170,197",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Pleasanton",
+      "date": "Jul 17",
+      "ndate": 20210717
+    },
+    {
+      "carryoverAmount": 136740,
+      "carryover": "$136,740",
       "wagertype": "Jackpot High-5",
       "track": "Arlington",
-      "date": "Jul 16",
-      "ndate": 20210716
-    },
-    {
-      "carryoverAmount": 90417,
-      "carryover": "$90,417",
-      "wagertype": "Jackpot High-5",
-      "track": "Prairie Meadows",
-      "date": "Jul 16",
-      "ndate": 20210716
-    },
-    {
-      "carryoverAmount": 30546,
-      "carryover": "$30,546",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Hollywood Casino At Charles To",
-      "date": "Jul 16",
-      "ndate": 20210716
+      "date": "Jul 17",
+      "ndate": 20210717
     },
     {
       "carryoverAmount": 26337,
@@ -41,12 +49,20 @@
       "ndate": 20210717
     },
     {
-      "carryoverAmount": 24986,
-      "carryover": "$24,986",
+      "carryoverAmount": 26012,
+      "carryover": "$26,012",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Monmouth Park",
+      "date": "Jul 17",
+      "ndate": 20210717
+    },
+    {
+      "carryoverAmount": 17655,
+      "carryover": "$17,655",
       "wagertype": "Jackpot High-5",
-      "track": "Woodbine",
-      "date": "Jul 16",
-      "ndate": 20210716
+      "track": "Penn National",
+      "date": "Jul 20",
+      "ndate": 20210720
     },
     {
       "carryoverAmount": 16590,
@@ -57,36 +73,20 @@
       "ndate": 20210717
     },
     {
-      "carryoverAmount": 16171,
-      "carryover": "$16,171",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Prairie Meadows",
-      "date": "Jul 16",
-      "ndate": 20210716
+      "carryoverAmount": 13742,
+      "carryover": "$13,742",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Pimlico",
+      "date": "Jul 17",
+      "ndate": 20210717
     },
     {
-      "carryoverAmount": 6031,
-      "carryover": "$6,031",
-      "wagertype": "Pick 7",
-      "track": "Arlington",
-      "date": "Jul 16",
-      "ndate": 20210716
-    },
-    {
-      "carryoverAmount": 5550,
-      "carryover": "$5,550",
-      "wagertype": "Pick 6",
-      "track": "Sam Houston Race Park",
-      "date": "Jul 16",
-      "ndate": 20210716
-    },
-    {
-      "carryoverAmount": 2567,
-      "carryover": "$2,567",
-      "wagertype": "Pick 6",
-      "track": "Arlington",
-      "date": "Jul 16",
-      "ndate": 20210716
+      "carryoverAmount": 2485,
+      "carryover": "$2,485",
+      "wagertype": "Super High Five",
+      "track": "Pimlico",
+      "date": "Jul 17",
+      "ndate": 20210717
     },
     {
       "carryoverAmount": 2082,
@@ -105,20 +105,20 @@
       "ndate": 20210719
     },
     {
-      "carryoverAmount": 1672,
-      "carryover": "$1,672",
+      "carryoverAmount": 1586,
+      "carryover": "$1,586",
       "wagertype": "Super High Five",
       "track": "Gulfstream Park",
-      "date": "Jul 16",
-      "ndate": 20210716
+      "date": "Jul 17",
+      "ndate": 20210717
     },
     {
-      "carryoverAmount": 672,
-      "carryover": "$672",
-      "wagertype": "Jackpot High-5",
-      "track": "Sam Houston Race Park",
-      "date": "Jul 16",
-      "ndate": 20210716
+      "carryoverAmount": 685,
+      "carryover": "$685",
+      "wagertype": "Super High Five",
+      "track": "Pimlico",
+      "date": "Jul 17",
+      "ndate": 20210717
     }
   ]
 }
