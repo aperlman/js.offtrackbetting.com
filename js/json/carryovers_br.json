@@ -1,12 +1,12 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 686926,
-      "carryover": "$686,926",
+      "carryoverAmount": 747277,
+      "carryover": "$747,277",
       "wagertype": "Pick 6 Jackpot",
       "track": "Del Mar",
-      "date": "Aug 05",
-      "ndate": 20210805
+      "date": "Aug 06",
+      "ndate": 20210806
     },
     {
       "carryoverAmount": 283912,
@@ -33,12 +33,12 @@
       "ndate": 20210806
     },
     {
-      "carryoverAmount": 187170,
-      "carryover": "$187,170",
+      "carryoverAmount": 192406,
+      "carryover": "$192,406",
       "wagertype": "Jackpot High-5",
       "track": "Arlington",
-      "date": "Aug 05",
-      "ndate": 20210805
+      "date": "Aug 06",
+      "ndate": 20210806
     },
     {
       "carryoverAmount": 140462,
@@ -65,20 +65,20 @@
       "ndate": 20210806
     },
     {
-      "carryoverAmount": 16766,
-      "carryover": "$16,766",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Emerald Downs",
-      "date": "Aug 05",
-      "ndate": 20210805
-    },
-    {
-      "carryoverAmount": 14573,
-      "carryover": "$14,573",
+      "carryoverAmount": 16655,
+      "carryover": "$16,655",
       "wagertype": "Pick 6 Jackpot",
       "track": "Thistledown",
-      "date": "Aug 05",
-      "ndate": 20210805
+      "date": "Aug 09",
+      "ndate": 20210809
+    },
+    {
+      "carryoverAmount": 10508,
+      "carryover": "$10,508",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Indiana Grand Race Course",
+      "date": "Aug 09",
+      "ndate": 20210809
     },
     {
       "carryoverAmount": 10216,
@@ -105,12 +105,36 @@
       "ndate": 20210806
     },
     {
+      "carryoverAmount": 8221,
+      "carryover": "$8,221",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Hollywood Casino At Charles To",
+      "date": "Aug 06",
+      "ndate": 20210806
+    },
+    {
       "carryoverAmount": 7537,
       "carryover": "$7,537",
       "wagertype": "Pick 6",
       "track": "Finger Lakes",
       "date": "Aug 09",
       "ndate": 20210809
+    },
+    {
+      "carryoverAmount": 7417,
+      "carryover": "$7,417",
+      "wagertype": "Pick 8",
+      "track": "Arlington",
+      "date": "Aug 06",
+      "ndate": 20210806
+    },
+    {
+      "carryoverAmount": 6833,
+      "carryover": "$6,833",
+      "wagertype": "Pick 5",
+      "track": "Arlington",
+      "date": "Aug 06",
+      "ndate": 20210806
     },
     {
       "carryoverAmount": 6665,
@@ -121,34 +145,58 @@
       "ndate": 20210806
     },
     {
-      "carryoverAmount": 6623,
-      "carryover": "$6,623",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Indiana Grand Race Course",
-      "date": "Aug 05",
-      "ndate": 20210805
+      "carryoverAmount": 6388,
+      "carryover": "$6,388",
+      "wagertype": "Jackpot High-5",
+      "track": "Woodbine",
+      "date": "Aug 06",
+      "ndate": 20210806
     },
     {
-      "carryoverAmount": 4685,
-      "carryover": "$4,685",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Hollywood Casino At Charles To",
-      "date": "Aug 05",
-      "ndate": 20210805
+      "carryoverAmount": 4874,
+      "carryover": "$4,874",
+      "wagertype": "Pick 5",
+      "track": "Sam Houston Race Park",
+      "date": "Aug 06",
+      "ndate": 20210806
     },
     {
-      "carryoverAmount": 4312,
-      "carryover": "$4,312",
-      "wagertype": "Pick 8",
-      "track": "Arlington",
-      "date": "Aug 05",
-      "ndate": 20210805
+      "carryoverAmount": 4646,
+      "carryover": "$4,646",
+      "wagertype": "Pick 5",
+      "track": "Presque Isle Downs",
+      "date": "Aug 09",
+      "ndate": 20210809
+    },
+    {
+      "carryoverAmount": 3988,
+      "carryover": "$3,988",
+      "wagertype": "Jackpot High-5",
+      "track": "Sam Houston Race Park",
+      "date": "Aug 06",
+      "ndate": 20210806
+    },
+    {
+      "carryoverAmount": 3491,
+      "carryover": "$3,491",
+      "wagertype": "Z-5 Super Hi-5",
+      "track": "Emerald Downs",
+      "date": "Aug 07",
+      "ndate": 20210807
     },
     {
       "carryoverAmount": 3470,
       "carryover": "$3,470",
       "wagertype": "Super High Five",
       "track": "Gulfstream Park",
+      "date": "Aug 06",
+      "ndate": 20210806
+    },
+    {
+      "carryoverAmount": 2967,
+      "carryover": "$2,967",
+      "wagertype": "Z-5 Super Hi-5",
+      "track": "Sam Houston Race Park",
       "date": "Aug 06",
       "ndate": 20210806
     },
@@ -165,6 +213,14 @@
       "carryover": "$1,728",
       "wagertype": "Super High Five",
       "track": "Golden Gate Fields",
+      "date": "Aug 06",
+      "ndate": 20210806
+    },
+    {
+      "carryoverAmount": 1722,
+      "carryover": "$1,722",
+      "wagertype": "Pick 7",
+      "track": "Arlington",
       "date": "Aug 06",
       "ndate": 20210806
     },
@@ -201,20 +257,20 @@
       "ndate": 20210806
     },
     {
-      "carryoverAmount": 976,
-      "carryover": "$976",
-      "wagertype": "Pick 7",
-      "track": "Arlington",
-      "date": "Aug 05",
-      "ndate": 20210805
-    },
-    {
-      "carryoverAmount": 875,
-      "carryover": "$875",
+      "carryoverAmount": 970,
+      "carryover": "$970",
       "wagertype": "Pick 6 Jackpot",
       "track": "Presque Isle Downs",
-      "date": "Aug 05",
-      "ndate": 20210805
+      "date": "Aug 09",
+      "ndate": 20210809
+    },
+    {
+      "carryoverAmount": 856,
+      "carryover": "$856",
+      "wagertype": "Pick 6",
+      "track": "Sam Houston Race Park",
+      "date": "Aug 06",
+      "ndate": 20210806
     }
   ]
 }
