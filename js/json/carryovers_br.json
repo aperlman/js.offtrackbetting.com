@@ -9,20 +9,28 @@
       "ndate": 20210812
     },
     {
-      "carryoverAmount": 302532,
-      "carryover": "$302,532",
+      "carryoverAmount": 312452,
+      "carryover": "$312,452",
       "wagertype": "Pick 5 Jackpot",
       "track": "Louisiana Downs",
-      "date": "Aug 09",
-      "ndate": 20210809
+      "date": "Aug 10",
+      "ndate": 20210810
     },
     {
-      "carryoverAmount": 270849,
-      "carryover": "$270,849",
+      "carryoverAmount": 308607,
+      "carryover": "$308,607",
       "wagertype": "Pick 5 Jackpot",
       "track": "Prairie Meadows",
-      "date": "Aug 09",
-      "ndate": 20210809
+      "date": "Aug 13",
+      "ndate": 20210813
+    },
+    {
+      "carryoverAmount": 252228,
+      "carryover": "$252,228",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Hastings Racecourse",
+      "date": "Aug 10",
+      "ndate": 20210810
     },
     {
       "carryoverAmount": 218542,
@@ -41,12 +49,12 @@
       "ndate": 20210811
     },
     {
-      "carryoverAmount": 157558,
-      "carryover": "$157,558",
+      "carryoverAmount": 161844,
+      "carryover": "$161,844",
       "wagertype": "Jackpot High-5",
       "track": "Prairie Meadows",
-      "date": "Aug 09",
-      "ndate": 20210809
+      "date": "Aug 13",
+      "ndate": 20210813
     },
     {
       "carryoverAmount": 100851,
@@ -55,6 +63,14 @@
       "track": "Gulfstream Park",
       "date": "Aug 13",
       "ndate": 20210813
+    },
+    {
+      "carryoverAmount": 72157,
+      "carryover": "$72,157",
+      "wagertype": "Jackpot High-5",
+      "track": "Fort Erie",
+      "date": "Aug 10",
+      "ndate": 20210810
     },
     {
       "carryoverAmount": 43692,
@@ -97,12 +113,20 @@
       "ndate": 20210812
     },
     {
-      "carryoverAmount": 16655,
-      "carryover": "$16,655",
+      "carryoverAmount": 18875,
+      "carryover": "$18,875",
       "wagertype": "Pick 6 Jackpot",
       "track": "Thistledown",
-      "date": "Aug 09",
-      "ndate": 20210809
+      "date": "Aug 10",
+      "ndate": 20210810
+    },
+    {
+      "carryoverAmount": 16126,
+      "carryover": "$16,126",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Indiana Grand Race Course",
+      "date": "Aug 10",
+      "ndate": 20210810
     },
     {
       "carryoverAmount": 13881,
@@ -113,28 +137,20 @@
       "ndate": 20210812
     },
     {
-      "carryoverAmount": 10508,
-      "carryover": "$10,508",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Indiana Grand Race Course",
-      "date": "Aug 09",
-      "ndate": 20210809
-    },
-    {
-      "carryoverAmount": 7537,
-      "carryover": "$7,537",
+      "carryoverAmount": 9368,
+      "carryover": "$9,368",
       "wagertype": "Pick 6",
       "track": "Finger Lakes",
-      "date": "Aug 09",
-      "ndate": 20210809
+      "date": "Aug 10",
+      "ndate": 20210810
     },
     {
-      "carryoverAmount": 4646,
-      "carryover": "$4,646",
-      "wagertype": "Pick 5",
-      "track": "Presque Isle Downs",
-      "date": "Aug 09",
-      "ndate": 20210809
+      "carryoverAmount": 4982,
+      "carryover": "$4,982",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Hastings Racecourse",
+      "date": "Aug 10",
+      "ndate": 20210810
     },
     {
       "carryoverAmount": 4060,
@@ -153,14 +169,6 @@
       "ndate": 20210813
     },
     {
-      "carryoverAmount": 3504,
-      "carryover": "$3,504",
-      "wagertype": "Pick 4",
-      "track": "Louisiana Downs",
-      "date": "Aug 09",
-      "ndate": 20210809
-    },
-    {
       "carryoverAmount": 3314,
       "carryover": "$3,314",
       "wagertype": "Pick 6 Jackpot",
@@ -175,6 +183,14 @@
       "track": "Emerald Downs",
       "date": "Aug 12",
       "ndate": 20210812
+    },
+    {
+      "carryoverAmount": 2185,
+      "carryover": "$2,185",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Louisiana Downs",
+      "date": "Aug 10",
+      "ndate": 20210810
     },
     {
       "carryoverAmount": 1837,
@@ -217,28 +233,12 @@
       "ndate": 20210813
     },
     {
-      "carryoverAmount": 970,
-      "carryover": "$970",
+      "carryoverAmount": 1236,
+      "carryover": "$1,236",
       "wagertype": "Pick 6 Jackpot",
       "track": "Presque Isle Downs",
-      "date": "Aug 09",
-      "ndate": 20210809
-    },
-    {
-      "carryoverAmount": 913,
-      "carryover": "$913",
-      "wagertype": "Super High Five",
-      "track": "Louisiana Downs",
-      "date": "Aug 09",
-      "ndate": 20210809
-    },
-    {
-      "carryoverAmount": 673,
-      "carryover": "$673",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Louisiana Downs",
-      "date": "Aug 09",
-      "ndate": 20210809
+      "date": "Aug 10",
+      "ndate": 20210810
     }
   ]
 }
