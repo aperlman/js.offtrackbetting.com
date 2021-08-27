@@ -1,6 +1,14 @@
 {
   "carryovers": [
     {
+      "carryoverAmount": 400719,
+      "carryover": "$400,719",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Hastings",
+      "date": "Aug 30",
+      "ndate": 20210830
+    },
+    {
       "carryoverAmount": 289210,
       "carryover": "$289,210",
       "wagertype": "Pick 6 Jackpot",
@@ -29,8 +37,16 @@
       "carryover": "$142,995",
       "wagertype": "Super High Five Jackpot",
       "track": "Woodbine",
-      "date": "Aug 26",
-      "ndate": 20210826
+      "date": "Aug 27",
+      "ndate": 20210827
+    },
+    {
+      "carryoverAmount": 96747,
+      "carryover": "$96,747",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Fort Erie",
+      "date": "Aug 30",
+      "ndate": 20210830
     },
     {
       "carryoverAmount": 84481,
@@ -45,16 +61,32 @@
       "carryover": "$63,006",
       "wagertype": "Pick 6 Jackpot",
       "track": "Woodbine",
-      "date": "Aug 26",
-      "ndate": 20210826
+      "date": "Aug 27",
+      "ndate": 20210827
     },
     {
-      "carryoverAmount": 35971,
-      "carryover": "$35,971",
+      "carryoverAmount": 38440,
+      "carryover": "$38,440",
       "wagertype": "Pick 6 Jackpot",
       "track": "Thistledown",
-      "date": "Aug 26",
-      "ndate": 20210826
+      "date": "Aug 30",
+      "ndate": 20210830
+    },
+    {
+      "carryoverAmount": 33450,
+      "carryover": "$33,450",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Del Mar",
+      "date": "Aug 27",
+      "ndate": 20210827
+    },
+    {
+      "carryoverAmount": 25177,
+      "carryover": "$25,177",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Indiana Grand",
+      "date": "Aug 30",
+      "ndate": 20210830
     },
     {
       "carryoverAmount": 22700,
@@ -73,12 +105,12 @@
       "ndate": 20210830
     },
     {
-      "carryoverAmount": 20119,
-      "carryover": "$20,119",
+      "carryoverAmount": 16912,
+      "carryover": "$16,912",
       "wagertype": "Pick 6 Jackpot",
-      "track": "Indiana Grand",
-      "date": "Aug 26",
-      "ndate": 20210826
+      "track": "Hastings",
+      "date": "Aug 30",
+      "ndate": 20210830
     },
     {
       "carryoverAmount": 15795,
@@ -97,12 +129,12 @@
       "ndate": 20210827
     },
     {
-      "carryoverAmount": 12974,
-      "carryover": "$12,974",
-      "wagertype": "Pick 5",
-      "track": "Arlington",
-      "date": "Aug 26",
-      "ndate": 20210826
+      "carryoverAmount": 10225,
+      "carryover": "$10,225",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Charles Town",
+      "date": "Aug 27",
+      "ndate": 20210827
     },
     {
       "carryoverAmount": 9563,
@@ -121,14 +153,6 @@
       "ndate": 20210828
     },
     {
-      "carryoverAmount": 6821,
-      "carryover": "$6,821",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Charles Town",
-      "date": "Aug 26",
-      "ndate": 20210826
-    },
-    {
       "carryoverAmount": 4950,
       "carryover": "$4,950",
       "wagertype": "Super High Five",
@@ -137,12 +161,12 @@
       "ndate": 20210827
     },
     {
-      "carryoverAmount": 4180,
-      "carryover": "$4,180",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Presque Isle",
-      "date": "Aug 26",
-      "ndate": 20210826
+      "carryoverAmount": 4745,
+      "carryover": "$4,745",
+      "wagertype": "Pick 6",
+      "track": "Arlington",
+      "date": "Aug 27",
+      "ndate": 20210827
     },
     {
       "carryoverAmount": 3821,
@@ -153,12 +177,28 @@
       "ndate": 20210828
     },
     {
-      "carryoverAmount": 1973,
-      "carryover": "$1,973",
-      "wagertype": "Pick 6",
+      "carryoverAmount": 3656,
+      "carryover": "$3,656",
+      "wagertype": "Pick 8",
       "track": "Arlington",
-      "date": "Aug 26",
-      "ndate": 20210826
+      "date": "Aug 27",
+      "ndate": 20210827
+    },
+    {
+      "carryoverAmount": 2776,
+      "carryover": "$2,776",
+      "wagertype": "Daily Double",
+      "track": "Hastings",
+      "date": "Aug 30",
+      "ndate": 20210830
+    },
+    {
+      "carryoverAmount": 2124,
+      "carryover": "$2,124",
+      "wagertype": "Super High Five",
+      "track": "Indiana Grand",
+      "date": "Aug 30",
+      "ndate": 20210830
     },
     {
       "carryoverAmount": 1830,
@@ -177,12 +217,12 @@
       "ndate": 20210827
     },
     {
-      "carryoverAmount": 1656,
-      "carryover": "$1,656",
-      "wagertype": "Pick 8",
-      "track": "Arlington",
-      "date": "Aug 26",
-      "ndate": 20210826
+      "carryoverAmount": 1723,
+      "carryover": "$1,723",
+      "wagertype": "Pick 6",
+      "track": "Arizona Downs",
+      "date": "Aug 31",
+      "ndate": 20210831
     },
     {
       "carryoverAmount": 1349,
@@ -193,20 +233,28 @@
       "ndate": 20210830
     },
     {
-      "carryoverAmount": 508,
-      "carryover": "$508",
-      "wagertype": "Pick 7",
-      "track": "Arlington",
-      "date": "Aug 26",
-      "ndate": 20210826
+      "carryoverAmount": 1203,
+      "carryover": "$1,203",
+      "wagertype": "Pick 6",
+      "track": "Canterbury Park",
+      "date": "Aug 29",
+      "ndate": 20210829
     },
     {
-      "carryoverAmount": 236,
-      "carryover": "$236",
+      "carryoverAmount": 1188,
+      "carryover": "$1,188",
+      "wagertype": "Pick 7",
+      "track": "Arlington",
+      "date": "Aug 27",
+      "ndate": 20210827
+    },
+    {
+      "carryoverAmount": 327,
+      "carryover": "$327",
       "wagertype": "Pick 5",
       "track": "Arapahoe",
-      "date": "Aug 26",
-      "ndate": 20210826
+      "date": "Aug 27",
+      "ndate": 20210827
     }
   ]
 }
