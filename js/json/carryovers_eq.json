@@ -1,6 +1,14 @@
 {
   "carryovers": [
     {
+      "carryoverAmount": 408256,
+      "carryover": "$408,256",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Gulfstream Park",
+      "date": "Sep 03",
+      "ndate": 20210903
+    },
+    {
       "carryoverAmount": 400719,
       "carryover": "$400,719",
       "wagertype": "Pick 5 Jackpot",
@@ -9,36 +17,28 @@
       "ndate": 20210830
     },
     {
-      "carryoverAmount": 360902,
-      "carryover": "$360,902",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Gulfstream Park",
-      "date": "Aug 29",
-      "ndate": 20210829
-    },
-    {
-      "carryoverAmount": 206433,
-      "carryover": "$206,433",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Ferndale",
-      "date": "Aug 29",
-      "ndate": 20210829
-    },
-    {
-      "carryoverAmount": 188508,
-      "carryover": "$188,508",
+      "carryoverAmount": 294181,
+      "carryover": "$294,181",
       "wagertype": "Pick 6 Jackpot",
       "track": "Del Mar",
-      "date": "Aug 29",
-      "ndate": 20210829
+      "date": "Sep 02",
+      "ndate": 20210902
     },
     {
-      "carryoverAmount": 165077,
-      "carryover": "$165,077",
+      "carryoverAmount": 174074,
+      "carryover": "$174,074",
       "wagertype": "Super High Five Jackpot",
       "track": "Woodbine",
-      "date": "Aug 29",
-      "ndate": 20210829
+      "date": "Sep 02",
+      "ndate": 20210902
+    },
+    {
+      "carryoverAmount": 161541,
+      "carryover": "$161,541",
+      "wagertype": "Pick 6",
+      "track": "Saratoga",
+      "date": "Sep 01",
+      "ndate": 20210901
     },
     {
       "carryoverAmount": 156476,
@@ -49,12 +49,12 @@
       "ndate": 20210830
     },
     {
-      "carryoverAmount": 103643,
-      "carryover": "$103,643",
+      "carryoverAmount": 114853,
+      "carryover": "$114,853",
       "wagertype": "Pick 6 Jackpot",
       "track": "Monmouth Park",
-      "date": "Aug 29",
-      "ndate": 20210829
+      "date": "Sep 03",
+      "ndate": 20210903
     },
     {
       "carryoverAmount": 96747,
@@ -89,6 +89,14 @@
       "ndate": 20210830
     },
     {
+      "carryoverAmount": 19430,
+      "carryover": "$19,430",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Louisiana Downs",
+      "date": "Aug 30",
+      "ndate": 20210830
+    },
+    {
       "carryoverAmount": 19292,
       "carryover": "$19,292",
       "wagertype": "Pick 7",
@@ -105,14 +113,6 @@
       "ndate": 20210902
     },
     {
-      "carryoverAmount": 17189,
-      "carryover": "$17,189",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Louisiana Downs",
-      "date": "Aug 29",
-      "ndate": 20210829
-    },
-    {
       "carryoverAmount": 16912,
       "carryover": "$16,912",
       "wagertype": "Pick 6 Jackpot",
@@ -121,52 +121,60 @@
       "ndate": 20210830
     },
     {
-      "carryoverAmount": 12812,
-      "carryover": "$12,812",
+      "carryoverAmount": 15210,
+      "carryover": "$15,210",
       "wagertype": "Pick 5 Jackpot",
       "track": "Prairie Meadows",
-      "date": "Aug 29",
-      "ndate": 20210829
+      "date": "Aug 30",
+      "ndate": 20210830
     },
     {
-      "carryoverAmount": 11598,
-      "carryover": "$11,598",
-      "wagertype": "Twin Trifecta",
-      "track": "Gillespie",
-      "date": "Aug 29",
-      "ndate": 20210829
+      "carryoverAmount": 13917,
+      "carryover": "$13,917",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Woodbine",
+      "date": "Sep 02",
+      "ndate": 20210902
     },
     {
-      "carryoverAmount": 10000,
-      "carryover": "$10,000",
-      "wagertype": "Pick 6",
-      "track": "Los Alamitos",
-      "date": "Aug 29",
-      "ndate": 20210829
+      "carryoverAmount": 6950,
+      "carryover": "$6,950",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Sep 03",
+      "ndate": 20210903
     },
     {
-      "carryoverAmount": 5310,
-      "carryover": "$5,310",
+      "carryoverAmount": 6802,
+      "carryover": "$6,802",
       "wagertype": "Pick 5 Jackpot",
       "track": "Louisiana Downs",
-      "date": "Aug 29",
-      "ndate": 20210829
+      "date": "Aug 30",
+      "ndate": 20210830
     },
     {
-      "carryoverAmount": 4106,
-      "carryover": "$4,106",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Ferndale",
-      "date": "Aug 29",
-      "ndate": 20210829
-    },
-    {
-      "carryoverAmount": 3132,
-      "carryover": "$3,132",
+      "carryoverAmount": 5315,
+      "carryover": "$5,315",
       "wagertype": "Super High Five",
-      "track": "Ellis Park",
-      "date": "Aug 29",
-      "ndate": 20210829
+      "track": "Gulfstream Park",
+      "date": "Sep 03",
+      "ndate": 20210903
+    },
+    {
+      "carryoverAmount": 4465,
+      "carryover": "$4,465",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Golden Gate",
+      "date": "Sep 03",
+      "ndate": 20210903
+    },
+    {
+      "carryoverAmount": 3224,
+      "carryover": "$3,224",
+      "wagertype": "Super High Five",
+      "track": "Golden Gate",
+      "date": "Sep 03",
+      "ndate": 20210903
     },
     {
       "carryoverAmount": 2776,
@@ -183,14 +191,6 @@
       "track": "Charles Town",
       "date": "Sep 02",
       "ndate": 20210902
-    },
-    {
-      "carryoverAmount": 2135,
-      "carryover": "$2,135",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Golden Gate",
-      "date": "Aug 29",
-      "ndate": 20210829
     },
     {
       "carryoverAmount": 2124,
@@ -217,6 +217,22 @@
       "ndate": 20210831
     },
     {
+      "carryoverAmount": 1664,
+      "carryover": "$1,664",
+      "wagertype": "Super High Five",
+      "track": "Golden Gate",
+      "date": "Sep 03",
+      "ndate": 20210903
+    },
+    {
+      "carryoverAmount": 1585,
+      "carryover": "$1,585",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Sep 03",
+      "ndate": 20210903
+    },
+    {
       "carryoverAmount": 1349,
       "carryover": "$1,349",
       "wagertype": "Pick 6",
@@ -225,28 +241,36 @@
       "ndate": 20210830
     },
     {
-      "carryoverAmount": 1281,
-      "carryover": "$1,281",
-      "wagertype": "Pick 4",
+      "carryoverAmount": 1072,
+      "carryover": "$1,072",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Sep 03",
+      "ndate": 20210903
+    },
+    {
+      "carryoverAmount": 700,
+      "carryover": "$700",
+      "wagertype": "Super High Five",
+      "track": "Timonium",
+      "date": "Sep 03",
+      "ndate": 20210903
+    },
+    {
+      "carryoverAmount": 576,
+      "carryover": "$576",
+      "wagertype": "Super High Five",
+      "track": "Timonium",
+      "date": "Sep 03",
+      "ndate": 20210903
+    },
+    {
+      "carryoverAmount": 425,
+      "carryover": "$425",
+      "wagertype": "Super High Five",
       "track": "Louisiana Downs",
-      "date": "Aug 29",
-      "ndate": 20210829
-    },
-    {
-      "carryoverAmount": 1203,
-      "carryover": "$1,203",
-      "wagertype": "Pick 6",
-      "track": "Canterbury Park",
-      "date": "Aug 29",
-      "ndate": 20210829
-    },
-    {
-      "carryoverAmount": 1124,
-      "carryover": "$1,124",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Emerald Downs",
-      "date": "Aug 29",
-      "ndate": 20210829
+      "date": "Aug 30",
+      "ndate": 20210830
     },
     {
       "carryoverAmount": 392,
@@ -255,6 +279,14 @@
       "track": "Arapahoe",
       "date": "Sep 01",
       "ndate": 20210901
+    },
+    {
+      "carryoverAmount": 105,
+      "carryover": "$105",
+      "wagertype": "Super High Five",
+      "track": "Timonium",
+      "date": "Sep 03",
+      "ndate": 20210903
     }
   ]
 }
