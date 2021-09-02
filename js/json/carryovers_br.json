@@ -25,14 +25,6 @@
       "ndate": 20210902
     },
     {
-      "carryoverAmount": 161541,
-      "carryover": "$161,541",
-      "wagertype": "Pick 6",
-      "track": "Saratoga",
-      "date": "Sep 01",
-      "ndate": 20210901
-    },
-    {
       "carryoverAmount": 114853,
       "carryover": "$114,853",
       "wagertype": "Pick 6 Jackpot",
@@ -41,20 +33,28 @@
       "ndate": 20210903
     },
     {
-      "carryoverAmount": 42771,
-      "carryover": "$42,771",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Thistledown",
-      "date": "Sep 01",
-      "ndate": 20210901
+      "carryoverAmount": 46905,
+      "carryover": "$46,905",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Parx Racing",
+      "date": "Sep 06",
+      "ndate": 20210906
     },
     {
-      "carryoverAmount": 35047,
-      "carryover": "$35,047",
+      "carryoverAmount": 44481,
+      "carryover": "$44,481",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Thistledown",
+      "date": "Sep 02",
+      "ndate": 20210902
+    },
+    {
+      "carryoverAmount": 40976,
+      "carryover": "$40,976",
       "wagertype": "Pick 6 Jackpot",
       "track": "Indiana Grand Race Course",
-      "date": "Sep 01",
-      "ndate": 20210901
+      "date": "Sep 02",
+      "ndate": 20210902
     },
     {
       "carryoverAmount": 26060,
@@ -137,6 +137,14 @@
       "ndate": 20210903
     },
     {
+      "carryoverAmount": 1126,
+      "carryover": "$1,126",
+      "wagertype": "Pick 6",
+      "track": "Finger Lakes",
+      "date": "Sep 06",
+      "ndate": 20210906
+    },
+    {
       "carryoverAmount": 1072,
       "carryover": "$1,072",
       "wagertype": "Super High Five",
@@ -161,14 +169,6 @@
       "ndate": 20210903
     },
     {
-      "carryoverAmount": 582,
-      "carryover": "$582",
-      "wagertype": "Pick 6",
-      "track": "Finger Lakes",
-      "date": "Sep 01",
-      "ndate": 20210901
-    },
-    {
       "carryoverAmount": 576,
       "carryover": "$576",
       "wagertype": "Super High Five",
@@ -177,12 +177,12 @@
       "ndate": 20210903
     },
     {
-      "carryoverAmount": 392,
-      "carryover": "$392",
+      "carryoverAmount": 478,
+      "carryover": "$478",
       "wagertype": "Pick 5",
       "track": "Arapahoe Park",
-      "date": "Sep 01",
-      "ndate": 20210901
+      "date": "Sep 02",
+      "ndate": 20210902
     },
     {
       "carryoverAmount": 105,
