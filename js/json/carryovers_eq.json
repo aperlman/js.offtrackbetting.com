@@ -1,12 +1,12 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 530894,
-      "carryover": "$530,894",
+      "carryoverAmount": 542152,
+      "carryover": "$542,152",
       "wagertype": "Pick 5 Jackpot",
       "track": "Hastings",
-      "date": "Sep 15",
-      "ndate": 20210915
+      "date": "Sep 16",
+      "ndate": 20210916
     },
     {
       "carryoverAmount": 311073,
@@ -25,20 +25,12 @@
       "ndate": 20210916
     },
     {
-      "carryoverAmount": 266370,
-      "carryover": "$266,370",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Assiniboia",
-      "date": "Sep 15",
-      "ndate": 20210915
-    },
-    {
-      "carryoverAmount": 97269,
-      "carryover": "$97,269",
+      "carryoverAmount": 110954,
+      "carryover": "$110,954",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Sep 15",
-      "ndate": 20210915
+      "date": "Sep 20",
+      "ndate": 20210920
     },
     {
       "carryoverAmount": 90087,
@@ -57,28 +49,20 @@
       "ndate": 20210917
     },
     {
+      "carryoverAmount": 42098,
+      "carryover": "$42,098",
+      "wagertype": "Pick 6",
+      "track": "Los Alamitos",
+      "date": "Sep 18",
+      "ndate": 20210918
+    },
+    {
       "carryoverAmount": 33408,
       "carryover": "$33,408",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
       "date": "Sep 16",
       "ndate": 20210916
-    },
-    {
-      "carryoverAmount": 31330,
-      "carryover": "$31,330",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Assiniboia",
-      "date": "Sep 15",
-      "ndate": 20210915
-    },
-    {
-      "carryoverAmount": 30927,
-      "carryover": "$30,927",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Hastings",
-      "date": "Sep 15",
-      "ndate": 20210915
     },
     {
       "carryoverAmount": 29770,
@@ -89,20 +73,12 @@
       "ndate": 20210918
     },
     {
-      "carryoverAmount": 21483,
-      "carryover": "$21,483",
+      "carryoverAmount": 24485,
+      "carryover": "$24,485",
       "wagertype": "Pick 6 Jackpot",
       "track": "Charles Town",
-      "date": "Sep 15",
-      "ndate": 20210915
-    },
-    {
-      "carryoverAmount": 10847,
-      "carryover": "$10,847",
-      "wagertype": "Pick 6",
-      "track": "Canterbury Park",
-      "date": "Sep 15",
-      "ndate": 20210915
+      "date": "Sep 16",
+      "ndate": 20210916
     },
     {
       "carryoverAmount": 9462,
@@ -127,6 +103,22 @@
       "track": "Century Mile",
       "date": "Sep 18",
       "ndate": 20210918
+    },
+    {
+      "carryoverAmount": 5561,
+      "carryover": "$5,561",
+      "wagertype": "Pick 6",
+      "track": "Finger Lakes",
+      "date": "Sep 20",
+      "ndate": 20210920
+    },
+    {
+      "carryoverAmount": 4770,
+      "carryover": "$4,770",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Indiana Grand",
+      "date": "Sep 16",
+      "ndate": 20210916
     },
     {
       "carryoverAmount": 4259,
@@ -161,36 +153,28 @@
       "ndate": 20210917
     },
     {
-      "carryoverAmount": 2058,
-      "carryover": "$2,058",
-      "wagertype": "Super High Five",
-      "track": "Indiana Grand",
-      "date": "Sep 15",
-      "ndate": 20210915
-    },
-    {
-      "carryoverAmount": 1906,
-      "carryover": "$1,906",
+      "carryoverAmount": 2277,
+      "carryover": "$2,277",
       "wagertype": "Pick 6 Jackpot",
       "track": "Presque Isle",
-      "date": "Sep 15",
-      "ndate": 20210915
+      "date": "Sep 16",
+      "ndate": 20210916
     },
     {
-      "carryoverAmount": 812,
-      "carryover": "$812",
+      "carryoverAmount": 1424,
+      "carryover": "$1,424",
       "wagertype": "Pick 6 Jackpot",
       "track": "Thistledown",
-      "date": "Sep 15",
-      "ndate": 20210915
+      "date": "Sep 16",
+      "ndate": 20210916
     },
     {
-      "carryoverAmount": 208,
-      "carryover": "$208",
+      "carryoverAmount": 452,
+      "carryover": "$452",
       "wagertype": "Pick 5",
       "track": "Arapahoe",
-      "date": "Sep 15",
-      "ndate": 20210915
+      "date": "Sep 16",
+      "ndate": 20210916
     }
   ]
 }
