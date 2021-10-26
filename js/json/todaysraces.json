@@ -5,6 +5,12 @@
     "headline": "OTB Schedule: Tuesday, Oct 26",
     "tracks": [
       {
+               "name": "Albion Park AUS GH",
+               "time": "12:37 AM",
+             "meetno": 670,
+        "results_url": "https://www.offtrackbetting.com/results/"
+      },
+      {
                "name": "Australia A",
                "time": "11:00 PM",
              "meetno": 5,
@@ -72,7 +78,7 @@
       },
       {
                "name": "Chepstow (UK)",
-               "time": " 8:20 AM",
+               "time": " 8:30 AM",
              "meetno": 312,
         "results_url": "https://www.offtrackbetting.com/results/312/chepstow-%28uk%29.html"
       },
@@ -119,6 +125,12 @@
         "results_url": "https://www.offtrackbetting.com/results/483/funabashi-%28japan-nar%29.html"
       },
       {
+               "name": "Gawler AUS GH",
+               "time": " 9:34 AM",
+             "meetno": 696,
+        "results_url": "https://www.offtrackbetting.com/results/"
+      },
+      {
                "name": "Grants Pass",
                "time": " 8:15 PM",
              "meetno": 490,
@@ -138,7 +150,7 @@
       },
       {
                "name": "Mahoning Valley",
-               "time": "12:45 PM",
+               "time": "12:44 PM",
              "meetno": 216,
         "results_url": "https://www.offtrackbetting.com/results/216/mahoning-valley.html"
       },
@@ -150,7 +162,7 @@
       },
       {
                "name": "Monticello Raceway",
-               "time": "12:10 PM",
+               "time": "12:09 PM",
              "meetno": 56,
         "results_url": "https://www.offtrackbetting.com/results/56/monticello-raceway.html"
       },
@@ -198,7 +210,7 @@
       },
       {
                "name": "Pocono Downs",
-               "time": "12:30 PM",
+               "time": "12:29 PM",
              "meetno": 67,
         "results_url": "https://www.offtrackbetting.com/results/67/pocono-downs.html"
       },
@@ -209,8 +221,14 @@
         "results_url": "https://www.offtrackbetting.com/results/68/pompano-park.html"
       },
       {
+               "name": "Richmond AUS GH",
+               "time": "12:12 AM",
+             "meetno": 688,
+        "results_url": "https://www.offtrackbetting.com/results/"
+      },
+      {
                "name": "Saratoga Harness",
-               "time": "12:00 PM",
+               "time": "11:59 AM",
              "meetno": 81,
         "results_url": "https://www.offtrackbetting.com/results/81/saratoga-harness.html"
       },
@@ -222,9 +240,15 @@
       },
       {
                "name": "The Meadows",
-               "time": "12:45 PM",
+               "time": "12:44 PM",
              "meetno": 94,
         "results_url": "https://www.offtrackbetting.com/results/94/the-meadows.html"
+      },
+      {
+               "name": "The Meadows AUS GH",
+               "time": " 9:00 AM",
+             "meetno": 667,
+        "results_url": "https://www.offtrackbetting.com/results/"
       },
       {
                "name": "Towcester  EVE (UK GH)",
