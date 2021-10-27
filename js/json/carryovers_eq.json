@@ -9,12 +9,12 @@
       "ndate": 20211029
     },
     {
-      "carryoverAmount": 154608,
-      "carryover": "$154,608",
+      "carryoverAmount": 171595,
+      "carryover": "$171,595",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Oct 26",
-      "ndate": 20211026
+      "date": "Oct 27",
+      "ndate": 20211027
     },
     {
       "carryoverAmount": 137332,
@@ -25,14 +25,6 @@
       "ndate": 20211028
     },
     {
-      "carryoverAmount": 28846,
-      "carryover": "$28,846",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Grants Pass",
-      "date": "Oct 26",
-      "ndate": 20211026
-    },
-    {
       "carryoverAmount": 28653,
       "carryover": "$28,653",
       "wagertype": "Pick 6 Jackpot",
@@ -41,18 +33,26 @@
       "ndate": 20211027
     },
     {
-      "carryoverAmount": 21789,
-      "carryover": "$21,789",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Fort Erie",
-      "date": "Oct 26",
-      "ndate": 20211026
+      "carryoverAmount": 24411,
+      "carryover": "$24,411",
+      "wagertype": "Pick 5",
+      "track": "Mountaineer",
+      "date": "Oct 27",
+      "ndate": 20211027
     },
     {
       "carryoverAmount": 20051,
       "carryover": "$20,051",
       "wagertype": "Super High Five",
       "track": "Keeneland",
+      "date": "Oct 27",
+      "ndate": 20211027
+    },
+    {
+      "carryoverAmount": 16430,
+      "carryover": "$16,430",
+      "wagertype": "Pick 6",
+      "track": "Finger Lakes",
       "date": "Oct 27",
       "ndate": 20211027
     },
@@ -73,14 +73,6 @@
       "ndate": 20211029
     },
     {
-      "carryoverAmount": 14129,
-      "carryover": "$14,129",
-      "wagertype": "Pick 6",
-      "track": "Finger Lakes",
-      "date": "Oct 26",
-      "ndate": 20211026
-    },
-    {
       "carryoverAmount": 13914,
       "carryover": "$13,914",
       "wagertype": "Super High Five",
@@ -97,6 +89,14 @@
       "ndate": 20211029
     },
     {
+      "carryoverAmount": 8571,
+      "carryover": "$8,571",
+      "wagertype": "Pick 4",
+      "track": "Mahoning Valley",
+      "date": "Oct 27",
+      "ndate": 20211027
+    },
+    {
       "carryoverAmount": 8033,
       "carryover": "$8,033",
       "wagertype": "Pick 6 Jackpot",
@@ -105,20 +105,36 @@
       "ndate": 20211029
     },
     {
-      "carryoverAmount": 5335,
-      "carryover": "$5,335",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Penn National",
-      "date": "Oct 26",
-      "ndate": 20211026
+      "carryoverAmount": 8017,
+      "carryover": "$8,017",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Indiana Grand",
+      "date": "Oct 27",
+      "ndate": 20211027
     },
     {
-      "carryoverAmount": 1999,
-      "carryover": "$1,999",
+      "carryoverAmount": 6291,
+      "carryover": "$6,291",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Penn National",
+      "date": "Oct 27",
+      "ndate": 20211027
+    },
+    {
+      "carryoverAmount": 3636,
+      "carryover": "$3,636",
       "wagertype": "Pick 6 Jackpot",
       "track": "Mahoning Valley",
-      "date": "Oct 26",
-      "ndate": 20211026
+      "date": "Oct 27",
+      "ndate": 20211027
+    },
+    {
+      "carryoverAmount": 2446,
+      "carryover": "$2,446",
+      "wagertype": "Super High Five",
+      "track": "Indiana Grand",
+      "date": "Oct 27",
+      "ndate": 20211027
     },
     {
       "carryoverAmount": 1670,
@@ -143,14 +159,6 @@
       "track": "Lone Star",
       "date": "Oct 29",
       "ndate": 20211029
-    },
-    {
-      "carryoverAmount": 1105,
-      "carryover": "$1,105",
-      "wagertype": "Super High Five",
-      "track": "Mountaineer",
-      "date": "Oct 26",
-      "ndate": 20211026
     }
   ]
 }
