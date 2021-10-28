@@ -42,7 +42,7 @@
       },
       {
                "name": "Belmont Park",
-               "time": "12:34 PM",
+               "time": "12:35 PM",
              "meetno": 10,
         "results_url": "https://www.offtrackbetting.com/results/10/belmont-park.html"
       },
@@ -90,7 +90,7 @@
       },
       {
                "name": "Chelmsford City (UK)",
-               "time": "12:29 PM",
+               "time": "12:30 PM",
              "meetno": 310,
         "results_url": "https://www.offtrackbetting.com/results/310/chelmsford-city-%28uk%29.html"
       },
@@ -155,6 +155,12 @@
         "results_url": "https://www.offtrackbetting.com/results/483/funabashi-%28japan-nar%29.html"
       },
       {
+               "name": "Geelong AUS GH",
+               "time": "12:17 AM",
+             "meetno": 662,
+        "results_url": "https://www.offtrackbetting.com/results/"
+      },
+      {
                "name": "Gulfstream Park",
                "time": "12:50 PM",
              "meetno": 36,
@@ -162,9 +168,15 @@
       },
       {
                "name": "Harrahs Philly (Chester)",
-               "time": "12:24 PM",
+               "time": "12:25 PM",
              "meetno": 296,
         "results_url": "https://www.offtrackbetting.com/results/296/harrahs-philly-%28chester%29.html"
+      },
+      {
+               "name": "Healesville AUS GH",
+               "time": " 8:05 AM",
+             "meetno": 663,
+        "results_url": "https://www.offtrackbetting.com/results/663/healesville-aus-greyhound.html"
       },
       {
                "name": "Hove Eve (UK GH)",
@@ -198,7 +210,7 @@
       },
       {
                "name": "Laurel Park",
-               "time": "12:24 PM",
+               "time": "12:25 PM",
              "meetno": 49,
         "results_url": "https://www.offtrackbetting.com/results/49/laurel-park.html"
       },
@@ -234,9 +246,15 @@
       },
       {
                "name": "Monticello Raceway",
-               "time": "12:09 PM",
+               "time": "12:10 PM",
              "meetno": 56,
         "results_url": "https://www.offtrackbetting.com/results/56/monticello-raceway.html"
+      },
+      {
+               "name": "Murray Bridge AUS GH",
+               "time": " 9:16 AM",
+             "meetno": 695,
+        "results_url": "https://www.offtrackbetting.com/results/"
       },
       {
                "name": "New Zealand",
@@ -275,8 +293,14 @@
         "results_url": "https://www.offtrackbetting.com/results/347/stratford-%28uk%29.html"
       },
       {
+               "name": "The Gardens AUS GH",
+               "time": "12:47 AM",
+             "meetno": 690,
+        "results_url": "https://www.offtrackbetting.com/results/"
+      },
+      {
                "name": "The Meadows",
-               "time": "12:44 PM",
+               "time": "12:45 PM",
              "meetno": 94,
         "results_url": "https://www.offtrackbetting.com/results/94/the-meadows.html"
       },
