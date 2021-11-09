@@ -33,20 +33,20 @@
       "ndate": 20211110
     },
     {
+      "carryoverAmount": 51212,
+      "carryover": "$51,212",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Grants Pass",
+      "date": "Nov 09",
+      "ndate": 20211109
+    },
+    {
       "carryoverAmount": 47524,
       "carryover": "$47,524",
       "wagertype": "Pick 5",
       "track": "Gulfstream Park",
       "date": "Nov 11",
       "ndate": 20211111
-    },
-    {
-      "carryoverAmount": 45260,
-      "carryover": "$45,260",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Grants Pass",
-      "date": "Nov 08",
-      "ndate": 20211108
     },
     {
       "carryoverAmount": 24326,
@@ -57,12 +57,28 @@
       "ndate": 20211112
     },
     {
-      "carryoverAmount": 19175,
-      "carryover": "$19,175",
+      "carryoverAmount": 24253,
+      "carryover": "$24,253",
       "wagertype": "Pick 6 Jackpot",
       "track": "Indiana Grand",
-      "date": "Nov 08",
-      "ndate": 20211108
+      "date": "Nov 09",
+      "ndate": 20211109
+    },
+    {
+      "carryoverAmount": 15055,
+      "carryover": "$15,055",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Parx Racing",
+      "date": "Nov 09",
+      "ndate": 20211109
+    },
+    {
+      "carryoverAmount": 12381,
+      "carryover": "$12,381",
+      "wagertype": "Pick 5",
+      "track": "Mahoning Valley",
+      "date": "Nov 09",
+      "ndate": 20211109
     },
     {
       "carryoverAmount": 10265,
@@ -105,22 +121,6 @@
       "ndate": 20211112
     },
     {
-      "carryoverAmount": 5727,
-      "carryover": "$5,727",
-      "wagertype": "Super High Five",
-      "track": "Gulfstream Park",
-      "date": "Nov 11",
-      "ndate": 20211111
-    },
-    {
-      "carryoverAmount": 5366,
-      "carryover": "$5,366",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Parx Racing",
-      "date": "Nov 08",
-      "ndate": 20211108
-    },
-    {
       "carryoverAmount": 5170,
       "carryover": "$5,170",
       "wagertype": "Pick 6 Jackpot",
@@ -145,28 +145,20 @@
       "ndate": 20211112
     },
     {
-      "carryoverAmount": 2176,
-      "carryover": "$2,176",
+      "carryoverAmount": 2286,
+      "carryover": "$2,286",
       "wagertype": "Super High Five",
       "track": "Indiana Grand",
-      "date": "Nov 08",
-      "ndate": 20211108
+      "date": "Nov 09",
+      "ndate": 20211109
     },
     {
-      "carryoverAmount": 2069,
-      "carryover": "$2,069",
-      "wagertype": "Pick 5",
-      "track": "Mahoning Valley",
-      "date": "Nov 08",
-      "ndate": 20211108
-    },
-    {
-      "carryoverAmount": 1457,
-      "carryover": "$1,457",
-      "wagertype": "Super High Five",
-      "track": "Golden Gate",
-      "date": "Nov 12",
-      "ndate": 20211112
+      "carryoverAmount": 1691,
+      "carryover": "$1,691",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Turf Paradise",
+      "date": "Nov 09",
+      "ndate": 20211109
     },
     {
       "carryoverAmount": 1300,
@@ -177,28 +169,28 @@
       "ndate": 20211111
     },
     {
+      "carryoverAmount": 1142,
+      "carryover": "$1,142",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Mahoning Valley",
+      "date": "Nov 09",
+      "ndate": 20211109
+    },
+    {
+      "carryoverAmount": 1004,
+      "carryover": "$1,004",
+      "wagertype": "Pick 6",
+      "track": "Finger Lakes",
+      "date": "Nov 09",
+      "ndate": 20211109
+    },
+    {
       "carryoverAmount": 863,
       "carryover": "$863",
       "wagertype": "Pick 6 Jackpot",
       "track": "Laurel Park",
       "date": "Nov 11",
       "ndate": 20211111
-    },
-    {
-      "carryoverAmount": 579,
-      "carryover": "$579",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Turf Paradise",
-      "date": "Nov 08",
-      "ndate": 20211108
-    },
-    {
-      "carryoverAmount": 526,
-      "carryover": "$526",
-      "wagertype": "Pick 5",
-      "track": "Turf Paradise",
-      "date": "Nov 08",
-      "ndate": 20211108
     }
   ]
 }
