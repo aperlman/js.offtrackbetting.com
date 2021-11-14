@@ -6,7 +6,7 @@
     "tracks": [
       {
                "name": "Aqueduct",
-               "time": "12:19 PM",
+               "time": "12:20 PM",
              "meetno": 1,
         "results_url": "https://www.offtrackbetting.com/results/1/aqueduct.html"
       },
@@ -45,6 +45,12 @@
                "time": " 9:30 PM",
              "meetno": 639,
         "results_url": "https://www.offtrackbetting.com/results/639/bairnsdale.html"
+      },
+      {
+               "name": "Ballarat AUS GH",
+               "time": "11:07 AM",
+             "meetno": 659,
+        "results_url": "https://www.offtrackbetting.com/results/659/ballarat-aus-greyhound.html"
       },
       {
                "name": "Bathurst AUS GH",
@@ -101,6 +107,12 @@
         "results_url": "https://www.offtrackbetting.com/results/364/cork-%28ire%29.html"
       },
       {
+               "name": "Cranbourne AUS GH",
+               "time": "10:39 AM",
+             "meetno": 661,
+        "results_url": "https://www.offtrackbetting.com/results/661/cranbourne-aus-greyhound.html"
+      },
+      {
                "name": "Del Mar",
                "time": " 3:30 PM",
              "meetno": 19,
@@ -138,13 +150,13 @@
       },
       {
                "name": "Gulfstream Park",
-               "time": "12:29 PM",
+               "time": "12:30 PM",
              "meetno": 36,
         "results_url": "https://www.offtrackbetting.com/results/36/gulfstream-park.html"
       },
       {
                "name": "Harrahs Philly (Chester)",
-               "time": "12:39 PM",
+               "time": "12:40 PM",
              "meetno": 296,
         "results_url": "https://www.offtrackbetting.com/results/296/harrahs-philly-%28chester%29.html"
       },
@@ -162,13 +174,13 @@
       },
       {
                "name": "Hippodrome 3R",
-               "time": "12:09 PM",
+               "time": "12:10 PM",
              "meetno": 213,
         "results_url": "https://www.offtrackbetting.com/results/213/hippodrome-3r.html"
       },
       {
                "name": "Laurel Park",
-               "time": "12:24 PM",
+               "time": "12:25 PM",
              "meetno": 49,
         "results_url": "https://www.offtrackbetting.com/results/49/laurel-park.html"
       },
@@ -246,7 +258,7 @@
       },
       {
                "name": "Saratoga Harness",
-               "time": "11:59 AM",
+               "time": "12:00 PM",
              "meetno": 81,
         "results_url": "https://www.offtrackbetting.com/results/81/saratoga-harness.html"
       },
