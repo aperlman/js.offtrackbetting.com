@@ -17,12 +17,12 @@
       "ndate": 20211124
     },
     {
-      "carryoverAmount": 85739,
-      "carryover": "$85,739",
+      "carryoverAmount": 100999,
+      "carryover": "$100,999",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Nov 23",
-      "ndate": 20211123
+      "date": "Nov 24",
+      "ndate": 20211124
     },
     {
       "carryoverAmount": 73574,
@@ -49,28 +49,20 @@
       "ndate": 20211127
     },
     {
+      "carryoverAmount": 23815,
+      "carryover": "$23,815",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Turf Paradise",
+      "date": "Nov 24",
+      "ndate": 20211124
+    },
+    {
       "carryoverAmount": 21687,
       "carryover": "$21,687",
       "wagertype": "Super High Five",
       "track": "Del Mar",
       "date": "Nov 25",
       "ndate": 20211125
-    },
-    {
-      "carryoverAmount": 19892,
-      "carryover": "$19,892",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Turf Paradise",
-      "date": "Nov 23",
-      "ndate": 20211123
-    },
-    {
-      "carryoverAmount": 18464,
-      "carryover": "$18,464",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Penn National",
-      "date": "Nov 23",
-      "ndate": 20211123
     },
     {
       "carryoverAmount": 13558,
@@ -113,12 +105,28 @@
       "ndate": 20211125
     },
     {
+      "carryoverAmount": 3746,
+      "carryover": "$3,746",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Mahoning Valley",
+      "date": "Nov 24",
+      "ndate": 20211124
+    },
+    {
       "carryoverAmount": 2884,
       "carryover": "$2,884",
       "wagertype": "Super High Five Jackpot",
       "track": "Hawthorne",
       "date": "Nov 26",
       "ndate": 20211126
+    },
+    {
+      "carryoverAmount": 2271,
+      "carryover": "$2,271",
+      "wagertype": "Pick 6",
+      "track": "Finger Lakes",
+      "date": "Nov 24",
+      "ndate": 20211124
     },
     {
       "carryoverAmount": 1898,
@@ -135,22 +143,6 @@
       "track": "Laurel Park",
       "date": "Nov 25",
       "ndate": 20211125
-    },
-    {
-      "carryoverAmount": 1326,
-      "carryover": "$1,326",
-      "wagertype": "Pick 6",
-      "track": "Finger Lakes",
-      "date": "Nov 23",
-      "ndate": 20211123
-    },
-    {
-      "carryoverAmount": 1260,
-      "carryover": "$1,260",
-      "wagertype": "Super High Five",
-      "track": "Mountaineer",
-      "date": "Nov 23",
-      "ndate": 20211123
     }
   ]
 }
