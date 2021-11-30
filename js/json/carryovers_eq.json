@@ -1,20 +1,20 @@
 {
   "carryovers": [
     {
+      "carryoverAmount": 124771,
+      "carryover": "$124,771",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Parx Racing",
+      "date": "Nov 30",
+      "ndate": 20211130
+    },
+    {
       "carryoverAmount": 110118,
       "carryover": "$110,118",
       "wagertype": "Pick 5",
       "track": "Woodbine",
       "date": "Dec 02",
       "ndate": 20211202
-    },
-    {
-      "carryoverAmount": 109421,
-      "carryover": "$109,421",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Parx Racing",
-      "date": "Nov 29",
-      "ndate": 20211129
     },
     {
       "carryoverAmount": 75228,
@@ -41,14 +41,6 @@
       "ndate": 20211203
     },
     {
-      "carryoverAmount": 32167,
-      "carryover": "$32,167",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Turf Paradise",
-      "date": "Nov 29",
-      "ndate": 20211129
-    },
-    {
       "carryoverAmount": 20885,
       "carryover": "$20,885",
       "wagertype": "Super High Five Jackpot",
@@ -65,6 +57,14 @@
       "ndate": 20211203
     },
     {
+      "carryoverAmount": 14555,
+      "carryover": "$14,555",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Mahoning Valley",
+      "date": "Nov 30",
+      "ndate": 20211130
+    },
+    {
       "carryoverAmount": 11583,
       "carryover": "$11,583",
       "wagertype": "Super High Five",
@@ -79,14 +79,6 @@
       "track": "Lone Star",
       "date": "Dec 03",
       "ndate": 20211203
-    },
-    {
-      "carryoverAmount": 9964,
-      "carryover": "$9,964",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Mahoning Valley",
-      "date": "Nov 29",
-      "ndate": 20211129
     },
     {
       "carryoverAmount": 7157,
@@ -129,36 +121,12 @@
       "ndate": 20211203
     },
     {
-      "carryoverAmount": 3564,
-      "carryover": "$3,564",
-      "wagertype": "Super High Five",
-      "track": "Golden Gate",
-      "date": "Dec 03",
-      "ndate": 20211203
-    },
-    {
-      "carryoverAmount": 2677,
-      "carryover": "$2,677",
-      "wagertype": "Super High Five",
-      "track": "Golden Gate",
-      "date": "Dec 03",
-      "ndate": 20211203
-    },
-    {
-      "carryoverAmount": 1964,
-      "carryover": "$1,964",
-      "wagertype": "Pick 4",
-      "track": "Mahoning Valley",
-      "date": "Nov 29",
-      "ndate": 20211129
-    },
-    {
-      "carryoverAmount": 1299,
-      "carryover": "$1,299",
-      "wagertype": "Super High Five",
-      "track": "Golden Gate",
-      "date": "Dec 03",
-      "ndate": 20211203
+      "carryoverAmount": 910,
+      "carryover": "$910",
+      "wagertype": "Pick 5",
+      "track": "Zia Park",
+      "date": "Nov 30",
+      "ndate": 20211130
     }
   ]
 }
