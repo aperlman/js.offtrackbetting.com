@@ -1,6 +1,14 @@
 {
   "carryovers": [
     {
+      "carryoverAmount": 288843,
+      "carryover": "$288,843",
+      "wagertype": "Pick 6",
+      "track": "Aqueduct",
+      "date": "Dec 03",
+      "ndate": 20211203
+    },
+    {
       "carryoverAmount": 154429,
       "carryover": "$154,429",
       "wagertype": "Pick 5 Jackpot",
@@ -9,34 +17,26 @@
       "ndate": 20211206
     },
     {
-      "carryoverAmount": 110118,
-      "carryover": "$110,118",
-      "wagertype": "Pick 5",
-      "track": "Woodbine",
-      "date": "Dec 02",
-      "ndate": 20211202
-    },
-    {
-      "carryoverAmount": 81177,
-      "carryover": "$81,177",
+      "carryoverAmount": 88319,
+      "carryover": "$88,319",
       "wagertype": "Pick 6 Jackpot",
       "track": "Charles Town",
-      "date": "Dec 02",
-      "ndate": 20211202
-    },
-    {
-      "carryoverAmount": 68498,
-      "carryover": "$68,498",
-      "wagertype": "Pick 6",
-      "track": "Aqueduct",
-      "date": "Dec 02",
-      "ndate": 20211202
+      "date": "Dec 03",
+      "ndate": 20211203
     },
     {
       "carryoverAmount": 47575,
       "carryover": "$47,575",
       "wagertype": "Super High Five Jackpot",
       "track": "Lone Star",
+      "date": "Dec 03",
+      "ndate": 20211203
+    },
+    {
+      "carryoverAmount": 32360,
+      "carryover": "$32,360",
+      "wagertype": "Pick 5",
+      "track": "Golden Gate",
       "date": "Dec 03",
       "ndate": 20211203
     },
@@ -65,6 +65,14 @@
       "ndate": 20211203
     },
     {
+      "carryoverAmount": 15216,
+      "carryover": "$15,216",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Woodbine",
+      "date": "Dec 03",
+      "ndate": 20211203
+    },
+    {
       "carryoverAmount": 14038,
       "carryover": "$14,038",
       "wagertype": "Pick 6 Jackpot",
@@ -89,12 +97,12 @@
       "ndate": 20211203
     },
     {
-      "carryoverAmount": 7021,
-      "carryover": "$7,021",
+      "carryoverAmount": 10670,
+      "carryover": "$10,670",
       "wagertype": "Pick 6 Jackpot",
       "track": "Turf Paradise",
-      "date": "Dec 02",
-      "ndate": 20211202
+      "date": "Dec 03",
+      "ndate": 20211203
     },
     {
       "carryoverAmount": 6702,
@@ -105,26 +113,26 @@
       "ndate": 20211203
     },
     {
-      "carryoverAmount": 6281,
-      "carryover": "$6,281",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Woodbine",
-      "date": "Dec 02",
-      "ndate": 20211202
-    },
-    {
-      "carryoverAmount": 5724,
-      "carryover": "$5,724",
+      "carryoverAmount": 6141,
+      "carryover": "$6,141",
       "wagertype": "Pick 6 Jackpot",
-      "track": "Woodbine",
-      "date": "Dec 02",
-      "ndate": 20211202
+      "track": "Turfway Park",
+      "date": "Dec 03",
+      "ndate": 20211203
     },
     {
       "carryoverAmount": 3776,
       "carryover": "$3,776",
       "wagertype": "Pick 6 Jackpot",
       "track": "Laurel Park",
+      "date": "Dec 03",
+      "ndate": 20211203
+    },
+    {
+      "carryoverAmount": 754,
+      "carryover": "$754",
+      "wagertype": "Super High Five",
+      "track": "Turfway Park",
       "date": "Dec 03",
       "ndate": 20211203
     }
