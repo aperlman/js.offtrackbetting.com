@@ -1,12 +1,12 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 154429,
-      "carryover": "$154,429",
+      "carryoverAmount": 171807,
+      "carryover": "$171,807",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Dec 06",
-      "ndate": 20211206
+      "date": "Dec 07",
+      "ndate": 20211207
     },
     {
       "carryoverAmount": 116976,
@@ -33,20 +33,20 @@
       "ndate": 20211209
     },
     {
+      "carryoverAmount": 37166,
+      "carryover": "$37,166",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Mahoning Valley",
+      "date": "Dec 07",
+      "ndate": 20211207
+    },
+    {
       "carryoverAmount": 31522,
       "carryover": "$31,522",
       "wagertype": "Pick 6 Jackpot",
       "track": "Golden Gate",
       "date": "Dec 10",
       "ndate": 20211210
-    },
-    {
-      "carryoverAmount": 30370,
-      "carryover": "$30,370",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Mahoning Valley",
-      "date": "Dec 06",
-      "ndate": 20211206
     },
     {
       "carryoverAmount": 23872,
@@ -81,14 +81,6 @@
       "ndate": 20211209
     },
     {
-      "carryoverAmount": 13507,
-      "carryover": "$13,507",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Turf Paradise",
-      "date": "Dec 06",
-      "ndate": 20211206
-    },
-    {
       "carryoverAmount": 11373,
       "carryover": "$11,373",
       "wagertype": "Super High Five Jackpot",
@@ -113,22 +105,6 @@
       "ndate": 20211210
     },
     {
-      "carryoverAmount": 2245,
-      "carryover": "$2,245",
-      "wagertype": "Super High Five",
-      "track": "Mountaineer",
-      "date": "Dec 06",
-      "ndate": 20211206
-    },
-    {
-      "carryoverAmount": 1394,
-      "carryover": "$1,394",
-      "wagertype": "Super High Five",
-      "track": "Golden Gate",
-      "date": "Dec 10",
-      "ndate": 20211210
-    },
-    {
       "carryoverAmount": 1133,
       "carryover": "$1,133",
       "wagertype": "Pick 5",
@@ -143,14 +119,6 @@
       "track": "Hawthorne",
       "date": "Dec 10",
       "ndate": 20211210
-    },
-    {
-      "carryoverAmount": 178,
-      "carryover": "$178",
-      "wagertype": "Pick 5",
-      "track": "Zia Park",
-      "date": "Dec 06",
-      "ndate": 20211206
     }
   ]
 }
