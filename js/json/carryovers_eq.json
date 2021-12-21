@@ -1,12 +1,12 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 259984,
-      "carryover": "$259,984",
+      "carryoverAmount": 278502,
+      "carryover": "$278,502",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Dec 20",
-      "ndate": 20211220
+      "date": "Dec 21",
+      "ndate": 20211221
     },
     {
       "carryoverAmount": 235981,
@@ -25,6 +25,22 @@
       "ndate": 20211223
     },
     {
+      "carryoverAmount": 58972,
+      "carryover": "$58,972",
+      "wagertype": "Pick 5",
+      "track": "Fair Grounds",
+      "date": "Dec 26",
+      "ndate": 20211226
+    },
+    {
+      "carryoverAmount": 44921,
+      "carryover": "$44,921",
+      "wagertype": "Pick 5",
+      "track": "Fair Grounds",
+      "date": "Dec 26",
+      "ndate": 20211226
+    },
+    {
       "carryoverAmount": 44011,
       "carryover": "$44,011",
       "wagertype": "Pick 6 Jackpot",
@@ -41,12 +57,36 @@
       "ndate": 20211221
     },
     {
-      "carryoverAmount": 11381,
-      "carryover": "$11,381",
-      "wagertype": "Pick 4",
-      "track": "Mahoning Valley",
-      "date": "Dec 20",
-      "ndate": 20211220
+      "carryoverAmount": 26503,
+      "carryover": "$26,503",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Hawthorne",
+      "date": "Dec 26",
+      "ndate": 20211226
+    },
+    {
+      "carryoverAmount": 21271,
+      "carryover": "$21,271",
+      "wagertype": "Pick 5",
+      "track": "Turf Paradise",
+      "date": "Dec 21",
+      "ndate": 20211221
+    },
+    {
+      "carryoverAmount": 14051,
+      "carryover": "$14,051",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Turf Paradise",
+      "date": "Dec 21",
+      "ndate": 20211221
+    },
+    {
+      "carryoverAmount": 8752,
+      "carryover": "$8,752",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Laurel Park",
+      "date": "Dec 26",
+      "ndate": 20211226
     },
     {
       "carryoverAmount": 8334,
@@ -57,12 +97,20 @@
       "ndate": 20211222
     },
     {
-      "carryoverAmount": 8033,
-      "carryover": "$8,033",
+      "carryoverAmount": 6110,
+      "carryover": "$6,110",
       "wagertype": "Pick 6 Jackpot",
-      "track": "Turf Paradise",
-      "date": "Dec 20",
-      "ndate": 20211220
+      "track": "Hawthorne",
+      "date": "Dec 26",
+      "ndate": 20211226
+    },
+    {
+      "carryoverAmount": 3872,
+      "carryover": "$3,872",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Mahoning Valley",
+      "date": "Dec 21",
+      "ndate": 20211221
     },
     {
       "carryoverAmount": 3117,
@@ -73,12 +121,12 @@
       "ndate": 20211223
     },
     {
-      "carryoverAmount": 860,
-      "carryover": "$860",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Mahoning Valley",
-      "date": "Dec 20",
-      "ndate": 20211220
+      "carryoverAmount": 889,
+      "carryover": "$889",
+      "wagertype": "Super High Five",
+      "track": "Laurel Park",
+      "date": "Dec 26",
+      "ndate": 20211226
     }
   ]
 }
