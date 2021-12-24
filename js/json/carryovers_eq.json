@@ -1,28 +1,20 @@
 {
   "carryovers": [
     {
+      "carryoverAmount": 352416,
+      "carryover": "$352,416",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Gulfstream Park",
+      "date": "Dec 24",
+      "ndate": 20211224
+    },
+    {
       "carryoverAmount": 323543,
       "carryover": "$323,543",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
       "date": "Dec 27",
       "ndate": 20211227
-    },
-    {
-      "carryoverAmount": 286491,
-      "carryover": "$286,491",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Gulfstream Park",
-      "date": "Dec 23",
-      "ndate": 20211223
-    },
-    {
-      "carryoverAmount": 86359,
-      "carryover": "$86,359",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Turfway Park",
-      "date": "Dec 23",
-      "ndate": 20211223
     },
     {
       "carryoverAmount": 58972,
@@ -33,12 +25,12 @@
       "ndate": 20211226
     },
     {
-      "carryoverAmount": 49670,
-      "carryover": "$49,670",
+      "carryoverAmount": 57601,
+      "carryover": "$57,601",
       "wagertype": "Pick 6 Jackpot",
       "track": "Tampa Bay",
-      "date": "Dec 23",
-      "ndate": 20211223
+      "date": "Dec 24",
+      "ndate": 20211224
     },
     {
       "carryoverAmount": 44921,
@@ -73,6 +65,14 @@
       "ndate": 20211226
     },
     {
+      "carryoverAmount": 8420,
+      "carryover": "$8,420",
+      "wagertype": "Super High Five",
+      "track": "Turfway Park",
+      "date": "Dec 26",
+      "ndate": 20211226
+    },
+    {
       "carryoverAmount": 6816,
       "carryover": "$6,816",
       "wagertype": "Pick 6 Jackpot",
@@ -89,20 +89,12 @@
       "ndate": 20211226
     },
     {
-      "carryoverAmount": 3586,
-      "carryover": "$3,586",
-      "wagertype": "Super High Five",
-      "track": "Gulfstream Park",
-      "date": "Dec 23",
-      "ndate": 20211223
-    },
-    {
-      "carryoverAmount": 3117,
-      "carryover": "$3,117",
-      "wagertype": "Super High Five",
-      "track": "Turfway Park",
-      "date": "Dec 23",
-      "ndate": 20211223
+      "carryoverAmount": 4167,
+      "carryover": "$4,167",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Turf Paradise",
+      "date": "Dec 27",
+      "ndate": 20211227
     },
     {
       "carryoverAmount": 889,
