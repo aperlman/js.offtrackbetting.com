@@ -9,6 +9,14 @@
       "ndate": 20220114
     },
     {
+      "carryoverAmount": 51511,
+      "carryover": "$51,511",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Parx Racing",
+      "date": "Jan 11",
+      "ndate": 20220111
+    },
+    {
       "carryoverAmount": 51201,
       "carryover": "$51,201",
       "wagertype": "Super High Five Jackpot",
@@ -23,14 +31,6 @@
       "track": "Gulfstream Park",
       "date": "Jan 12",
       "ndate": 20220112
-    },
-    {
-      "carryoverAmount": 35805,
-      "carryover": "$35,805",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Parx Racing",
-      "date": "Jan 10",
-      "ndate": 20220110
     },
     {
       "carryoverAmount": 19212,
@@ -69,8 +69,8 @@
       "carryover": "$7,543",
       "wagertype": "Pick 6 Jackpot",
       "track": "Mahoning Valley",
-      "date": "Jan 10",
-      "ndate": 20220110
+      "date": "Jan 11",
+      "ndate": 20220111
     },
     {
       "carryoverAmount": 5973,
