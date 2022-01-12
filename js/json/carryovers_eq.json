@@ -9,20 +9,20 @@
       "ndate": 20220114
     },
     {
+      "carryoverAmount": 54272,
+      "carryover": "$54,272",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Penn National",
+      "date": "Jan 12",
+      "ndate": 20220112
+    },
+    {
       "carryoverAmount": 51511,
       "carryover": "$51,511",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Jan 11",
-      "ndate": 20220111
-    },
-    {
-      "carryoverAmount": 51201,
-      "carryover": "$51,201",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Penn National",
-      "date": "Jan 11",
-      "ndate": 20220111
+      "date": "Jan 12",
+      "ndate": 20220112
     },
     {
       "carryoverAmount": 37258,
@@ -41,10 +41,10 @@
       "ndate": 20220114
     },
     {
-      "carryoverAmount": 16560,
-      "carryover": "$16,560",
-      "wagertype": "Super High Five",
-      "track": "Gulfstream Park",
+      "carryoverAmount": 17429,
+      "carryover": "$17,429",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Mahoning Valley",
       "date": "Jan 12",
       "ndate": 20220112
     },
@@ -65,12 +65,12 @@
       "ndate": 20220114
     },
     {
-      "carryoverAmount": 7543,
-      "carryover": "$7,543",
+      "carryoverAmount": 7675,
+      "carryover": "$7,675",
       "wagertype": "Pick 6 Jackpot",
-      "track": "Mahoning Valley",
-      "date": "Jan 11",
-      "ndate": 20220111
+      "track": "Turf Paradise",
+      "date": "Jan 12",
+      "ndate": 20220112
     },
     {
       "carryoverAmount": 5973,
@@ -89,20 +89,12 @@
       "ndate": 20220112
     },
     {
-      "carryoverAmount": 3541,
-      "carryover": "$3,541",
-      "wagertype": "Super High Five",
-      "track": "Gulfstream Park",
-      "date": "Jan 12",
-      "ndate": 20220112
-    },
-    {
-      "carryoverAmount": 197,
-      "carryover": "$197",
+      "carryoverAmount": 812,
+      "carryover": "$812",
       "wagertype": "Super High Five",
       "track": "Sunland Park",
-      "date": "Jan 11",
-      "ndate": 20220111
+      "date": "Jan 14",
+      "ndate": 20220114
     }
   ]
 }
