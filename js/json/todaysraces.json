@@ -2,53 +2,59 @@
 
 {
   "todaysraces": {
-    "headline": "OTB Schedule: Wednesday, Jan 12",
+    "headline": "OTB Schedule: Thursday, Jan 13",
     "tracks": [
       {
-               "name": "Ararat AUS",
-               "time": " 9:00 PM",
-             "meetno": 606,
-        "results_url": "https://www.offtrackbetting.com/results/606/ararat.html"
+               "name": "Aqueduct",
+               "time": "12:20 PM",
+             "meetno": 1,
+        "results_url": "https://www.offtrackbetting.com/results/1/aqueduct.html"
       },
       {
                "name": "Australia A",
-               "time": " 9:39 PM",
+               "time": " 9:35 PM",
              "meetno": 5,
         "results_url": "https://www.offtrackbetting.com/results/5/australia-a.html"
       },
       {
                "name": "Australia B",
-               "time": " 9:46 PM",
+               "time": " 9:43 PM",
              "meetno": 115,
         "results_url": "https://www.offtrackbetting.com/results/115/australia-b.html"
       },
       {
                "name": "Australia C",
-               "time": "10:00 PM",
+               "time": "10:34 PM",
              "meetno": 168,
         "results_url": "https://www.offtrackbetting.com/results/168/australia-c.html"
       },
       {
                "name": "Australia D",
-               "time": "12:24 AM",
+               "time": "11:05 PM",
              "meetno": 454,
         "results_url": "https://www.offtrackbetting.com/results/454/australia-d.html"
       },
       {
                "name": "Australia Harness 1",
-               "time": " 8:52 PM",
+               "time": " 9:11 PM",
              "meetno": 460,
         "results_url": "https://www.offtrackbetting.com/results/460/australia-harness-%281%29.html"
       },
       {
-               "name": "Bordeaux- Bouscat FR",
-               "time": " 6:00 AM",
-             "meetno": 501,
-        "results_url": "https://www.offtrackbetting.com/results/501/bordeaux-bouscat-%28fr%29.html"
+               "name": "Bangor-on-Dee (UK)",
+               "time": " 8:30 AM",
+             "meetno": 303,
+        "results_url": "https://www.offtrackbetting.com/results/303/bangor-on-dee-%28uk%29.html"
+      },
+      {
+               "name": "Busan Korea",
+               "time": "10:00 PM",
+             "meetno": 479,
+        "results_url": "https://www.offtrackbetting.com/results/479/seoul-%28kor%29-fridays.html"
       },
       {
                "name": "Cagnes-Sur-Mer FR",
-               "time": "10:32 AM",
+               "time": " 7:50 AM",
              "meetno": 504,
         "results_url": "https://www.offtrackbetting.com/results/504/cagnes-sur-mer-%28fr%29.html"
       },
@@ -59,10 +65,10 @@
         "results_url": "https://www.offtrackbetting.com/results/478/caliente-eve.html"
       },
       {
-               "name": "Casino AUS GH",
-               "time": " 7:39 AM",
-             "meetno": 679,
-        "results_url": "https://www.offtrackbetting.com/results/679/casino-aus-greyhound.html"
+               "name": "Catterick (UK)",
+               "time": " 7:40 AM",
+             "meetno": 309,
+        "results_url": "https://www.offtrackbetting.com/results/309/catterick-%28uk%29.html"
       },
       {
                "name": "Charles Town",
@@ -71,10 +77,10 @@
         "results_url": "https://www.offtrackbetting.com/results/16/charles-town.html"
       },
       {
-               "name": "Deauville FR",
-               "time": " 7:16 AM",
-             "meetno": 517,
-        "results_url": "https://www.offtrackbetting.com/results/517/deauville-%28fr%29.html"
+               "name": "Chelmsford City (UK)",
+               "time": "11:30 AM",
+             "meetno": 310,
+        "results_url": "https://www.offtrackbetting.com/results/310/chelmsford-city-%28uk%29.html"
       },
       {
                "name": "Delta Downs",
@@ -83,34 +89,40 @@
         "results_url": "https://www.offtrackbetting.com/results/21/delta-downs.html"
       },
       {
-               "name": "Doncaster DG Eve (UK GH)",
-               "time": " 1:09 PM",
-             "meetno": 582,
-        "results_url": "https://www.offtrackbetting.com/results/582/doncaster-eve-%28uk%29-greyhound.html"
-      },
-      {
                "name": "Dover Downs",
                "time": " 4:30 PM",
              "meetno": 22,
         "results_url": "https://www.offtrackbetting.com/results/22/dover-downs.html"
       },
       {
-               "name": "Dundalk (IG)",
-               "time": " 1:00 PM",
-             "meetno": 390,
-        "results_url": "https://www.offtrackbetting.com/results/390/dundalk-%28ig%29.html"
+               "name": "Flamboro Downs",
+               "time": " 6:35 PM",
+             "meetno": 153,
+        "results_url": "https://www.offtrackbetting.com/results/153/flamboro-downs.html"
+      },
+      {
+               "name": "Freehold Raceway",
+               "time": "12:30 PM",
+             "meetno": 33,
+        "results_url": "https://www.offtrackbetting.com/results/33/freehold-raceway.html"
       },
       {
                "name": "Funabashi JPN",
-               "time": "12:35 AM",
+               "time": "12:30 AM",
              "meetno": 483,
         "results_url": "https://www.offtrackbetting.com/results/483/funabashi-%28japan-nar%29.html"
       },
       {
-               "name": "Greyville (SAF)",
-               "time": " 5:29 AM",
-             "meetno": 442,
-        "results_url": "https://www.offtrackbetting.com/results/442/greyville-%28saf%29.html"
+               "name": "Geelong AUS",
+               "time": " 9:30 PM",
+             "meetno": 599,
+        "results_url": "https://www.offtrackbetting.com/results/599/geelong.html"
+      },
+      {
+               "name": "Goulburn AUS GH",
+               "time": " 8:09 AM",
+             "meetno": 683,
+        "results_url": "https://www.offtrackbetting.com/results/683/goulburn-aus-greyhound.html"
       },
       {
                "name": "Gulfstream Park",
@@ -119,52 +131,34 @@
         "results_url": "https://www.offtrackbetting.com/results/36/gulfstream-park.html"
       },
       {
-               "name": "Happy Valley (HK)",
-               "time": " 5:45 AM",
-             "meetno": 451,
-        "results_url": "https://www.offtrackbetting.com/results/451/happy-valley-%28hong-kong%29.html"
+               "name": "Healesville AUS GH",
+               "time": " 6:59 AM",
+             "meetno": 663,
+        "results_url": "https://www.offtrackbetting.com/results/663/healesville-aus-greyhound.html"
       },
       {
-               "name": "Harlow Eve (UK GH)",
-               "time": " 1:17 PM",
-             "meetno": 584,
-        "results_url": "https://www.offtrackbetting.com/results/584/harlow-eve-%28uk%29-greyhound.html"
-      },
-      {
-               "name": "Kempton Park (UK)",
-               "time": "11:00 AM",
-             "meetno": 327,
-        "results_url": "https://www.offtrackbetting.com/results/327/kempton-park-%28uk%29.html"
-      },
-      {
-               "name": "Kilkenny (IG)",
-               "time": " 3:12 AM",
-             "meetno": 394,
-        "results_url": "https://www.offtrackbetting.com/results/394/kilkenny-%28ig%29.html"
+               "name": "Hove Eve (UK GH)",
+               "time": " 1:09 PM",
+             "meetno": 586,
+        "results_url": "https://www.offtrackbetting.com/results/586/hove-eve-%28uk%29-greyhound.html"
       },
       {
                "name": "Laurel Park",
-               "time": "11:59 AM",
+               "time": " 1:15 PM",
              "meetno": 49,
         "results_url": "https://www.offtrackbetting.com/results/49/laurel-park.html"
       },
       {
-               "name": "Leicester (UK)",
-               "time": " 8:30 AM",
-             "meetno": 328,
-        "results_url": "https://www.offtrackbetting.com/results/328/leicester-%28uk%29.html"
+               "name": "Limerick (IG)",
+               "time": " 1:53 PM",
+             "meetno": 396,
+        "results_url": "https://www.offtrackbetting.com/results/396/limerick-%28ig%29.html"
       },
       {
-               "name": "Lingfield (UK)",
-               "time": " 7:35 AM",
-             "meetno": 329,
-        "results_url": "https://www.offtrackbetting.com/results/329/lingfield-%28uk%29.html"
-      },
-      {
-               "name": "Mahoning Valley",
-               "time": "12:45 PM",
-             "meetno": 216,
-        "results_url": "https://www.offtrackbetting.com/results/216/mahoning-valley.html"
+               "name": "Lyon-La Soie FR",
+               "time": "10:27 AM",
+             "meetno": 538,
+        "results_url": "https://www.offtrackbetting.com/results/538/lyon-la-soie-%28fr%29.html"
       },
       {
                "name": "Mardi Gras WV Eve",
@@ -173,64 +167,64 @@
         "results_url": "https://www.offtrackbetting.com/results/198/tri-state-eve.html"
       },
       {
+               "name": "Monmore Eve (UK GH)",
+               "time": " 1:17 PM",
+             "meetno": 588,
+        "results_url": "https://www.offtrackbetting.com/results/588/monmore-eve-%28uk%29-greyhound.html"
+      },
+      {
                "name": "Monticello Raceway",
                "time": "12:10 PM",
              "meetno": 56,
         "results_url": "https://www.offtrackbetting.com/results/56/monticello-raceway.html"
       },
       {
-               "name": "Mount Gambier AUS GH",
-               "time": " 9:06 AM",
-             "meetno": 694,
-        "results_url": "https://www.offtrackbetting.com/results/694/mount-gambier-aus-greyhound.html"
+               "name": "Murray Bridge AUS GH",
+               "time": " 7:57 AM",
+             "meetno": 695,
+        "results_url": "https://www.offtrackbetting.com/results/695/murray-bridge-aus-greyhound.html"
       },
       {
-               "name": "Northfield Park",
+               "name": "Newcastle (UK)",
+               "time": " 8:50 AM",
+             "meetno": 334,
+        "results_url": "https://www.offtrackbetting.com/results/334/newcastle-%28uk%29.html"
+      },
+      {
+               "name": "Palermo(ARG)",
+               "time": " 1:00 PM",
+             "meetno": 448,
+        "results_url": "https://www.offtrackbetting.com/results/448/palermo-%28arg%29.html"
+      },
+      {
+               "name": "Pau FR",
+               "time": " 5:52 AM",
+             "meetno": 554,
+        "results_url": "https://www.offtrackbetting.com/results/554/pau-%28fr%29.html"
+      },
+      {
+               "name": "Sam Houston",
+               "time": " 5:00 PM",
+             "meetno": 79,
+        "results_url": "https://www.offtrackbetting.com/results/79/sam-houston.html"
+      },
+      {
+               "name": "Southland Twilight",
                "time": " 6:00 PM",
-             "meetno": 58,
-        "results_url": "https://www.offtrackbetting.com/results/58/northfield-park.html"
+             "meetno": 235,
+        "results_url": "https://www.offtrackbetting.com/results/235/southland-twilight.html"
       },
       {
-               "name": "Otaki NZ",
-               "time": " 6:24 PM",
-             "meetno": 719,
-        "results_url": "https://www.offtrackbetting.com/results/719/otaki-%28nz%29.html"
+               "name": "Tauranga NZ",
+               "time": " 7:02 PM",
+             "meetno": 733,
+        "results_url": "https://www.offtrackbetting.com/results/733/tauranga-%28nz%29.html"
       },
       {
-               "name": "Parx Racing",
-               "time": "12:10 PM",
-             "meetno": 63,
-        "results_url": "https://www.offtrackbetting.com/results/63/parx-racing.html"
-      },
-      {
-               "name": "Penn National",
-               "time": " 6:00 PM",
-             "meetno": 62,
-        "results_url": "https://www.offtrackbetting.com/results/62/penn-national.html"
-      },
-      {
-               "name": "Penola AUS",
-               "time": " 9:15 PM",
-             "meetno": 266,
-        "results_url": "https://www.offtrackbetting.com/results/266/penola.html"
-      },
-      {
-               "name": "Pompano Park",
-               "time": " 7:20 PM",
-             "meetno": 68,
-        "results_url": "https://www.offtrackbetting.com/results/68/pompano-park.html"
-      },
-      {
-               "name": "Shepparton AUS GH",
-               "time": " 7:15 AM",
-             "meetno": 665,
-        "results_url": "https://www.offtrackbetting.com/results/665/shepparton-aus-greyhound.html"
-      },
-      {
-               "name": "Tampa Bay Downs",
-               "time": "12:20 PM",
-             "meetno": 92,
-        "results_url": "https://www.offtrackbetting.com/results/92/tampa-bay-downs.html"
+               "name": "The Gardens AUS GH",
+               "time": "11:13 AM",
+             "meetno": 690,
+        "results_url": "https://www.offtrackbetting.com/results/690/the-gardens-aus-greyhound.html"
       },
       {
                "name": "The Meadows",
@@ -245,16 +239,16 @@
         "results_url": "https://www.offtrackbetting.com/results/100/turf-paradise.html"
       },
       {
-               "name": "Warragul AUS GH",
-               "time": "11:17 AM",
-             "meetno": 669,
-        "results_url": "https://www.offtrackbetting.com/results/669/warragul-aus-greyhound.html"
+               "name": "Vaal (SAF)",
+               "time": " 4:59 AM",
+             "meetno": 443,
+        "results_url": "https://www.offtrackbetting.com/results/443/vaal-%28saf%29.html"
       },
       {
-               "name": "Western Fair",
-               "time": " 5:50 PM",
-             "meetno": 103,
-        "results_url": "https://www.offtrackbetting.com/results/103/western-fair.html"
+               "name": "Waterford (IG)",
+               "time": " 3:12 AM",
+             "meetno": 403,
+        "results_url": "https://www.offtrackbetting.com/results/403/waterford-%28ig%29.html"
       },
       {
                "name": "Wheeling Downs Mat",
@@ -263,16 +257,16 @@
         "results_url": "https://www.offtrackbetting.com/results/200/wheeling-downs-mat.html"
       },
       {
+               "name": "Woodbine at Mohawk",
+               "time": " 7:00 PM",
+             "meetno": 122,
+        "results_url": "https://www.offtrackbetting.com/results/122/mohawk.html"
+      },
+      {
                "name": "Yonkers Raceway",
                "time": " 6:55 PM",
              "meetno": 108,
         "results_url": "https://www.offtrackbetting.com/results/108/yonkers-raceway.html"
-      },
-      {
-               "name": "Youghal (IG)",
-               "time": " 1:40 PM",
-             "meetno": 404,
-        "results_url": "https://www.offtrackbetting.com/results/404/youghal-%28ig%29.html"
       }
     ]
   }
