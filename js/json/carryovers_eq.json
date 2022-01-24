@@ -1,20 +1,20 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 286005,
-      "carryover": "$286,005",
+      "carryoverAmount": 335038,
+      "carryover": "$335,038",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "Jan 23",
-      "ndate": 20220123
+      "date": "Jan 26",
+      "ndate": 20220126
     },
     {
-      "carryoverAmount": 158766,
-      "carryover": "$158,766",
+      "carryoverAmount": 206313,
+      "carryover": "$206,313",
       "wagertype": "Pick 6 Jackpot",
       "track": "Santa Anita",
-      "date": "Jan 23",
-      "ndate": 20220123
+      "date": "Jan 28",
+      "ndate": 20220128
     },
     {
       "carryoverAmount": 109510,
@@ -33,12 +33,12 @@
       "ndate": 20220124
     },
     {
-      "carryoverAmount": 44857,
-      "carryover": "$44,857",
-      "wagertype": "Pick 6",
-      "track": "Aqueduct",
-      "date": "Jan 23",
-      "ndate": 20220123
+      "carryoverAmount": 44591,
+      "carryover": "$44,591",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Turfway Park",
+      "date": "Jan 28",
+      "ndate": 20220128
     },
     {
       "carryoverAmount": 38041,
@@ -49,20 +49,12 @@
       "ndate": 20220127
     },
     {
-      "carryoverAmount": 34712,
-      "carryover": "$34,712",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Turfway Park",
-      "date": "Jan 23",
-      "ndate": 20220123
-    },
-    {
-      "carryoverAmount": 27404,
-      "carryover": "$27,404",
+      "carryoverAmount": 36184,
+      "carryover": "$36,184",
       "wagertype": "Pick 6 Jackpot",
       "track": "Golden Gate",
-      "date": "Jan 23",
-      "ndate": 20220123
+      "date": "Jan 28",
+      "ndate": 20220128
     },
     {
       "carryoverAmount": 16468,
@@ -73,6 +65,14 @@
       "ndate": 20220126
     },
     {
+      "carryoverAmount": 13553,
+      "carryover": "$13,553",
+      "wagertype": "Super High Five",
+      "track": "Golden Gate",
+      "date": "Jan 28",
+      "ndate": 20220128
+    },
+    {
       "carryoverAmount": 12764,
       "carryover": "$12,764",
       "wagertype": "Pick 6 Jackpot",
@@ -81,44 +81,52 @@
       "ndate": 20220124
     },
     {
-      "carryoverAmount": 10000,
-      "carryover": "$10,000",
-      "wagertype": "Pick 6",
-      "track": "Los Alamitos",
-      "date": "Jan 23",
-      "ndate": 20220123
-    },
-    {
-      "carryoverAmount": 9659,
-      "carryover": "$9,659",
-      "wagertype": "Super High Five",
-      "track": "Gulfstream Park",
-      "date": "Jan 23",
-      "ndate": 20220123
-    },
-    {
-      "carryoverAmount": 6835,
-      "carryover": "$6,835",
+      "carryoverAmount": 9929,
+      "carryover": "$9,929",
       "wagertype": "Pick 6 Jackpot",
       "track": "Tampa Bay",
-      "date": "Jan 23",
-      "ndate": 20220123
+      "date": "Jan 26",
+      "ndate": 20220126
     },
     {
-      "carryoverAmount": 6780,
-      "carryover": "$6,780",
+      "carryoverAmount": 8324,
+      "carryover": "$8,324",
       "wagertype": "Pick 6 Jackpot",
       "track": "Laurel Park",
-      "date": "Jan 23",
-      "ndate": 20220123
+      "date": "Jan 27",
+      "ndate": 20220127
     },
     {
-      "carryoverAmount": 2797,
-      "carryover": "$2,797",
+      "carryoverAmount": 5929,
+      "carryover": "$5,929",
       "wagertype": "Super High Five",
       "track": "Turfway Park",
-      "date": "Jan 23",
-      "ndate": 20220123
+      "date": "Jan 28",
+      "ndate": 20220128
+    },
+    {
+      "carryoverAmount": 5181,
+      "carryover": "$5,181",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Jan 26",
+      "ndate": 20220126
+    },
+    {
+      "carryoverAmount": 4303,
+      "carryover": "$4,303",
+      "wagertype": "Super High Five",
+      "track": "Golden Gate",
+      "date": "Jan 28",
+      "ndate": 20220128
+    },
+    {
+      "carryoverAmount": 2543,
+      "carryover": "$2,543",
+      "wagertype": "Super High Five",
+      "track": "Golden Gate",
+      "date": "Jan 28",
+      "ndate": 20220128
     },
     {
       "carryoverAmount": 1563,
