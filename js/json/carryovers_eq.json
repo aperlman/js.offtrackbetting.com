@@ -1,12 +1,12 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 593729,
-      "carryover": "$593,729",
+      "carryoverAmount": 634141,
+      "carryover": "$634,141",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "Feb 16",
-      "ndate": 20220216
+      "date": "Feb 17",
+      "ndate": 20220217
     },
     {
       "carryoverAmount": 592337,
@@ -17,12 +17,12 @@
       "ndate": 20220218
     },
     {
-      "carryoverAmount": 299061,
-      "carryover": "$299,061",
+      "carryoverAmount": 318450,
+      "carryover": "$318,450",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Feb 16",
-      "ndate": 20220216
+      "date": "Feb 21",
+      "ndate": 20220221
     },
     {
       "carryoverAmount": 80865,
@@ -33,12 +33,12 @@
       "ndate": 20220218
     },
     {
-      "carryoverAmount": 49663,
-      "carryover": "$49,663",
+      "carryoverAmount": 54882,
+      "carryover": "$54,882",
       "wagertype": "Pick 6 Jackpot",
       "track": "Tampa Bay",
-      "date": "Feb 16",
-      "ndate": 20220216
+      "date": "Feb 18",
+      "ndate": 20220218
     },
     {
       "carryoverAmount": 46487,
@@ -57,44 +57,60 @@
       "ndate": 20220218
     },
     {
-      "carryoverAmount": 26833,
-      "carryover": "$26,833",
+      "carryoverAmount": 30413,
+      "carryover": "$30,413",
       "wagertype": "Pick 6 Jackpot",
       "track": "Mahoning Valley",
-      "date": "Feb 16",
-      "ndate": 20220216
+      "date": "Feb 18",
+      "ndate": 20220218
     },
     {
-      "carryoverAmount": 18662,
-      "carryover": "$18,662",
+      "carryoverAmount": 26002,
+      "carryover": "$26,002",
       "wagertype": "Super High Five Jackpot",
       "track": "Sam Houston",
-      "date": "Feb 16",
-      "ndate": 20220216
+      "date": "Feb 17",
+      "ndate": 20220217
     },
     {
-      "carryoverAmount": 16119,
-      "carryover": "$16,119",
-      "wagertype": "Pick 6",
-      "track": "Sam Houston",
-      "date": "Feb 16",
-      "ndate": 20220216
+      "carryoverAmount": 17123,
+      "carryover": "$17,123",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Turfway Park",
+      "date": "Feb 17",
+      "ndate": 20220217
     },
     {
-      "carryoverAmount": 10202,
-      "carryover": "$10,202",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Penn National",
-      "date": "Feb 16",
-      "ndate": 20220216
-    },
-    {
-      "carryoverAmount": 7620,
-      "carryover": "$7,620",
+      "carryoverAmount": 12568,
+      "carryover": "$12,568",
       "wagertype": "Pick 6 Jackpot",
       "track": "Turf Paradise",
-      "date": "Feb 16",
-      "ndate": 20220216
+      "date": "Feb 17",
+      "ndate": 20220217
+    },
+    {
+      "carryoverAmount": 12185,
+      "carryover": "$12,185",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Penn National",
+      "date": "Feb 18",
+      "ndate": 20220218
+    },
+    {
+      "carryoverAmount": 5349,
+      "carryover": "$5,349",
+      "wagertype": "Super High Five",
+      "track": "Turfway Park",
+      "date": "Feb 17",
+      "ndate": 20220217
+    },
+    {
+      "carryoverAmount": 5121,
+      "carryover": "$5,121",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Feb 17",
+      "ndate": 20220217
     },
     {
       "carryoverAmount": 3625,
@@ -105,14 +121,6 @@
       "ndate": 20220217
     },
     {
-      "carryoverAmount": 2917,
-      "carryover": "$2,917",
-      "wagertype": "Super High Five",
-      "track": "Turfway Park",
-      "date": "Feb 16",
-      "ndate": 20220216
-    },
-    {
       "carryoverAmount": 2701,
       "carryover": "$2,701",
       "wagertype": "Pick 6 Jackpot",
@@ -121,12 +129,12 @@
       "ndate": 20220218
     },
     {
-      "carryoverAmount": 1640,
-      "carryover": "$1,640",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Turfway Park",
-      "date": "Feb 16",
-      "ndate": 20220216
+      "carryoverAmount": 1355,
+      "carryover": "$1,355",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Feb 17",
+      "ndate": 20220217
     }
   ]
 }
