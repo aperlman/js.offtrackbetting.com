@@ -152,7 +152,7 @@ const DividendBody = (eventNo, track) => {
   return event.results.dividends.map( (x, idx) => `
     <tr>
       <td>${convertToAmt(parseInt(x.baseAmount.$numberDouble)/100).slice(0,-3)}
-        ${convertBetType(x.betType)}
+        ${convertBetType(x.betType) || x.betType}
       </td>
       <td>${x.finishers}</td>
       <td>${convertToAmt(x.amount.$numberDouble)}</td>
@@ -333,7 +333,10 @@ const convertToAmt = (amt) => parseFloat(amt).toLocaleString(
 
 const convertBetType = (betType) => {
   const betTypes = {
+    E5: 'Pentafecta',
     EX: 'Exacta',
+    QU: 'Quinella',
+    DD: 'Daily Double',
     TR: 'Trifecta',
     SU: 'Superfecta',
     SW: 'Omni'
