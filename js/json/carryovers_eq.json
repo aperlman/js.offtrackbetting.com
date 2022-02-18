@@ -1,12 +1,12 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 634141,
-      "carryover": "$634,141",
+      "carryoverAmount": 692467,
+      "carryover": "$692,467",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "Feb 17",
-      "ndate": 20220217
+      "date": "Feb 18",
+      "ndate": 20220218
     },
     {
       "carryoverAmount": 592337,
@@ -29,6 +29,14 @@
       "carryover": "$80,865",
       "wagertype": "Pick 6 Jackpot",
       "track": "Golden Gate",
+      "date": "Feb 18",
+      "ndate": 20220218
+    },
+    {
+      "carryoverAmount": 56393,
+      "carryover": "$56,393",
+      "wagertype": "Pick 5",
+      "track": "Fair Grounds",
       "date": "Feb 18",
       "ndate": 20220218
     },
@@ -65,28 +73,20 @@
       "ndate": 20220218
     },
     {
-      "carryoverAmount": 26002,
-      "carryover": "$26,002",
+      "carryoverAmount": 29281,
+      "carryover": "$29,281",
       "wagertype": "Super High Five Jackpot",
       "track": "Sam Houston",
-      "date": "Feb 17",
-      "ndate": 20220217
+      "date": "Feb 18",
+      "ndate": 20220218
     },
     {
-      "carryoverAmount": 17123,
-      "carryover": "$17,123",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Turfway Park",
-      "date": "Feb 17",
-      "ndate": 20220217
-    },
-    {
-      "carryoverAmount": 12568,
-      "carryover": "$12,568",
+      "carryoverAmount": 19856,
+      "carryover": "$19,856",
       "wagertype": "Pick 6 Jackpot",
       "track": "Turf Paradise",
-      "date": "Feb 17",
-      "ndate": 20220217
+      "date": "Feb 18",
+      "ndate": 20220218
     },
     {
       "carryoverAmount": 12185,
@@ -97,28 +97,20 @@
       "ndate": 20220218
     },
     {
-      "carryoverAmount": 5349,
-      "carryover": "$5,349",
-      "wagertype": "Super High Five",
-      "track": "Turfway Park",
-      "date": "Feb 17",
-      "ndate": 20220217
-    },
-    {
-      "carryoverAmount": 5121,
-      "carryover": "$5,121",
-      "wagertype": "Super High Five",
-      "track": "Gulfstream Park",
-      "date": "Feb 17",
-      "ndate": 20220217
-    },
-    {
-      "carryoverAmount": 3625,
-      "carryover": "$3,625",
+      "carryoverAmount": 8057,
+      "carryover": "$8,057",
       "wagertype": "Pick 6 Jackpot",
       "track": "Charles Town",
-      "date": "Feb 17",
-      "ndate": 20220217
+      "date": "Feb 18",
+      "ndate": 20220218
+    },
+    {
+      "carryoverAmount": 6401,
+      "carryover": "$6,401",
+      "wagertype": "Pick 6",
+      "track": "Sam Houston",
+      "date": "Feb 18",
+      "ndate": 20220218
     },
     {
       "carryoverAmount": 2701,
@@ -127,14 +119,6 @@
       "track": "Laurel Park",
       "date": "Feb 18",
       "ndate": 20220218
-    },
-    {
-      "carryoverAmount": 1355,
-      "carryover": "$1,355",
-      "wagertype": "Super High Five",
-      "track": "Gulfstream Park",
-      "date": "Feb 17",
-      "ndate": 20220217
     }
   ]
 }
