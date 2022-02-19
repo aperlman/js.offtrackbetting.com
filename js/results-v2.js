@@ -18,8 +18,11 @@ Version: 2
       PromoJoin: 3rd race from end (if the track has more than 6 races)
 
   HELPER FUNCTIONS
-  convertBetType: EX --> Exacta for instance
-  convertToAmt: string of pennies converted to number of dollars and cents
+    exists: (bool) does entry exist in results? i.e. 'jockey'?
+    thisEvent: extract the current event from 'eventNo' and 'track' data
+    isCanceled: (bool) return true if a track is canceled
+    convertBetType: EX --> Exacta for instance
+    convertToAmt: string of pennies converted to number of dollars and cents
 */
 
 const Race = (track) => `
@@ -44,26 +47,20 @@ const RaceDisplay = (eventNo, track) => (
 
 const RaceTitle = (eventNo, track) => {
   const date_str = new Date( // convert post_time to date then --> m-d-YYYY
-      parseInt(track.events[eventNo - 1].postTime.$numberDouble) * 1000)
+      parseInt(thisEvent(eventNo, track).postTime.$numberDouble) * 1000)
     .toLocaleDateString("en-US").replace(/\//g,"-");
-
-  const event = track.events[eventNo - 1];
-  let canceled = '';
-  if (event.results?.dividends[0]?.finishers === "RF")
-    // Race Canceled
-    canceled = `<h4>Race Canceled</h4>`;
 
   return `
     <div id="raceTitle">
       <h3>Race ${eventNo} <span>${track.ID} ${date_str}</span></h3>
     </div>
-    ${canceled}`;
+    ${isCanceled(eventNo, track) ? `<h4>Race Canceled</h4>` : ''}`;
 }
 
 /* SELECTIONS */
 const SelectionTable = (eventNo, track) => `
   <div id="selection" class="${
-    track.events[eventNo - 1].results ? 'results' : 'odds'}">
+    thisEvent(eventNo, track).results ? 'results' : 'odds'}">
     <table class="table table-striped table-condensed table-bordered">
       <thead>
         <tr>${SelectionHeader(eventNo, track)}</tr>
@@ -75,16 +72,13 @@ const SelectionTable = (eventNo, track) => `
   </div>`;
 
 const SelectionHeader = (eventNo, track) => {
-  const event = track.events[eventNo - 1];
+  const event = thisEvent(eventNo, track);
 
   // RESULTS
   if ('results' in event) {
-    // search all entries --> doesn't exist --> return 0 else 1
-    const exists = (entry) => event.results.finisher.filter(
-      (x) => entry in x).length;
-
-    let headers = ['Win', 'Place']; // default headers
-    if (exists('showAmount')) headers.push('Show');
+    let headers = ['Win']; // default headers
+    if (exists(event, 'placeAmount')) headers.push('Place');
+    if (exists(event, 'showAmount')) headers.push('Show');
 
     // harness track? --> 'jockey' becomes 'driver'
     const person = (event.breed.toLowerCase() === 'harness') ? 
@@ -92,9 +86,9 @@ const SelectionHeader = (eventNo, track) => {
 
     // jockey entry means horse race --> otherwise Dog
     headers.unshift(...event.breed.toLowerCase() === "dog" ?
-     ['Greyhound'] : ['Horse',person]);
+     ['Greyhound'] : ['Horse', person]);
 
-    // set selectionText for display in proces
+    // set selectionText for display in process
     return `<th>#</th>` +
       headers.map( (x, idx) => `
         <th${idx < headers.indexOf('Win') ? ' id="selectionText"' : ''}>
@@ -108,7 +102,7 @@ const SelectionHeader = (eventNo, track) => {
 };
 
 const SelectionBody = (eventNo, track) => {
-  const event = track.events[eventNo - 1];
+  const event = thisEvent(eventNo, track);
 
   // RESULTS
   if ('results' in event) {
@@ -119,10 +113,13 @@ const SelectionBody = (eventNo, track) => {
             (isNaN(x.programNumber) ? 'AE' : x.programNumber)}"
         ><a>${x.programNumber}</a></td>
         <td><strong>${x.runnerName}</strong></td>
-        ${ x.jockey ? ("<td>" + x.jockey + "</td>") : '' }
+        ${ exists(event, 'jockey') ? 
+          ("<td>" + (x.jockey || '') + "</td>") : '' }
         <td id="amt">${x.winAmount || ''}</td>
-        <td id="amt">${x.placeAmount || ''}</td>
-        ${ x.showAmount ? ('<td id="amt">' + x.showAmount + '</td>') : ''}
+        ${ exists(event, 'placeAmount') ?
+          ('<td id="amt">' + (x.placeAmount || '') + '</td>') : ''}
+        ${ exists(event, 'showAmount') ?
+          ('<td id="amt">' + (x.showAmount || '') + '</td>') : ''}
       </tr>
     `).join("\n");
   }
@@ -156,10 +153,9 @@ const DividendTable = (eventNo, track) => `
   </div>`;
 
 const DividendBody = (eventNo, track) => {
-  const event = track.events[eventNo - 1];
-  if (event.results?.dividends[0]?.finishers === "RF")
-    // Race Canceled
-    return '';
+  const event = thisEvent(eventNo, track);
+
+  if (isCanceled(eventNo, track)) return '';
 
   return event.results.dividends.map( (x, idx) => `
     <tr>
@@ -175,12 +171,10 @@ const DividendBody = (eventNo, track) => {
 };
 
 const RaceDetails = (eventNo, track) => {
-  const event = track.events[eventNo - 1];
-  const canceled = event.results?.dividends[0]?.finishers === "RF" ?
-   true : false; // Also Ran vs Scheduled Runners
+  const event = thisEvent(eventNo, track);
+
   return `
     <ul>
-
       ${ // SCRATCHES
         'results' in event && event.results.scratches[0] ? 
         '<li><strong>Scratches:</strong> ' + event.results.scratches.join(", ")
@@ -216,7 +210,8 @@ const RaceDetails = (eventNo, track) => {
 
       ${ // ALSO RAN
         event.results?.alsoRan && event.results.alsoRan.length ?
-        `<li><strong>${canceled ? "Scheduled Runners" : "Also Ran"}:</strong> `
+        `<li><strong>${isCanceled(eventNo, track) ? 
+          "Scheduled Runners" : "Also Ran"}:</strong> `
         + event.results.alsoRan.join(', ')
         + '</li>' : '' }
 
@@ -228,13 +223,13 @@ const ActionBox = (eventNo, track) => `
   <div id="actionbox">
     <div class="row">
       <div class="col-md-8 text-left">
-        ${ track.events[eventNo-1].runners.length > 0 ?
+        ${ thisEvent(eventNo, track).runners.length > 0 ?
           'No results for yet ' + track.ID + ' - place your bets!' :
           'Watch Race ' + track.ID + ' Video Replay'}
       </div>
       <div class="col-md-4">
         ${ActionButton(
-          track.events[eventNo-1].runners.length > 0 ? false : true)}
+          thisEvent(eventNo, track).runners.length > 0 ? false : true)}
       </div>
     </div>
   </div>
@@ -254,7 +249,7 @@ const PromoSignup = (track) => {
     const nextArrow = $("#promoSignup .btn .fa-angle-right");
     const promoTitle = $("#promoSignup h2");
 
-    $("#promoSignup #object .fa-arrow-circle-down").css("visibility", "visible");
+    downArrow.css("visibility", "visible");
     nextArrow.css("visibility", "visible");
 
     const animations = {
@@ -345,6 +340,17 @@ const PromoJoin = (track) =>  {
 };
 
 /* HELPER FUNCTIONS */
+// search all entries --> doesn't exist --> return 0 else 1
+const exists = (event, entry) => event.results.finisher.filter(
+  (x) => entry in x).length;
+
+const thisEvent = (eventNo, track) => track.events[eventNo - 1];
+
+const isCanceled = (eventNo, track) => (
+  track.events[eventNo - 1].results?.dividends[0]?.finishers === "RF" ?
+    true : false // Also Ran vs Scheduled Runners
+);
+
 const convertToAmt = (amt) => parseFloat(amt).toLocaleString(
     'en-US', { style: 'currency', currency: 'USD'});
 
@@ -353,6 +359,7 @@ const convertBetType = (betType) => {
     E5: 'Pentafecta',
     EX: 'Exacta',
     QU: 'Quinella',
+    QU3: 'Trio',
     DD: 'Daily Double',
     TR: 'Trifecta',
     TS: 'Tri-Super',
