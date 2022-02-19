@@ -152,7 +152,9 @@ const DividendBody = (eventNo, track) => {
   const event = track.events[eventNo - 1];
   return event.results.dividends.map( (x, idx) => `
     <tr>
-      <td>${convertToAmt(parseInt(x.baseAmount.$numberDouble)/100).slice(0,-3)}
+      <td>${convertToAmt(
+        parseInt(x.baseAmount.$numberDouble || x.baseAmount.$numberInt)/100)
+        .slice(0,-3)}
         ${convertBetType(x.betType) || x.betType}
       </td>
       <td>${x.finishers}</td>
