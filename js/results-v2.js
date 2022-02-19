@@ -84,7 +84,8 @@ const SelectionHeader = (eventNo, track) => {
       'Driver' : 'Jockey';
 
     // jockey entry means horse race --> otherwise Dog
-    headers.unshift(...(exists('jockey') ? ['Horse',person] : ['Greyhound']));
+    headers.unshift(event.breed.toLowerCase() === "dog" ?
+     ['Greyhound'] : ['Horse',person]);
 
     // set selectionText for display in proces
     return `<th>#</th>` +
@@ -338,6 +339,8 @@ const convertBetType = (betType) => {
     QU: 'Quinella',
     DD: 'Daily Double',
     TR: 'Trifecta',
+    TS: 'Tri-Super',
+    TT: 'Twin-Tri',
     SU: 'Superfecta',
     SW: 'Omni'
   };
