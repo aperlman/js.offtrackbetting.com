@@ -157,6 +157,10 @@ const DividendTable = (eventNo, track) => `
 
 const DividendBody = (eventNo, track) => {
   const event = track.events[eventNo - 1];
+  if (event.results?.dividends[0]?.finishers === "RF")
+    // Race Canceled
+    return '';
+
   return event.results.dividends.map( (x, idx) => `
     <tr>
       <td>${convertToAmt(
@@ -172,6 +176,8 @@ const DividendBody = (eventNo, track) => {
 
 const RaceDetails = (eventNo, track) => {
   const event = track.events[eventNo - 1];
+  const canceled = event.results?.dividends[0]?.finishers === "RF" ?
+   true : false;
   return `
     <ul>
 
@@ -210,7 +216,8 @@ const RaceDetails = (eventNo, track) => {
 
       ${ // ALSO RAN
         'results' in event && event.results.alsoRan ?
-        '<li><strong>Also Ran:</strong> ' +  event.results.alsoRan.join(', ')
+        `<li><strong>${canceled ? "Scheduled Runners" : "Also Ran"}:</strong> `
+        + event.results.alsoRan.join(', ')
         + '</li>' : '' }
 
     </ul>
