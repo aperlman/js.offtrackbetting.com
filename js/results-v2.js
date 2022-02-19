@@ -91,7 +91,7 @@ const SelectionHeader = (eventNo, track) => {
       'Driver' : 'Jockey';
 
     // jockey entry means horse race --> otherwise Dog
-    headers.unshift(event.breed.toLowerCase() === "dog" ?
+    headers.unshift(...event.breed.toLowerCase() === "dog" ?
      ['Greyhound'] : ['Horse',person]);
 
     // set selectionText for display in proces
