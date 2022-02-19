@@ -47,10 +47,17 @@ const RaceTitle = (eventNo, track) => {
       parseInt(track.events[eventNo - 1].postTime.$numberDouble) * 1000)
     .toLocaleDateString("en-US").replace(/\//g,"-");
 
+  const event = track.events[eventNo - 1];
+  let canceled = '';
+  if (event.results?.dividends[0]?.finishers === "RF")
+    // Race Canceled
+    canceled = `<h4>Race Canceled</h4>`;
+
   return `
     <div id="raceTitle">
       <h3>Race ${eventNo} <span>${track.ID} ${date_str}</span></h3>
-    </div>`;
+    </div>
+    ${canceled}`;
 }
 
 /* SELECTIONS */
@@ -153,12 +160,12 @@ const DividendBody = (eventNo, track) => {
   return event.results.dividends.map( (x, idx) => `
     <tr>
       <td>${convertToAmt(
-        parseInt(x.baseAmount.$numberDouble || x.baseAmount.$numberInt)/100)
+        parseInt(x.baseAmount?.$numberDouble || x.baseAmount?.$numberInt)/100)
         .slice(0,-3)}
         ${convertBetType(x.betType) || x.betType}
       </td>
       <td>${x.finishers}</td>
-      <td>${convertToAmt(x.amount.$numberDouble)}</td>
+      <td>${convertToAmt(x.amount?.$numberDouble)}</td>
     </tr>
   `).join("\n");
 };
