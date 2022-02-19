@@ -177,7 +177,7 @@ const DividendBody = (eventNo, track) => {
 const RaceDetails = (eventNo, track) => {
   const event = track.events[eventNo - 1];
   const canceled = event.results?.dividends[0]?.finishers === "RF" ?
-   true : false;
+   true : false; // Also Ran vs Scheduled Runners
   return `
     <ul>
 
@@ -215,7 +215,7 @@ const RaceDetails = (eventNo, track) => {
         event.conditions + '</li>': ''}
 
       ${ // ALSO RAN
-        'results' in event && event.results.alsoRan ?
+        event.results?.alsoRan && event.results.alsoRan.length ?
         `<li><strong>${canceled ? "Scheduled Runners" : "Also Ran"}:</strong> `
         + event.results.alsoRan.join(', ')
         + '</li>' : '' }
