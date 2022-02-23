@@ -9,12 +9,12 @@
       "ndate": 20220223
     },
     {
-      "carryoverAmount": 336084,
-      "carryover": "$336,084",
+      "carryoverAmount": 361217,
+      "carryover": "$361,217",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Feb 22",
-      "ndate": 20220222
+      "date": "Feb 23",
+      "ndate": 20220223
     },
     {
       "carryoverAmount": 106859,
@@ -23,6 +23,14 @@
       "track": "Golden Gate",
       "date": "Feb 25",
       "ndate": 20220225
+    },
+    {
+      "carryoverAmount": 40911,
+      "carryover": "$40,911",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Turf Paradise",
+      "date": "Feb 23",
+      "ndate": 20220223
     },
     {
       "carryoverAmount": 37083,
@@ -49,14 +57,6 @@
       "ndate": 20220223
     },
     {
-      "carryoverAmount": 28585,
-      "carryover": "$28,585",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Turf Paradise",
-      "date": "Feb 22",
-      "ndate": 20220222
-    },
-    {
       "carryoverAmount": 17793,
       "carryover": "$17,793",
       "wagertype": "Pick 6",
@@ -73,12 +73,12 @@
       "ndate": 20220224
     },
     {
-      "carryoverAmount": 13519,
-      "carryover": "$13,519",
+      "carryoverAmount": 15449,
+      "carryover": "$15,449",
       "wagertype": "Super High Five Jackpot",
       "track": "Penn National",
-      "date": "Feb 22",
-      "ndate": 20220222
+      "date": "Feb 23",
+      "ndate": 20220223
     },
     {
       "carryoverAmount": 12363,
@@ -97,6 +97,14 @@
       "ndate": 20220223
     },
     {
+      "carryoverAmount": 5206,
+      "carryover": "$5,206",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Mahoning Valley",
+      "date": "Feb 23",
+      "ndate": 20220223
+    },
+    {
       "carryoverAmount": 4590,
       "carryover": "$4,590",
       "wagertype": "Pick 6 Jackpot",
@@ -111,22 +119,6 @@
       "track": "Turfway Park",
       "date": "Feb 23",
       "ndate": 20220223
-    },
-    {
-      "carryoverAmount": 788,
-      "carryover": "$788",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Mahoning Valley",
-      "date": "Feb 22",
-      "ndate": 20220222
-    },
-    {
-      "carryoverAmount": 530,
-      "carryover": "$530",
-      "wagertype": "Super High Five",
-      "track": "Sunland Park",
-      "date": "Feb 22",
-      "ndate": 20220222
     }
   ]
 }
