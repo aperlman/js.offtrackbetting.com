@@ -1,12 +1,12 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 380262,
-      "carryover": "$380,262",
+      "carryoverAmount": 406839,
+      "carryover": "$406,839",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Feb 28",
-      "ndate": 20220228
+      "date": "Mar 01",
+      "ndate": 20220301
     },
     {
       "carryoverAmount": 124190,
@@ -65,6 +65,14 @@
       "ndate": 20220302
     },
     {
+      "carryoverAmount": 14741,
+      "carryover": "$14,741",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Mahoning Valley",
+      "date": "Mar 01",
+      "ndate": 20220301
+    },
+    {
       "carryoverAmount": 12648,
       "carryover": "$12,648",
       "wagertype": "Pick 6",
@@ -73,12 +81,12 @@
       "ndate": 20220302
     },
     {
-      "carryoverAmount": 8889,
-      "carryover": "$8,889",
+      "carryoverAmount": 6293,
+      "carryover": "$6,293",
       "wagertype": "Pick 6 Jackpot",
-      "track": "Mahoning Valley",
-      "date": "Feb 28",
-      "ndate": 20220228
+      "track": "Turf Paradise",
+      "date": "Mar 01",
+      "ndate": 20220301
     },
     {
       "carryoverAmount": 4031,
@@ -87,14 +95,6 @@
       "track": "Sunland Park",
       "date": "Mar 01",
       "ndate": 20220301
-    },
-    {
-      "carryoverAmount": 909,
-      "carryover": "$909",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Turf Paradise",
-      "date": "Feb 28",
-      "ndate": 20220228
     }
   ]
 }
