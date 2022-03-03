@@ -1,12 +1,12 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 429136,
-      "carryover": "$429,136",
+      "carryoverAmount": 443196,
+      "carryover": "$443,196",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Mar 02",
-      "ndate": 20220302
+      "date": "Mar 07",
+      "ndate": 20220307
     },
     {
       "carryoverAmount": 124190,
@@ -25,6 +25,14 @@
       "ndate": 20220304
     },
     {
+      "carryoverAmount": 70010,
+      "carryover": "$70,010",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Gulfstream Park",
+      "date": "Mar 03",
+      "ndate": 20220303
+    },
+    {
       "carryoverAmount": 52581,
       "carryover": "$52,581",
       "wagertype": "Pick 6",
@@ -33,68 +41,92 @@
       "ndate": 20220304
     },
     {
-      "carryoverAmount": 45968,
-      "carryover": "$45,968",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Gulfstream Park",
-      "date": "Mar 02",
-      "ndate": 20220302
-    },
-    {
-      "carryoverAmount": 32777,
-      "carryover": "$32,777",
+      "carryoverAmount": 38283,
+      "carryover": "$38,283",
       "wagertype": "Pick 6 Jackpot",
       "track": "Charles Town",
-      "date": "Mar 02",
-      "ndate": 20220302
+      "date": "Mar 03",
+      "ndate": 20220303
     },
     {
-      "carryoverAmount": 24689,
-      "carryover": "$24,689",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Mahoning Valley",
-      "date": "Mar 02",
-      "ndate": 20220302
-    },
-    {
-      "carryoverAmount": 23081,
-      "carryover": "$23,081",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Tampa Bay",
-      "date": "Mar 02",
-      "ndate": 20220302
-    },
-    {
-      "carryoverAmount": 20507,
-      "carryover": "$20,507",
+      "carryoverAmount": 35435,
+      "carryover": "$35,435",
       "wagertype": "Pick 6 Jackpot",
       "track": "Turfway Park",
-      "date": "Mar 02",
-      "ndate": 20220302
+      "date": "Mar 03",
+      "ndate": 20220303
     },
     {
-      "carryoverAmount": 12648,
-      "carryover": "$12,648",
-      "wagertype": "Pick 6",
-      "track": "Sam Houston",
-      "date": "Mar 02",
-      "ndate": 20220302
+      "carryoverAmount": 29078,
+      "carryover": "$29,078",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Mahoning Valley",
+      "date": "Mar 05",
+      "ndate": 20220305
     },
     {
-      "carryoverAmount": 11770,
-      "carryover": "$11,770",
+      "carryoverAmount": 27294,
+      "carryover": "$27,294",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Tampa Bay",
+      "date": "Mar 04",
+      "ndate": 20220304
+    },
+    {
+      "carryoverAmount": 17956,
+      "carryover": "$17,956",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Fonner Park",
+      "date": "Mar 04",
+      "ndate": 20220304
+    },
+    {
+      "carryoverAmount": 16556,
+      "carryover": "$16,556",
       "wagertype": "Pick 6 Jackpot",
       "track": "Turf Paradise",
-      "date": "Mar 02",
-      "ndate": 20220302
+      "date": "Mar 03",
+      "ndate": 20220303
     },
     {
-      "carryoverAmount": 593,
-      "carryover": "$593",
+      "carryoverAmount": 4623,
+      "carryover": "$4,623",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Mar 03",
+      "ndate": 20220303
+    },
+    {
+      "carryoverAmount": 2335,
+      "carryover": "$2,335",
+      "wagertype": "Super High Five",
+      "track": "Turfway Park",
+      "date": "Mar 03",
+      "ndate": 20220303
+    },
+    {
+      "carryoverAmount": 1884,
+      "carryover": "$1,884",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Mar 03",
+      "ndate": 20220303
+    },
+    {
+      "carryoverAmount": 1621,
+      "carryover": "$1,621",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Sam Houston",
+      "date": "Mar 03",
+      "ndate": 20220303
+    },
+    {
+      "carryoverAmount": 1405,
+      "carryover": "$1,405",
       "wagertype": "Super High Five Jackpot",
       "track": "Penn National",
-      "date": "Mar 02",
-      "ndate": 20220302
+      "date": "Mar 04",
+      "ndate": 20220304
     }
   ]
 }
