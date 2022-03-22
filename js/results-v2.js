@@ -34,7 +34,7 @@ const Race = (track) => `
 
 /* HEADER */
 const RaceDisplay = (eventNo, track) => (
-  RaceTitle(eventNo, track) 
+  RaceTitle(eventNo, track) // comes from the page itself
   + SelectionTable(eventNo, track)
   + ('results' in track.events[eventNo -1] ? 
     DividendTable(eventNo, track) : '')
@@ -84,9 +84,12 @@ const SelectionHeader = (eventNo, track) => {
     const person = (event.breed.toLowerCase() === 'harness') ? 
       'Driver' : 'Jockey';
 
+    const horse_header = (exists(event, 'jockey') ? 
+      ['Horse', person] : ['Horse']);
+
     // jockey entry means horse race --> otherwise Dog
     headers.unshift(...event.breed.toLowerCase() === "dog" ?
-     ['Greyhound'] : ['Horse', person]);
+     ['Greyhound'] : horse_header);
 
     // set selectionText for display in process
     return `<th>#</th>` +
@@ -157,11 +160,14 @@ const DividendBody = (eventNo, track) => {
 
   if (isCanceled(eventNo, track)) return '';
 
+  dispAmt = (amt) => {
+    const dollars = convertToAmt(parseInt(amt)/100);
+    return (dollars.endsWith(".00")) ? dollars.slice(0,-3) : dollars; 
+  };
+
   return event.results.dividends.map( (x, idx) => `
     <tr>
-      <td>${convertToAmt(
-        parseInt(x.baseAmount?.$numberDouble || x.baseAmount?.$numberInt)/100)
-        .slice(0,-3)}
+      <td>${dispAmt(x.baseAmount?.$numberDouble || x.baseAmount?.$numberInt)}
         ${convertBetType(x.betType) || x.betType}
       </td>
       <td>${x.finishers}</td>
@@ -205,8 +211,8 @@ const RaceDetails = (eventNo, track) => {
           '</li>' : '' }
 
       ${ // CONDITIONS
-        event.conditions ? '<li><strong>Conditions:</strong> ' + 
-        event.conditions + '</li>': ''}
+        event.conditions && typeof event.conditions === 'string' ? 
+          '<li><strong>Conditions:</strong> ' + event.conditions + '</li>': ''}
 
       ${ // ALSO RAN
         event.results?.alsoRan && event.results.alsoRan.length ?
@@ -224,8 +230,8 @@ const ActionBox = (eventNo, track) => `
     <div class="row">
       <div class="col-md-8 text-left">
         ${ thisEvent(eventNo, track).runners.length > 0 ?
-          'No results for yet ' + track.ID + ' - place your bets!' :
-          'Watch Race ' + track.ID + ' Video Replay'}
+          `No results for yet ${track.ID} - place your bets!` :
+          `Watch Race ${eventNo} Video Replay`}
       </div>
       <div class="col-md-4">
         ${ActionButton(
@@ -342,7 +348,7 @@ const PromoJoin = (track) =>  {
 /* HELPER FUNCTIONS */
 // search all entries --> doesn't exist --> return 0 else 1
 const exists = (event, entry) => event.results.finisher.filter(
-  (x) => entry in x).length;
+  (x) => entry in x && x[entry]).length;
 
 const thisEvent = (eventNo, track) => track.events[eventNo - 1];
 
@@ -361,6 +367,11 @@ const convertBetType = (betType) => {
     QU: 'Quinella',
     QU3: 'Trio',
     DD: 'Daily Double',
+    DB: 'Daily Double',
+    P3: 'Pick 3',
+    P4: 'Pick 4',
+    P5: 'Pick 5',
+    P6: 'Pick 6',
     TR: 'Trifecta',
     TS: 'Tri-Super',
     TT: 'Twin-Tri',
