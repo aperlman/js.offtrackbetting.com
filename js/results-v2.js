@@ -231,7 +231,7 @@ const ActionBox = (eventNo, track) => `
       <div class="col-md-8 text-left">
         ${ thisEvent(eventNo, track).runners.length > 0 ?
           `No results for yet ${track.ID} - place your bets!` :
-          `Watch Race ${eventNo} Video Replay`}
+          `Watch ${track.ID} Race ${eventNo} Video Replay`}
       </div>
       <div class="col-md-4">
         ${ActionButton(
