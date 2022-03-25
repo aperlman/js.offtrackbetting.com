@@ -60,7 +60,7 @@ const RaceTitle = (eventNo, track) => {
 /* SELECTIONS */
 const SelectionTable = (eventNo, track) => `
   <div id="selection" class="${
-    thisEvent(eventNo, track).results ? 'results' : 'odds'}">
+    thisEvent(eventNo, track).results ? 'results' : 'odds'} table-responsive">
     <table class="table table-striped table-condensed table-bordered">
       <thead>
         <tr>${SelectionHeader(eventNo, track)}</tr>
@@ -230,7 +230,7 @@ const ActionBox = (eventNo, track) => `
     <div class="row">
       <div class="col-md-8 text-left">
         ${ thisEvent(eventNo, track).runners.length > 0 ?
-          `No results for yet ${track.ID} - place your bets!` :
+          `No results for ${track.ID} Race ${eventNo} yet - place your bets!` :
           `Watch ${track.ID} Race ${eventNo} Video Replay`}
       </div>
       <div class="col-md-4">
