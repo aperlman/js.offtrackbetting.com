@@ -16,7 +16,9 @@ const PopulateTodayRaces = () => {
   });
 };
 
-const TodaysRaces = (events) => events.todaysraces.tracks.map((track) => `
-  <a href="${track.resultsUrl}" alt="${track.name} Results"
+// {name} in the url means we don't have it setup in meetinfo
+const TodaysRaces = (events) => events.todaysraces.tracks.filter(
+  (track) => !track.resultsUrl.includes("{name}")).map((track) => 
+    `<a href="${track.resultsUrl}" alt="${track.name} Results"
     title="current race: ${track.currentRace} mtp: ${track.mtp}"
     class="item btn btn-default">${track.name}</a>`).join("\n");
