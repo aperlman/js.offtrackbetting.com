@@ -111,9 +111,9 @@ const SelectionBody = (eventNo, track) => {
   if ('results' in event) {
     return event.results.finisher.map( (x, idx) => `
       <tr>
-        <td class="postposition ${/* color: [h]pp1 .. [h]pp24 or [h]ppAE */''}
+        <td class="postposition ${/* color: [h]pp1 .. [h]pp24 */''}
           ${(event.breed.toLowerCase() === 'harness' ? 'hpp' : 'pp') +
-            (isNaN(x.programNumber) ? 'AE' : x.programNumber)}"
+            (isNaN(x.programNumber) ? x.programNumber.replace(/\D/g, '') : x.programNumber)}"
         ><a>${x.programNumber}</a></td>
         <td><strong>${x.runnerName}</strong></td>
         ${ exists(event, 'jockey') ? 
@@ -130,9 +130,9 @@ const SelectionBody = (eventNo, track) => {
   // NO RESULTS YET...
   return event.runners.map( x => `
     <tr>
-      <td class="postposition ${/* color: [h]pp1 .. [h]pp24 or [h]ppAE */''}
+      <td class="postposition ${/* color: [h]pp1 .. [h]pp24 */''}
       ${(event.breed.toLowerCase() === 'harness' ? 'hpp' : 'pp') +
-        (isNaN(x.number) ? 'AE' : x.number)}"><a>${x.number}</a></td>
+        (isNaN(x.number) ? x.number.replace(/\D/g, '') : x.number)}"><a>${x.number}</a></td>
       <td><strong>${x.name}</strong></td>
       <td>${x.morningOdds}</td>
     </tr>
