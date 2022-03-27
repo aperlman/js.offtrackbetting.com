@@ -1,20 +1,36 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 284731,
-      "carryover": "$284,731",
+      "carryoverAmount": 349854,
+      "carryover": "$349,854",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "Mar 26",
-      "ndate": 20220326
+      "date": "Mar 27",
+      "ndate": 20220327
     },
     {
-      "carryoverAmount": 129537,
-      "carryover": "$129,537",
+      "carryoverAmount": 136327,
+      "carryover": "$136,327",
       "wagertype": "Pick 6 Jackpot",
       "track": "Charles Town",
-      "date": "Mar 26",
-      "ndate": 20220326
+      "date": "Mar 30",
+      "ndate": 20220330
+    },
+    {
+      "carryoverAmount": 86092,
+      "carryover": "$86,092",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Fonner Park",
+      "date": "Mar 27",
+      "ndate": 20220327
+    },
+    {
+      "carryoverAmount": 82103,
+      "carryover": "$82,103",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Santa Anita",
+      "date": "Mar 27",
+      "ndate": 20220327
     },
     {
       "carryoverAmount": 80048,
@@ -25,52 +41,28 @@
       "ndate": 20220328
     },
     {
-      "carryoverAmount": 77700,
-      "carryover": "$77,700",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Fonner Park",
-      "date": "Mar 26",
-      "ndate": 20220326
-    },
-    {
-      "carryoverAmount": 46425,
-      "carryover": "$46,425",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Santa Anita",
-      "date": "Mar 26",
-      "ndate": 20220326
-    },
-    {
-      "carryoverAmount": 40542,
-      "carryover": "$40,542",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Sam Houston",
-      "date": "Mar 26",
-      "ndate": 20220326
-    },
-    {
-      "carryoverAmount": 28129,
-      "carryover": "$28,129",
+      "carryoverAmount": 63351,
+      "carryover": "$63,351",
       "wagertype": "Pick 6",
       "track": "Los Alamitos",
-      "date": "Mar 26",
-      "ndate": 20220326
+      "date": "Mar 27",
+      "ndate": 20220327
     },
     {
-      "carryoverAmount": 22334,
-      "carryover": "$22,334",
+      "carryoverAmount": 34038,
+      "carryover": "$34,038",
       "wagertype": "Pick 6 Jackpot",
       "track": "Turfway Park",
-      "date": "Mar 26",
-      "ndate": 20220326
+      "date": "Mar 31",
+      "ndate": 20220331
     },
     {
-      "carryoverAmount": 18122,
-      "carryover": "$18,122",
+      "carryoverAmount": 21773,
+      "carryover": "$21,773",
       "wagertype": "Pick 6 Jackpot",
       "track": "Mahoning Valley",
-      "date": "Mar 26",
-      "ndate": 20220326
+      "date": "Mar 28",
+      "ndate": 20220328
     },
     {
       "carryoverAmount": 15113,
@@ -81,12 +73,36 @@
       "ndate": 20220328
     },
     {
-      "carryoverAmount": 9508,
-      "carryover": "$9,508",
+      "carryoverAmount": 11846,
+      "carryover": "$11,846",
       "wagertype": "Pick 6 Jackpot",
       "track": "Laurel Park",
-      "date": "Mar 26",
-      "ndate": 20220326
+      "date": "Mar 27",
+      "ndate": 20220327
+    },
+    {
+      "carryoverAmount": 9032,
+      "carryover": "$9,032",
+      "wagertype": "Super High Five",
+      "track": "Santa Anita",
+      "date": "Mar 27",
+      "ndate": 20220327
+    },
+    {
+      "carryoverAmount": 8419,
+      "carryover": "$8,419",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Mar 27",
+      "ndate": 20220327
+    },
+    {
+      "carryoverAmount": 7077,
+      "carryover": "$7,077",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Tampa Bay",
+      "date": "Mar 27",
+      "ndate": 20220327
     },
     {
       "carryoverAmount": 6850,
@@ -97,36 +113,36 @@
       "ndate": 20220329
     },
     {
-      "carryoverAmount": 4305,
-      "carryover": "$4,305",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Tampa Bay",
-      "date": "Mar 26",
-      "ndate": 20220326
-    },
-    {
-      "carryoverAmount": 3731,
-      "carryover": "$3,731",
+      "carryoverAmount": 4454,
+      "carryover": "$4,454",
       "wagertype": "Super High Five",
       "track": "Gulfstream Park",
-      "date": "Mar 26",
-      "ndate": 20220326
+      "date": "Mar 27",
+      "ndate": 20220327
     },
     {
-      "carryoverAmount": 1606,
-      "carryover": "$1,606",
+      "carryoverAmount": 4401,
+      "carryover": "$4,401",
       "wagertype": "Pick 6 Jackpot",
       "track": "Golden Gate",
-      "date": "Mar 26",
-      "ndate": 20220326
+      "date": "Mar 27",
+      "ndate": 20220327
     },
     {
-      "carryoverAmount": 1438,
-      "carryover": "$1,438",
+      "carryoverAmount": 1517,
+      "carryover": "$1,517",
       "wagertype": "Super High Five",
-      "track": "Sunland Park",
-      "date": "Mar 26",
-      "ndate": 20220326
+      "track": "Golden Gate",
+      "date": "Mar 27",
+      "ndate": 20220327
+    },
+    {
+      "carryoverAmount": 1196,
+      "carryover": "$1,196",
+      "wagertype": "Super High Five",
+      "track": "Golden Gate",
+      "date": "Mar 27",
+      "ndate": 20220327
     }
   ]
 }
