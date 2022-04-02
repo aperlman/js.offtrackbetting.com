@@ -1,20 +1,20 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 438959,
-      "carryover": "$438,959",
+      "carryoverAmount": 483323,
+      "carryover": "$483,323",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "Apr 01",
-      "ndate": 20220401
+      "date": "Apr 02",
+      "ndate": 20220402
     },
     {
-      "carryoverAmount": 154346,
-      "carryover": "$154,346",
+      "carryoverAmount": 148920,
+      "carryover": "$148,920",
       "wagertype": "Pick 6 Jackpot",
-      "track": "Charles Town",
-      "date": "Apr 01",
-      "ndate": 20220401
+      "track": "Santa Anita",
+      "date": "Apr 02",
+      "ndate": 20220402
     },
     {
       "carryoverAmount": 140437,
@@ -25,36 +25,36 @@
       "ndate": 20220404
     },
     {
-      "carryoverAmount": 115754,
-      "carryover": "$115,754",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Santa Anita",
-      "date": "Apr 01",
-      "ndate": 20220401
-    },
-    {
-      "carryoverAmount": 92596,
-      "carryover": "$92,596",
+      "carryoverAmount": 100315,
+      "carryover": "$100,315",
       "wagertype": "Pick 5 Jackpot",
       "track": "Fonner Park",
-      "date": "Apr 01",
-      "ndate": 20220401
+      "date": "Apr 02",
+      "ndate": 20220402
     },
     {
-      "carryoverAmount": 39910,
-      "carryover": "$39,910",
+      "carryoverAmount": 46130,
+      "carryover": "$46,130",
       "wagertype": "Pick 6 Jackpot",
       "track": "Turf Paradise",
-      "date": "Apr 01",
-      "ndate": 20220401
+      "date": "Apr 04",
+      "ndate": 20220404
     },
     {
-      "carryoverAmount": 35993,
-      "carryover": "$35,993",
+      "carryoverAmount": 39862,
+      "carryover": "$39,862",
+      "wagertype": "Pick 6",
+      "track": "Aqueduct",
+      "date": "Apr 02",
+      "ndate": 20220402
+    },
+    {
+      "carryoverAmount": 37564,
+      "carryover": "$37,564",
       "wagertype": "Pick 6 Jackpot",
       "track": "Turfway Park",
-      "date": "Apr 01",
-      "ndate": 20220401
+      "date": "Apr 02",
+      "ndate": 20220402
     },
     {
       "carryoverAmount": 29557,
@@ -65,20 +65,20 @@
       "ndate": 20220402
     },
     {
-      "carryoverAmount": 21632,
-      "carryover": "$21,632",
+      "carryoverAmount": 25428,
+      "carryover": "$25,428",
       "wagertype": "Pick 6 Jackpot",
       "track": "Tampa Bay",
-      "date": "Apr 01",
-      "ndate": 20220401
+      "date": "Apr 02",
+      "ndate": 20220402
     },
     {
-      "carryoverAmount": 17418,
-      "carryover": "$17,418",
-      "wagertype": "Super High Five",
-      "track": "Santa Anita",
-      "date": "Apr 01",
-      "ndate": 20220401
+      "carryoverAmount": 10224,
+      "carryover": "$10,224",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Golden Gate",
+      "date": "Apr 02",
+      "ndate": 20220402
     },
     {
       "carryoverAmount": 7793,
@@ -89,44 +89,44 @@
       "ndate": 20220402
     },
     {
-      "carryoverAmount": 7385,
-      "carryover": "$7,385",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Golden Gate",
-      "date": "Apr 01",
-      "ndate": 20220401
-    },
-    {
-      "carryoverAmount": 6781,
-      "carryover": "$6,781",
-      "wagertype": "Pick 6",
-      "track": "Sam Houston",
-      "date": "Apr 01",
-      "ndate": 20220401
-    },
-    {
-      "carryoverAmount": 6762,
-      "carryover": "$6,762",
-      "wagertype": "Super High Five",
-      "track": "Golden Gate",
-      "date": "Apr 01",
-      "ndate": 20220401
-    },
-    {
-      "carryoverAmount": 3561,
-      "carryover": "$3,561",
+      "carryoverAmount": 6628,
+      "carryover": "$6,628",
       "wagertype": "Super High Five Jackpot",
       "track": "Sam Houston",
-      "date": "Apr 01",
-      "ndate": 20220401
+      "date": "Apr 02",
+      "ndate": 20220402
     },
     {
-      "carryoverAmount": 1426,
-      "carryover": "$1,426",
+      "carryoverAmount": 4237,
+      "carryover": "$4,237",
       "wagertype": "Super High Five",
       "track": "Turfway Park",
-      "date": "Apr 01",
-      "ndate": 20220401
+      "date": "Apr 02",
+      "ndate": 20220402
+    },
+    {
+      "carryoverAmount": 2169,
+      "carryover": "$2,169",
+      "wagertype": "Super High Five",
+      "track": "Laurel Park",
+      "date": "Apr 02",
+      "ndate": 20220402
+    },
+    {
+      "carryoverAmount": 1843,
+      "carryover": "$1,843",
+      "wagertype": "Super High Five",
+      "track": "Golden Gate",
+      "date": "Apr 02",
+      "ndate": 20220402
+    },
+    {
+      "carryoverAmount": 265,
+      "carryover": "$265",
+      "wagertype": "Super High Five",
+      "track": "Sunland Park",
+      "date": "Apr 02",
+      "ndate": 20220402
     }
   ]
 }
