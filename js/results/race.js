@@ -48,7 +48,8 @@ const RaceDisplay = (eventNo, track) => (
 const RaceTitle = (eventNo, track) => {
   const date_str = new Date( // convert post_time to date then --> m-d-YYYY
       parseInt(thisEvent(eventNo, track).postTime.$numberDouble) * 1000)
-    .toLocaleDateString("en-US").replace(/\//g,"-");
+    .toLocaleDateString("en-US", {timeZone: "America/New_York"})
+    .replace(/\//g,"-");
 
   return `
     <div id="raceTitle">
@@ -167,8 +168,7 @@ const DividendBody = (eventNo, track) => {
 
   return event.results.dividends.map( (x, idx) => `
     <tr>
-      <td>${dispAmt(x.baseAmount?.$numberDouble || x.baseAmount?.$numberInt)}
-        ${convertBetType(x.betType) || x.betType}
+      <td>${dispAmt(x.baseAmount?.$numberDouble || x.baseAmount?.$numberInt)}&nbsp;${convertBetType(x.betType) || x.betType}
       </td>
       <td>${x.finishers}</td>
       <td>${convertToAmt(x.amount?.$numberDouble)}</td>
@@ -183,7 +183,7 @@ const RaceDetails = (eventNo, track) => {
     <ul>
       ${ // SCRATCHES
         'results' in event && event.results.scratches[0] ? 
-        '<li><strong>Scratches:</strong> ' + event.results.scratches.join(", ")
+        '<li><strong>Scratches:</strong>&nbsp;' + event.results.scratches.join(", ")
         + '</li>' : '' }
 
       ${ // purse and distance --> opening tag
@@ -196,7 +196,7 @@ const RaceDetails = (eventNo, track) => {
           parseInt(event.purse.$numberDouble)/100).slice(0,-3) : '' }
       
       ${ // DISTANCE
-        event.distance ? '<strong>Distance:</strong> '+
+        event.distance ? ' <strong>Distance:</strong> '+
         event.distance.replace(/[Ff]$/, ' Furlongs') : '' }
       
       ${ // purse and distance --> closing tag
@@ -217,7 +217,7 @@ const RaceDetails = (eventNo, track) => {
       ${ // ALSO RAN
         event.results?.alsoRan && event.results.alsoRan.length ?
         `<li><strong>${isCanceled(eventNo, track) ? 
-          "Scheduled Runners" : "Also Ran"}:</strong> `
+          "Scheduled Runners" : "Also Ran"}:</strong>&nbsp;`
         + event.results.alsoRan.join(', ')
         + '</li>' : '' }
 
