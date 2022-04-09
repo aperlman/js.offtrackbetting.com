@@ -1,12 +1,12 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 221198,
-      "carryover": "$221,198",
+      "carryoverAmount": 236755,
+      "carryover": "$236,755",
       "wagertype": "Pick 6 Jackpot",
       "track": "Santa Anita",
-      "date": "Apr 08",
-      "ndate": 20220408
+      "date": "Apr 09",
+      "ndate": 20220409
     },
     {
       "carryoverAmount": 203005,
@@ -17,20 +17,12 @@
       "ndate": 20220411
     },
     {
-      "carryoverAmount": 117546,
-      "carryover": "$117,546",
+      "carryoverAmount": 123710,
+      "carryover": "$123,710",
       "wagertype": "Pick 5 Jackpot",
       "track": "Fonner Park",
-      "date": "Apr 08",
-      "ndate": 20220408
-    },
-    {
-      "carryoverAmount": 100303,
-      "carryover": "$100,303",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Turf Paradise",
-      "date": "Apr 08",
-      "ndate": 20220408
+      "date": "Apr 09",
+      "ndate": 20220409
     },
     {
       "carryoverAmount": 56142,
@@ -41,52 +33,60 @@
       "ndate": 20220409
     },
     {
-      "carryoverAmount": 34712,
-      "carryover": "$34,712",
+      "carryoverAmount": 38018,
+      "carryover": "$38,018",
       "wagertype": "Pick 6 Jackpot",
       "track": "Tampa Bay",
-      "date": "Apr 08",
-      "ndate": 20220408
+      "date": "Apr 09",
+      "ndate": 20220409
     },
     {
-      "carryoverAmount": 17218,
-      "carryover": "$17,218",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Golden Gate",
-      "date": "Apr 08",
-      "ndate": 20220408
-    },
-    {
-      "carryoverAmount": 16510,
-      "carryover": "$16,510",
+      "carryoverAmount": 31184,
+      "carryover": "$31,184",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "Apr 08",
-      "ndate": 20220408
+      "date": "Apr 09",
+      "ndate": 20220409
     },
     {
-      "carryoverAmount": 12352,
-      "carryover": "$12,352",
+      "carryoverAmount": 20006,
+      "carryover": "$20,006",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Golden Gate",
+      "date": "Apr 09",
+      "ndate": 20220409
+    },
+    {
+      "carryoverAmount": 16634,
+      "carryover": "$16,634",
       "wagertype": "Pick 6 Jackpot",
       "track": "Charles Town",
-      "date": "Apr 08",
-      "ndate": 20220408
+      "date": "Apr 09",
+      "ndate": 20220409
     },
     {
-      "carryoverAmount": 3852,
-      "carryover": "$3,852",
+      "carryoverAmount": 6322,
+      "carryover": "$6,322",
       "wagertype": "Pick 5",
-      "track": "Penn National",
-      "date": "Apr 08",
-      "ndate": 20220408
+      "track": "Turf Paradise",
+      "date": "Apr 11",
+      "ndate": 20220411
     },
     {
-      "carryoverAmount": 3733,
-      "carryover": "$3,733",
-      "wagertype": "Super High Five Jackpot",
+      "carryoverAmount": 4212,
+      "carryover": "$4,212",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Apr 09",
+      "ndate": 20220409
+    },
+    {
+      "carryoverAmount": 4155,
+      "carryover": "$4,155",
+      "wagertype": "Pick 6",
       "track": "Sam Houston",
-      "date": "Apr 08",
-      "ndate": 20220408
+      "date": "Apr 09",
+      "ndate": 20220409
     },
     {
       "carryoverAmount": 2657,
@@ -97,10 +97,42 @@
       "ndate": 20220409
     },
     {
+      "carryoverAmount": 2636,
+      "carryover": "$2,636",
+      "wagertype": "Super High Five",
+      "track": "Golden Gate",
+      "date": "Apr 09",
+      "ndate": 20220409
+    },
+    {
+      "carryoverAmount": 1469,
+      "carryover": "$1,469",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Sam Houston",
+      "date": "Apr 09",
+      "ndate": 20220409
+    },
+    {
       "carryoverAmount": 1448,
       "carryover": "$1,448",
       "wagertype": "Pick 6 Jackpot",
       "track": "Hawthorne",
+      "date": "Apr 09",
+      "ndate": 20220409
+    },
+    {
+      "carryoverAmount": 1210,
+      "carryover": "$1,210",
+      "wagertype": "Super High Five",
+      "track": "Golden Gate",
+      "date": "Apr 09",
+      "ndate": 20220409
+    },
+    {
+      "carryoverAmount": 637,
+      "carryover": "$637",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Laurel Park",
       "date": "Apr 09",
       "ndate": 20220409
     }
