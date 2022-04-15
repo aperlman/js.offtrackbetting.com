@@ -25,6 +25,14 @@
       "ndate": 20220415
     },
     {
+      "carryoverAmount": 101259,
+      "carryover": "$101,259",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Gulfstream Park",
+      "date": "Apr 15",
+      "ndate": 20220415
+    },
+    {
       "carryoverAmount": 88049,
       "carryover": "$88,049",
       "wagertype": "Pick 6 Jackpot",
@@ -33,28 +41,12 @@
       "ndate": 20220415
     },
     {
-      "carryoverAmount": 84598,
-      "carryover": "$84,598",
+      "carryoverAmount": 33234,
+      "carryover": "$33,234",
       "wagertype": "Pick 6 Jackpot",
-      "track": "Gulfstream Park",
-      "date": "Apr 14",
-      "ndate": 20220414
-    },
-    {
-      "carryoverAmount": 45509,
-      "carryover": "$45,509",
-      "wagertype": "Pick 6",
-      "track": "Aqueduct",
-      "date": "Apr 14",
-      "ndate": 20220414
-    },
-    {
-      "carryoverAmount": 36808,
-      "carryover": "$36,808",
-      "wagertype": "Pick 6",
-      "track": "Keeneland",
-      "date": "Apr 14",
-      "ndate": 20220414
+      "track": "Charles Town",
+      "date": "Apr 15",
+      "ndate": 20220415
     },
     {
       "carryoverAmount": 28725,
@@ -65,20 +57,12 @@
       "ndate": 20220415
     },
     {
-      "carryoverAmount": 25825,
-      "carryover": "$25,825",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Charles Town",
-      "date": "Apr 14",
-      "ndate": 20220414
-    },
-    {
-      "carryoverAmount": 18222,
-      "carryover": "$18,222",
+      "carryoverAmount": 26658,
+      "carryover": "$26,658",
       "wagertype": "Pick 6 Jackpot",
       "track": "Turf Paradise",
-      "date": "Apr 14",
-      "ndate": 20220414
+      "date": "Apr 18",
+      "ndate": 20220418
     },
     {
       "carryoverAmount": 12475,
@@ -89,12 +73,12 @@
       "ndate": 20220415
     },
     {
-      "carryoverAmount": 5598,
-      "carryover": "$5,598",
-      "wagertype": "Super High Five",
-      "track": "Gulfstream Park",
-      "date": "Apr 14",
-      "ndate": 20220414
+      "carryoverAmount": 10827,
+      "carryover": "$10,827",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Penn National",
+      "date": "Apr 20",
+      "ndate": 20220420
     },
     {
       "carryoverAmount": 4884,
@@ -105,12 +89,12 @@
       "ndate": 20220415
     },
     {
-      "carryoverAmount": 3621,
-      "carryover": "$3,621",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Laurel Park",
-      "date": "Apr 14",
-      "ndate": 20220414
+      "carryoverAmount": 2124,
+      "carryover": "$2,124",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Apr 15",
+      "ndate": 20220415
     }
   ]
 }
