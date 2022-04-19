@@ -27,7 +27,6 @@ Version: 2
 
 const Race = (track) => `
   <div id="race">
-    <h1>${track.ID} Results</h1>
     ${[...Array(track.events.length).keys()].map(
       x => RaceDisplay(++x,track)).join('<br/>')}
   </div>`;
