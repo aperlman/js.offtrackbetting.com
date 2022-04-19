@@ -27,6 +27,7 @@ Version: 2
 
 const Race = (track) => `
   <div id="race">
+    <br/>
     ${[...Array(track.events.length).keys()].map(
       x => RaceDisplay(++x,track)).join('<br/>')}
   </div>`;
