@@ -1,28 +1,36 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 312972,
-      "carryover": "$312,972",
+      "carryoverAmount": 327773,
+      "carryover": "$327,773",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Apr 20",
-      "ndate": 20220420
+      "date": "Apr 25",
+      "ndate": 20220425
     },
     {
-      "carryoverAmount": 44426,
-      "carryover": "$44,426",
+      "carryoverAmount": 166242,
+      "carryover": "$166,242",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Fonner Park",
+      "date": "Apr 22",
+      "ndate": 20220422
+    },
+    {
+      "carryoverAmount": 50310,
+      "carryover": "$50,310",
       "wagertype": "Pick 6 Jackpot",
       "track": "Charles Town",
-      "date": "Apr 20",
-      "ndate": 20220420
+      "date": "Apr 21",
+      "ndate": 20220421
     },
     {
-      "carryoverAmount": 38853,
-      "carryover": "$38,853",
-      "wagertype": "Super High Five",
+      "carryoverAmount": 41273,
+      "carryover": "$41,273",
+      "wagertype": "Pick 6",
       "track": "Keeneland",
-      "date": "Apr 20",
-      "ndate": 20220420
+      "date": "Apr 21",
+      "ndate": 20220421
     },
     {
       "carryoverAmount": 34473,
@@ -33,20 +41,28 @@
       "ndate": 20220421
     },
     {
-      "carryoverAmount": 10827,
-      "carryover": "$10,827",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Penn National",
-      "date": "Apr 20",
-      "ndate": 20220420
+      "carryoverAmount": 17198,
+      "carryover": "$17,198",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Woodbine",
+      "date": "Apr 23",
+      "ndate": 20220423
     },
     {
-      "carryoverAmount": 9315,
-      "carryover": "$9,315",
+      "carryoverAmount": 16991,
+      "carryover": "$16,991",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Woodbine",
+      "date": "Apr 23",
+      "ndate": 20220423
+    },
+    {
+      "carryoverAmount": 12836,
+      "carryover": "$12,836",
       "wagertype": "Pick 6 Jackpot",
       "track": "Tampa Bay",
-      "date": "Apr 20",
-      "ndate": 20220420
+      "date": "Apr 22",
+      "ndate": 20220422
     },
     {
       "carryoverAmount": 7771,
@@ -57,6 +73,30 @@
       "ndate": 20220422
     },
     {
+      "carryoverAmount": 5316,
+      "carryover": "$5,316",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Horseshoe",
+      "date": "Apr 26",
+      "ndate": 20220426
+    },
+    {
+      "carryoverAmount": 4105,
+      "carryover": "$4,105",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Turf Paradise",
+      "date": "Apr 21",
+      "ndate": 20220421
+    },
+    {
+      "carryoverAmount": 4027,
+      "carryover": "$4,027",
+      "wagertype": "Super High Five",
+      "track": "Horseshoe",
+      "date": "Apr 26",
+      "ndate": 20220426
+    },
+    {
       "carryoverAmount": 3678,
       "carryover": "$3,678",
       "wagertype": "Pick 6 Jackpot",
@@ -65,28 +105,20 @@
       "ndate": 20220421
     },
     {
-      "carryoverAmount": 3610,
-      "carryover": "$3,610",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Horseshoe",
-      "date": "Apr 20",
-      "ndate": 20220420
+      "carryoverAmount": 2340,
+      "carryover": "$2,340",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Hawthorne",
+      "date": "Apr 23",
+      "ndate": 20220423
     },
     {
-      "carryoverAmount": 1917,
-      "carryover": "$1,917",
+      "carryoverAmount": 1699,
+      "carryover": "$1,699",
       "wagertype": "Super High Five",
       "track": "Horseshoe",
-      "date": "Apr 20",
-      "ndate": 20220420
-    },
-    {
-      "carryoverAmount": 1640,
-      "carryover": "$1,640",
-      "wagertype": "Super High Five",
-      "track": "Horseshoe",
-      "date": "Apr 20",
-      "ndate": 20220420
+      "date": "Apr 26",
+      "ndate": 20220426
     }
   ]
 }
