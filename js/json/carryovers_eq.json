@@ -1,12 +1,12 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 359696,
-      "carryover": "$359,696",
+      "carryoverAmount": 387096,
+      "carryover": "$387,096",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Apr 26",
-      "ndate": 20220426
+      "date": "Apr 27",
+      "ndate": 20220427
     },
     {
       "carryoverAmount": 130033,
@@ -65,6 +65,14 @@
       "ndate": 20220427
     },
     {
+      "carryoverAmount": 12600,
+      "carryover": "$12,600",
+      "wagertype": "Super High Five",
+      "track": "Horseshoe",
+      "date": "Apr 27",
+      "ndate": 20220427
+    },
+    {
       "carryoverAmount": 10427,
       "carryover": "$10,427",
       "wagertype": "Pick 6 Jackpot",
@@ -73,12 +81,12 @@
       "ndate": 20220428
     },
     {
-      "carryoverAmount": 5316,
-      "carryover": "$5,316",
+      "carryoverAmount": 8342,
+      "carryover": "$8,342",
       "wagertype": "Pick 6 Jackpot",
-      "track": "Horseshoe",
-      "date": "Apr 26",
-      "ndate": 20220426
+      "track": "Turf Paradise",
+      "date": "Apr 27",
+      "ndate": 20220427
     },
     {
       "carryoverAmount": 5080,
@@ -89,20 +97,20 @@
       "ndate": 20220429
     },
     {
-      "carryoverAmount": 4310,
-      "carryover": "$4,310",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Turf Paradise",
-      "date": "Apr 26",
-      "ndate": 20220426
+      "carryoverAmount": 3761,
+      "carryover": "$3,761",
+      "wagertype": "Pick 7",
+      "track": "Fanduel",
+      "date": "Apr 30",
+      "ndate": 20220430
     },
     {
-      "carryoverAmount": 4027,
-      "carryover": "$4,027",
+      "carryoverAmount": 2447,
+      "carryover": "$2,447",
       "wagertype": "Super High Five",
       "track": "Horseshoe",
-      "date": "Apr 26",
-      "ndate": 20220426
+      "date": "Apr 27",
+      "ndate": 20220427
     },
     {
       "carryoverAmount": 2198,
@@ -113,28 +121,12 @@
       "ndate": 20220429
     },
     {
-      "carryoverAmount": 2005,
-      "carryover": "$2,005",
-      "wagertype": "Pick 7",
-      "track": "Fanduel",
-      "date": "Apr 26",
-      "ndate": 20220426
-    },
-    {
-      "carryoverAmount": 1699,
-      "carryover": "$1,699",
-      "wagertype": "Super High Five",
-      "track": "Horseshoe",
-      "date": "Apr 26",
-      "ndate": 20220426
-    },
-    {
-      "carryoverAmount": 868,
-      "carryover": "$868",
+      "carryoverAmount": 1637,
+      "carryover": "$1,637",
       "wagertype": "Pick 6 Jackpot",
       "track": "Thistledown",
-      "date": "Apr 26",
-      "ndate": 20220426
+      "date": "Apr 27",
+      "ndate": 20220427
     }
   ]
 }
