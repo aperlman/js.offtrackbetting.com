@@ -2,53 +2,29 @@
 
 {
   "todaysraces": {
-    "headline": "OTB Schedule: Tuesday, Apr 12",
+    "headline": "OTB Schedule: Monday, Apr 25",
     "tracks": [
       {
                "name": "Australia A",
-               "time": " 5:46 AM",
+               "time": "10:55 PM",
              "meetno": 5,
         "results_url": "https://www.offtrackbetting.com/results/5/australia-a.html"
       },
       {
-               "name": "Australia B",
-               "time": " 5:47 AM",
-             "meetno": 115,
-        "results_url": "https://www.offtrackbetting.com/results/115/australia-b.html"
-      },
-      {
-               "name": "Australia C",
-               "time": " 5:58 AM",
-             "meetno": 168,
-        "results_url": "https://www.offtrackbetting.com/results/168/australia-c.html"
-      },
-      {
-               "name": "Mahoning Valley",
-               "time": " 5:06 AM",
-             "meetno": 216,
-        "results_url": "https://www.offtrackbetting.com/results/216/mahoning-valley.html"
-      },
-      {
-               "name": "Northfield Park",
-               "time": " 5:15 AM",
-             "meetno": 58,
-        "results_url": "https://www.offtrackbetting.com/results/58/northfield-park.html"
-      },
-      {
-               "name": "Pompano Park",
-               "time": " 5:26 AM",
-             "meetno": 68,
-        "results_url": "https://www.offtrackbetting.com/results/68/pompano-park.html"
+               "name": "Pocono Downs",
+               "time": " 1:30 PM",
+             "meetno": 67,
+        "results_url": "https://www.offtrackbetting.com/results/67/pocono-downs.html"
       },
       {
                "name": "Turf Paradise",
-               "time": " 5:03 AM",
+               "time": " 3:25 PM",
              "meetno": 100,
         "results_url": "https://www.offtrackbetting.com/results/100/turf-paradise.html"
       },
       {
                "name": "Yonkers Raceway",
-               "time": " 5:23 AM",
+               "time": " 6:55 PM",
              "meetno": 108,
         "results_url": "https://www.offtrackbetting.com/results/108/yonkers-raceway.html"
       }
