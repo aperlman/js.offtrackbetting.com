@@ -1,12 +1,20 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 387096,
-      "carryover": "$387,096",
+      "carryoverAmount": 402888,
+      "carryover": "$402,888",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Apr 27",
-      "ndate": 20220427
+      "date": "May 02",
+      "ndate": 20220502
+    },
+    {
+      "carryoverAmount": 197698,
+      "carryover": "$197,698",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Fonner Park",
+      "date": "Apr 29",
+      "ndate": 20220429
     },
     {
       "carryoverAmount": 130033,
@@ -17,28 +25,28 @@
       "ndate": 20220428
     },
     {
-      "carryoverAmount": 78731,
-      "carryover": "$78,731",
+      "carryoverAmount": 87812,
+      "carryover": "$87,812",
       "wagertype": "Pick 6 Jackpot",
       "track": "Charles Town",
-      "date": "Apr 27",
-      "ndate": 20220427
+      "date": "Apr 28",
+      "ndate": 20220428
     },
     {
-      "carryoverAmount": 49486,
-      "carryover": "$49,486",
-      "wagertype": "Pick 6",
-      "track": "Keeneland",
-      "date": "Apr 27",
-      "ndate": 20220427
+      "carryoverAmount": 64261,
+      "carryover": "$64,261",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Santa Anita",
+      "date": "Apr 30",
+      "ndate": 20220430
     },
     {
-      "carryoverAmount": 41950,
-      "carryover": "$41,950",
-      "wagertype": "Pick 5",
-      "track": "Charles Town",
-      "date": "Apr 27",
-      "ndate": 20220427
+      "carryoverAmount": 25259,
+      "carryover": "$25,259",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Tampa Bay",
+      "date": "Apr 29",
+      "ndate": 20220429
     },
     {
       "carryoverAmount": 23756,
@@ -49,28 +57,28 @@
       "ndate": 20220429
     },
     {
-      "carryoverAmount": 20782,
-      "carryover": "$20,782",
+      "carryoverAmount": 23293,
+      "carryover": "$23,293",
       "wagertype": "Pick 6 Jackpot",
-      "track": "Tampa Bay",
-      "date": "Apr 27",
-      "ndate": 20220427
+      "track": "Woodbine",
+      "date": "Apr 30",
+      "ndate": 20220430
     },
     {
-      "carryoverAmount": 12960,
-      "carryover": "$12,960",
+      "carryoverAmount": 20887,
+      "carryover": "$20,887",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Woodbine",
+      "date": "Apr 30",
+      "ndate": 20220430
+    },
+    {
+      "carryoverAmount": 14242,
+      "carryover": "$14,242",
       "wagertype": "Super High Five Jackpot",
       "track": "Penn National",
-      "date": "Apr 27",
-      "ndate": 20220427
-    },
-    {
-      "carryoverAmount": 12600,
-      "carryover": "$12,600",
-      "wagertype": "Super High Five",
-      "track": "Horseshoe",
-      "date": "Apr 27",
-      "ndate": 20220427
+      "date": "Apr 28",
+      "ndate": 20220428
     },
     {
       "carryoverAmount": 10427,
@@ -81,12 +89,12 @@
       "ndate": 20220428
     },
     {
-      "carryoverAmount": 8342,
-      "carryover": "$8,342",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Turf Paradise",
-      "date": "Apr 27",
-      "ndate": 20220427
+      "carryoverAmount": 6029,
+      "carryover": "$6,029",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Hawthorne",
+      "date": "Apr 30",
+      "ndate": 20220430
     },
     {
       "carryoverAmount": 5080,
@@ -105,12 +113,12 @@
       "ndate": 20220430
     },
     {
-      "carryoverAmount": 2447,
-      "carryover": "$2,447",
-      "wagertype": "Super High Five",
-      "track": "Horseshoe",
-      "date": "Apr 27",
-      "ndate": 20220427
+      "carryoverAmount": 2253,
+      "carryover": "$2,253",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Thistledown",
+      "date": "Apr 28",
+      "ndate": 20220428
     },
     {
       "carryoverAmount": 2198,
@@ -121,12 +129,12 @@
       "ndate": 20220429
     },
     {
-      "carryoverAmount": 1637,
-      "carryover": "$1,637",
+      "carryoverAmount": 1188,
+      "carryover": "$1,188",
       "wagertype": "Pick 6 Jackpot",
-      "track": "Thistledown",
-      "date": "Apr 27",
-      "ndate": 20220427
+      "track": "Hawthorne",
+      "date": "Apr 30",
+      "ndate": 20220430
     }
   ]
 }
