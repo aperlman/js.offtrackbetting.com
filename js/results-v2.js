@@ -295,7 +295,7 @@ const PromoSignup = (track) => {
         <span id="object"><i class="fa fa-arrow-circle-down"></i></span>
         <h2 class="animated tada">Bet ${track.ID} Racing</h2>
         <h3>US Legal Online Wagering</h3>
-        <span class="btn btn-join">$100 SIGN UP BONUS
+        <span class="btn btn-join">100% FIRST DEPOSIT MATCH
           <i class="fa fa-angle-right animated fadeInLeft"></i>
         </span>
       </a>
