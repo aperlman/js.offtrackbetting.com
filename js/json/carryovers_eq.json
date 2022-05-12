@@ -1,12 +1,12 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 504392,
-      "carryover": "$504,392",
+      "carryoverAmount": 534391,
+      "carryover": "$534,391",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "May 11",
-      "ndate": 20220511
+      "date": "May 16",
+      "ndate": 20220516
     },
     {
       "carryoverAmount": 244931,
@@ -17,12 +17,12 @@
       "ndate": 20220513
     },
     {
-      "carryoverAmount": 149412,
-      "carryover": "$149,412",
+      "carryoverAmount": 159221,
+      "carryover": "$159,221",
       "wagertype": "Pick 6 Jackpot",
       "track": "Charles Town",
-      "date": "May 11",
-      "ndate": 20220511
+      "date": "May 12",
+      "ndate": 20220512
     },
     {
       "carryoverAmount": 135184,
@@ -49,6 +49,22 @@
       "ndate": 20220512
     },
     {
+      "carryoverAmount": 23409,
+      "carryover": "$23,409",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Monmouth Park",
+      "date": "May 14",
+      "ndate": 20220514
+    },
+    {
+      "carryoverAmount": 22546,
+      "carryover": "$22,546",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Penn National",
+      "date": "May 12",
+      "ndate": 20220512
+    },
+    {
       "carryoverAmount": 21922,
       "carryover": "$21,922",
       "wagertype": "Pick 4",
@@ -57,20 +73,20 @@
       "ndate": 20220514
     },
     {
-      "carryoverAmount": 21029,
-      "carryover": "$21,029",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Penn National",
-      "date": "May 11",
-      "ndate": 20220511
-    },
-    {
       "carryoverAmount": 12926,
       "carryover": "$12,926",
       "wagertype": "Pick 6 Jackpot",
       "track": "Golden Gate",
       "date": "May 13",
       "ndate": 20220513
+    },
+    {
+      "carryoverAmount": 9796,
+      "carryover": "$9,796",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Horseshoe",
+      "date": "May 12",
+      "ndate": 20220512
     },
     {
       "carryoverAmount": 8628,
@@ -105,12 +121,12 @@
       "ndate": 20220512
     },
     {
-      "carryoverAmount": 5494,
-      "carryover": "$5,494",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Horseshoe",
-      "date": "May 11",
-      "ndate": 20220511
+      "carryoverAmount": 5523,
+      "carryover": "$5,523",
+      "wagertype": "Pick 6",
+      "track": "Finger Lakes",
+      "date": "May 16",
+      "ndate": 20220516
     },
     {
       "carryoverAmount": 4359,
@@ -121,12 +137,12 @@
       "ndate": 20220512
     },
     {
-      "carryoverAmount": 4036,
-      "carryover": "$4,036",
-      "wagertype": "Pick 6",
-      "track": "Finger Lakes",
-      "date": "May 11",
-      "ndate": 20220511
+      "carryoverAmount": 3731,
+      "carryover": "$3,731",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Fonner Park",
+      "date": "May 13",
+      "ndate": 20220513
     },
     {
       "carryoverAmount": 2907,
@@ -143,14 +159,6 @@
       "track": "Century Mile",
       "date": "May 13",
       "ndate": 20220513
-    },
-    {
-      "carryoverAmount": 2033,
-      "carryover": "$2,033",
-      "wagertype": "Super High Five",
-      "track": "Horseshoe",
-      "date": "May 11",
-      "ndate": 20220511
     },
     {
       "carryoverAmount": 1626,
@@ -215,6 +223,30 @@
       "track": "Hawthorne",
       "date": "May 13",
       "ndate": 20220513
+    },
+    {
+      "carryoverAmount": 855,
+      "carryover": "$855",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Hastings",
+      "date": "May 14",
+      "ndate": 20220514
+    },
+    {
+      "carryoverAmount": 688,
+      "carryover": "$688",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Thistledown",
+      "date": "May 12",
+      "ndate": 20220512
+    },
+    {
+      "carryoverAmount": 385,
+      "carryover": "$385",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Hastings",
+      "date": "May 14",
+      "ndate": 20220514
     }
   ]
 }
