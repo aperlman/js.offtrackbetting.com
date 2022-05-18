@@ -1,21 +1,21 @@
-// login form
-$("#loginButton").on( 'click', function () {
-    var loginForm = $("#loginForm");
-    var account = $("#accountNumber").val();
-    var pin = $("#pin").val();
-    var valid = true;
-    if (account == "") {
-        $("#accountNumber").parent().addClass("required")
-        valid = false;
-    }
-    if (pin == "") {
-        $("#pin").parent().addClass("required")
-        valid = false;
-    }
-    if (valid) {
-        loginForm.submit();          
-    }
-});   
+// // login form
+// $("#loginButton").on( 'click', function () {
+//     var loginForm = $("#loginForm");
+//     var account = $("#accountNumber").val();
+//     var pin = $("#pin").val();
+//     var valid = true;
+//     if (account == "") {
+//         $("#accountNumber").parent().addClass("required")
+//         valid = false;
+//     }
+//     if (pin == "") {
+//         $("#pin").parent().addClass("required")
+//         valid = false;
+//     }
+//     if (valid) {
+//         loginForm.submit();          
+//     }
+// });   
 
 // scroll to top
 $(function(){
