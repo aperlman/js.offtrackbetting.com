@@ -47,7 +47,10 @@ const RaceDisplay = (eventNo, track) => (
 
 const RaceTitle = (eventNo, track) => {
   const date_str = new Date( // convert post_time to date then --> m-d-YYYY
-      parseInt(thisEvent(eventNo, track).postTime.$numberDouble) * 1000)
+      parseInt(
+        thisEvent(eventNo, track).postTime.$numberDouble ||
+        thisEvent(eventNo, track).postTime
+      ) * 1000)
     .toLocaleDateString("en-US", {timeZone: "America/New_York"})
     .replace(/\//g,"-");
 
@@ -161,17 +164,18 @@ const DividendBody = (eventNo, track) => {
 
   if (isCanceled(eventNo, track)) return '';
 
-  dispAmt = (amt) => {
+  const dispAmt = (amt) => {
+    if (isNaN(parseInt(amt))) console.log("wtf: " + amt);
     const dollars = convertToAmt(parseInt(amt)/100);
     return (dollars.endsWith(".00")) ? dollars.slice(0,-3) : dollars; 
   };
 
   return event.results.dividends.map( (x, idx) => `
     <tr>
-      <td>${dispAmt(x.baseAmount?.$numberDouble || x.baseAmount?.$numberInt)}&nbsp;${convertBetType(x.betType) || x.betType}
+      <td>${dispAmt(x.baseAmount?.$numberDouble || x.baseAmount?.$numberInt || x.baseAmount)}&nbsp;${convertBetType(x.betType) || x.betType}
       </td>
       <td>${x.finishers}</td>
-      <td>${convertToAmt(x.amount?.$numberDouble)}</td>
+      <td>${convertToAmt(x.amount?.$numberDouble || x.amount)}</td>
     </tr>
   `).join("\n");
 };
