@@ -1,12 +1,12 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 602543,
-      "carryover": "$602,543",
+      "carryoverAmount": 625790,
+      "carryover": "$625,790",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "May 23",
-      "ndate": 20220523
+      "date": "May 24",
+      "ndate": 20220524
     },
     {
       "carryoverAmount": 449348,
@@ -33,12 +33,12 @@
       "ndate": 20220526
     },
     {
-      "carryoverAmount": 43979,
-      "carryover": "$43,979",
+      "carryoverAmount": 48792,
+      "carryover": "$48,792",
       "wagertype": "Pick 6 Jackpot",
       "track": "Horseshoe",
-      "date": "May 23",
-      "ndate": 20220523
+      "date": "May 24",
+      "ndate": 20220524
     },
     {
       "carryoverAmount": 33968,
@@ -47,6 +47,14 @@
       "track": "Churchill Downs",
       "date": "May 26",
       "ndate": 20220526
+    },
+    {
+      "carryoverAmount": 24243,
+      "carryover": "$24,243",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Prairie Meadows",
+      "date": "May 27",
+      "ndate": 20220527
     },
     {
       "carryoverAmount": 19810,
@@ -63,14 +71,6 @@
       "track": "Charles Town",
       "date": "May 25",
       "ndate": 20220525
-    },
-    {
-      "carryoverAmount": 17594,
-      "carryover": "$17,594",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Prairie Meadows",
-      "date": "May 23",
-      "ndate": 20220523
     },
     {
       "carryoverAmount": 16751,
@@ -97,10 +97,34 @@
       "ndate": 20220527
     },
     {
+      "carryoverAmount": 12581,
+      "carryover": "$12,581",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Century Mile",
+      "date": "May 27",
+      "ndate": 20220527
+    },
+    {
+      "carryoverAmount": 9751,
+      "carryover": "$9,751",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Louisiana Downs",
+      "date": "May 24",
+      "ndate": 20220524
+    },
+    {
       "carryoverAmount": 9304,
       "carryover": "$9,304",
       "wagertype": "Pick 6 Jackpot",
       "track": "Golden Gate",
+      "date": "May 27",
+      "ndate": 20220527
+    },
+    {
+      "carryoverAmount": 8998,
+      "carryover": "$8,998",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Century Mile",
       "date": "May 27",
       "ndate": 20220527
     },
@@ -111,14 +135,6 @@
       "track": "Churchill Downs",
       "date": "May 26",
       "ndate": 20220526
-    },
-    {
-      "carryoverAmount": 8024,
-      "carryover": "$8,024",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Louisiana Downs",
-      "date": "May 23",
-      "ndate": 20220523
     },
     {
       "carryoverAmount": 7954,
@@ -137,20 +153,36 @@
       "ndate": 20220526
     },
     {
-      "carryoverAmount": 5692,
-      "carryover": "$5,692",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Prairie Meadows",
-      "date": "May 23",
-      "ndate": 20220523
+      "carryoverAmount": 2333,
+      "carryover": "$2,333",
+      "wagertype": "Super High Five",
+      "track": "Horseshoe",
+      "date": "May 24",
+      "ndate": 20220524
     },
     {
-      "carryoverAmount": 4956,
-      "carryover": "$4,956",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Thistledown",
-      "date": "May 23",
-      "ndate": 20220523
+      "carryoverAmount": 2233,
+      "carryover": "$2,233",
+      "wagertype": "Pick 5",
+      "track": "Century Mile",
+      "date": "May 27",
+      "ndate": 20220527
+    },
+    {
+      "carryoverAmount": 1786,
+      "carryover": "$1,786",
+      "wagertype": "Pick 6",
+      "track": "Finger Lakes",
+      "date": "May 24",
+      "ndate": 20220524
+    },
+    {
+      "carryoverAmount": 1454,
+      "carryover": "$1,454",
+      "wagertype": "Pick 4",
+      "track": "Century Mile",
+      "date": "May 27",
+      "ndate": 20220527
     },
     {
       "carryoverAmount": 503,
