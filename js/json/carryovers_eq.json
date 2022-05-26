@@ -1,12 +1,12 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 654613,
-      "carryover": "$654,613",
+      "carryoverAmount": 681816,
+      "carryover": "$681,816",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "May 25",
-      "ndate": 20220525
+      "date": "May 30",
+      "ndate": 20220530
     },
     {
       "carryoverAmount": 449348,
@@ -33,6 +33,14 @@
       "ndate": 20220526
     },
     {
+      "carryoverAmount": 64369,
+      "carryover": "$64,369",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Horseshoe",
+      "date": "May 26",
+      "ndate": 20220526
+    },
+    {
       "carryoverAmount": 33968,
       "carryover": "$33,968",
       "wagertype": "Pick 6 Jackpot",
@@ -55,14 +63,6 @@
       "track": "Gulfstream Park",
       "date": "May 26",
       "ndate": 20220526
-    },
-    {
-      "carryoverAmount": 19787,
-      "carryover": "$19,787",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Charles Town",
-      "date": "May 25",
-      "ndate": 20220525
     },
     {
       "carryoverAmount": 16690,
@@ -137,12 +137,28 @@
       "ndate": 20220526
     },
     {
-      "carryoverAmount": 3281,
-      "carryover": "$3,281",
+      "carryoverAmount": 6562,
+      "carryover": "$6,562",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Hastings",
+      "date": "May 28",
+      "ndate": 20220528
+    },
+    {
+      "carryoverAmount": 4518,
+      "carryover": "$4,518",
       "wagertype": "Pick 6",
       "track": "Finger Lakes",
-      "date": "May 25",
-      "ndate": 20220525
+      "date": "May 30",
+      "ndate": 20220530
+    },
+    {
+      "carryoverAmount": 2878,
+      "carryover": "$2,878",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Hastings",
+      "date": "May 28",
+      "ndate": 20220528
     },
     {
       "carryoverAmount": 2233,
@@ -153,6 +169,14 @@
       "ndate": 20220527
     },
     {
+      "carryoverAmount": 1759,
+      "carryover": "$1,759",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Emerald Downs",
+      "date": "May 28",
+      "ndate": 20220528
+    },
+    {
       "carryoverAmount": 1454,
       "carryover": "$1,454",
       "wagertype": "Pick 4",
@@ -161,12 +185,12 @@
       "ndate": 20220527
     },
     {
-      "carryoverAmount": 535,
-      "carryover": "$535",
+      "carryoverAmount": 1330,
+      "carryover": "$1,330",
       "wagertype": "Pick 6 Jackpot",
       "track": "Thistledown",
-      "date": "May 25",
-      "ndate": 20220525
+      "date": "May 26",
+      "ndate": 20220526
     },
     {
       "carryoverAmount": 503,
