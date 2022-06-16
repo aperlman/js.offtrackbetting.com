@@ -9,6 +9,14 @@
       "ndate": 20220617
     },
     {
+      "carryoverAmount": 101500,
+      "carryover": "$101,500",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Parx Racing",
+      "date": "Jun 20",
+      "ndate": 20220620
+    },
+    {
       "carryoverAmount": 86434,
       "carryover": "$86,434",
       "wagertype": "Pick 5 Jackpot",
@@ -17,28 +25,12 @@
       "ndate": 20220617
     },
     {
-      "carryoverAmount": 80948,
-      "carryover": "$80,948",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Parx Racing",
-      "date": "Jun 15",
-      "ndate": 20220615
-    },
-    {
-      "carryoverAmount": 54128,
-      "carryover": "$54,128",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Assiniboia",
-      "date": "Jun 15",
-      "ndate": 20220615
-    },
-    {
       "carryoverAmount": 47119,
       "carryover": "$47,119",
       "wagertype": "Super High Five",
       "track": "Churchill Downs",
-      "date": "Jun 15",
-      "ndate": 20220615
+      "date": "Jun 16",
+      "ndate": 20220616
     },
     {
       "carryoverAmount": 35607,
@@ -73,6 +65,14 @@
       "ndate": 20220617
     },
     {
+      "carryoverAmount": 21950,
+      "carryover": "$21,950",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Hastings",
+      "date": "Jun 18",
+      "ndate": 20220618
+    },
+    {
       "carryoverAmount": 15570,
       "carryover": "$15,570",
       "wagertype": "Pick 6 Jackpot",
@@ -87,6 +87,14 @@
       "track": "Emerald Downs",
       "date": "Jun 17",
       "ndate": 20220617
+    },
+    {
+      "carryoverAmount": 13060,
+      "carryover": "$13,060",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Hastings",
+      "date": "Jun 18",
+      "ndate": 20220618
     },
     {
       "carryoverAmount": 11887,
@@ -149,8 +157,8 @@
       "carryover": "$4,865",
       "wagertype": "Pick 6 Jackpot",
       "track": "Horseshoe",
-      "date": "Jun 15",
-      "ndate": 20220615
+      "date": "Jun 16",
+      "ndate": 20220616
     },
     {
       "carryoverAmount": 4059,
@@ -173,8 +181,16 @@
       "carryover": "$3,793",
       "wagertype": "Super High Five",
       "track": "Horseshoe",
-      "date": "Jun 15",
-      "ndate": 20220615
+      "date": "Jun 16",
+      "ndate": 20220616
+    },
+    {
+      "carryoverAmount": 3760,
+      "carryover": "$3,760",
+      "wagertype": "Pick 5",
+      "track": "Presque Isle",
+      "date": "Jun 16",
+      "ndate": 20220616
     },
     {
       "carryoverAmount": 3236,
@@ -193,12 +209,12 @@
       "ndate": 20220617
     },
     {
-      "carryoverAmount": 2950,
-      "carryover": "$2,950",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Assiniboia",
-      "date": "Jun 15",
-      "ndate": 20220615
+      "carryoverAmount": 3067,
+      "carryover": "$3,067",
+      "wagertype": "Pick 6",
+      "track": "Finger Lakes",
+      "date": "Jun 20",
+      "ndate": 20220620
     },
     {
       "carryoverAmount": 2741,
@@ -225,6 +241,14 @@
       "ndate": 20220617
     },
     {
+      "carryoverAmount": 1935,
+      "carryover": "$1,935",
+      "wagertype": "Pick 5",
+      "track": "Presque Isle",
+      "date": "Jun 16",
+      "ndate": 20220616
+    },
+    {
       "carryoverAmount": 1921,
       "carryover": "$1,921",
       "wagertype": "Super High Five Jackpot",
@@ -237,16 +261,8 @@
       "carryover": "$1,729",
       "wagertype": "Pick 6 Jackpot",
       "track": "Thistledown",
-      "date": "Jun 15",
-      "ndate": 20220615
-    },
-    {
-      "carryoverAmount": 1672,
-      "carryover": "$1,672",
-      "wagertype": "Pick 6",
-      "track": "Finger Lakes",
-      "date": "Jun 15",
-      "ndate": 20220615
+      "date": "Jun 16",
+      "ndate": 20220616
     },
     {
       "carryoverAmount": 1418,
@@ -271,14 +287,6 @@
       "track": "Sam Houston",
       "date": "Jun 16",
       "ndate": 20220616
-    },
-    {
-      "carryoverAmount": 1054,
-      "carryover": "$1,054",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Penn National",
-      "date": "Jun 15",
-      "ndate": 20220615
     }
   ]
 }
