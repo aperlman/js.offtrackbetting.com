@@ -1,12 +1,20 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 141940,
-      "carryover": "$141,940",
+      "carryoverAmount": 155462,
+      "carryover": "$155,462",
       "wagertype": "Pick 5 Jackpot",
       "track": "Prairie Meadows",
-      "date": "Jun 27",
-      "ndate": 20220627
+      "date": "Jul 01",
+      "ndate": 20220701
+    },
+    {
+      "carryoverAmount": 138021,
+      "carryover": "$138,021",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Assiniboia",
+      "date": "Jun 28",
+      "ndate": 20220628
     },
     {
       "carryoverAmount": 131154,
@@ -15,14 +23,6 @@
       "track": "Gulfstream Park",
       "date": "Jun 30",
       "ndate": 20220630
-    },
-    {
-      "carryoverAmount": 120583,
-      "carryover": "$120,583",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Assiniboia",
-      "date": "Jun 27",
-      "ndate": 20220627
     },
     {
       "carryoverAmount": 117479,
@@ -47,6 +47,14 @@
       "track": "Charles Town",
       "date": "Jun 30",
       "ndate": 20220630
+    },
+    {
+      "carryoverAmount": 51049,
+      "carryover": "$51,049",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Century Mile",
+      "date": "Jul 01",
+      "ndate": 20220701
     },
     {
       "carryoverAmount": 34144,
@@ -81,20 +89,20 @@
       "ndate": 20220701
     },
     {
+      "carryoverAmount": 25467,
+      "carryover": "$25,467",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Prairie Meadows",
+      "date": "Jul 01",
+      "ndate": 20220701
+    },
+    {
       "carryoverAmount": 24743,
       "carryover": "$24,743",
       "wagertype": "Pick 6 Jackpot",
       "track": "Hastings",
       "date": "Jul 01",
       "ndate": 20220701
-    },
-    {
-      "carryoverAmount": 22790,
-      "carryover": "$22,790",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Prairie Meadows",
-      "date": "Jun 27",
-      "ndate": 20220627
     },
     {
       "carryoverAmount": 20167,
@@ -105,12 +113,12 @@
       "ndate": 20220628
     },
     {
-      "carryoverAmount": 15878,
-      "carryover": "$15,878",
+      "carryoverAmount": 18893,
+      "carryover": "$18,893",
       "wagertype": "Super High Five Jackpot",
       "track": "Assiniboia",
-      "date": "Jun 27",
-      "ndate": 20220627
+      "date": "Jun 28",
+      "ndate": 20220628
     },
     {
       "carryoverAmount": 15668,
@@ -129,6 +137,14 @@
       "ndate": 20220701
     },
     {
+      "carryoverAmount": 14775,
+      "carryover": "$14,775",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Parx Racing",
+      "date": "Jun 28",
+      "ndate": 20220628
+    },
+    {
       "carryoverAmount": 11286,
       "carryover": "$11,286",
       "wagertype": "Super High Five Jackpot",
@@ -137,12 +153,28 @@
       "ndate": 20220702
     },
     {
-      "carryoverAmount": 8900,
-      "carryover": "$8,900",
+      "carryoverAmount": 10451,
+      "carryover": "$10,451",
       "wagertype": "Pick 6 Jackpot",
       "track": "Louisiana Downs",
-      "date": "Jun 27",
-      "ndate": 20220627
+      "date": "Jun 28",
+      "ndate": 20220628
+    },
+    {
+      "carryoverAmount": 9766,
+      "carryover": "$9,766",
+      "wagertype": "Pick 6",
+      "track": "Finger Lakes",
+      "date": "Jun 28",
+      "ndate": 20220628
+    },
+    {
+      "carryoverAmount": 8256,
+      "carryover": "$8,256",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Thistledown",
+      "date": "Jun 28",
+      "ndate": 20220628
     },
     {
       "carryoverAmount": 8101,
@@ -153,28 +185,20 @@
       "ndate": 20220630
     },
     {
-      "carryoverAmount": 7112,
-      "carryover": "$7,112",
-      "wagertype": "Pick 6",
-      "track": "Finger Lakes",
-      "date": "Jun 27",
-      "ndate": 20220627
-    },
-    {
-      "carryoverAmount": 7105,
-      "carryover": "$7,105",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Thistledown",
-      "date": "Jun 27",
-      "ndate": 20220627
-    },
-    {
       "carryoverAmount": 6758,
       "carryover": "$6,758",
       "wagertype": "Super High Five",
       "track": "Pleasanton",
       "date": "Jul 01",
       "ndate": 20220701
+    },
+    {
+      "carryoverAmount": 6181,
+      "carryover": "$6,181",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Horseshoe",
+      "date": "Jun 28",
+      "ndate": 20220628
     },
     {
       "carryoverAmount": 5982,
@@ -193,14 +217,6 @@
       "ndate": 20220702
     },
     {
-      "carryoverAmount": 4245,
-      "carryover": "$4,245",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Fort Erie",
-      "date": "Jun 27",
-      "ndate": 20220627
-    },
-    {
       "carryoverAmount": 2485,
       "carryover": "$2,485",
       "wagertype": "Pick 6",
@@ -217,12 +233,12 @@
       "ndate": 20220630
     },
     {
-      "carryoverAmount": 143,
-      "carryover": "$143",
+      "carryoverAmount": 991,
+      "carryover": "$991",
       "wagertype": "Pick 6",
       "track": "Arizona Downs",
-      "date": "Jun 27",
-      "ndate": 20220627
+      "date": "Jul 02",
+      "ndate": 20220702
     }
   ]
 }
