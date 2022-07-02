@@ -209,6 +209,14 @@
       "ndate": 20220702
     },
     {
+      "carryoverAmount": 3929,
+      "carryover": "$3,929",
+      "wagertype": "Super High Five",
+      "track": "Horseshoe",
+      "date": "Jul 04",
+      "ndate": 20220704
+    },
+    {
       "carryoverAmount": 3058,
       "carryover": "$3,058",
       "wagertype": "Pick 6 Jackpot",
@@ -221,14 +229,6 @@
       "carryover": "$2,485",
       "wagertype": "Pick 6",
       "track": "Lone Star",
-      "date": "Jul 02",
-      "ndate": 20220702
-    },
-    {
-      "carryoverAmount": 2063,
-      "carryover": "$2,063",
-      "wagertype": "Super High Five",
-      "track": "Horseshoe",
       "date": "Jul 02",
       "ndate": 20220702
     },
@@ -271,6 +271,14 @@
       "track": "Laurel Park",
       "date": "Jul 02",
       "ndate": 20220702
+    },
+    {
+      "carryoverAmount": 731,
+      "carryover": "$731",
+      "wagertype": "Super High Five",
+      "track": "Horseshoe",
+      "date": "Jul 04",
+      "ndate": 20220704
     }
   ]
 }
