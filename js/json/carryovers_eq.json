@@ -1,6 +1,14 @@
 {
   "carryovers": [
     {
+      "carryoverAmount": 295541,
+      "carryover": "$295,541",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Assiniboia",
+      "date": "Jul 12",
+      "ndate": 20220712
+    },
+    {
       "carryoverAmount": 125231,
       "carryover": "$125,231",
       "wagertype": "Pick 6 Jackpot",
@@ -93,6 +101,14 @@
       "carryover": "$12,391",
       "wagertype": "Super High Five Jackpot",
       "track": "Fort Erie",
+      "date": "Jul 12",
+      "ndate": 20220712
+    },
+    {
+      "carryoverAmount": 8407,
+      "carryover": "$8,407",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Assiniboia",
       "date": "Jul 12",
       "ndate": 20220712
     },
