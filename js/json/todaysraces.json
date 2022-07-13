@@ -2,50 +2,8 @@
 
 {
   "todaysraces": {
-    "headline": "OTB Schedule: Tuesday, May 03",
+    "headline": "OTB Schedule: ",
     "tracks": [
-      {
-               "name": "Australia A",
-               "time": "10:00 PM",
-             "meetno": 5,
-        "results_url": "https://www.offtrackbetting.com/results/5/australia-a.html"
-      },
-      {
-               "name": "Australia B",
-               "time": "10:15 PM",
-             "meetno": 115,
-        "results_url": "https://www.offtrackbetting.com/results/115/australia-b.html"
-      },
-      {
-               "name": "Australia C",
-               "time": "10:22 PM",
-             "meetno": 168,
-        "results_url": "https://www.offtrackbetting.com/results/168/australia-c.html"
-      },
-      {
-               "name": "Northfield Park",
-               "time": " 6:00 PM",
-             "meetno": 58,
-        "results_url": "https://www.offtrackbetting.com/results/58/northfield-park.html"
-      },
-      {
-               "name": "Pocono Downs",
-               "time": " 1:30 PM",
-             "meetno": 67,
-        "results_url": "https://www.offtrackbetting.com/results/67/pocono-downs.html"
-      },
-      {
-               "name": "Turf Paradise",
-               "time": " 2:35 PM",
-             "meetno": 100,
-        "results_url": "https://www.offtrackbetting.com/results/100/turf-paradise.html"
-      },
-      {
-               "name": "Yonkers Raceway",
-               "time": " 6:55 PM",
-             "meetno": 108,
-        "results_url": "https://www.offtrackbetting.com/results/108/yonkers-raceway.html"
-      }
     ]
   }
 }
