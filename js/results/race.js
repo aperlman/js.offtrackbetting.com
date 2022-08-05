@@ -246,11 +246,17 @@ const ActionBox = (eventNo, track) => `
 `;
 
 const ActionButton = (raceComplete) => `
-    <a href="/login.html" class="btn btn-blue text-right" role="button">
+    <a href="https://app.offtrackbetting.com/#/lobby/live-racing?programDate=${YYYY-MM-DD}&programName=${TRACK_CODE_HERE}&raceNumber=${eventNo}" class="btn btn-blue text-right" role="button">
     ${raceComplete ? '<i class="fa fa-play-circle"></i> Watch Replay' :
       'BET NOW'}
     </a>
 `;
+// const ActionButton = (raceComplete) => `
+//     <a href="/login.html" class="btn btn-blue text-right" role="button">
+//     ${raceComplete ? '<i class="fa fa-play-circle"></i> Watch Replay' :
+//       'BET NOW (RACE)'}
+//     </a>
+// `;
 
 const PromoSignup = (track) => {
 

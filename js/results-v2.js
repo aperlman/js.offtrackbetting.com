@@ -244,7 +244,7 @@ const ActionBox = (eventNo, track) => `
 const ActionButton = (raceComplete) => `
     <a href="/login.html" class="btn btn-blue text-right" role="button">
     ${raceComplete ? '<i class="fa fa-play-circle"></i> Watch Replay' :
-      'BET NOW'}
+      'BET NOW (RESULTS-V2)'}
     </a>
 `;
 
