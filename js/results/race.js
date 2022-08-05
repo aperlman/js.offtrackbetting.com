@@ -46,7 +46,7 @@ const RaceDisplay = (eventNo, track) => (
 );
 
 const RaceTitle = (eventNo, track) => {
-  const date_str = new Date( // convert post_time to date then --> m-d-YYYY
+  const dateStr = new Date( // convert postTime to date then --> m-d-YYYY
       parseInt(
         thisEvent(eventNo, track).postTime.$numberDouble ||
         thisEvent(eventNo, track).postTime
@@ -56,7 +56,7 @@ const RaceTitle = (eventNo, track) => {
 
   return `
     <div id="raceTitle">
-      <h3>Race ${eventNo} <span>${track.ID} ${date_str}</span></h3>
+      <h3>Race ${eventNo} <span>${track.ID} ${dateStr}</span></h3>
     </div>
     ${isCanceled(eventNo, track) ? `<h4>Race Canceled</h4>` : ''}`;
 }
@@ -237,26 +237,37 @@ const ActionBox = (eventNo, track) => `
           `No results for ${track.ID} Race ${eventNo} yet - place your bets!` :
           `Watch ${track.ID} Race ${eventNo} Video Replay`}
       </div>
-      <div class="col-md-4">
+  <div class="col-md-4">
         ${ActionButton(
-          thisEvent(eventNo, track).runners.length > 0 ? false : true)}
+          thisEvent(eventNo, track).runners.length > 0 ? false : true, eventNo, track)}
       </div>
     </div>
   </div>
 `;
 
-const ActionButton = (raceComplete) => `
-    <a href="https://app.offtrackbetting.com/#/lobby/live-racing?programDate=${YYYY-MM-DD}&programName=${TRACK_CODE_HERE}&raceNumber=${eventNo}" class="btn btn-blue text-right" role="button">
-    ${raceComplete ? '<i class="fa fa-play-circle"></i> Watch Replay' :
-      'BET NOW'}
-    </a>
-`;
 // const ActionButton = (raceComplete) => `
-//     <a href="/login.html" class="btn btn-blue text-right" role="button">
+//     <a href="https://app.offtrackbetting.com/#/lobby/live-racing?programDate=${YYYY-MM-DD}&programName=${TRACK_CODE_HERE}&raceNumber=${eventNo}" class="btn btn-blue text-right" role="button">
 //     ${raceComplete ? '<i class="fa fa-play-circle"></i> Watch Replay' :
-//       'BET NOW (RACE)'}
+//       'BET NOW'}
 //     </a>
 // `;
+const ActionButton = (raceComplete, eventNo, track) => {
+  const dateStr = new Date( // convert postTime to date then --> YYYY-MM-DD
+      parseInt(
+        thisEvent(eventNo, track).postTime.$numberDouble ||
+        thisEvent(eventNo, track).postTime
+      ) * 1000)
+    //.toLocaleDateString("en-US", {timeZone: "America/New_York"})
+    .toISOString("en-US", {timeZone: "America/New_York"})
+    .replace(/T.*/g,"");
+    
+  return `
+    <a href="https://app.offtrackbetting.com/#/lobby/live-racing?programDate=${dateStr}&programName=${track.eventCode}&raceNumber=${eventNo}" class="btn btn-blue text-right" role="button">
+    ${raceComplete ? '<i class="fa fa-play-circle"></i> Watch Replay' :
+      'BET NOW (RACE)'}
+    </a>`;
+  };
+
 
 const PromoSignup = (track) => {
 
