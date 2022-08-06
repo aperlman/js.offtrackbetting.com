@@ -23,6 +23,7 @@ Version: 2
     isCanceled: (bool) return true if a track is canceled
     convertBetType: EX --> Exacta for instance
     convertToAmt: string of pennies converted to number of dollars and cents
+    dateObj: (eventNo, track) convert event date to date object
 */
 
 const Race = (track) => `
@@ -38,7 +39,13 @@ const RaceDisplay = (eventNo, track) => (
   + SelectionTable(eventNo, track)
   + ('results' in track.events[eventNo -1] ? 
     DividendTable(eventNo, track) : '')
-  + ActionBox(eventNo, track)
+  //+ ActionBox(eventNo, track)
+  // any time the eventNo is 1, OR if it's after 1/1/2022,
+  // display the action box, otherwise hide it
+  + (eventNo == 1 || parseInt( 
+      thisEvent(eventNo, track).postTime.$numberDouble ||
+      thisEvent(eventNo, track).postTime
+      ) > 1640995200 ? ActionBox(eventNo, track) : '')
   + RaceDetails(eventNo, track)
   + (eventNo == 3 ? PromoSignup(track) : '')
   + (eventNo == (track.events.length > 6 && track.events.length - 3)
@@ -46,11 +53,7 @@ const RaceDisplay = (eventNo, track) => (
 );
 
 const RaceTitle = (eventNo, track) => {
-  const dateStr = new Date( // convert postTime to date then --> m-d-YYYY
-      parseInt(
-        thisEvent(eventNo, track).postTime.$numberDouble ||
-        thisEvent(eventNo, track).postTime
-      ) * 1000)
+  const dateStr = dateObj(eventNo, track)
     .toLocaleDateString("en-US", {timeZone: "America/New_York"})
     .replace(/\//g,"-");
 
@@ -235,7 +238,13 @@ const ActionBox = (eventNo, track) => `
       <div class="col-md-8 text-left">
         ${ thisEvent(eventNo, track).runners.length > 0 ?
           `No results for ${track.ID} Race ${eventNo} yet - place your bets!` :
-          `Watch ${track.ID} Race ${eventNo} Video Replay`}
+          (parseInt(dateObj(eventNo, track) // Change text if year is prior to 2022
+            .toISOString("en-US", {timeZone: "America/New_York"})
+            .replace(/T.*/g,"")) < 2022 ?
+            `Bet ${track.ID} at OffTrackBetting.com` :
+            `Watch ${track.ID} Race ${eventNo} Video Replay`)
+          }
+             
       </div>
   <div class="col-md-4">
         ${ActionButton(
@@ -245,26 +254,22 @@ const ActionBox = (eventNo, track) => `
   </div>
 `;
 
-// const ActionButton = (raceComplete) => `
-//     <a href="https://app.offtrackbetting.com/#/lobby/live-racing?programDate=${YYYY-MM-DD}&programName=${TRACK_CODE_HERE}&raceNumber=${eventNo}" class="btn btn-blue text-right" role="button">
-//     ${raceComplete ? '<i class="fa fa-play-circle"></i> Watch Replay' :
-//       'BET NOW'}
-//     </a>
-// `;
 const ActionButton = (raceComplete, eventNo, track) => {
-  const dateStr = new Date( // convert postTime to date then --> YYYY-MM-DD
-      parseInt(
-        thisEvent(eventNo, track).postTime.$numberDouble ||
-        thisEvent(eventNo, track).postTime
-      ) * 1000)
-    //.toLocaleDateString("en-US", {timeZone: "America/New_York"})
-    .toISOString("en-US", {timeZone: "America/New_York"})
-    .replace(/T.*/g,"");
-    
+  const dateStr = (dateObj(eventNo, track)
+   .toISOString("en-US", {timeZone: "America/New_York"})
+   .replace(/T.*/g,""));
+  const postYear = dateStr.match(/^\d{4}/);
+      
   return `
-    <a href="https://app.offtrackbetting.com/#/lobby/live-racing?programDate=${dateStr}&programName=${track.eventCode}&raceNumber=${eventNo}" class="btn btn-blue text-right" role="button">
-    ${raceComplete ? '<i class="fa fa-play-circle"></i> Watch Replay' :
-      'BET NOW (RACE)'}
+    ${postYear < 2022 ? 
+    '<a href="https://app.offtrackbetting.com/#/lobby/" class="btn btn-blue text-right" role="button">' :
+    `<a href="https://app.offtrackbetting.com/#/lobby/live-racing?programDate=${dateStr}&programName=${track.eventCode}&raceNumber=${eventNo}" class="btn btn-blue text-right" role="button">`
+    }
+    ${raceComplete ? 
+      (postYear < 2022 ? 
+        "BET TODAY'S LIVE TRACKS" : 
+        '<i class="fa fa-play-circle"></i> Watch Replay') :
+      'BET NOW'}
     </a>`;
   };
 
@@ -402,3 +407,9 @@ const convertBetType = (betType) => {
 
   return betTypes[betType]
 };
+
+const dateObj = (eventNo, track) => new Date( // convert postTime to a date object
+  parseInt(
+    thisEvent(eventNo, track).postTime.$numberDouble ||
+    thisEvent(eventNo, track).postTime
+  ) * 1000);
