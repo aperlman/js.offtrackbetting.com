@@ -9,20 +9,28 @@
       "ndate": 20220818
     },
     {
-      "carryoverAmount": 91186,
-      "carryover": "$91,186",
+      "carryoverAmount": 251578,
+      "carryover": "$251,578",
       "wagertype": "Pick 5 Jackpot",
-      "track": "Assiniboia",
-      "date": "Aug 16",
-      "ndate": 20220816
+      "track": "Parx Racing",
+      "date": "Aug 22",
+      "ndate": 20220822
     },
     {
-      "carryoverAmount": 82115,
-      "carryover": "$82,115",
+      "carryoverAmount": 111909,
+      "carryover": "$111,909",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Assiniboia",
+      "date": "Aug 17",
+      "ndate": 20220817
+    },
+    {
+      "carryoverAmount": 86902,
+      "carryover": "$86,902",
       "wagertype": "Super High Five Jackpot",
       "track": "Assiniboia",
-      "date": "Aug 16",
-      "ndate": 20220816
+      "date": "Aug 17",
+      "ndate": 20220817
     },
     {
       "carryoverAmount": 48558,
@@ -89,28 +97,20 @@
       "ndate": 20220818
     },
     {
-      "carryoverAmount": 6758,
-      "carryover": "$6,758",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Fort Erie",
-      "date": "Aug 16",
-      "ndate": 20220816
-    },
-    {
-      "carryoverAmount": 5042,
-      "carryover": "$5,042",
+      "carryoverAmount": 6365,
+      "carryover": "$6,365",
       "wagertype": "Pick 6",
       "track": "Finger Lakes",
-      "date": "Aug 16",
-      "ndate": 20220816
+      "date": "Aug 17",
+      "ndate": 20220817
     },
     {
-      "carryoverAmount": 4579,
-      "carryover": "$4,579",
+      "carryoverAmount": 5423,
+      "carryover": "$5,423",
       "wagertype": "Pick 6 Jackpot",
       "track": "Louisiana Downs",
-      "date": "Aug 16",
-      "ndate": 20220816
+      "date": "Aug 20",
+      "ndate": 20220820
     },
     {
       "carryoverAmount": 3114,
@@ -121,6 +121,14 @@
       "ndate": 20220819
     },
     {
+      "carryoverAmount": 2902,
+      "carryover": "$2,902",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Thistledown",
+      "date": "Aug 17",
+      "ndate": 20220817
+    },
+    {
       "carryoverAmount": 2840,
       "carryover": "$2,840",
       "wagertype": "Pick 5",
@@ -129,12 +137,12 @@
       "ndate": 20220819
     },
     {
-      "carryoverAmount": 2198,
-      "carryover": "$2,198",
-      "wagertype": "Pick 6 Jackpot",
+      "carryoverAmount": 2659,
+      "carryover": "$2,659",
+      "wagertype": "Super High Five",
       "track": "Horseshoe",
-      "date": "Aug 16",
-      "ndate": 20220816
+      "date": "Aug 17",
+      "ndate": 20220817
     },
     {
       "carryoverAmount": 2190,
@@ -153,20 +161,12 @@
       "ndate": 20220819
     },
     {
-      "carryoverAmount": 2070,
-      "carryover": "$2,070",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Thistledown",
-      "date": "Aug 16",
-      "ndate": 20220816
-    },
-    {
-      "carryoverAmount": 2067,
-      "carryover": "$2,067",
-      "wagertype": "Pick 5",
-      "track": "Presque Isle",
-      "date": "Aug 16",
-      "ndate": 20220816
+      "carryoverAmount": 1415,
+      "carryover": "$1,415",
+      "wagertype": "Pick 7",
+      "track": "Fanduel",
+      "date": "Aug 19",
+      "ndate": 20220819
     },
     {
       "carryoverAmount": 1011,
@@ -177,28 +177,20 @@
       "ndate": 20220820
     },
     {
-      "carryoverAmount": 754,
-      "carryover": "$754",
-      "wagertype": "Pick 7",
-      "track": "Fanduel",
-      "date": "Aug 16",
-      "ndate": 20220816
+      "carryoverAmount": 854,
+      "carryover": "$854",
+      "wagertype": "Super High Five",
+      "track": "Louisiana Downs",
+      "date": "Aug 20",
+      "ndate": 20220820
     },
     {
       "carryoverAmount": 628,
       "carryover": "$628",
       "wagertype": "Pick 5",
       "track": "Arapahoe",
-      "date": "Aug 16",
-      "ndate": 20220816
-    },
-    {
-      "carryoverAmount": 473,
-      "carryover": "$473",
-      "wagertype": "Super High Five",
-      "track": "Louisiana Downs",
-      "date": "Aug 16",
-      "ndate": 20220816
+      "date": "Aug 21",
+      "ndate": 20220821
     }
   ]
 }
