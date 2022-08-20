@@ -1,14 +1,6 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 383322,
-      "carryover": "$383,322",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Del Mar",
-      "date": "Aug 19",
-      "ndate": 20220819
-    },
-    {
       "carryoverAmount": 251578,
       "carryover": "$251,578",
       "wagertype": "Pick 5 Jackpot",
@@ -17,12 +9,12 @@
       "ndate": 20220822
     },
     {
-      "carryoverAmount": 167611,
-      "carryover": "$167,611",
-      "wagertype": "Pick 6",
-      "track": "Saratoga",
-      "date": "Aug 19",
-      "ndate": 20220819
+      "carryoverAmount": 197067,
+      "carryover": "$197,067",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Ferndale",
+      "date": "Aug 20",
+      "ndate": 20220820
     },
     {
       "carryoverAmount": 133419,
@@ -41,20 +33,28 @@
       "ndate": 20220822
     },
     {
-      "carryoverAmount": 57190,
-      "carryover": "$57,190",
+      "carryoverAmount": 66019,
+      "carryover": "$66,019",
       "wagertype": "Pick 6 Jackpot",
       "track": "Woodbine",
-      "date": "Aug 19",
-      "ndate": 20220819
+      "date": "Aug 20",
+      "ndate": 20220820
     },
     {
-      "carryoverAmount": 28927,
-      "carryover": "$28,927",
-      "wagertype": "Pick 5",
-      "track": "Emerald Downs",
-      "date": "Aug 19",
-      "ndate": 20220819
+      "carryoverAmount": 27253,
+      "carryover": "$27,253",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Monmouth Park",
+      "date": "Aug 20",
+      "ndate": 20220820
+    },
+    {
+      "carryoverAmount": 27165,
+      "carryover": "$27,165",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Gulfstream Park",
+      "date": "Aug 20",
+      "ndate": 20220820
     },
     {
       "carryoverAmount": 24556,
@@ -65,52 +65,36 @@
       "ndate": 20220822
     },
     {
-      "carryoverAmount": 24163,
-      "carryover": "$24,163",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Monmouth Park",
-      "date": "Aug 19",
-      "ndate": 20220819
-    },
-    {
-      "carryoverAmount": 16230,
-      "carryover": "$16,230",
+      "carryoverAmount": 19299,
+      "carryover": "$19,299",
       "wagertype": "Pick 6 Jackpot",
       "track": "Charles Town",
-      "date": "Aug 19",
-      "ndate": 20220819
+      "date": "Aug 20",
+      "ndate": 20220820
     },
     {
-      "carryoverAmount": 13207,
-      "carryover": "$13,207",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Prairie Meadows",
-      "date": "Aug 19",
-      "ndate": 20220819
-    },
-    {
-      "carryoverAmount": 13110,
-      "carryover": "$13,110",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Gulfstream Park",
-      "date": "Aug 19",
-      "ndate": 20220819
-    },
-    {
-      "carryoverAmount": 12497,
-      "carryover": "$12,497",
+      "carryoverAmount": 17768,
+      "carryover": "$17,768",
       "wagertype": "Super High Five Jackpot",
       "track": "Woodbine",
-      "date": "Aug 19",
-      "ndate": 20220819
+      "date": "Aug 20",
+      "ndate": 20220820
     },
     {
-      "carryoverAmount": 10493,
-      "carryover": "$10,493",
-      "wagertype": "Pick 5 Jackpot",
+      "carryoverAmount": 14240,
+      "carryover": "$14,240",
+      "wagertype": "Super High Five Jackpot",
       "track": "Prairie Meadows",
-      "date": "Aug 19",
-      "ndate": 20220819
+      "date": "Aug 20",
+      "ndate": 20220820
+    },
+    {
+      "carryoverAmount": 12295,
+      "carryover": "$12,295",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Aug 20",
+      "ndate": 20220820
     },
     {
       "carryoverAmount": 8957,
@@ -137,44 +121,76 @@
       "ndate": 20220820
     },
     {
-      "carryoverAmount": 3114,
-      "carryover": "$3,114",
-      "wagertype": "Super High Five",
-      "track": "Gulfstream Park",
-      "date": "Aug 19",
-      "ndate": 20220819
-    },
-    {
-      "carryoverAmount": 2840,
-      "carryover": "$2,840",
+      "carryoverAmount": 4147,
+      "carryover": "$4,147",
       "wagertype": "Pick 5",
-      "track": "Century Mile",
-      "date": "Aug 19",
-      "ndate": 20220819
+      "track": "Penn National",
+      "date": "Aug 24",
+      "ndate": 20220824
     },
     {
-      "carryoverAmount": 2190,
-      "carryover": "$2,190",
+      "carryoverAmount": 3584,
+      "carryover": "$3,584",
       "wagertype": "Pick 6 Jackpot",
       "track": "Emerald Downs",
-      "date": "Aug 19",
-      "ndate": 20220819
+      "date": "Aug 20",
+      "ndate": 20220820
     },
     {
-      "carryoverAmount": 2128,
-      "carryover": "$2,128",
+      "carryoverAmount": 3231,
+      "carryover": "$3,231",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Aug 20",
+      "ndate": 20220820
+    },
+    {
+      "carryoverAmount": 3128,
+      "carryover": "$3,128",
       "wagertype": "Super High Five Jackpot",
       "track": "Century Mile",
-      "date": "Aug 19",
-      "ndate": 20220819
+      "date": "Aug 20",
+      "ndate": 20220820
     },
     {
-      "carryoverAmount": 1415,
-      "carryover": "$1,415",
+      "carryoverAmount": 2540,
+      "carryover": "$2,540",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Ferndale",
+      "date": "Aug 20",
+      "ndate": 20220820
+    },
+    {
+      "carryoverAmount": 2145,
+      "carryover": "$2,145",
       "wagertype": "Pick 7",
       "track": "Fanduel",
-      "date": "Aug 19",
-      "ndate": 20220819
+      "date": "Aug 20",
+      "ndate": 20220820
+    },
+    {
+      "carryoverAmount": 1996,
+      "carryover": "$1,996",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Aug 20",
+      "ndate": 20220820
+    },
+    {
+      "carryoverAmount": 1403,
+      "carryover": "$1,403",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Laurel Park",
+      "date": "Aug 20",
+      "ndate": 20220820
+    },
+    {
+      "carryoverAmount": 1245,
+      "carryover": "$1,245",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Penn National",
+      "date": "Aug 24",
+      "ndate": 20220824
     },
     {
       "carryoverAmount": 1011,
