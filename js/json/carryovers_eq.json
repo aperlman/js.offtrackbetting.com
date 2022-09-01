@@ -1,14 +1,6 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 265523,
-      "carryover": "$265,523",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Assiniboia",
-      "date": "Aug 31",
-      "ndate": 20220831
-    },
-    {
       "carryoverAmount": 118786,
       "carryover": "$118,786",
       "wagertype": "Pick 6 Jackpot",
@@ -33,12 +25,20 @@
       "ndate": 20220901
     },
     {
-      "carryoverAmount": 19382,
-      "carryover": "$19,382",
+      "carryoverAmount": 23281,
+      "carryover": "$23,281",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Horseshoe",
+      "date": "Sep 01",
+      "ndate": 20220901
+    },
+    {
+      "carryoverAmount": 23185,
+      "carryover": "$23,185",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Aug 31",
-      "ndate": 20220831
+      "date": "Sep 05",
+      "ndate": 20220905
     },
     {
       "carryoverAmount": 19339,
@@ -57,22 +57,6 @@
       "ndate": 20220902
     },
     {
-      "carryoverAmount": 18093,
-      "carryover": "$18,093",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Horseshoe",
-      "date": "Aug 31",
-      "ndate": 20220831
-    },
-    {
-      "carryoverAmount": 17070,
-      "carryover": "$17,070",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Assiniboia",
-      "date": "Aug 31",
-      "ndate": 20220831
-    },
-    {
       "carryoverAmount": 13736,
       "carryover": "$13,736",
       "wagertype": "Pick 6 Jackpot",
@@ -87,14 +71,6 @@
       "track": "Gulfstream Park",
       "date": "Sep 02",
       "ndate": 20220902
-    },
-    {
-      "carryoverAmount": 12458,
-      "carryover": "$12,458",
-      "wagertype": "Pick 5",
-      "track": "Finger Lakes",
-      "date": "Aug 31",
-      "ndate": 20220831
     },
     {
       "carryoverAmount": 10538,
@@ -145,28 +121,20 @@
       "ndate": 20220902
     },
     {
+      "carryoverAmount": 4539,
+      "carryover": "$4,539",
+      "wagertype": "Pick 6",
+      "track": "Finger Lakes",
+      "date": "Sep 05",
+      "ndate": 20220905
+    },
+    {
       "carryoverAmount": 4103,
       "carryover": "$4,103",
       "wagertype": "Super High Five",
       "track": "Gulfstream Park",
       "date": "Sep 02",
       "ndate": 20220902
-    },
-    {
-      "carryoverAmount": 3609,
-      "carryover": "$3,609",
-      "wagertype": "Pick 6",
-      "track": "Finger Lakes",
-      "date": "Aug 31",
-      "ndate": 20220831
-    },
-    {
-      "carryoverAmount": 3535,
-      "carryover": "$3,535",
-      "wagertype": "Pick 5",
-      "track": "Presque Isle",
-      "date": "Aug 31",
-      "ndate": 20220831
     },
     {
       "carryoverAmount": 3055,
@@ -177,28 +145,20 @@
       "ndate": 20220902
     },
     {
-      "carryoverAmount": 2389,
-      "carryover": "$2,389",
-      "wagertype": "Super High Five",
-      "track": "Horseshoe",
-      "date": "Aug 31",
-      "ndate": 20220831
-    },
-    {
-      "carryoverAmount": 2126,
-      "carryover": "$2,126",
-      "wagertype": "Super High Five",
-      "track": "Horseshoe",
-      "date": "Aug 31",
-      "ndate": 20220831
-    },
-    {
       "carryoverAmount": 1809,
       "carryover": "$1,809",
       "wagertype": "Super High Five",
       "track": "Gulfstream Park",
       "date": "Sep 02",
       "ndate": 20220902
+    },
+    {
+      "carryoverAmount": 1792,
+      "carryover": "$1,792",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Penn National",
+      "date": "Sep 01",
+      "ndate": 20220901
     },
     {
       "carryoverAmount": 1691,
@@ -233,28 +193,12 @@
       "ndate": 20220902
     },
     {
-      "carryoverAmount": 1107,
-      "carryover": "$1,107",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Penn National",
-      "date": "Aug 31",
-      "ndate": 20220831
-    },
-    {
-      "carryoverAmount": 1013,
-      "carryover": "$1,013",
-      "wagertype": "Pick 5",
-      "track": "Presque Isle",
-      "date": "Aug 31",
-      "ndate": 20220831
-    },
-    {
-      "carryoverAmount": 554,
-      "carryover": "$554",
+      "carryoverAmount": 991,
+      "carryover": "$991",
       "wagertype": "Pick 6 Jackpot",
       "track": "Thistledown",
-      "date": "Aug 31",
-      "ndate": 20220831
+      "date": "Sep 01",
+      "ndate": 20220901
     },
     {
       "carryoverAmount": 225,
