@@ -1,12 +1,12 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 387154,
-      "carryover": "$387,154",
+      "carryoverAmount": 412194,
+      "carryover": "$412,194",
       "wagertype": "Pick 5 Jackpot",
       "track": "Assiniboia",
-      "date": "Sep 13",
-      "ndate": 20220913
+      "date": "Sep 14",
+      "ndate": 20220914
     },
     {
       "carryoverAmount": 247529,
@@ -17,20 +17,20 @@
       "ndate": 20220916
     },
     {
-      "carryoverAmount": 61026,
-      "carryover": "$61,026",
+      "carryoverAmount": 76215,
+      "carryover": "$76,215",
       "wagertype": "Pick 6 Jackpot",
       "track": "Horseshoe",
-      "date": "Sep 13",
-      "ndate": 20220913
+      "date": "Sep 14",
+      "ndate": 20220914
     },
     {
-      "carryoverAmount": 51840,
-      "carryover": "$51,840",
+      "carryoverAmount": 59055,
+      "carryover": "$59,055",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Sep 13",
-      "ndate": 20220913
+      "date": "Sep 14",
+      "ndate": 20220914
     },
     {
       "carryoverAmount": 44569,
@@ -73,12 +73,12 @@
       "ndate": 20220916
     },
     {
-      "carryoverAmount": 10429,
-      "carryover": "$10,429",
+      "carryoverAmount": 14465,
+      "carryover": "$14,465",
       "wagertype": "Super High Five Jackpot",
       "track": "Assiniboia",
-      "date": "Sep 13",
-      "ndate": 20220913
+      "date": "Sep 14",
+      "ndate": 20220914
     },
     {
       "carryoverAmount": 10266,
@@ -97,28 +97,52 @@
       "ndate": 20220916
     },
     {
-      "carryoverAmount": 4635,
-      "carryover": "$4,635",
+      "carryoverAmount": 5460,
+      "carryover": "$5,460",
       "wagertype": "Pick 6 Jackpot",
       "track": "Thistledown",
-      "date": "Sep 13",
-      "ndate": 20220913
+      "date": "Sep 14",
+      "ndate": 20220914
     },
     {
-      "carryoverAmount": 2836,
-      "carryover": "$2,836",
+      "carryoverAmount": 4227,
+      "carryover": "$4,227",
+      "wagertype": "Super High Five",
+      "track": "Horseshoe",
+      "date": "Sep 14",
+      "ndate": 20220914
+    },
+    {
+      "carryoverAmount": 3161,
+      "carryover": "$3,161",
       "wagertype": "Pick 7",
       "track": "Fanduel",
-      "date": "Sep 13",
-      "ndate": 20220913
+      "date": "Sep 16",
+      "ndate": 20220916
     },
     {
-      "carryoverAmount": 1651,
-      "carryover": "$1,651",
+      "carryoverAmount": 3041,
+      "carryover": "$3,041",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Century Mile",
+      "date": "Sep 17",
+      "ndate": 20220917
+    },
+    {
+      "carryoverAmount": 2195,
+      "carryover": "$2,195",
       "wagertype": "Pick 6 Jackpot",
       "track": "Louisiana Downs",
-      "date": "Sep 13",
-      "ndate": 20220913
+      "date": "Sep 17",
+      "ndate": 20220917
+    },
+    {
+      "carryoverAmount": 1915,
+      "carryover": "$1,915",
+      "wagertype": "Pick 5",
+      "track": "Louisiana Downs",
+      "date": "Sep 17",
+      "ndate": 20220917
     },
     {
       "carryoverAmount": 1232,
@@ -145,6 +169,22 @@
       "ndate": 20220917
     },
     {
+      "carryoverAmount": 815,
+      "carryover": "$815",
+      "wagertype": "Super High Five",
+      "track": "Louisiana Downs",
+      "date": "Sep 17",
+      "ndate": 20220917
+    },
+    {
+      "carryoverAmount": 773,
+      "carryover": "$773",
+      "wagertype": "Super High Five",
+      "track": "Mountaineer",
+      "date": "Sep 14",
+      "ndate": 20220914
+    },
+    {
       "carryoverAmount": 655,
       "carryover": "$655",
       "wagertype": "Super High Five",
@@ -153,12 +193,28 @@
       "ndate": 20220916
     },
     {
+      "carryoverAmount": 432,
+      "carryover": "$432",
+      "wagertype": "Pick 6",
+      "track": "Finger Lakes",
+      "date": "Sep 14",
+      "ndate": 20220914
+    },
+    {
       "carryoverAmount": 328,
       "carryover": "$328",
       "wagertype": "Super High Five",
       "track": "Pimlico",
       "date": "Sep 16",
       "ndate": 20220916
+    },
+    {
+      "carryoverAmount": 185,
+      "carryover": "$185",
+      "wagertype": "Pick 5",
+      "track": "Arapahoe",
+      "date": "Sep 18",
+      "ndate": 20220918
     }
   ]
 }
