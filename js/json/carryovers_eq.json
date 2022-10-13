@@ -1,6 +1,14 @@
 {
   "carryovers": [
     {
+      "carryoverAmount": 266212,
+      "carryover": "$266,212",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Santa Anita",
+      "date": "Oct 15",
+      "ndate": 20221015
+    },
+    {
       "carryoverAmount": 235832,
       "carryover": "$235,832",
       "wagertype": "Super High Five Jackpot",
@@ -17,20 +25,36 @@
       "ndate": 20221013
     },
     {
-      "carryoverAmount": 99273,
-      "carryover": "$99,273",
+      "carryoverAmount": 108878,
+      "carryover": "$108,878",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Oct 12",
-      "ndate": 20221012
+      "date": "Oct 17",
+      "ndate": 20221017
     },
     {
-      "carryoverAmount": 45347,
-      "carryover": "$45,347",
+      "carryoverAmount": 52445,
+      "carryover": "$52,445",
       "wagertype": "Pick 6 Jackpot",
       "track": "Horseshoe",
-      "date": "Oct 12",
-      "ndate": 20221012
+      "date": "Oct 13",
+      "ndate": 20221013
+    },
+    {
+      "carryoverAmount": 32357,
+      "carryover": "$32,357",
+      "wagertype": "Pick 6",
+      "track": "Los Alamitos",
+      "date": "Oct 15",
+      "ndate": 20221015
+    },
+    {
+      "carryoverAmount": 20416,
+      "carryover": "$20,416",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Hastings",
+      "date": "Oct 15",
+      "ndate": 20221015
     },
     {
       "carryoverAmount": 18044,
@@ -41,12 +65,28 @@
       "ndate": 20221014
     },
     {
+      "carryoverAmount": 17862,
+      "carryover": "$17,862",
+      "wagertype": "Pick 6",
+      "track": "Keeneland",
+      "date": "Oct 13",
+      "ndate": 20221013
+    },
+    {
       "carryoverAmount": 14517,
       "carryover": "$14,517",
       "wagertype": "Super High Five Jackpot",
       "track": "Fresno",
       "date": "Oct 14",
       "ndate": 20221014
+    },
+    {
+      "carryoverAmount": 13260,
+      "carryover": "$13,260",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Hastings",
+      "date": "Oct 15",
+      "ndate": 20221015
     },
     {
       "carryoverAmount": 10473,
@@ -65,14 +105,6 @@
       "ndate": 20221014
     },
     {
-      "carryoverAmount": 7947,
-      "carryover": "$7,947",
-      "wagertype": "Super High Five",
-      "track": "Keeneland",
-      "date": "Oct 12",
-      "ndate": 20221012
-    },
-    {
       "carryoverAmount": 7919,
       "carryover": "$7,919",
       "wagertype": "Pick 6 Jackpot",
@@ -81,12 +113,12 @@
       "ndate": 20221014
     },
     {
-      "carryoverAmount": 7080,
-      "carryover": "$7,080",
-      "wagertype": "Pick 6",
-      "track": "Finger Lakes",
-      "date": "Oct 12",
-      "ndate": 20221012
+      "carryoverAmount": 5445,
+      "carryover": "$5,445",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Thistledown",
+      "date": "Oct 13",
+      "ndate": 20221013
     },
     {
       "carryoverAmount": 5075,
@@ -97,12 +129,12 @@
       "ndate": 20221013
     },
     {
-      "carryoverAmount": 4453,
-      "carryover": "$4,453",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Thistledown",
-      "date": "Oct 12",
-      "ndate": 20221012
+      "carryoverAmount": 4412,
+      "carryover": "$4,412",
+      "wagertype": "Super High Five",
+      "track": "Santa Anita",
+      "date": "Oct 15",
+      "ndate": 20221015
     },
     {
       "carryoverAmount": 3262,
@@ -113,12 +145,52 @@
       "ndate": 20221014
     },
     {
+      "carryoverAmount": 2390,
+      "carryover": "$2,390",
+      "wagertype": "Super High Five",
+      "track": "Santa Anita",
+      "date": "Oct 15",
+      "ndate": 20221015
+    },
+    {
+      "carryoverAmount": 2109,
+      "carryover": "$2,109",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Charles Town",
+      "date": "Oct 13",
+      "ndate": 20221013
+    },
+    {
+      "carryoverAmount": 1874,
+      "carryover": "$1,874",
+      "wagertype": "Super High Five",
+      "track": "Mountaineer",
+      "date": "Oct 16",
+      "ndate": 20221016
+    },
+    {
+      "carryoverAmount": 1730,
+      "carryover": "$1,730",
+      "wagertype": "Pick 5",
+      "track": "Presque Isle",
+      "date": "Oct 13",
+      "ndate": 20221013
+    },
+    {
       "carryoverAmount": 1397,
       "carryover": "$1,397",
       "wagertype": "Pick 5",
       "track": "Century Mile",
       "date": "Oct 14",
       "ndate": 20221014
+    },
+    {
+      "carryoverAmount": 1379,
+      "carryover": "$1,379",
+      "wagertype": "Pick 5",
+      "track": "Presque Isle",
+      "date": "Oct 13",
+      "ndate": 20221013
     },
     {
       "carryoverAmount": 959,
@@ -129,12 +201,12 @@
       "ndate": 20221014
     },
     {
-      "carryoverAmount": 396,
-      "carryover": "$396",
+      "carryoverAmount": 878,
+      "carryover": "$878",
       "wagertype": "Super High Five Jackpot",
       "track": "Penn National",
-      "date": "Oct 12",
-      "ndate": 20221012
+      "date": "Oct 14",
+      "ndate": 20221014
     },
     {
       "carryoverAmount": 272,
