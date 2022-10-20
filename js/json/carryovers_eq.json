@@ -9,20 +9,20 @@
       "ndate": 20221020
     },
     {
-      "carryoverAmount": 144062,
-      "carryover": "$144,062",
+      "carryoverAmount": 154275,
+      "carryover": "$154,275",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Oct 19",
-      "ndate": 20221019
+      "date": "Oct 24",
+      "ndate": 20221024
     },
     {
-      "carryoverAmount": 74127,
-      "carryover": "$74,127",
+      "carryoverAmount": 98266,
+      "carryover": "$98,266",
       "wagertype": "Pick 6 Jackpot",
       "track": "Horseshoe",
-      "date": "Oct 19",
-      "ndate": 20221019
+      "date": "Oct 20",
+      "ndate": 20221020
     },
     {
       "carryoverAmount": 48427,
@@ -39,6 +39,30 @@
       "track": "Santa Anita",
       "date": "Oct 21",
       "ndate": 20221021
+    },
+    {
+      "carryoverAmount": 32841,
+      "carryover": "$32,841",
+      "wagertype": "Pick 5",
+      "track": "Horseshoe",
+      "date": "Oct 20",
+      "ndate": 20221020
+    },
+    {
+      "carryoverAmount": 26783,
+      "carryover": "$26,783",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Hastings",
+      "date": "Oct 22",
+      "ndate": 20221022
+    },
+    {
+      "carryoverAmount": 20663,
+      "carryover": "$20,663",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Hastings",
+      "date": "Oct 22",
+      "ndate": 20221022
     },
     {
       "carryoverAmount": 20647,
@@ -65,12 +89,12 @@
       "ndate": 20221021
     },
     {
-      "carryoverAmount": 11555,
-      "carryover": "$11,555",
+      "carryoverAmount": 13981,
+      "carryover": "$13,981",
       "wagertype": "Pick 6 Jackpot",
       "track": "Charles Town",
-      "date": "Oct 19",
-      "ndate": 20221019
+      "date": "Oct 20",
+      "ndate": 20221020
     },
     {
       "carryoverAmount": 9938,
@@ -89,20 +113,20 @@
       "ndate": 20221021
     },
     {
-      "carryoverAmount": 8456,
-      "carryover": "$8,456",
-      "wagertype": "Super High Five",
-      "track": "Keeneland",
-      "date": "Oct 19",
-      "ndate": 20221019
-    },
-    {
       "carryoverAmount": 6013,
       "carryover": "$6,013",
       "wagertype": "Pick 6",
       "track": "Lone Star",
       "date": "Oct 21",
       "ndate": 20221021
+    },
+    {
+      "carryoverAmount": 5930,
+      "carryover": "$5,930",
+      "wagertype": "Pick 5",
+      "track": "Finger Lakes",
+      "date": "Oct 24",
+      "ndate": 20221024
     },
     {
       "carryoverAmount": 5835,
@@ -113,20 +137,20 @@
       "ndate": 20221020
     },
     {
-      "carryoverAmount": 4916,
-      "carryover": "$4,916",
-      "wagertype": "Pick 5",
-      "track": "Presque Isle",
-      "date": "Oct 19",
-      "ndate": 20221019
-    },
-    {
       "carryoverAmount": 4760,
       "carryover": "$4,760",
       "wagertype": "Pick 5",
       "track": "Hawthorne",
       "date": "Oct 21",
       "ndate": 20221021
+    },
+    {
+      "carryoverAmount": 3572,
+      "carryover": "$3,572",
+      "wagertype": "Super High Five",
+      "track": "Horseshoe",
+      "date": "Oct 20",
+      "ndate": 20221020
     },
     {
       "carryoverAmount": 2948,
@@ -153,12 +177,20 @@
       "ndate": 20221021
     },
     {
-      "carryoverAmount": 1916,
-      "carryover": "$1,916",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Penn National",
-      "date": "Oct 19",
-      "ndate": 20221019
+      "carryoverAmount": 1894,
+      "carryover": "$1,894",
+      "wagertype": "Pick 5",
+      "track": "Presque Isle",
+      "date": "Oct 20",
+      "ndate": 20221020
+    },
+    {
+      "carryoverAmount": 996,
+      "carryover": "$996",
+      "wagertype": "Super High Five",
+      "track": "Mountaineer",
+      "date": "Oct 23",
+      "ndate": 20221023
     },
     {
       "carryoverAmount": 609,
@@ -167,6 +199,14 @@
       "track": "Zia Park",
       "date": "Oct 22",
       "ndate": 20221022
+    },
+    {
+      "carryoverAmount": 518,
+      "carryover": "$518",
+      "wagertype": "Pick 6",
+      "track": "Finger Lakes",
+      "date": "Oct 24",
+      "ndate": 20221024
     }
   ]
 }
