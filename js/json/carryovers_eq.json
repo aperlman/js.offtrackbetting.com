@@ -9,22 +9,6 @@
       "ndate": 20221031
     },
     {
-      "carryoverAmount": 159032,
-      "carryover": "$159,032",
-      "wagertype": "Pick 6",
-      "track": "Belmont At The",
-      "date": "Oct 27",
-      "ndate": 20221027
-    },
-    {
-      "carryoverAmount": 154282,
-      "carryover": "$154,282",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Horseshoe",
-      "date": "Oct 27",
-      "ndate": 20221027
-    },
-    {
       "carryoverAmount": 143106,
       "carryover": "$143,106",
       "wagertype": "Pick 6 Jackpot",
@@ -33,12 +17,12 @@
       "ndate": 20221028
     },
     {
-      "carryoverAmount": 44967,
-      "carryover": "$44,967",
+      "carryoverAmount": 58074,
+      "carryover": "$58,074",
       "wagertype": "Pick 6 Jackpot",
       "track": "Woodbine",
-      "date": "Oct 27",
-      "ndate": 20221027
+      "date": "Oct 28",
+      "ndate": 20221028
     },
     {
       "carryoverAmount": 38250,
@@ -49,14 +33,6 @@
       "ndate": 20221028
     },
     {
-      "carryoverAmount": 34010,
-      "carryover": "$34,010",
-      "wagertype": "Super High Five",
-      "track": "Keeneland",
-      "date": "Oct 27",
-      "ndate": 20221027
-    },
-    {
       "carryoverAmount": 29361,
       "carryover": "$29,361",
       "wagertype": "Pick 6 Jackpot",
@@ -65,12 +41,44 @@
       "ndate": 20221028
     },
     {
-      "carryoverAmount": 11854,
-      "carryover": "$11,854",
+      "carryoverAmount": 13254,
+      "carryover": "$13,254",
       "wagertype": "Pick 6 Jackpot",
       "track": "Laurel Park",
-      "date": "Oct 27",
-      "ndate": 20221027
+      "date": "Oct 28",
+      "ndate": 20221028
+    },
+    {
+      "carryoverAmount": 7112,
+      "carryover": "$7,112",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Woodbine",
+      "date": "Oct 28",
+      "ndate": 20221028
+    },
+    {
+      "carryoverAmount": 6171,
+      "carryover": "$6,171",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Charles Town",
+      "date": "Oct 28",
+      "ndate": 20221028
+    },
+    {
+      "carryoverAmount": 5398,
+      "carryover": "$5,398",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Mahoning Valley",
+      "date": "Oct 29",
+      "ndate": 20221029
+    },
+    {
+      "carryoverAmount": 4625,
+      "carryover": "$4,625",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Lone Star",
+      "date": "Oct 28",
+      "ndate": 20221028
     },
     {
       "carryoverAmount": 4589,
@@ -79,30 +87,6 @@
       "track": "Hawthorne",
       "date": "Oct 28",
       "ndate": 20221028
-    },
-    {
-      "carryoverAmount": 4244,
-      "carryover": "$4,244",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Mahoning Valley",
-      "date": "Oct 27",
-      "ndate": 20221027
-    },
-    {
-      "carryoverAmount": 3838,
-      "carryover": "$3,838",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Lone Star",
-      "date": "Oct 27",
-      "ndate": 20221027
-    },
-    {
-      "carryoverAmount": 3640,
-      "carryover": "$3,640",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Charles Town",
-      "date": "Oct 27",
-      "ndate": 20221027
     },
     {
       "carryoverAmount": 3427,
@@ -161,12 +145,20 @@
       "ndate": 20221028
     },
     {
-      "carryoverAmount": 926,
-      "carryover": "$926",
-      "wagertype": "Pick 5",
+      "carryoverAmount": 650,
+      "carryover": "$650",
+      "wagertype": "Super High Five",
+      "track": "Laurel Park",
+      "date": "Oct 28",
+      "ndate": 20221028
+    },
+    {
+      "carryoverAmount": 459,
+      "carryover": "$459",
+      "wagertype": "Pick 6",
       "track": "Lone Star",
-      "date": "Oct 27",
-      "ndate": 20221027
+      "date": "Oct 28",
+      "ndate": 20221028
     }
   ]
 }
