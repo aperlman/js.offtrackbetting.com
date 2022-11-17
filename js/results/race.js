@@ -148,7 +148,7 @@ const SelectionBody = (eventNo, track) => {
 
 /* DIVIDENDS */
 const DividendTable = (eventNo, track) => `
-  <div id="dividends">
+  <div id="dividends" class="table-responsive">
     <table class="table table-striped table-condensed table-bordered">
       <thead>
         <tr>
@@ -177,7 +177,7 @@ const DividendBody = (eventNo, track) => {
     <tr>
       <td>${dispAmt(x.baseAmount?.$numberDouble || x.baseAmount?.$numberInt || x.baseAmount)}&nbsp;${convertBetType(x.betType) || x.betType}
       </td>
-      <td>${x.finishers}</td>
+      <td>${x.finishers.replace(/\//g,"/<wbr>")}</td>
       <td>${convertToAmt(x.amount?.$numberDouble || x.amount)}</td>
     </tr>
   `).join("\n");
