@@ -1,12 +1,12 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 337266,
-      "carryover": "$337,266",
+      "carryoverAmount": 357229,
+      "carryover": "$357,229",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Nov 21",
-      "ndate": 20221121
+      "date": "Nov 22",
+      "ndate": 20221122
     },
     {
       "carryoverAmount": 225435,
@@ -33,14 +33,6 @@
       "ndate": 20221124
     },
     {
-      "carryoverAmount": 34574,
-      "carryover": "$34,574",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Mahoning Valley",
-      "date": "Nov 21",
-      "ndate": 20221121
-    },
-    {
       "carryoverAmount": 28416,
       "carryover": "$28,416",
       "wagertype": "Pick 6 Jackpot",
@@ -65,6 +57,14 @@
       "ndate": 20221125
     },
     {
+      "carryoverAmount": 24679,
+      "carryover": "$24,679",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Horseshoe",
+      "date": "Nov 22",
+      "ndate": 20221122
+    },
+    {
       "carryoverAmount": 22220,
       "carryover": "$22,220",
       "wagertype": "Pick 6 Jackpot",
@@ -73,20 +73,12 @@
       "ndate": 20221123
     },
     {
-      "carryoverAmount": 21009,
-      "carryover": "$21,009",
-      "wagertype": "Pick 5",
-      "track": "Laurel Park",
-      "date": "Nov 21",
-      "ndate": 20221121
-    },
-    {
-      "carryoverAmount": 20027,
-      "carryover": "$20,027",
+      "carryoverAmount": 21994,
+      "carryover": "$21,994",
       "wagertype": "Pick 6 Jackpot",
-      "track": "Horseshoe",
-      "date": "Nov 21",
-      "ndate": 20221121
+      "track": "Turf Paradise",
+      "date": "Nov 22",
+      "ndate": 20221122
     },
     {
       "carryoverAmount": 18749,
@@ -97,12 +89,12 @@
       "ndate": 20221126
     },
     {
-      "carryoverAmount": 18615,
-      "carryover": "$18,615",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Turf Paradise",
-      "date": "Nov 21",
-      "ndate": 20221121
+      "carryoverAmount": 8248,
+      "carryover": "$8,248",
+      "wagertype": "Pick 6",
+      "track": "Finger Lakes",
+      "date": "Nov 22",
+      "ndate": 20221122
     },
     {
       "carryoverAmount": 7472,
@@ -111,14 +103,6 @@
       "track": "Golden Gate",
       "date": "Nov 24",
       "ndate": 20221124
-    },
-    {
-      "carryoverAmount": 7130,
-      "carryover": "$7,130",
-      "wagertype": "Pick 6",
-      "track": "Finger Lakes",
-      "date": "Nov 21",
-      "ndate": 20221121
     },
     {
       "carryoverAmount": 5889,
@@ -137,20 +121,20 @@
       "ndate": 20221125
     },
     {
-      "carryoverAmount": 4362,
-      "carryover": "$4,362",
-      "wagertype": "Super High Five",
-      "track": "Horseshoe",
-      "date": "Nov 21",
-      "ndate": 20221121
-    },
-    {
       "carryoverAmount": 3920,
       "carryover": "$3,920",
       "wagertype": "Super High Five Jackpot",
       "track": "Penn National",
       "date": "Nov 22",
       "ndate": 20221122
+    },
+    {
+      "carryoverAmount": 3822,
+      "carryover": "$3,822",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Laurel Park",
+      "date": "Nov 24",
+      "ndate": 20221124
     },
     {
       "carryoverAmount": 2760,
@@ -161,12 +145,12 @@
       "ndate": 20221125
     },
     {
-      "carryoverAmount": 2384,
-      "carryover": "$2,384",
+      "carryoverAmount": 2103,
+      "carryover": "$2,103",
       "wagertype": "Super High Five",
       "track": "Horseshoe",
-      "date": "Nov 21",
-      "ndate": 20221121
+      "date": "Nov 22",
+      "ndate": 20221122
     },
     {
       "carryoverAmount": 1965,
@@ -185,12 +169,12 @@
       "ndate": 20221124
     },
     {
-      "carryoverAmount": 1189,
-      "carryover": "$1,189",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Laurel Park",
-      "date": "Nov 21",
-      "ndate": 20221121
+      "carryoverAmount": 1389,
+      "carryover": "$1,389",
+      "wagertype": "Pick 5",
+      "track": "Zia Park",
+      "date": "Nov 22",
+      "ndate": 20221122
     },
     {
       "carryoverAmount": 979,
@@ -199,14 +183,6 @@
       "track": "Fair Grounds",
       "date": "Nov 24",
       "ndate": 20221124
-    },
-    {
-      "carryoverAmount": 413,
-      "carryover": "$413",
-      "wagertype": "Pick 5",
-      "track": "Zia Park",
-      "date": "Nov 21",
-      "ndate": 20221121
     }
   ]
 }
