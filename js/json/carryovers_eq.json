@@ -1,34 +1,42 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 188728,
-      "carryover": "$188,728",
+      "carryoverAmount": 221064,
+      "carryover": "$221,064",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Dec 20",
-      "ndate": 20221220
+      "date": "Dec 21",
+      "ndate": 20221221
     },
     {
-      "carryoverAmount": 172738,
-      "carryover": "$172,738",
+      "carryoverAmount": 202276,
+      "carryover": "$202,276",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Dec 20",
-      "ndate": 20221220
+      "date": "Dec 21",
+      "ndate": 20221221
     },
     {
-      "carryoverAmount": 21135,
-      "carryover": "$21,135",
+      "carryoverAmount": 22273,
+      "carryover": "$22,273",
       "wagertype": "Super High Five Jackpot",
       "track": "Penn National",
-      "date": "Dec 20",
-      "ndate": 20221220
+      "date": "Dec 21",
+      "ndate": 20221221
     },
     {
       "carryoverAmount": 13003,
       "carryover": "$13,003",
       "wagertype": "Super High Five",
       "track": "Turfway Park",
+      "date": "Dec 21",
+      "ndate": 20221221
+    },
+    {
+      "carryoverAmount": 8630,
+      "carryover": "$8,630",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Mahoning Valley",
       "date": "Dec 21",
       "ndate": 20221221
     },
@@ -41,28 +49,20 @@
       "ndate": 20221221
     },
     {
+      "carryoverAmount": 6907,
+      "carryover": "$6,907",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Turf Paradise",
+      "date": "Dec 21",
+      "ndate": 20221221
+    },
+    {
       "carryoverAmount": 6123,
       "carryover": "$6,123",
       "wagertype": "Pick 6",
       "track": "Fair Grounds",
       "date": "Dec 22",
       "ndate": 20221222
-    },
-    {
-      "carryoverAmount": 5416,
-      "carryover": "$5,416",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Mahoning Valley",
-      "date": "Dec 20",
-      "ndate": 20221220
-    },
-    {
-      "carryoverAmount": 4863,
-      "carryover": "$4,863",
-      "wagertype": "Pick 5",
-      "track": "Penn National",
-      "date": "Dec 20",
-      "ndate": 20221220
     },
     {
       "carryoverAmount": 4426,
@@ -73,12 +73,12 @@
       "ndate": 20221221
     },
     {
-      "carryoverAmount": 2713,
-      "carryover": "$2,713",
+      "carryoverAmount": 3721,
+      "carryover": "$3,721",
       "wagertype": "Pick 6 Jackpot",
-      "track": "Turf Paradise",
-      "date": "Dec 20",
-      "ndate": 20221220
+      "track": "Laurel Park",
+      "date": "Dec 26",
+      "ndate": 20221226
     }
   ]
 }
