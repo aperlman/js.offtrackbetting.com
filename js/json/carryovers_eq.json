@@ -1,12 +1,12 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 175846,
-      "carryover": "$175,846",
+      "carryoverAmount": 208636,
+      "carryover": "$208,636",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "Dec 29",
-      "ndate": 20221229
+      "date": "Dec 30",
+      "ndate": 20221230
     },
     {
       "carryoverAmount": 126787,
@@ -25,12 +25,20 @@
       "ndate": 20221230
     },
     {
-      "carryoverAmount": 33041,
-      "carryover": "$33,041",
+      "carryoverAmount": 37162,
+      "carryover": "$37,162",
       "wagertype": "Pick 6 Jackpot",
       "track": "Turfway Park",
-      "date": "Dec 29",
-      "ndate": 20221229
+      "date": "Dec 30",
+      "ndate": 20221230
+    },
+    {
+      "carryoverAmount": 33099,
+      "carryover": "$33,099",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Mahoning Valley",
+      "date": "Dec 30",
+      "ndate": 20221230
     },
     {
       "carryoverAmount": 30265,
@@ -39,14 +47,6 @@
       "track": "Tampa Bay",
       "date": "Dec 30",
       "ndate": 20221230
-    },
-    {
-      "carryoverAmount": 29408,
-      "carryover": "$29,408",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Mahoning Valley",
-      "date": "Dec 29",
-      "ndate": 20221229
     },
     {
       "carryoverAmount": 26780,
@@ -61,14 +61,38 @@
       "carryover": "$26,607",
       "wagertype": "Pick 6 Jackpot",
       "track": "Turf Paradise",
-      "date": "Dec 29",
-      "ndate": 20221229
+      "date": "Dec 31",
+      "ndate": 20221231
+    },
+    {
+      "carryoverAmount": 22511,
+      "carryover": "$22,511",
+      "wagertype": "Super High Five",
+      "track": "Tampa Bay",
+      "date": "Dec 30",
+      "ndate": 20221230
     },
     {
       "carryoverAmount": 19886,
       "carryover": "$19,886",
       "wagertype": "Super High Five",
       "track": "Santa Anita",
+      "date": "Dec 30",
+      "ndate": 20221230
+    },
+    {
+      "carryoverAmount": 13557,
+      "carryover": "$13,557",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Dec 30",
+      "ndate": 20221230
+    },
+    {
+      "carryoverAmount": 8815,
+      "carryover": "$8,815",
+      "wagertype": "Pick 5",
+      "track": "Laurel Park",
       "date": "Dec 30",
       "ndate": 20221230
     },
@@ -81,20 +105,36 @@
       "ndate": 20221230
     },
     {
-      "carryoverAmount": 6261,
-      "carryover": "$6,261",
-      "wagertype": "Pick 5",
-      "track": "Mahoning Valley",
-      "date": "Dec 29",
-      "ndate": 20221229
-    },
-    {
-      "carryoverAmount": 3721,
-      "carryover": "$3,721",
+      "carryoverAmount": 4696,
+      "carryover": "$4,696",
       "wagertype": "Pick 6 Jackpot",
       "track": "Laurel Park",
-      "date": "Dec 29",
-      "ndate": 20221229
+      "date": "Dec 30",
+      "ndate": 20221230
+    },
+    {
+      "carryoverAmount": 4339,
+      "carryover": "$4,339",
+      "wagertype": "Super High Five",
+      "track": "Turfway Park",
+      "date": "Dec 30",
+      "ndate": 20221230
+    },
+    {
+      "carryoverAmount": 3534,
+      "carryover": "$3,534",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Dec 30",
+      "ndate": 20221230
+    },
+    {
+      "carryoverAmount": 3496,
+      "carryover": "$3,496",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Dec 30",
+      "ndate": 20221230
     },
     {
       "carryoverAmount": 2508,
@@ -103,14 +143,6 @@
       "track": "Hawthorne",
       "date": "Dec 30",
       "ndate": 20221230
-    },
-    {
-      "carryoverAmount": 2321,
-      "carryover": "$2,321",
-      "wagertype": "Super High Five",
-      "track": "Turfway Park",
-      "date": "Dec 29",
-      "ndate": 20221229
     },
     {
       "carryoverAmount": 1768,
