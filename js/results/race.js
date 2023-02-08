@@ -256,11 +256,10 @@ const ActionBox = (eventNo, track) => `
 
 const ActionButton = (raceComplete, eventNo, track) => {
   const dateStr = (dateObj(eventNo, track)
-  // .toISOString("en-US", {timeZone: "America/New_York"})
-   .toISOString("en-US")
+   .toISOString("en-US", {timeZone: "America/New_York"})
    .replace(/T.*/g,""));
   const postYear = dateStr.match(/^\d{4}/);
-      
+
   return `
     ${postYear < 2022 ? 
     '<a href="https://app.offtrackbetting.com/#/lobby/" class="btn btn-blue text-right" role="button">' :
