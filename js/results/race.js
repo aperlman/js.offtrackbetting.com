@@ -257,7 +257,8 @@ const ActionBox = (eventNo, track) => `
 const ActionButton = (raceComplete, eventNo, track) => {
   const dateStr = (dateObj(eventNo, track)
    .toISOString("en-US", {timeZone: "America/New_York"})
-   .replace(/T.*/g,""));
+   .replace(/T.*/g,""))
+   .replace(/(\d{4})(\d{2})(\d{2})/g, '$1-$2-$3');
   const postYear = dateStr.match(/^\d{4}/);
 
   return `
