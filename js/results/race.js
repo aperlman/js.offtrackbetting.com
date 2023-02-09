@@ -257,14 +257,16 @@ const ActionBox = (eventNo, track) => `
 const ActionButton = (raceComplete, eventNo, track) => {
   const dateStr = (dateObj(eventNo, track)
    .toISOString("en-US", {timeZone: "America/New_York"})
-   .replace(/T.*/g,""))
-   .replace(/(\d{4})(\d{2})(\d{2})/g, '$1-$2-$3');
+   .replace(/T.*/g,""));
   const postYear = dateStr.match(/^\d{4}/);
 
+  const programDate = track.businessDate
+   .replace(/(\d{4})(\d{2})(\d{2})/g, '$1-$2-$3');
+  
   return `
     ${postYear < 2022 ? 
     '<a href="https://app.offtrackbetting.com/#/lobby/" class="btn btn-blue text-right" role="button">' :
-    `<a href="https://app.offtrackbetting.com/#/lobby/live-racing?programDate=${track.businessDate}&programName=${track.eventCode}&raceNumber=${eventNo}" class="btn btn-blue text-right" role="button">`
+    `<a href="https://app.offtrackbetting.com/#/lobby/live-racing?programDate=${programDate}&programName=${track.eventCode}&raceNumber=${eventNo}" class="btn btn-blue text-right" role="button">`
     }
     ${raceComplete ? 
       (postYear < 2022 ? 
