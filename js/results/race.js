@@ -263,7 +263,7 @@ const ActionButton = (raceComplete, eventNo, track) => {
   return `
     ${postYear < 2022 ? 
     '<a href="https://app.offtrackbetting.com/#/lobby/" class="btn btn-blue text-right" role="button">' :
-    `<a href="https://app.offtrackbetting.com/#/lobby/live-racing?programDate=${dateStr}&programName=${track.eventCode}&raceNumber=${eventNo}" class="btn btn-blue text-right" role="button">`
+    `<a href="https://app.offtrackbetting.com/#/lobby/live-racing?programDate=${track.businessDate}&programName=${track.eventCode}&raceNumber=${eventNo}" class="btn btn-blue text-right" role="button">`
     }
     ${raceComplete ? 
       (postYear < 2022 ? 
