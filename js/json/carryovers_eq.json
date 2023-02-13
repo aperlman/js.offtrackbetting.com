@@ -1,12 +1,20 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 341056,
-      "carryover": "$341,056",
+      "carryoverAmount": 403863,
+      "carryover": "$403,863",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "Feb 12",
-      "ndate": 20230212
+      "date": "Feb 15",
+      "ndate": 20230215
+    },
+    {
+      "carryoverAmount": 285092,
+      "carryover": "$285,092",
+      "wagertype": "Pick 5",
+      "track": "Aqueduct",
+      "date": "Feb 17",
+      "ndate": 20230217
     },
     {
       "carryoverAmount": 156585,
@@ -25,20 +33,28 @@
       "ndate": 20230213
     },
     {
-      "carryoverAmount": 54952,
-      "carryover": "$54,952",
+      "carryoverAmount": 80819,
+      "carryover": "$80,819",
       "wagertype": "Pick 6 Jackpot",
       "track": "Santa Anita",
-      "date": "Feb 12",
-      "ndate": 20230212
+      "date": "Feb 17",
+      "ndate": 20230217
     },
     {
-      "carryoverAmount": 30508,
-      "carryover": "$30,508",
+      "carryoverAmount": 40771,
+      "carryover": "$40,771",
+      "wagertype": "Pick 6",
+      "track": "Aqueduct",
+      "date": "Feb 17",
+      "ndate": 20230217
+    },
+    {
+      "carryoverAmount": 33665,
+      "carryover": "$33,665",
       "wagertype": "Pick 6 Jackpot",
       "track": "Tampa Bay",
-      "date": "Feb 12",
-      "ndate": 20230212
+      "date": "Feb 15",
+      "ndate": 20230215
     },
     {
       "carryoverAmount": 27495,
@@ -73,20 +89,28 @@
       "ndate": 20230213
     },
     {
-      "carryoverAmount": 9673,
-      "carryover": "$9,673",
+      "carryoverAmount": 13098,
+      "carryover": "$13,098",
       "wagertype": "Super High Five",
-      "track": "Tampa Bay",
-      "date": "Feb 12",
-      "ndate": 20230212
+      "track": "Golden Gate",
+      "date": "Feb 17",
+      "ndate": 20230217
     },
     {
-      "carryoverAmount": 9039,
-      "carryover": "$9,039",
-      "wagertype": "Pick 6",
-      "track": "Fair Grounds",
-      "date": "Feb 12",
-      "ndate": 20230212
+      "carryoverAmount": 5681,
+      "carryover": "$5,681",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Feb 15",
+      "ndate": 20230215
+    },
+    {
+      "carryoverAmount": 3630,
+      "carryover": "$3,630",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Feb 15",
+      "ndate": 20230215
     },
     {
       "carryoverAmount": 3587,
@@ -97,6 +121,14 @@
       "ndate": 20230215
     },
     {
+      "carryoverAmount": 3050,
+      "carryover": "$3,050",
+      "wagertype": "Super High Five",
+      "track": "Golden Gate",
+      "date": "Feb 17",
+      "ndate": 20230217
+    },
+    {
       "carryoverAmount": 2682,
       "carryover": "$2,682",
       "wagertype": "Pick 5",
@@ -105,52 +137,28 @@
       "ndate": 20230213
     },
     {
-      "carryoverAmount": 2537,
-      "carryover": "$2,537",
-      "wagertype": "Pick 5",
-      "track": "Sunland Park",
-      "date": "Feb 12",
-      "ndate": 20230212
+      "carryoverAmount": 1164,
+      "carryover": "$1,164",
+      "wagertype": "Super High Five",
+      "track": "Golden Gate",
+      "date": "Feb 17",
+      "ndate": 20230217
     },
     {
-      "carryoverAmount": 1144,
-      "carryover": "$1,144",
-      "wagertype": "Super High Five",
-      "track": "Sam Houston",
-      "date": "Feb 12",
-      "ndate": 20230212
-    },
-    {
-      "carryoverAmount": 1131,
-      "carryover": "$1,131",
-      "wagertype": "Super High Five",
+      "carryoverAmount": 915,
+      "carryover": "$915",
+      "wagertype": "Pick 6 Jackpot",
       "track": "Laurel Park",
-      "date": "Feb 12",
-      "ndate": 20230212
+      "date": "Feb 17",
+      "ndate": 20230217
     },
     {
-      "carryoverAmount": 393,
-      "carryover": "$393",
+      "carryoverAmount": 683,
+      "carryover": "$683",
       "wagertype": "Super High Five",
       "track": "Sunland Park",
-      "date": "Feb 12",
-      "ndate": 20230212
-    },
-    {
-      "carryoverAmount": 234,
-      "carryover": "$234",
-      "wagertype": "Pick 5",
-      "track": "Sam Houston",
-      "date": "Feb 12",
-      "ndate": 20230212
-    },
-    {
-      "carryoverAmount": 229,
-      "carryover": "$229",
-      "wagertype": "Pick 6",
-      "track": "Rillito",
-      "date": "Feb 12",
-      "ndate": 20230212
+      "date": "Feb 14",
+      "ndate": 20230214
     }
   ]
 }
