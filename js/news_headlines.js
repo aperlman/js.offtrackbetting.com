@@ -2,7 +2,8 @@
    Horse Betting News - Carousel Headlines
 
    NOTE: This is development code -- the real thing should be embedded in 
-         otb.js as this happens on nearly every page of the site.
+         a js file that's loaded everywhere (otb.js?) as this happens on nearly
+         every page of the site.
 
    * Reads in current news from js.offtrackbetting.com/news/headlines.json
    * Builds out Carousel HTML data from these results
@@ -18,10 +19,10 @@
 //     success: function (data) {
 //       $(data.entries).each((idx, story) => {
 //         $("#jcarousel_news_headlines ul").append(
-//           "<li style=\"width: 272px;\">"+
+//           "<li>"+
 //           "<img src=\"" + story.img + "\" class=\"lazyloaded\" alt=\"\">" +
-//           "<h4><a href=\"" + story.page_name + "\">" + story.title + "</a></h4>"
-//           + story.summary + "</li>"
+//           "<h4><a href=\"" + story.page_name + "\">" + story.title + 
+//           "</a></h4>" + story.summary + "</li>"
 //         )
 //       });
 //       $("#jcarousel_news_headlines").show();
@@ -29,7 +30,7 @@
 //   });
 // });
 
-// TEMPLATE TEST (delivers the layout back to the HTML developer)
+// TEMPLATE (delivers the layout back to the HTML developer)
 $(document).ready( function () {
   $.getJSON({
     url: 'https://json.offtrackbetting.com/news/headlines.json',
@@ -37,6 +38,7 @@ $(document).ready( function () {
     success: function (data) {
       // turn the template into a string
       var $template = $("#jcarousel_news_headlines template").html();
+      $("#jcarousel_news_headlines template").remove();
 
       $(data.entries).each((idx, story) => {
         // copy template - sans reference
@@ -48,8 +50,32 @@ $(document).ready( function () {
 
         $("#jcarousel_news_headlines ul").append(clone);
       });
+      
       $("#jcarousel_news_headlines").show();
     }
   });
-});
 
+// RIGHT COLUMN BUTTONS
+  $.getJSON({
+    url: 'https://json.offtrackbetting.com/news/right_col_buttons.json',
+    crossDomain: true,
+    success: function (data) {
+      // turn the template into a string
+      var $template = $("#right-col-buttons template").html();
+      $("#right-col-buttons template").remove();
+
+      $(data.entries).each((idx, story) => {
+        // copy template - sans reference
+        var clone = (' ' + $template).slice(1)
+          .replace("[story.title]", story.title)
+          .replace("[story.url]", story.url)
+          .replace("[story.color]", story.color)
+          .replace("[story.location]", story.location);
+
+        $("#right-col-buttons ul").append(clone);
+      });
+      $("#right-col-buttons").show();
+    }
+  });
+
+}); // $(document).ready()
