@@ -58,6 +58,7 @@ const RaceTitle = (eventNo, track) => {
     .replace(/\//g,"-");
 
   return `
+    <a name="race${eventNo}"></a>
     <div id="raceTitle">
       <h3>Race ${eventNo} <span>${track.ID} ${dateStr}</span></h3>
     </div>
