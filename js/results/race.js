@@ -1,7 +1,10 @@
 /*
 Version: 2
   PRIMARY FUNCTIONS
-    Race
+    PopulateDates - Results Form
+      SetDateLocations
+
+    Race - display the race
       RaceDisplay
       RaceTitle
       SelectionTable
@@ -26,12 +29,105 @@ Version: 2
     dateObj: (eventNo, track) convert event date to date object
 */
 
-const Race = (track) => `
+// Enable Results Form
+function PopulateDates(initialize) {
+  const [meetno, track_uri] = $('select[name="track"]').val().split('/');
+
+  if (!(initialize)) { // selected new track
+    $('.datepicker').val('');
+    $(".datepicker").datepicker("destroy");
+
+    $("#resultsForm > fieldset > legend").html("Select Date to Continue");
+    // highlight the date fieldset
+    $(".datepicker").css('border-color', 'red');
+  }
+
+  var validDays = [];
+  var raceToday = 0;
+
+  // sets raceToday to YYYYmmdd if track is racing today
+  const doesTrackRaceToday = (racingTracks) => {
+    const raceIndex = racingTracks.tracks.findIndex(
+      v => v.meetno == meetno);
+
+    if (raceIndex > -1)
+      raceToday = racingTracks.tracks[raceIndex].program_date;
+    // note: raceToday is numeric Int
+  };
+
+  $.ajax({
+    url: 'https://json.offtrackbetting.com/tracks/v2/' +
+      `${meetno}/meetdays.txt`,
+    crossDomain: true,
+    success: (datesStr) => {
+      validDays = datesStr.split("\n");
+      // add todays date if the track is racing today
+      //   raceToday is Int --> validDays are strings
+      if (raceToday > 0 && ($.inArray(`${raceToday}`, validDays) == -1))
+        validDays.push(`${raceToday}`);
+
+      SetDateLocations(meetno, track_uri, validDays);
+    },
+    error: (err) => {
+      // first day track ran? add todays date if the track is racing today
+      if (raceToday > 0 && ($.inArray(`${raceToday}`, validDays) == -1)) {
+        validDays.push(`${raceToday}`);
+        setDateLocations(meetno, track_uri, validDays);
+      }
+      console.log("fail");
+      console.log(err);
+    }
+  });
+
+  // assuming todaysRaces call did not complete...
+  if (typeof todaysRaces === "undefined" || !("tracks" in todaysRaces)) {
+    $.getJSON({
+      url: 'https://us-west-2.aws.data.mongodb-api.com/app/races-bwsnh/endpoint/current',
+      crossDomain: true,
+      success: function (data) {
+        // the track is current for today
+        doesTrackRaceToday(data.todaysraces);
+      },
+      error: (err) => {
+        console.log("failed to get current races");
+        console.log(err);
+      }
+    });
+  } else {
+    doesTrackRaceToday(todaysRaces);
+  }
+}
+
+const SetDateLocations = (meetno, track_uri, validDays) => {
+  const enableDays = (date) => {
+    var dateStr = $.datepicker.formatDate('yymmdd', date);
+    return ($.inArray(dateStr, validDays) != -1) ? [true] : [false];
+  };
+
+  $('.datepicker').datepicker({
+    beforeShowDay: enableDays,
+    defaultDate: validDays[validDays.length - 1],
+    yearRange: "2011:nn",
+    changeMonth: true,
+    changeYear: true,
+    dateFormat: "yymmdd",
+    altField: '#dateSubmit',
+    onSelect: function(date, instance) {
+      $(location).attr('href', "https://www.offtrackbetting.com/results/" +
+        `${meetno}/${track_uri}-${date}.html`);
+    }
+  });
+};
+
+// Display Results
+function Race(track) {
+  return `
   <div id="race">
     <br/>
     ${[...Array(track.events.length).keys()].map(
-      x => RaceDisplay(++x,track)).join('<br/>')}
+    x => RaceDisplay(++x, track)).join('<br/>')}
   </div>`;
+}
 
 /* HEADER */
 const RaceDisplay = (eventNo, track) => (
