@@ -81,20 +81,24 @@ function PopulateDates(initialize) {
     url: 'https://json.offtrackbetting.com/tracks/v2/' +
       `${meetno}/meetdays.txt`,
     crossDomain: true,
-    success: (datesStr) => {
-      validDays = datesStr.split("\n");
-      // add todays date if the track is racing today
-      //   raceToday is Int --> validDays are strings
-      if (raceToday > 0 && ($.inArray(`${raceToday}`, validDays) == -1))
-        validDays.push(`${raceToday}`);
-    },
-    error: (err) => {
-      console.log("failed to fetch archived meet days");
-      console.log(err);
-    }
-  }).done(() => {
+    // success: (datesStr) => {
+      
+    // },
+    // error: (err) => {
+      
+    // }
+  }).fail( (err) => {
+    console.log("failed to fetch archived meet days");
+    console.log(err);
+  }).done((datesStr) => {
     console.log("completed ajax call");
     console.log(validDays);
+    validDays = datesStr.split("\n");
+    // add todays date if the track is racing today
+    //   raceToday is Int --> validDays are strings
+    if (raceToday > 0 && ($.inArray(`${raceToday}`, validDays) == -1))
+      validDays.push(`${raceToday}`);
+
     // assuming todaysRaces call did not complete...
     if (typeof todaysRaces === "undefined" || !("tracks" in todaysRaces)) {
       $.getJSON({
