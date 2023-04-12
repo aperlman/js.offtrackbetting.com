@@ -92,7 +92,7 @@ function PopulateDates(raceDay, initialize) {
 
     if (raceIndex > -1) { // this track is running today?
       // program_date [INT] becomes currentRaceDay [STR]
-      const currentRaceDay = `${racingTracks.tracks[raceIndex].program_date}`;
+      const currentRaceDay = `${racingTracks.tracks[raceIndex].programDate}`;
 
       // if the current day doesn't exist, add it to validDays
       if (!(validDays.find(e => e === currentRaceDay)))

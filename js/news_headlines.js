@@ -34,8 +34,9 @@
 $(document).ready( function () {
   $.getJSON({
     url: 'https://json.offtrackbetting.com/news/headlines.json',
-    crossDomain: true,
-    success: function (data) {
+    crossDomain: true
+  })
+    .done(function (data) {
       // turn the template into a string
       var $template = $("#jcarousel_news_headlines template").html();
       $("#jcarousel_news_headlines template").remove();
@@ -52,14 +53,16 @@ $(document).ready( function () {
       });
       
       $("#jcarousel_news_headlines").show();
-    }
-  });
+    });
+}); // $(document).ready()
 
 // RIGHT COLUMN BUTTONS
+function loadRightColButtons() {
   $.getJSON({
     url: 'https://json.offtrackbetting.com/news/right_col_buttons.json',
-    crossDomain: true,
-    success: function (data) {
+    crossDomain: true
+  })
+    .done(function (data) {
       // turn the template into a string
       var $template = $("#right-col-buttons template").html();
       $("#right-col-buttons template").remove();
@@ -75,7 +78,5 @@ $(document).ready( function () {
         $("#right-col-buttons ul").append(clone);
       });
       $("#right-col-buttons").show();
-    }
-  });
-
-}); // $(document).ready()
+    });
+  }
