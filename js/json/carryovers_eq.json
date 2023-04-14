@@ -13,32 +13,32 @@
       "carryover": "$71,472",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "Apr 13",
-      "ndate": 20230413
+      "date": "Apr 14",
+      "ndate": 20230414
     },
     {
-      "carryoverAmount": 66705,
-      "carryover": "$66,705",
-      "wagertype": "Pick 6",
-      "track": "Aqueduct",
-      "date": "Apr 13",
-      "ndate": 20230413
-    },
-    {
-      "carryoverAmount": 35613,
-      "carryover": "$35,613",
+      "carryoverAmount": 41600,
+      "carryover": "$41,600",
       "wagertype": "Pick 6 Jackpot",
       "track": "Charles Town",
-      "date": "Apr 13",
-      "ndate": 20230413
+      "date": "Apr 14",
+      "ndate": 20230414
     },
     {
-      "carryoverAmount": 21247,
-      "carryover": "$21,247",
+      "carryoverAmount": 24698,
+      "carryover": "$24,698",
       "wagertype": "Super High Five Jackpot",
       "track": "Hawthorne",
-      "date": "Apr 13",
-      "ndate": 20230413
+      "date": "Apr 16",
+      "ndate": 20230416
+    },
+    {
+      "carryoverAmount": 23779,
+      "carryover": "$23,779",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Penn National",
+      "date": "Apr 19",
+      "ndate": 20230419
     },
     {
       "carryoverAmount": 19723,
@@ -53,8 +53,8 @@
       "carryover": "$8,378",
       "wagertype": "Super High Five",
       "track": "Gulfstream Park",
-      "date": "Apr 13",
-      "ndate": 20230413
+      "date": "Apr 14",
+      "ndate": 20230414
     },
     {
       "carryoverAmount": 6890,
@@ -81,12 +81,20 @@
       "ndate": 20230414
     },
     {
-      "carryoverAmount": 4436,
-      "carryover": "$4,436",
+      "carryoverAmount": 696,
+      "carryover": "$696",
       "wagertype": "Pick 6 Jackpot",
-      "track": "Laurel Park",
-      "date": "Apr 13",
-      "ndate": 20230413
+      "track": "Lone Star",
+      "date": "Apr 14",
+      "ndate": 20230414
+    },
+    {
+      "carryoverAmount": 610,
+      "carryover": "$610",
+      "wagertype": "Super High Five",
+      "track": "Lone Star",
+      "date": "Apr 14",
+      "ndate": 20230414
     }
   ]
 }
