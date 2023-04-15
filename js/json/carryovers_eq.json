@@ -9,20 +9,36 @@
       "ndate": 20230415
     },
     {
+      "carryoverAmount": 93613,
+      "carryover": "$93,613",
+      "wagertype": "Pick 6",
+      "track": "Keeneland",
+      "date": "Apr 15",
+      "ndate": 20230415
+    },
+    {
       "carryoverAmount": 71472,
       "carryover": "$71,472",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "Apr 14",
-      "ndate": 20230414
+      "date": "Apr 15",
+      "ndate": 20230415
     },
     {
-      "carryoverAmount": 41600,
-      "carryover": "$41,600",
+      "carryoverAmount": 51327,
+      "carryover": "$51,327",
       "wagertype": "Pick 6 Jackpot",
       "track": "Charles Town",
-      "date": "Apr 14",
-      "ndate": 20230414
+      "date": "Apr 15",
+      "ndate": 20230415
+    },
+    {
+      "carryoverAmount": 28181,
+      "carryover": "$28,181",
+      "wagertype": "Pick 5",
+      "track": "Tampa Bay",
+      "date": "Apr 15",
+      "ndate": 20230415
     },
     {
       "carryoverAmount": 24698,
@@ -33,6 +49,14 @@
       "ndate": 20230416
     },
     {
+      "carryoverAmount": 24419,
+      "carryover": "$24,419",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Golden Gate",
+      "date": "Apr 15",
+      "ndate": 20230415
+    },
+    {
       "carryoverAmount": 23779,
       "carryover": "$23,779",
       "wagertype": "Super High Five Jackpot",
@@ -41,20 +65,12 @@
       "ndate": 20230419
     },
     {
-      "carryoverAmount": 19723,
-      "carryover": "$19,723",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Golden Gate",
-      "date": "Apr 14",
-      "ndate": 20230414
-    },
-    {
       "carryoverAmount": 8378,
       "carryover": "$8,378",
       "wagertype": "Super High Five",
       "track": "Gulfstream Park",
-      "date": "Apr 14",
-      "ndate": 20230414
+      "date": "Apr 15",
+      "ndate": 20230415
     },
     {
       "carryoverAmount": 6890,
@@ -65,36 +81,68 @@
       "ndate": 20230417
     },
     {
-      "carryoverAmount": 5230,
-      "carryover": "$5,230",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Fonner Park",
-      "date": "Apr 14",
-      "ndate": 20230414
-    },
-    {
-      "carryoverAmount": 4660,
-      "carryover": "$4,660",
+      "carryoverAmount": 6432,
+      "carryover": "$6,432",
       "wagertype": "Pick 6 Jackpot",
       "track": "Tampa Bay",
-      "date": "Apr 14",
-      "ndate": 20230414
+      "date": "Apr 15",
+      "ndate": 20230415
     },
     {
-      "carryoverAmount": 696,
-      "carryover": "$696",
+      "carryoverAmount": 6342,
+      "carryover": "$6,342",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Fonner Park",
+      "date": "Apr 15",
+      "ndate": 20230415
+    },
+    {
+      "carryoverAmount": 3399,
+      "carryover": "$3,399",
+      "wagertype": "Super High Five",
+      "track": "Tampa Bay",
+      "date": "Apr 15",
+      "ndate": 20230415
+    },
+    {
+      "carryoverAmount": 2379,
+      "carryover": "$2,379",
+      "wagertype": "Super High Five",
+      "track": "Golden Gate",
+      "date": "Apr 15",
+      "ndate": 20230415
+    },
+    {
+      "carryoverAmount": 989,
+      "carryover": "$989",
       "wagertype": "Pick 6 Jackpot",
-      "track": "Lone Star",
-      "date": "Apr 14",
-      "ndate": 20230414
+      "track": "Laurel Park",
+      "date": "Apr 15",
+      "ndate": 20230415
     },
     {
-      "carryoverAmount": 610,
-      "carryover": "$610",
+      "carryoverAmount": 952,
+      "carryover": "$952",
       "wagertype": "Super High Five",
       "track": "Lone Star",
-      "date": "Apr 14",
-      "ndate": 20230414
+      "date": "Apr 15",
+      "ndate": 20230415
+    },
+    {
+      "carryoverAmount": 707,
+      "carryover": "$707",
+      "wagertype": "Pick 5",
+      "track": "Lone Star",
+      "date": "Apr 15",
+      "ndate": 20230415
+    },
+    {
+      "carryoverAmount": 699,
+      "carryover": "$699",
+      "wagertype": "Pick 6",
+      "track": "Lone Star",
+      "date": "Apr 15",
+      "ndate": 20230415
     }
   ]
 }
