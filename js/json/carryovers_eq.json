@@ -1,12 +1,12 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 360624,
-      "carryover": "$360,624",
+      "carryoverAmount": 381752,
+      "carryover": "$381,752",
       "wagertype": "Pick 6 Jackpot",
       "track": "Turf Paradise",
-      "date": "Apr 24",
-      "ndate": 20230424
+      "date": "Apr 25",
+      "ndate": 20230425
     },
     {
       "carryoverAmount": 189453,
@@ -25,12 +25,20 @@
       "ndate": 20230428
     },
     {
-      "carryoverAmount": 84987,
-      "carryover": "$84,987",
+      "carryoverAmount": 116320,
+      "carryover": "$116,320",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Apr 24",
-      "ndate": 20230424
+      "date": "Apr 25",
+      "ndate": 20230425
+    },
+    {
+      "carryoverAmount": 98815,
+      "carryover": "$98,815",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Parx Racing",
+      "date": "Apr 25",
+      "ndate": 20230425
     },
     {
       "carryoverAmount": 82300,
@@ -39,14 +47,6 @@
       "track": "Charles Town",
       "date": "Apr 27",
       "ndate": 20230427
-    },
-    {
-      "carryoverAmount": 78206,
-      "carryover": "$78,206",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Parx Racing",
-      "date": "Apr 24",
-      "ndate": 20230424
     },
     {
       "carryoverAmount": 37758,
@@ -113,22 +113,6 @@
       "ndate": 20230425
     },
     {
-      "carryoverAmount": 1815,
-      "carryover": "$1,815",
-      "wagertype": "Super High Five",
-      "track": "Golden Gate",
-      "date": "Apr 28",
-      "ndate": 20230428
-    },
-    {
-      "carryoverAmount": 1805,
-      "carryover": "$1,805",
-      "wagertype": "Super High Five",
-      "track": "Gulfstream Park",
-      "date": "Apr 27",
-      "ndate": 20230427
-    },
-    {
       "carryoverAmount": 1608,
       "carryover": "$1,608",
       "wagertype": "Pick 6 Jackpot",
@@ -143,6 +127,14 @@
       "track": "Lone Star",
       "date": "Apr 27",
       "ndate": 20230427
+    },
+    {
+      "carryoverAmount": 678,
+      "carryover": "$678",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Thistledown",
+      "date": "Apr 25",
+      "ndate": 20230425
     },
     {
       "carryoverAmount": 315,
