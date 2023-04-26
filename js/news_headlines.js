@@ -39,14 +39,14 @@ $(document).ready( function () {
     .done(function (data) {
       // turn the template into a string
       var $template = $("#jcarousel_news_headlines template").html();
-      $("#jcarousel_news_headlines template").remove();
+      //$("#jcarousel_news_headlines template").remove();
 
       $(data.entries).each((idx, story) => {
         // copy template - sans reference
         var clone = (' ' + $template).slice(1)
           .replace("[story.img]", story.img)
           .replace("[story.title]", story.title)
-          .replace("[story.page_name]", story.page_name)
+          .replace("[story.pageName]", story.pageName)
           .replace("[story.summary]", story.summary);
 
         $("#jcarousel_news_headlines ul").append(clone);
