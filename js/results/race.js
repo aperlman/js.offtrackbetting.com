@@ -319,7 +319,7 @@ function Race(track) {
         
         ${ // DISTANCE
           event.distance ? ' <strong>Distance:</strong> '+
-          event.distance.replace(/[Ff]$/, ' Furlongs') : '' }
+          event.distance.toString().replace(/[Ff]$/, ' Furlongs') : '' }
         
         ${ // purse and distance --> closing tag
           (event.purse.$numberDouble && event.purse.$numberDouble > 0) ||
