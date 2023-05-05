@@ -37,7 +37,9 @@ function ThisDaysSchedule(date, scheduleData) {
     if (a.name < b.name)
       return -1;
     return 0;
-  }).map((track) => `
+  })
+    .filter( (track) => !track.name.includes("Churchill") )
+    .map((track) => `
       <tr>
         <td>${track.canceled ? "<s>" : ""}${track.name}${
           track.canceled ? "</s>" : ""}</td>
