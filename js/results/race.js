@@ -536,17 +536,26 @@ function Race(track) {
     return betTypes[betType]
   };
 
-  const dateObj = (eventNo, track) => new Date( // convert postTime to date obj
-    parseInt(
-      thisEvent(eventNo, track).postTime.$numberDouble ||
-      thisEvent(eventNo, track).postTime
-    ) * 1000);
+  const dateObj = (eventNo, track) => {
+    try {
+      const myDateObj = new Date( // convert postTime to date obj
+        parseInt(
+          thisEvent(eventNo, track).postTime.$numberDouble ||
+          thisEvent(eventNo, track).postTime
+        ) * 1000);
+      // test that we have a valid Date object
+      myDateObj.toISOString("en-US", {timeZone: "America/New_York"});
+      return myDateObj;
+    } catch (error) {
+      if (error instanceof RangeError) return new Date();
+    }
+  };
 
   // execution
   return `
   <div id="race">
     <br/>
     ${[...Array(track.events.length).keys()].map(
-    x => RaceDisplay(++x, track)).join('<br/>')}
+      x => RaceDisplay(++x, track)).join('<br/>')}
   </div>`;
 }
