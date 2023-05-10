@@ -25,12 +25,28 @@
       "ndate": 20230511
     },
     {
+      "carryoverAmount": 42967,
+      "carryover": "$42,967",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Woodbine",
+      "date": "May 12",
+      "ndate": 20230512
+    },
+    {
       "carryoverAmount": 39533,
       "carryover": "$39,533",
       "wagertype": "Pick 6 Jackpot",
       "track": "Golden Gate",
       "date": "May 12",
       "ndate": 20230512
+    },
+    {
+      "carryoverAmount": 28762,
+      "carryover": "$28,762",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Parx Racing",
+      "date": "May 10",
+      "ndate": 20230510
     },
     {
       "carryoverAmount": 25665,
@@ -41,6 +57,14 @@
       "ndate": 20230511
     },
     {
+      "carryoverAmount": 15615,
+      "carryover": "$15,615",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Parx Racing",
+      "date": "May 10",
+      "ndate": 20230510
+    },
+    {
       "carryoverAmount": 11963,
       "carryover": "$11,963",
       "wagertype": "Super High Five",
@@ -49,16 +73,16 @@
       "ndate": 20230512
     },
     {
-      "carryoverAmount": 6343,
-      "carryover": "$6,343",
-      "wagertype": "Super High Five",
-      "track": "Golden Gate",
+      "carryoverAmount": 11025,
+      "carryover": "$11,025",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Woodbine",
       "date": "May 12",
       "ndate": 20230512
     },
     {
-      "carryoverAmount": 5515,
-      "carryover": "$5,515",
+      "carryoverAmount": 6343,
+      "carryover": "$6,343",
       "wagertype": "Super High Five",
       "track": "Golden Gate",
       "date": "May 12",
@@ -81,12 +105,12 @@
       "ndate": 20230511
     },
     {
-      "carryoverAmount": 2297,
-      "carryover": "$2,297",
+      "carryoverAmount": 3249,
+      "carryover": "$3,249",
       "wagertype": "Pick 6 Jackpot",
       "track": "Thistledown",
-      "date": "May 09",
-      "ndate": 20230509
+      "date": "May 10",
+      "ndate": 20230510
     },
     {
       "carryoverAmount": 2074,
@@ -97,12 +121,44 @@
       "ndate": 20230511
     },
     {
+      "carryoverAmount": 1445,
+      "carryover": "$1,445",
+      "wagertype": "Pick 7",
+      "track": "Fanduel",
+      "date": "May 13",
+      "ndate": 20230513
+    },
+    {
+      "carryoverAmount": 1175,
+      "carryover": "$1,175",
+      "wagertype": "Pick 6",
+      "track": "Finger Lakes",
+      "date": "May 15",
+      "ndate": 20230515
+    },
+    {
+      "carryoverAmount": 911,
+      "carryover": "$911",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Century Mile",
+      "date": "May 12",
+      "ndate": 20230512
+    },
+    {
       "carryoverAmount": 861,
       "carryover": "$861",
       "wagertype": "Pick 6 Jackpot",
       "track": "Louisiana Downs",
       "date": "May 13",
       "ndate": 20230513
+    },
+    {
+      "carryoverAmount": 730,
+      "carryover": "$730",
+      "wagertype": "Super High Five",
+      "track": "Century Mile",
+      "date": "May 12",
+      "ndate": 20230512
     },
     {
       "carryoverAmount": 577,
