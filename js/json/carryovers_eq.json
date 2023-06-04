@@ -1,28 +1,20 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 496822,
-      "carryover": "$496,822",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Pimlico",
-      "date": "Jun 03",
-      "ndate": 20230603
-    },
-    {
-      "carryoverAmount": 475657,
-      "carryover": "$475,657",
+      "carryoverAmount": 490728,
+      "carryover": "$490,728",
       "wagertype": "Super High Five",
       "track": "Pimlico",
-      "date": "Jun 03",
-      "ndate": 20230603
+      "date": "Jun 04",
+      "ndate": 20230604
     },
     {
-      "carryoverAmount": 166055,
-      "carryover": "$166,055",
+      "carryoverAmount": 189767,
+      "carryover": "$189,767",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "Jun 03",
-      "ndate": 20230603
+      "date": "Jun 04",
+      "ndate": 20230604
     },
     {
       "carryoverAmount": 150962,
@@ -49,6 +41,14 @@
       "ndate": 20230604
     },
     {
+      "carryoverAmount": 55420,
+      "carryover": "$55,420",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Santa Anita",
+      "date": "Jun 04",
+      "ndate": 20230604
+    },
+    {
       "carryoverAmount": 52251,
       "carryover": "$52,251",
       "wagertype": "Pick 5 Jackpot",
@@ -57,68 +57,60 @@
       "ndate": 20230605
     },
     {
-      "carryoverAmount": 43583,
-      "carryover": "$43,583",
+      "carryoverAmount": 50269,
+      "carryover": "$50,269",
       "wagertype": "Pick 6 Jackpot",
       "track": "Charles Town",
-      "date": "Jun 03",
-      "ndate": 20230603
+      "date": "Jun 08",
+      "ndate": 20230608
     },
     {
-      "carryoverAmount": 34824,
-      "carryover": "$34,824",
-      "wagertype": "Pick 6",
-      "track": "Belmont Park",
-      "date": "Jun 03",
-      "ndate": 20230603
-    },
-    {
-      "carryoverAmount": 31546,
-      "carryover": "$31,546",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Prairie Meadows",
-      "date": "Jun 03",
-      "ndate": 20230603
-    },
-    {
-      "carryoverAmount": 25815,
-      "carryover": "$25,815",
+      "carryoverAmount": 38903,
+      "carryover": "$38,903",
       "wagertype": "Pick 6 Jackpot",
       "track": "Churchill Downs",
-      "date": "Jun 03",
-      "ndate": 20230603
+      "date": "Jun 04",
+      "ndate": 20230604
     },
     {
-      "carryoverAmount": 24018,
-      "carryover": "$24,018",
+      "carryoverAmount": 33901,
+      "carryover": "$33,901",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Prairie Meadows",
+      "date": "Jun 04",
+      "ndate": 20230604
+    },
+    {
+      "carryoverAmount": 29656,
+      "carryover": "$29,656",
       "wagertype": "Pick 6 Jackpot",
       "track": "Golden Gate",
-      "date": "Jun 03",
-      "ndate": 20230603
+      "date": "Jun 04",
+      "ndate": 20230604
     },
     {
-      "carryoverAmount": 23294,
-      "carryover": "$23,294",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Santa Anita",
-      "date": "Jun 03",
-      "ndate": 20230603
-    },
-    {
-      "carryoverAmount": 16480,
-      "carryover": "$16,480",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Woodbine",
-      "date": "Jun 03",
-      "ndate": 20230603
-    },
-    {
-      "carryoverAmount": 12693,
-      "carryover": "$12,693",
+      "carryoverAmount": 17928,
+      "carryover": "$17,928",
       "wagertype": "Pick 6 Jackpot",
       "track": "Monmouth Park",
-      "date": "Jun 03",
-      "ndate": 20230603
+      "date": "Jun 04",
+      "ndate": 20230604
+    },
+    {
+      "carryoverAmount": 10703,
+      "carryover": "$10,703",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Lone Star",
+      "date": "Jun 04",
+      "ndate": 20230604
+    },
+    {
+      "carryoverAmount": 10000,
+      "carryover": "$10,000",
+      "wagertype": "Pick 6",
+      "track": "Los Alamitos",
+      "date": "Jun 04",
+      "ndate": 20230604
     },
     {
       "carryoverAmount": 8629,
@@ -129,30 +121,6 @@
       "ndate": 20230604
     },
     {
-      "carryoverAmount": 7339,
-      "carryover": "$7,339",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Century Mile",
-      "date": "Jun 03",
-      "ndate": 20230603
-    },
-    {
-      "carryoverAmount": 7318,
-      "carryover": "$7,318",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Sam Houston",
-      "date": "Jun 03",
-      "ndate": 20230603
-    },
-    {
-      "carryoverAmount": 6902,
-      "carryover": "$6,902",
-      "wagertype": "Super High Five",
-      "track": "Santa Anita",
-      "date": "Jun 03",
-      "ndate": 20230603
-    },
-    {
       "carryoverAmount": 6628,
       "carryover": "$6,628",
       "wagertype": "Super High Five Jackpot",
@@ -161,28 +129,36 @@
       "ndate": 20230606
     },
     {
-      "carryoverAmount": 4909,
-      "carryover": "$4,909",
+      "carryoverAmount": 4830,
+      "carryover": "$4,830",
       "wagertype": "Super High Five",
-      "track": "Churchill Downs",
-      "date": "Jun 03",
-      "ndate": 20230603
+      "track": "Golden Gate",
+      "date": "Jun 04",
+      "ndate": 20230604
+    },
+    {
+      "carryoverAmount": 4006,
+      "carryover": "$4,006",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Jun 04",
+      "ndate": 20230604
     },
     {
       "carryoverAmount": 3517,
       "carryover": "$3,517",
       "wagertype": "Pick 6 Jackpot",
       "track": "Louisiana Downs",
-      "date": "Jun 03",
-      "ndate": 20230603
+      "date": "Jun 04",
+      "ndate": 20230604
     },
     {
-      "carryoverAmount": 2821,
-      "carryover": "$2,821",
+      "carryoverAmount": 2810,
+      "carryover": "$2,810",
       "wagertype": "Super High Five",
       "track": "Gulfstream Park",
-      "date": "Jun 03",
-      "ndate": 20230603
+      "date": "Jun 04",
+      "ndate": 20230604
     },
     {
       "carryoverAmount": 2559,
@@ -193,6 +169,14 @@
       "ndate": 20230605
     },
     {
+      "carryoverAmount": 2370,
+      "carryover": "$2,370",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Emerald Downs",
+      "date": "Jun 04",
+      "ndate": 20230604
+    },
+    {
       "carryoverAmount": 2069,
       "carryover": "$2,069",
       "wagertype": "Super High Five",
@@ -201,44 +185,60 @@
       "ndate": 20230605
     },
     {
-      "carryoverAmount": 1879,
-      "carryover": "$1,879",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Emerald Downs",
-      "date": "Jun 03",
-      "ndate": 20230603
+      "carryoverAmount": 2053,
+      "carryover": "$2,053",
+      "wagertype": "Pick 5",
+      "track": "Horseshoe",
+      "date": "Jun 06",
+      "ndate": 20230606
     },
     {
-      "carryoverAmount": 1545,
-      "carryover": "$1,545",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Century Mile",
-      "date": "Jun 03",
-      "ndate": 20230603
-    },
-    {
-      "carryoverAmount": 1141,
-      "carryover": "$1,141",
+      "carryoverAmount": 2004,
+      "carryover": "$2,004",
       "wagertype": "Pick 5",
       "track": "Sam Houston",
-      "date": "Jun 03",
-      "ndate": 20230603
+      "date": "Jun 08",
+      "ndate": 20230608
     },
     {
-      "carryoverAmount": 655,
-      "carryover": "$655",
-      "wagertype": "Super High Five",
-      "track": "Louisiana Downs",
-      "date": "Jun 03",
-      "ndate": 20230603
+      "carryoverAmount": 1154,
+      "carryover": "$1,154",
+      "wagertype": "Pick 5",
+      "track": "Horseshoe",
+      "date": "Jun 06",
+      "ndate": 20230606
     },
     {
-      "carryoverAmount": 582,
-      "carryover": "$582",
+      "carryoverAmount": 1144,
+      "carryover": "$1,144",
       "wagertype": "Super High Five Jackpot",
       "track": "Prairie Meadows",
-      "date": "Jun 03",
-      "ndate": 20230603
+      "date": "Jun 04",
+      "ndate": 20230604
+    },
+    {
+      "carryoverAmount": 968,
+      "carryover": "$968",
+      "wagertype": "Super High Five",
+      "track": "Horseshoe",
+      "date": "Jun 06",
+      "ndate": 20230606
+    },
+    {
+      "carryoverAmount": 778,
+      "carryover": "$778",
+      "wagertype": "Super High Five",
+      "track": "Horseshoe",
+      "date": "Jun 06",
+      "ndate": 20230606
+    },
+    {
+      "carryoverAmount": 605,
+      "carryover": "$605",
+      "wagertype": "Super High Five",
+      "track": "Horseshoe",
+      "date": "Jun 06",
+      "ndate": 20230606
     },
     {
       "carryoverAmount": 497,
@@ -249,20 +249,36 @@
       "ndate": 20230604
     },
     {
-      "carryoverAmount": 451,
-      "carryover": "$451",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Woodbine",
-      "date": "Jun 03",
-      "ndate": 20230603
+      "carryoverAmount": 493,
+      "carryover": "$493",
+      "wagertype": "Pick 5",
+      "track": "Sam Houston",
+      "date": "Jun 08",
+      "ndate": 20230608
     },
     {
-      "carryoverAmount": 261,
-      "carryover": "$261",
-      "wagertype": "Pick 5",
-      "track": "Lone Star",
-      "date": "Jun 03",
-      "ndate": 20230603
+      "carryoverAmount": 432,
+      "carryover": "$432",
+      "wagertype": "Super High Five",
+      "track": "Belterra Park",
+      "date": "Jun 07",
+      "ndate": 20230607
+    },
+    {
+      "carryoverAmount": 404,
+      "carryover": "$404",
+      "wagertype": "Pick 7",
+      "track": "Fanduel",
+      "date": "Jun 06",
+      "ndate": 20230606
+    },
+    {
+      "carryoverAmount": 177,
+      "carryover": "$177",
+      "wagertype": "Pick 6",
+      "track": "Sam Houston",
+      "date": "Jun 08",
+      "ndate": 20230608
     }
   ]
 }
