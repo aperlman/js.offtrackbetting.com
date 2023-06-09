@@ -25,20 +25,28 @@
       "ndate": 20230609
     },
     {
-      "carryoverAmount": 93783,
-      "carryover": "$93,783",
+      "carryoverAmount": 102702,
+      "carryover": "$102,702",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Assiniboia",
+      "date": "Jun 12",
+      "ndate": 20230612
+    },
+    {
+      "carryoverAmount": 102200,
+      "carryover": "$102,200",
       "wagertype": "Super High Five Jackpot",
       "track": "Hawthorne",
-      "date": "Jun 08",
-      "ndate": 20230608
+      "date": "Jun 11",
+      "ndate": 20230611
     },
     {
       "carryoverAmount": 50269,
       "carryover": "$50,269",
       "wagertype": "Pick 6 Jackpot",
       "track": "Charles Town",
-      "date": "Jun 08",
-      "ndate": 20230608
+      "date": "Jun 09",
+      "ndate": 20230609
     },
     {
       "carryoverAmount": 42989,
@@ -57,6 +65,14 @@
       "ndate": 20230609
     },
     {
+      "carryoverAmount": 28379,
+      "carryover": "$28,379",
+      "wagertype": "Pick 5",
+      "track": "Belterra Park",
+      "date": "Jun 09",
+      "ndate": 20230609
+    },
+    {
       "carryoverAmount": 21268,
       "carryover": "$21,268",
       "wagertype": "Pick 6 Jackpot",
@@ -69,16 +85,16 @@
       "carryover": "$9,501",
       "wagertype": "Super High Five Jackpot",
       "track": "Woodbine",
-      "date": "Jun 08",
-      "ndate": 20230608
+      "date": "Jun 09",
+      "ndate": 20230609
     },
     {
-      "carryoverAmount": 9114,
-      "carryover": "$9,114",
-      "wagertype": "Super High Five",
-      "track": "Horseshoe",
-      "date": "Jun 08",
-      "ndate": 20230608
+      "carryoverAmount": 9091,
+      "carryover": "$9,091",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Fort Erie",
+      "date": "Jun 12",
+      "ndate": 20230612
     },
     {
       "carryoverAmount": 8749,
@@ -93,8 +109,24 @@
       "carryover": "$7,469",
       "wagertype": "Pick 6 Jackpot",
       "track": "Woodbine",
-      "date": "Jun 08",
-      "ndate": 20230608
+      "date": "Jun 09",
+      "ndate": 20230609
+    },
+    {
+      "carryoverAmount": 7172,
+      "carryover": "$7,172",
+      "wagertype": "Pick 5",
+      "track": "Sam Houston",
+      "date": "Jun 09",
+      "ndate": 20230609
+    },
+    {
+      "carryoverAmount": 7170,
+      "carryover": "$7,170",
+      "wagertype": "Super High Five",
+      "track": "Assiniboia",
+      "date": "Jun 12",
+      "ndate": 20230612
     },
     {
       "carryoverAmount": 6882,
@@ -103,14 +135,6 @@
       "track": "Gulfstream Park",
       "date": "Jun 09",
       "ndate": 20230609
-    },
-    {
-      "carryoverAmount": 4266,
-      "carryover": "$4,266",
-      "wagertype": "Pick 5",
-      "track": "Belterra Park",
-      "date": "Jun 08",
-      "ndate": 20230608
     },
     {
       "carryoverAmount": 2722,
@@ -145,22 +169,6 @@
       "ndate": 20230609
     },
     {
-      "carryoverAmount": 2004,
-      "carryover": "$2,004",
-      "wagertype": "Pick 5",
-      "track": "Sam Houston",
-      "date": "Jun 08",
-      "ndate": 20230608
-    },
-    {
-      "carryoverAmount": 1264,
-      "carryover": "$1,264",
-      "wagertype": "Super High Five",
-      "track": "Belterra Park",
-      "date": "Jun 08",
-      "ndate": 20230608
-    },
-    {
       "carryoverAmount": 858,
       "carryover": "$858",
       "wagertype": "Pick 6 Jackpot",
@@ -169,12 +177,12 @@
       "ndate": 20230610
     },
     {
-      "carryoverAmount": 493,
-      "carryover": "$493",
+      "carryoverAmount": 702,
+      "carryover": "$702",
       "wagertype": "Pick 5",
-      "track": "Sam Houston",
-      "date": "Jun 08",
-      "ndate": 20230608
+      "track": "Lone Star",
+      "date": "Jun 09",
+      "ndate": 20230609
     },
     {
       "carryoverAmount": 404,
@@ -185,12 +193,12 @@
       "ndate": 20230610
     },
     {
-      "carryoverAmount": 177,
-      "carryover": "$177",
-      "wagertype": "Pick 6",
-      "track": "Sam Houston",
-      "date": "Jun 08",
-      "ndate": 20230608
+      "carryoverAmount": 151,
+      "carryover": "$151",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Lone Star",
+      "date": "Jun 09",
+      "ndate": 20230609
     }
   ]
 }
