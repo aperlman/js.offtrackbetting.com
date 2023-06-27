@@ -1,28 +1,28 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 483946,
-      "carryover": "$483,946",
+      "carryoverAmount": 528183,
+      "carryover": "$528,183",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Jun 26",
-      "ndate": 20230626
+      "date": "Jun 27",
+      "ndate": 20230627
     },
     {
-      "carryoverAmount": 465346,
-      "carryover": "$465,346",
+      "carryoverAmount": 502741,
+      "carryover": "$502,741",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Jun 26",
-      "ndate": 20230626
+      "date": "Jun 27",
+      "ndate": 20230627
     },
     {
-      "carryoverAmount": 206914,
-      "carryover": "$206,914",
+      "carryoverAmount": 223195,
+      "carryover": "$223,195",
       "wagertype": "Pick 5 Jackpot",
       "track": "Assiniboia",
-      "date": "Jun 26",
-      "ndate": 20230626
+      "date": "Jun 27",
+      "ndate": 20230627
     },
     {
       "carryoverAmount": 149054,
@@ -65,20 +65,20 @@
       "ndate": 20230629
     },
     {
+      "carryoverAmount": 40046,
+      "carryover": "$40,046",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Prairie Meadows",
+      "date": "Jun 30",
+      "ndate": 20230630
+    },
+    {
       "carryoverAmount": 31465,
       "carryover": "$31,465",
       "wagertype": "Pick 6 Jackpot",
       "track": "Monmouth Park",
       "date": "Jun 30",
       "ndate": 20230630
-    },
-    {
-      "carryoverAmount": 31359,
-      "carryover": "$31,359",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Prairie Meadows",
-      "date": "Jun 26",
-      "ndate": 20230626
     },
     {
       "carryoverAmount": 26710,
@@ -89,20 +89,12 @@
       "ndate": 20230630
     },
     {
-      "carryoverAmount": 18613,
-      "carryover": "$18,613",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Fort Erie",
-      "date": "Jun 26",
-      "ndate": 20230626
-    },
-    {
-      "carryoverAmount": 15882,
-      "carryover": "$15,882",
+      "carryoverAmount": 17707,
+      "carryover": "$17,707",
       "wagertype": "Super High Five Jackpot",
       "track": "Prairie Meadows",
-      "date": "Jun 26",
-      "ndate": 20230626
+      "date": "Jun 30",
+      "ndate": 20230630
     },
     {
       "carryoverAmount": 14091,
@@ -113,20 +105,20 @@
       "ndate": 20230629
     },
     {
+      "carryoverAmount": 13372,
+      "carryover": "$13,372",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Thistledown",
+      "date": "Jun 27",
+      "ndate": 20230627
+    },
+    {
       "carryoverAmount": 13177,
       "carryover": "$13,177",
       "wagertype": "Pick 6 Jackpot",
       "track": "Charles Town",
       "date": "Jun 29",
       "ndate": 20230629
-    },
-    {
-      "carryoverAmount": 12114,
-      "carryover": "$12,114",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Thistledown",
-      "date": "Jun 26",
-      "ndate": 20230626
     },
     {
       "carryoverAmount": 11438,
@@ -161,28 +153,12 @@
       "ndate": 20230630
     },
     {
-      "carryoverAmount": 3864,
-      "carryover": "$3,864",
-      "wagertype": "Pick 4",
-      "track": "Louisiana Downs",
-      "date": "Jun 26",
-      "ndate": 20230626
-    },
-    {
       "carryoverAmount": 3601,
       "carryover": "$3,601",
       "wagertype": "Super High Five",
       "track": "Horseshoe",
       "date": "Jun 27",
       "ndate": 20230627
-    },
-    {
-      "carryoverAmount": 2886,
-      "carryover": "$2,886",
-      "wagertype": "Pick 5",
-      "track": "Louisiana Downs",
-      "date": "Jun 26",
-      "ndate": 20230626
     },
     {
       "carryoverAmount": 2358,
@@ -193,36 +169,12 @@
       "ndate": 20230628
     },
     {
-      "carryoverAmount": 1149,
-      "carryover": "$1,149",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Louisiana Downs",
-      "date": "Jun 26",
-      "ndate": 20230626
-    },
-    {
-      "carryoverAmount": 852,
-      "carryover": "$852",
-      "wagertype": "Super High Five",
-      "track": "Louisiana Downs",
-      "date": "Jun 26",
-      "ndate": 20230626
-    },
-    {
       "carryoverAmount": 510,
       "carryover": "$510",
       "wagertype": "Pick 5",
       "track": "Lone Star",
       "date": "Jul 01",
       "ndate": 20230701
-    },
-    {
-      "carryoverAmount": 263,
-      "carryover": "$263",
-      "wagertype": "Pick 5",
-      "track": "Arapahoe",
-      "date": "Jun 26",
-      "ndate": 20230626
     }
   ]
 }
