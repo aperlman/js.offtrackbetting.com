@@ -1,6 +1,22 @@
 {
   "carryovers": [
     {
+      "carryoverAmount": 337109,
+      "carryover": "$337,109",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Assiniboia",
+      "date": "Jul 10",
+      "ndate": 20230710
+    },
+    {
+      "carryoverAmount": 139110,
+      "carryover": "$139,110",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Hawthorne",
+      "date": "Jul 09",
+      "ndate": 20230709
+    },
+    {
       "carryoverAmount": 138216,
       "carryover": "$138,216",
       "wagertype": "Pick 6",
@@ -57,12 +73,12 @@
       "ndate": 20230707
     },
     {
-      "carryoverAmount": 32681,
-      "carryover": "$32,681",
+      "carryoverAmount": 30784,
+      "carryover": "$30,784",
       "wagertype": "Pick 6 Jackpot",
-      "track": "Woodbine",
-      "date": "Jul 06",
-      "ndate": 20230706
+      "track": "Charles Town",
+      "date": "Jul 07",
+      "ndate": 20230707
     },
     {
       "carryoverAmount": 26544,
@@ -71,14 +87,6 @@
       "track": "Prairie Meadows",
       "date": "Jul 07",
       "ndate": 20230707
-    },
-    {
-      "carryoverAmount": 25444,
-      "carryover": "$25,444",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Charles Town",
-      "date": "Jul 06",
-      "ndate": 20230706
     },
     {
       "carryoverAmount": 23086,
@@ -101,14 +109,30 @@
       "carryover": "$16,427",
       "wagertype": "Pick 6 Jackpot",
       "track": "Laurel Park",
-      "date": "Jul 06",
-      "ndate": 20230706
+      "date": "Jul 07",
+      "ndate": 20230707
     },
     {
       "carryoverAmount": 16402,
       "carryover": "$16,402",
       "wagertype": "Super High Five",
       "track": "Pleasanton",
+      "date": "Jul 07",
+      "ndate": 20230707
+    },
+    {
+      "carryoverAmount": 10505,
+      "carryover": "$10,505",
+      "wagertype": "Super High Five",
+      "track": "Belterra Park",
+      "date": "Jul 07",
+      "ndate": 20230707
+    },
+    {
+      "carryoverAmount": 9187,
+      "carryover": "$9,187",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Penn National",
       "date": "Jul 07",
       "ndate": 20230707
     },
@@ -121,34 +145,18 @@
       "ndate": 20230707
     },
     {
-      "carryoverAmount": 8165,
-      "carryover": "$8,165",
-      "wagertype": "Super High Five Jackpot",
+      "carryoverAmount": 6147,
+      "carryover": "$6,147",
+      "wagertype": "Pick 5",
       "track": "Penn National",
-      "date": "Jul 06",
-      "ndate": 20230706
+      "date": "Jul 07",
+      "ndate": 20230707
     },
     {
-      "carryoverAmount": 3541,
-      "carryover": "$3,541",
-      "wagertype": "Super High Five",
-      "track": "Horseshoe",
-      "date": "Jul 06",
-      "ndate": 20230706
-    },
-    {
-      "carryoverAmount": 3417,
-      "carryover": "$3,417",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Thistledown",
-      "date": "Jul 06",
-      "ndate": 20230706
-    },
-    {
-      "carryoverAmount": 2961,
-      "carryover": "$2,961",
-      "wagertype": "Superfecta",
-      "track": "Century Mile",
+      "carryoverAmount": 4676,
+      "carryover": "$4,676",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Woodbine",
       "date": "Jul 07",
       "ndate": 20230707
     },
