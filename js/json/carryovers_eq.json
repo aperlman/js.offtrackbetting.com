@@ -1,6 +1,14 @@
 {
   "carryovers": [
     {
+      "carryoverAmount": 392123,
+      "carryover": "$392,123",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Assiniboia",
+      "date": "Jul 17",
+      "ndate": 20230717
+    },
+    {
       "carryoverAmount": 237015,
       "carryover": "$237,015",
       "wagertype": "Pick 5 Jackpot",
@@ -15,6 +23,14 @@
       "track": "Parx Racing",
       "date": "Jul 17",
       "ndate": 20230717
+    },
+    {
+      "carryoverAmount": 109630,
+      "carryover": "$109,630",
+      "wagertype": "Pick 6",
+      "track": "Saratoga",
+      "date": "Jul 14",
+      "ndate": 20230714
     },
     {
       "carryoverAmount": 87645,
@@ -33,28 +49,36 @@
       "ndate": 20230714
     },
     {
-      "carryoverAmount": 44495,
-      "carryover": "$44,495",
+      "carryoverAmount": 49787,
+      "carryover": "$49,787",
       "wagertype": "Pick 6 Jackpot",
       "track": "Charles Town",
-      "date": "Jul 13",
-      "ndate": 20230713
+      "date": "Jul 14",
+      "ndate": 20230714
     },
     {
-      "carryoverAmount": 31561,
-      "carryover": "$31,561",
+      "carryoverAmount": 39009,
+      "carryover": "$39,009",
       "wagertype": "Super High Five Jackpot",
       "track": "Woodbine",
-      "date": "Jul 13",
-      "ndate": 20230713
+      "date": "Jul 14",
+      "ndate": 20230714
     },
     {
-      "carryoverAmount": 26505,
-      "carryover": "$26,505",
+      "carryoverAmount": 32909,
+      "carryover": "$32,909",
       "wagertype": "Pick 6 Jackpot",
       "track": "Woodbine",
-      "date": "Jul 13",
-      "ndate": 20230713
+      "date": "Jul 14",
+      "ndate": 20230714
+    },
+    {
+      "carryoverAmount": 26406,
+      "carryover": "$26,406",
+      "wagertype": "Pick 5",
+      "track": "Colonial Downs",
+      "date": "Jul 14",
+      "ndate": 20230714
     },
     {
       "carryoverAmount": 25116,
@@ -63,6 +87,14 @@
       "track": "Fanduel",
       "date": "Jul 15",
       "ndate": 20230715
+    },
+    {
+      "carryoverAmount": 24911,
+      "carryover": "$24,911",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Fort Erie",
+      "date": "Jul 16",
+      "ndate": 20230716
     },
     {
       "carryoverAmount": 22223,
@@ -81,26 +113,42 @@
       "ndate": 20230714
     },
     {
-      "carryoverAmount": 10387,
-      "carryover": "$10,387",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Penn National",
-      "date": "Jul 13",
-      "ndate": 20230713
+      "carryoverAmount": 15777,
+      "carryover": "$15,777",
+      "wagertype": "Super High Five",
+      "track": "Belterra Park",
+      "date": "Jul 14",
+      "ndate": 20230714
     },
     {
-      "carryoverAmount": 3431,
-      "carryover": "$3,431",
+      "carryoverAmount": 11349,
+      "carryover": "$11,349",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Penn National",
+      "date": "Jul 14",
+      "ndate": 20230714
+    },
+    {
+      "carryoverAmount": 9783,
+      "carryover": "$9,783",
       "wagertype": "Super High Five",
-      "track": "Horseshoe",
-      "date": "Jul 13",
-      "ndate": 20230713
+      "track": "Assiniboia",
+      "date": "Jul 17",
+      "ndate": 20230717
     },
     {
       "carryoverAmount": 3177,
       "carryover": "$3,177",
       "wagertype": "Superfecta",
       "track": "Century Mile",
+      "date": "Jul 14",
+      "ndate": 20230714
+    },
+    {
+      "carryoverAmount": 3088,
+      "carryover": "$3,088",
+      "wagertype": "Pick 6",
+      "track": "Colonial Downs",
       "date": "Jul 14",
       "ndate": 20230714
     },
@@ -137,12 +185,12 @@
       "ndate": 20230717
     },
     {
-      "carryoverAmount": 1153,
-      "carryover": "$1,153",
-      "wagertype": "Pick 5",
-      "track": "Belterra Park",
-      "date": "Jul 13",
-      "ndate": 20230713
+      "carryoverAmount": 1197,
+      "carryover": "$1,197",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Thistledown",
+      "date": "Jul 17",
+      "ndate": 20230717
     },
     {
       "carryoverAmount": 1092,
@@ -151,14 +199,6 @@
       "track": "Century Mile",
       "date": "Jul 14",
       "ndate": 20230714
-    },
-    {
-      "carryoverAmount": 524,
-      "carryover": "$524",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Thistledown",
-      "date": "Jul 13",
-      "ndate": 20230713
     },
     {
       "carryoverAmount": 489,
