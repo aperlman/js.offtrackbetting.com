@@ -1,12 +1,12 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 542945,
-      "carryover": "$542,945",
+      "carryoverAmount": 569464,
+      "carryover": "$569,464",
       "wagertype": "Pick 5 Jackpot",
       "track": "Assiniboia",
-      "date": "Aug 01",
-      "ndate": 20230801
+      "date": "Aug 02",
+      "ndate": 20230802
     },
     {
       "carryoverAmount": 227436,
@@ -41,22 +41,6 @@
       "ndate": 20230802
     },
     {
-      "carryoverAmount": 38086,
-      "carryover": "$38,086",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Fort Erie",
-      "date": "Aug 01",
-      "ndate": 20230801
-    },
-    {
-      "carryoverAmount": 20328,
-      "carryover": "$20,328",
-      "wagertype": "Pick 5",
-      "track": "Finger Lakes",
-      "date": "Aug 01",
-      "ndate": 20230801
-    },
-    {
       "carryoverAmount": 16028,
       "carryover": "$16,028",
       "wagertype": "Super High Five Jackpot",
@@ -73,6 +57,14 @@
       "ndate": 20230804
     },
     {
+      "carryoverAmount": 10420,
+      "carryover": "$10,420",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Thistledown",
+      "date": "Aug 02",
+      "ndate": 20230802
+    },
+    {
       "carryoverAmount": 10229,
       "carryover": "$10,229",
       "wagertype": "Pick 6 Jackpot",
@@ -81,20 +73,20 @@
       "ndate": 20230803
     },
     {
-      "carryoverAmount": 9396,
-      "carryover": "$9,396",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Thistledown",
-      "date": "Aug 01",
-      "ndate": 20230801
-    },
-    {
       "carryoverAmount": 8016,
       "carryover": "$8,016",
       "wagertype": "Pick 6 Jackpot",
       "track": "Laurel Park",
       "date": "Aug 03",
       "ndate": 20230803
+    },
+    {
+      "carryoverAmount": 7811,
+      "carryover": "$7,811",
+      "wagertype": "Pick 5",
+      "track": "Hastings",
+      "date": "Aug 04",
+      "ndate": 20230804
     },
     {
       "carryoverAmount": 6664,
@@ -109,6 +101,14 @@
       "carryover": "$6,643",
       "wagertype": "Pick 5 Jackpot",
       "track": "Prairie Meadows",
+      "date": "Aug 04",
+      "ndate": 20230804
+    },
+    {
+      "carryoverAmount": 5563,
+      "carryover": "$5,563",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Century Mile",
       "date": "Aug 04",
       "ndate": 20230804
     },
@@ -129,44 +129,36 @@
       "ndate": 20230805
     },
     {
-      "carryoverAmount": 1915,
-      "carryover": "$1,915",
-      "wagertype": "Super High Five",
-      "track": "Ellis Park",
-      "date": "Aug 01",
-      "ndate": 20230801
-    },
-    {
-      "carryoverAmount": 1630,
-      "carryover": "$1,630",
-      "wagertype": "Super High Five",
-      "track": "Horseshoe",
-      "date": "Aug 01",
-      "ndate": 20230801
-    },
-    {
-      "carryoverAmount": 1515,
-      "carryover": "$1,515",
-      "wagertype": "Pick 7",
-      "track": "Fanduel",
-      "date": "Aug 01",
-      "ndate": 20230801
-    },
-    {
-      "carryoverAmount": 1430,
-      "carryover": "$1,430",
-      "wagertype": "Super High Five",
-      "track": "Horseshoe",
-      "date": "Aug 01",
-      "ndate": 20230801
-    },
-    {
-      "carryoverAmount": 1363,
-      "carryover": "$1,363",
+      "carryoverAmount": 3974,
+      "carryover": "$3,974",
       "wagertype": "Pick 6",
       "track": "Finger Lakes",
-      "date": "Aug 01",
-      "ndate": 20230801
+      "date": "Aug 02",
+      "ndate": 20230802
+    },
+    {
+      "carryoverAmount": 3205,
+      "carryover": "$3,205",
+      "wagertype": "Pick 7",
+      "track": "Fanduel",
+      "date": "Aug 05",
+      "ndate": 20230805
+    },
+    {
+      "carryoverAmount": 3184,
+      "carryover": "$3,184",
+      "wagertype": "Super High Five",
+      "track": "Century Mile",
+      "date": "Aug 04",
+      "ndate": 20230804
+    },
+    {
+      "carryoverAmount": 2325,
+      "carryover": "$2,325",
+      "wagertype": "Super High Five",
+      "track": "Horseshoe",
+      "date": "Aug 02",
+      "ndate": 20230802
     },
     {
       "carryoverAmount": 1058,
@@ -185,12 +177,12 @@
       "ndate": 20230804
     },
     {
-      "carryoverAmount": 603,
-      "carryover": "$603",
+      "carryoverAmount": 907,
+      "carryover": "$907",
       "wagertype": "Super High Five",
-      "track": "Horseshoe",
-      "date": "Aug 01",
-      "ndate": 20230801
+      "track": "Belterra Park",
+      "date": "Aug 02",
+      "ndate": 20230802
     },
     {
       "carryoverAmount": 311,
