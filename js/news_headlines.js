@@ -55,28 +55,3 @@ $(document).ready( function () {
       $("#jcarousel_news_headlines").show();
     });
 }); // $(document).ready()
-
-// RIGHT COLUMN BUTTONS
-function loadRightColButtons() {
-  $.getJSON({
-    url: 'https://json.offtrackbetting.com/news/right_col_buttons.json',
-    crossDomain: true
-  })
-    .done(function (data) {
-      // turn the template into a string
-      var $template = $("#right-col-buttons template").html();
-      $("#right-col-buttons template").remove();
-
-      $(data.entries).each((idx, story) => {
-        // copy template - sans reference
-        var clone = (' ' + $template).slice(1)
-          .replace("[story.title]", story.title)
-          .replace("[story.url]", story.url)
-          .replace("[story.color]", story.color)
-          .replace("[story.location]", story.location);
-
-        $("#right-col-buttons ul").append(clone);
-      });
-      $("#right-col-buttons").show();
-    });
-  }
