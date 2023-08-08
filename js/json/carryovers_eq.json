@@ -1,14 +1,6 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 597143,
-      "carryover": "$597,143",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Assiniboia",
-      "date": "Aug 07",
-      "ndate": 20230807
-    },
-    {
       "carryoverAmount": 283763,
       "carryover": "$283,763",
       "wagertype": "Super High Five Jackpot",
@@ -31,14 +23,6 @@
       "track": "Del Mar",
       "date": "Aug 10",
       "ndate": 20230810
-    },
-    {
-      "carryoverAmount": 41898,
-      "carryover": "$41,898",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Fort Erie",
-      "date": "Aug 07",
-      "ndate": 20230807
     },
     {
       "carryoverAmount": 30334,
@@ -65,6 +49,22 @@
       "ndate": 20230811
     },
     {
+      "carryoverAmount": 23094,
+      "carryover": "$23,094",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Prairie Meadows",
+      "date": "Aug 11",
+      "ndate": 20230811
+    },
+    {
+      "carryoverAmount": 22384,
+      "carryover": "$22,384",
+      "wagertype": "Super High Five",
+      "track": "Assiniboia",
+      "date": "Aug 08",
+      "ndate": 20230808
+    },
+    {
       "carryoverAmount": 21811,
       "carryover": "$21,811",
       "wagertype": "Pick 6 Jackpot",
@@ -73,28 +73,20 @@
       "ndate": 20230810
     },
     {
-      "carryoverAmount": 17263,
-      "carryover": "$17,263",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Prairie Meadows",
-      "date": "Aug 07",
-      "ndate": 20230807
-    },
-    {
-      "carryoverAmount": 12235,
-      "carryover": "$12,235",
+      "carryoverAmount": 13692,
+      "carryover": "$13,692",
       "wagertype": "Pick 6 Jackpot",
       "track": "Thistledown",
-      "date": "Aug 07",
-      "ndate": 20230807
+      "date": "Aug 08",
+      "ndate": 20230808
     },
     {
-      "carryoverAmount": 9589,
-      "carryover": "$9,589",
+      "carryoverAmount": 11725,
+      "carryover": "$11,725",
       "wagertype": "Super High Five Jackpot",
       "track": "Prairie Meadows",
-      "date": "Aug 07",
-      "ndate": 20230807
+      "date": "Aug 11",
+      "ndate": 20230811
     },
     {
       "carryoverAmount": 8384,
@@ -109,16 +101,8 @@
       "carryover": "$8,103",
       "wagertype": "Pick 6 Jackpot",
       "track": "Louisiana Downs",
-      "date": "Aug 07",
-      "ndate": 20230807
-    },
-    {
-      "carryoverAmount": 7632,
-      "carryover": "$7,632",
-      "wagertype": "Pick 6",
-      "track": "Finger Lakes",
-      "date": "Aug 07",
-      "ndate": 20230807
+      "date": "Aug 12",
+      "ndate": 20230812
     },
     {
       "carryoverAmount": 6676,
@@ -145,14 +129,6 @@
       "ndate": 20230808
     },
     {
-      "carryoverAmount": 4470,
-      "carryover": "$4,470",
-      "wagertype": "Super High Five",
-      "track": "Assiniboia",
-      "date": "Aug 07",
-      "ndate": 20230807
-    },
-    {
       "carryoverAmount": 3178,
       "carryover": "$3,178",
       "wagertype": "Super High Five",
@@ -167,6 +143,14 @@
       "track": "Belterra Park",
       "date": "Aug 09",
       "ndate": 20230809
+    },
+    {
+      "carryoverAmount": 1986,
+      "carryover": "$1,986",
+      "wagertype": "Super High Five",
+      "track": "Assiniboia",
+      "date": "Aug 08",
+      "ndate": 20230808
     },
     {
       "carryoverAmount": 1813,
@@ -193,12 +177,28 @@
       "ndate": 20230811
     },
     {
-      "carryoverAmount": 188,
-      "carryover": "$188",
+      "carryoverAmount": 747,
+      "carryover": "$747",
+      "wagertype": "Super High Five",
+      "track": "Mountaineer",
+      "date": "Aug 08",
+      "ndate": 20230808
+    },
+    {
+      "carryoverAmount": 520,
+      "carryover": "$520",
+      "wagertype": "Super High Five",
+      "track": "Louisiana Downs",
+      "date": "Aug 12",
+      "ndate": 20230812
+    },
+    {
+      "carryoverAmount": 258,
+      "carryover": "$258",
       "wagertype": "Pick 5",
       "track": "Arapahoe",
-      "date": "Aug 07",
-      "ndate": 20230807
+      "date": "Aug 12",
+      "ndate": 20230812
     }
   ]
 }
