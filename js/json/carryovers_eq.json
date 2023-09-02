@@ -1,20 +1,12 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 348523,
-      "carryover": "$348,523",
+      "carryoverAmount": 405172,
+      "carryover": "$405,172",
       "wagertype": "Pick 6 Jackpot",
       "track": "Del Mar",
-      "date": "Sep 01",
-      "ndate": 20230901
-    },
-    {
-      "carryoverAmount": 111630,
-      "carryover": "$111,630",
-      "wagertype": "Pick 6",
-      "track": "Saratoga",
-      "date": "Sep 01",
-      "ndate": 20230901
+      "date": "Sep 02",
+      "ndate": 20230902
     },
     {
       "carryoverAmount": 68132,
@@ -49,6 +41,22 @@
       "ndate": 20230904
     },
     {
+      "carryoverAmount": 55155,
+      "carryover": "$55,155",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Gulfstream Park",
+      "date": "Sep 02",
+      "ndate": 20230902
+    },
+    {
+      "carryoverAmount": 38451,
+      "carryover": "$38,451",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Woodbine",
+      "date": "Sep 02",
+      "ndate": 20230902
+    },
+    {
       "carryoverAmount": 36272,
       "carryover": "$36,272",
       "wagertype": "Pick 6 Jackpot",
@@ -57,20 +65,12 @@
       "ndate": 20230904
     },
     {
-      "carryoverAmount": 28213,
-      "carryover": "$28,213",
+      "carryoverAmount": 32056,
+      "carryover": "$32,056",
       "wagertype": "Pick 5 Jackpot",
       "track": "Prairie Meadows",
-      "date": "Sep 01",
-      "ndate": 20230901
-    },
-    {
-      "carryoverAmount": 28000,
-      "carryover": "$28,000",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Woodbine",
-      "date": "Sep 01",
-      "ndate": 20230901
+      "date": "Sep 02",
+      "ndate": 20230902
     },
     {
       "carryoverAmount": 24931,
@@ -81,20 +81,20 @@
       "ndate": 20230902
     },
     {
-      "carryoverAmount": 23873,
-      "carryover": "$23,873",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Woodbine",
-      "date": "Sep 01",
-      "ndate": 20230901
-    },
-    {
-      "carryoverAmount": 13336,
-      "carryover": "$13,336",
+      "carryoverAmount": 14493,
+      "carryover": "$14,493",
       "wagertype": "Super High Five Jackpot",
       "track": "Penn National",
-      "date": "Sep 01",
-      "ndate": 20230901
+      "date": "Sep 06",
+      "ndate": 20230906
+    },
+    {
+      "carryoverAmount": 7962,
+      "carryover": "$7,962",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Charles Town",
+      "date": "Sep 02",
+      "ndate": 20230902
     },
     {
       "carryoverAmount": 7247,
@@ -113,12 +113,12 @@
       "ndate": 20230902
     },
     {
-      "carryoverAmount": 5321,
-      "carryover": "$5,321",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Charles Town",
-      "date": "Sep 01",
-      "ndate": 20230901
+      "carryoverAmount": 2253,
+      "carryover": "$2,253",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Prairie Meadows",
+      "date": "Sep 02",
+      "ndate": 20230902
     },
     {
       "carryoverAmount": 2185,
@@ -145,10 +145,26 @@
       "ndate": 20230902
     },
     {
+      "carryoverAmount": 1305,
+      "carryover": "$1,305",
+      "wagertype": "Pick 6",
+      "track": "Colonial Downs",
+      "date": "Sep 02",
+      "ndate": 20230902
+    },
+    {
       "carryoverAmount": 1054,
       "carryover": "$1,054",
       "wagertype": "Super High Five",
       "track": "Golden Gate",
+      "date": "Sep 02",
+      "ndate": 20230902
+    },
+    {
+      "carryoverAmount": 727,
+      "carryover": "$727",
+      "wagertype": "Super High Five",
+      "track": "Belterra Park",
       "date": "Sep 02",
       "ndate": 20230902
     },
@@ -161,28 +177,12 @@
       "ndate": 20230903
     },
     {
-      "carryoverAmount": 481,
-      "carryover": "$481",
-      "wagertype": "Super High Five",
-      "track": "Retama Park",
-      "date": "Sep 01",
-      "ndate": 20230901
-    },
-    {
       "carryoverAmount": 473,
       "carryover": "$473",
       "wagertype": "Super High Five",
       "track": "Golden Gate",
       "date": "Sep 02",
       "ndate": 20230902
-    },
-    {
-      "carryoverAmount": 439,
-      "carryover": "$439",
-      "wagertype": "Pick 6",
-      "track": "Colonial Downs",
-      "date": "Sep 01",
-      "ndate": 20230901
     },
     {
       "carryoverAmount": 269,
