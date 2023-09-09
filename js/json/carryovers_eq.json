@@ -1,20 +1,20 @@
 {
   "carryovers": [
     {
+      "carryoverAmount": 157189,
+      "carryover": "$157,189",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Del Mar",
+      "date": "Sep 09",
+      "ndate": 20230909
+    },
+    {
       "carryoverAmount": 124729,
       "carryover": "$124,729",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
       "date": "Sep 11",
       "ndate": 20230911
-    },
-    {
-      "carryoverAmount": 117716,
-      "carryover": "$117,716",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Del Mar",
-      "date": "Sep 08",
-      "ndate": 20230908
     },
     {
       "carryoverAmount": 114496,
@@ -25,12 +25,12 @@
       "ndate": 20230911
     },
     {
-      "carryoverAmount": 88126,
-      "carryover": "$88,126",
+      "carryoverAmount": 109328,
+      "carryover": "$109,328",
       "wagertype": "Super High Five Jackpot",
       "track": "Woodbine",
-      "date": "Sep 08",
-      "ndate": 20230908
+      "date": "Sep 09",
+      "ndate": 20230909
     },
     {
       "carryoverAmount": 75069,
@@ -41,12 +41,12 @@
       "ndate": 20230911
     },
     {
-      "carryoverAmount": 44683,
-      "carryover": "$44,683",
+      "carryoverAmount": 48094,
+      "carryover": "$48,094",
       "wagertype": "Pick 5 Jackpot",
       "track": "Prairie Meadows",
-      "date": "Sep 08",
-      "ndate": 20230908
+      "date": "Sep 09",
+      "ndate": 20230909
     },
     {
       "carryoverAmount": 40392,
@@ -65,12 +65,28 @@
       "ndate": 20230909
     },
     {
-      "carryoverAmount": 17574,
-      "carryover": "$17,574",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Penn National",
-      "date": "Sep 08",
-      "ndate": 20230908
+      "carryoverAmount": 26013,
+      "carryover": "$26,013",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Woodbine",
+      "date": "Sep 09",
+      "ndate": 20230909
+    },
+    {
+      "carryoverAmount": 18440,
+      "carryover": "$18,440",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Charles Town",
+      "date": "Sep 09",
+      "ndate": 20230909
+    },
+    {
+      "carryoverAmount": 17614,
+      "carryover": "$17,614",
+      "wagertype": "Super High Five",
+      "track": "Del Mar",
+      "date": "Sep 09",
+      "ndate": 20230909
     },
     {
       "carryoverAmount": 15757,
@@ -81,20 +97,12 @@
       "ndate": 20230909
     },
     {
-      "carryoverAmount": 15340,
-      "carryover": "$15,340",
+      "carryoverAmount": 10752,
+      "carryover": "$10,752",
       "wagertype": "Pick 6 Jackpot",
-      "track": "Woodbine",
-      "date": "Sep 08",
-      "ndate": 20230908
-    },
-    {
-      "carryoverAmount": 14516,
-      "carryover": "$14,516",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Charles Town",
-      "date": "Sep 08",
-      "ndate": 20230908
+      "track": "Gulfstream Park",
+      "date": "Sep 09",
+      "ndate": 20230909
     },
     {
       "carryoverAmount": 8773,
@@ -105,12 +113,12 @@
       "ndate": 20230909
     },
     {
-      "carryoverAmount": 5579,
-      "carryover": "$5,579",
-      "wagertype": "Pick 5",
-      "track": "Penn National",
-      "date": "Sep 08",
-      "ndate": 20230908
+      "carryoverAmount": 6331,
+      "carryover": "$6,331",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Sep 09",
+      "ndate": 20230909
     },
     {
       "carryoverAmount": 5579,
@@ -129,20 +137,36 @@
       "ndate": 20230911
     },
     {
+      "carryoverAmount": 3509,
+      "carryover": "$3,509",
+      "wagertype": "Pick 6",
+      "track": "Colonial Downs",
+      "date": "Sep 09",
+      "ndate": 20230909
+    },
+    {
+      "carryoverAmount": 3124,
+      "carryover": "$3,124",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Pimlico",
+      "date": "Sep 09",
+      "ndate": 20230909
+    },
+    {
+      "carryoverAmount": 3088,
+      "carryover": "$3,088",
+      "wagertype": "Super High Five",
+      "track": "Horseshoe",
+      "date": "Sep 11",
+      "ndate": 20230911
+    },
+    {
       "carryoverAmount": 2926,
       "carryover": "$2,926",
       "wagertype": "Pick 6 Jackpot",
       "track": "Monmouth Park",
       "date": "Sep 09",
       "ndate": 20230909
-    },
-    {
-      "carryoverAmount": 2373,
-      "carryover": "$2,373",
-      "wagertype": "Super High Five",
-      "track": "Horseshoe",
-      "date": "Sep 08",
-      "ndate": 20230908
     },
     {
       "carryoverAmount": 2278,
@@ -161,10 +185,66 @@
       "ndate": 20230909
     },
     {
+      "carryoverAmount": 2187,
+      "carryover": "$2,187",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Sep 09",
+      "ndate": 20230909
+    },
+    {
       "carryoverAmount": 2163,
       "carryover": "$2,163",
       "wagertype": "Pick 6 Jackpot",
       "track": "Louisiana Downs",
+      "date": "Sep 09",
+      "ndate": 20230909
+    },
+    {
+      "carryoverAmount": 2097,
+      "carryover": "$2,097",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Prairie Meadows",
+      "date": "Sep 09",
+      "ndate": 20230909
+    },
+    {
+      "carryoverAmount": 1342,
+      "carryover": "$1,342",
+      "wagertype": "Super High Five",
+      "track": "Pimlico",
+      "date": "Sep 09",
+      "ndate": 20230909
+    },
+    {
+      "carryoverAmount": 1100,
+      "carryover": "$1,100",
+      "wagertype": "Super High Five",
+      "track": "Belterra Park",
+      "date": "Sep 09",
+      "ndate": 20230909
+    },
+    {
+      "carryoverAmount": 609,
+      "carryover": "$609",
+      "wagertype": "Pick 5",
+      "track": "Belterra Park",
+      "date": "Sep 09",
+      "ndate": 20230909
+    },
+    {
+      "carryoverAmount": 342,
+      "carryover": "$342",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Lone Star",
+      "date": "Sep 09",
+      "ndate": 20230909
+    },
+    {
+      "carryoverAmount": 248,
+      "carryover": "$248",
+      "wagertype": "Pick 6",
+      "track": "Lone Star",
       "date": "Sep 09",
       "ndate": 20230909
     },
