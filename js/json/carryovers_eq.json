@@ -1,12 +1,20 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 152771,
-      "carryover": "$152,771",
+      "carryoverAmount": 179987,
+      "carryover": "$179,987",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Sep 12",
-      "ndate": 20230912
+      "date": "Sep 13",
+      "ndate": 20230913
+    },
+    {
+      "carryoverAmount": 166691,
+      "carryover": "$166,691",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Parx Racing",
+      "date": "Sep 13",
+      "ndate": 20230913
     },
     {
       "carryoverAmount": 147146,
@@ -17,20 +25,12 @@
       "ndate": 20230914
     },
     {
-      "carryoverAmount": 139552,
-      "carryover": "$139,552",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Parx Racing",
-      "date": "Sep 12",
-      "ndate": 20230912
-    },
-    {
-      "carryoverAmount": 87632,
-      "carryover": "$87,632",
+      "carryoverAmount": 101275,
+      "carryover": "$101,275",
       "wagertype": "Pick 5 Jackpot",
       "track": "Assiniboia",
-      "date": "Sep 12",
-      "ndate": 20230912
+      "date": "Sep 13",
+      "ndate": 20230913
     },
     {
       "carryoverAmount": 60829,
@@ -41,12 +41,12 @@
       "ndate": 20230915
     },
     {
-      "carryoverAmount": 41190,
-      "carryover": "$41,190",
+      "carryoverAmount": 42257,
+      "carryover": "$42,257",
       "wagertype": "Pick 6 Jackpot",
       "track": "Thistledown",
-      "date": "Sep 12",
-      "ndate": 20230912
+      "date": "Sep 13",
+      "ndate": 20230913
     },
     {
       "carryoverAmount": 37734,
@@ -65,14 +65,6 @@
       "ndate": 20230916
     },
     {
-      "carryoverAmount": 22201,
-      "carryover": "$22,201",
-      "wagertype": "Pick 5",
-      "track": "Finger Lakes",
-      "date": "Sep 12",
-      "ndate": 20230912
-    },
-    {
       "carryoverAmount": 21769,
       "carryover": "$21,769",
       "wagertype": "Pick 6 Jackpot",
@@ -81,20 +73,12 @@
       "ndate": 20230914
     },
     {
-      "carryoverAmount": 15213,
-      "carryover": "$15,213",
+      "carryoverAmount": 7358,
+      "carryover": "$7,358",
       "wagertype": "Super High Five",
       "track": "Assiniboia",
-      "date": "Sep 12",
-      "ndate": 20230912
-    },
-    {
-      "carryoverAmount": 8111,
-      "carryover": "$8,111",
-      "wagertype": "Pick 6",
-      "track": "Finger Lakes",
-      "date": "Sep 12",
-      "ndate": 20230912
+      "date": "Sep 13",
+      "ndate": 20230913
     },
     {
       "carryoverAmount": 6061,
@@ -105,12 +89,28 @@
       "ndate": 20230913
     },
     {
-      "carryoverAmount": 1660,
-      "carryover": "$1,660",
+      "carryoverAmount": 3092,
+      "carryover": "$3,092",
       "wagertype": "Super High Five",
       "track": "Horseshoe",
-      "date": "Sep 12",
-      "ndate": 20230912
+      "date": "Sep 13",
+      "ndate": 20230913
+    },
+    {
+      "carryoverAmount": 2964,
+      "carryover": "$2,964",
+      "wagertype": "Pick 5",
+      "track": "Presque Isle",
+      "date": "Sep 13",
+      "ndate": 20230913
+    },
+    {
+      "carryoverAmount": 2390,
+      "carryover": "$2,390",
+      "wagertype": "Super High Five",
+      "track": "Assiniboia",
+      "date": "Sep 13",
+      "ndate": 20230913
     },
     {
       "carryoverAmount": 1443,
@@ -137,12 +137,12 @@
       "ndate": 20230914
     },
     {
-      "carryoverAmount": 260,
-      "carryover": "$260",
-      "wagertype": "Super High Five",
-      "track": "Louisiana Downs",
-      "date": "Sep 12",
-      "ndate": 20230912
+      "carryoverAmount": 249,
+      "carryover": "$249",
+      "wagertype": "Pick 7",
+      "track": "Fanduel",
+      "date": "Sep 16",
+      "ndate": 20230916
     }
   ]
 }
