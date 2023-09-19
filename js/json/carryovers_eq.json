@@ -1,28 +1,36 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 179987,
-      "carryover": "$179,987",
+      "carryoverAmount": 207750,
+      "carryover": "$207,750",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Sep 18",
-      "ndate": 20230918
+      "date": "Sep 19",
+      "ndate": 20230919
     },
     {
-      "carryoverAmount": 166691,
-      "carryover": "$166,691",
+      "carryoverAmount": 193580,
+      "carryover": "$193,580",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Sep 18",
-      "ndate": 20230918
+      "date": "Sep 19",
+      "ndate": 20230919
     },
     {
-      "carryoverAmount": 112162,
-      "carryover": "$112,162",
+      "carryoverAmount": 125562,
+      "carryover": "$125,562",
       "wagertype": "Pick 5 Jackpot",
       "track": "Assiniboia",
-      "date": "Sep 18",
-      "ndate": 20230918
+      "date": "Sep 19",
+      "ndate": 20230919
+    },
+    {
+      "carryoverAmount": 88469,
+      "carryover": "$88,469",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Prairie Meadows",
+      "date": "Sep 22",
+      "ndate": 20230922
     },
     {
       "carryoverAmount": 86515,
@@ -31,14 +39,6 @@
       "track": "Belmont At The",
       "date": "Sep 21",
       "ndate": 20230921
-    },
-    {
-      "carryoverAmount": 82801,
-      "carryover": "$82,801",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Prairie Meadows",
-      "date": "Sep 18",
-      "ndate": 20230918
     },
     {
       "carryoverAmount": 75913,
@@ -57,12 +57,20 @@
       "ndate": 20230920
     },
     {
-      "carryoverAmount": 45234,
-      "carryover": "$45,234",
+      "carryoverAmount": 46473,
+      "carryover": "$46,473",
       "wagertype": "Pick 6 Jackpot",
       "track": "Thistledown",
-      "date": "Sep 18",
-      "ndate": 20230918
+      "date": "Sep 19",
+      "ndate": 20230919
+    },
+    {
+      "carryoverAmount": 39507,
+      "carryover": "$39,507",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Golden Gate",
+      "date": "Sep 23",
+      "ndate": 20230923
     },
     {
       "carryoverAmount": 35151,
@@ -71,14 +79,6 @@
       "track": "Woodbine",
       "date": "Sep 21",
       "ndate": 20230921
-    },
-    {
-      "carryoverAmount": 34226,
-      "carryover": "$34,226",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Golden Gate",
-      "date": "Sep 18",
-      "ndate": 20230918
     },
     {
       "carryoverAmount": 15281,
@@ -105,6 +105,14 @@
       "ndate": 20230920
     },
     {
+      "carryoverAmount": 5811,
+      "carryover": "$5,811",
+      "wagertype": "Pick 5",
+      "track": "Presque Isle",
+      "date": "Sep 19",
+      "ndate": 20230919
+    },
+    {
       "carryoverAmount": 5453,
       "carryover": "$5,453",
       "wagertype": "Pick 6 Jackpot",
@@ -113,20 +121,20 @@
       "ndate": 20230922
     },
     {
-      "carryoverAmount": 5368,
-      "carryover": "$5,368",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Prairie Meadows",
-      "date": "Sep 18",
-      "ndate": 20230918
-    },
-    {
       "carryoverAmount": 2288,
       "carryover": "$2,288",
       "wagertype": "Pick 6 Jackpot",
       "track": "Charles Town",
       "date": "Sep 21",
       "ndate": 20230921
+    },
+    {
+      "carryoverAmount": 2198,
+      "carryover": "$2,198",
+      "wagertype": "Super High Five",
+      "track": "Golden Gate",
+      "date": "Sep 23",
+      "ndate": 20230923
     },
     {
       "carryoverAmount": 2135,
@@ -145,12 +153,20 @@
       "ndate": 20230921
     },
     {
-      "carryoverAmount": 1567,
-      "carryover": "$1,567",
-      "wagertype": "Pick 6",
-      "track": "Finger Lakes",
-      "date": "Sep 18",
-      "ndate": 20230918
+      "carryoverAmount": 1867,
+      "carryover": "$1,867",
+      "wagertype": "Super High Five",
+      "track": "Mountaineer",
+      "date": "Sep 19",
+      "ndate": 20230919
+    },
+    {
+      "carryoverAmount": 1372,
+      "carryover": "$1,372",
+      "wagertype": "Super High Five",
+      "track": "Golden Gate",
+      "date": "Sep 23",
+      "ndate": 20230923
     },
     {
       "carryoverAmount": 1276,
@@ -161,18 +177,18 @@
       "ndate": 20230920
     },
     {
-      "carryoverAmount": 1003,
-      "carryover": "$1,003",
-      "wagertype": "Super High Five",
-      "track": "Golden Gate",
-      "date": "Sep 18",
-      "ndate": 20230918
-    },
-    {
       "carryoverAmount": 740,
       "carryover": "$740",
       "wagertype": "Pick 7",
       "track": "Fanduel",
+      "date": "Sep 19",
+      "ndate": 20230919
+    },
+    {
+      "carryoverAmount": 554,
+      "carryover": "$554",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Fort Erie",
       "date": "Sep 19",
       "ndate": 20230919
     },
