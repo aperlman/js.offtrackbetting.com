@@ -9,12 +9,12 @@
       "ndate": 20230929
     },
     {
-      "carryoverAmount": 118596,
-      "carryover": "$118,596",
+      "carryoverAmount": 124333,
+      "carryover": "$124,333",
       "wagertype": "Pick 6 Jackpot",
       "track": "Churchill Downs",
-      "date": "Sep 28",
-      "ndate": 20230928
+      "date": "Sep 29",
+      "ndate": 20230929
     },
     {
       "carryoverAmount": 74066,
@@ -41,28 +41,12 @@
       "ndate": 20230930
     },
     {
-      "carryoverAmount": 54988,
-      "carryover": "$54,988",
+      "carryoverAmount": 56776,
+      "carryover": "$56,776",
       "wagertype": "Pick 6 Jackpot",
       "track": "Thistledown",
-      "date": "Sep 28",
-      "ndate": 20230928
-    },
-    {
-      "carryoverAmount": 41667,
-      "carryover": "$41,667",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Woodbine",
-      "date": "Sep 28",
-      "ndate": 20230928
-    },
-    {
-      "carryoverAmount": 31661,
-      "carryover": "$31,661",
-      "wagertype": "Pick 5",
-      "track": "Horseshoe",
-      "date": "Sep 28",
-      "ndate": 20230928
+      "date": "Oct 02",
+      "ndate": 20231002
     },
     {
       "carryoverAmount": 18488,
@@ -81,20 +65,36 @@
       "ndate": 20230929
     },
     {
-      "carryoverAmount": 8953,
-      "carryover": "$8,953",
+      "carryoverAmount": 11618,
+      "carryover": "$11,618",
       "wagertype": "Pick 6 Jackpot",
       "track": "Charles Town",
-      "date": "Sep 28",
-      "ndate": 20230928
+      "date": "Sep 29",
+      "ndate": 20230929
     },
     {
-      "carryoverAmount": 7101,
-      "carryover": "$7,101",
+      "carryoverAmount": 8214,
+      "carryover": "$8,214",
       "wagertype": "Super High Five Jackpot",
       "track": "Lone Star",
-      "date": "Sep 28",
-      "ndate": 20230928
+      "date": "Sep 29",
+      "ndate": 20230929
+    },
+    {
+      "carryoverAmount": 6967,
+      "carryover": "$6,967",
+      "wagertype": "Super High Five",
+      "track": "Belterra Park",
+      "date": "Sep 29",
+      "ndate": 20230929
+    },
+    {
+      "carryoverAmount": 6235,
+      "carryover": "$6,235",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Woodbine",
+      "date": "Sep 29",
+      "ndate": 20230929
     },
     {
       "carryoverAmount": 4052,
@@ -113,12 +113,12 @@
       "ndate": 20230930
     },
     {
-      "carryoverAmount": 2971,
-      "carryover": "$2,971",
-      "wagertype": "Super High Five",
-      "track": "Horseshoe",
-      "date": "Sep 28",
-      "ndate": 20230928
+      "carryoverAmount": 3311,
+      "carryover": "$3,311",
+      "wagertype": "Pick 5",
+      "track": "Lone Star",
+      "date": "Sep 29",
+      "ndate": 20230929
     },
     {
       "carryoverAmount": 2316,
@@ -129,28 +129,20 @@
       "ndate": 20231002
     },
     {
-      "carryoverAmount": 1921,
-      "carryover": "$1,921",
-      "wagertype": "Super High Five",
-      "track": "Churchill Downs",
-      "date": "Sep 28",
-      "ndate": 20230928
+      "carryoverAmount": 1823,
+      "carryover": "$1,823",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Fort Erie",
+      "date": "Oct 02",
+      "ndate": 20231002
     },
     {
-      "carryoverAmount": 1412,
-      "carryover": "$1,412",
-      "wagertype": "Pick 5",
-      "track": "Lone Star",
-      "date": "Sep 28",
-      "ndate": 20230928
-    },
-    {
-      "carryoverAmount": 456,
-      "carryover": "$456",
+      "carryoverAmount": 897,
+      "carryover": "$897",
       "wagertype": "Pick 6",
       "track": "Lone Star",
-      "date": "Sep 28",
-      "ndate": 20230928
+      "date": "Sep 29",
+      "ndate": 20230929
     }
   ]
 }
