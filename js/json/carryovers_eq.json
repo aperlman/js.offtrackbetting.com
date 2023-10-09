@@ -25,6 +25,14 @@
       "ndate": 20231009
     },
     {
+      "carryoverAmount": 32806,
+      "carryover": "$32,806",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Woodbine",
+      "date": "Oct 12",
+      "ndate": 20231012
+    },
+    {
       "carryoverAmount": 32113,
       "carryover": "$32,113",
       "wagertype": "Pick 6 Jackpot",
@@ -33,20 +41,12 @@
       "ndate": 20231012
     },
     {
-      "carryoverAmount": 19842,
-      "carryover": "$19,842",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Woodbine",
-      "date": "Oct 08",
-      "ndate": 20231008
-    },
-    {
-      "carryoverAmount": 17277,
-      "carryover": "$17,277",
+      "carryoverAmount": 20099,
+      "carryover": "$20,099",
       "wagertype": "Super High Five Jackpot",
       "track": "Fresno",
-      "date": "Oct 08",
-      "ndate": 20231008
+      "date": "Oct 09",
+      "ndate": 20231009
     },
     {
       "carryoverAmount": 16636,
@@ -57,36 +57,28 @@
       "ndate": 20231012
     },
     {
-      "carryoverAmount": 13602,
-      "carryover": "$13,602",
-      "wagertype": "Pick 6",
-      "track": "Los Alamitos",
-      "date": "Oct 08",
-      "ndate": 20231008
-    },
-    {
-      "carryoverAmount": 9526,
-      "carryover": "$9,526",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Woodbine",
-      "date": "Oct 08",
-      "ndate": 20231008
-    },
-    {
-      "carryoverAmount": 9523,
-      "carryover": "$9,523",
-      "wagertype": "Super High Five",
-      "track": "Santa Anita",
-      "date": "Oct 08",
-      "ndate": 20231008
-    },
-    {
-      "carryoverAmount": 7514,
-      "carryover": "$7,514",
+      "carryoverAmount": 11451,
+      "carryover": "$11,451",
       "wagertype": "Pick 6 Jackpot",
       "track": "Fresno",
-      "date": "Oct 08",
-      "ndate": 20231008
+      "date": "Oct 09",
+      "ndate": 20231009
+    },
+    {
+      "carryoverAmount": 9898,
+      "carryover": "$9,898",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Gulfstream Park",
+      "date": "Oct 13",
+      "ndate": 20231013
+    },
+    {
+      "carryoverAmount": 6977,
+      "carryover": "$6,977",
+      "wagertype": "Super High Five",
+      "track": "Keeneland",
+      "date": "Oct 11",
+      "ndate": 20231011
     },
     {
       "carryoverAmount": 6960,
@@ -105,12 +97,12 @@
       "ndate": 20231009
     },
     {
-      "carryoverAmount": 4056,
-      "carryover": "$4,056",
+      "carryoverAmount": 4308,
+      "carryover": "$4,308",
       "wagertype": "Super High Five",
-      "track": "Gulfstream Park",
-      "date": "Oct 08",
-      "ndate": 20231008
+      "track": "Santa Anita",
+      "date": "Oct 09",
+      "ndate": 20231009
     },
     {
       "carryoverAmount": 3682,
@@ -121,28 +113,36 @@
       "ndate": 20231012
     },
     {
-      "carryoverAmount": 2325,
-      "carryover": "$2,325",
-      "wagertype": "Pick 4",
-      "track": "Century Downs",
-      "date": "Oct 08",
-      "ndate": 20231008
-    },
-    {
-      "carryoverAmount": 1223,
-      "carryover": "$1,223",
+      "carryoverAmount": 3129,
+      "carryover": "$3,129",
       "wagertype": "Super High Five",
       "track": "Mountaineer",
-      "date": "Oct 08",
-      "ndate": 20231008
+      "date": "Oct 09",
+      "ndate": 20231009
     },
     {
-      "carryoverAmount": 1207,
-      "carryover": "$1,207",
+      "carryoverAmount": 2267,
+      "carryover": "$2,267",
       "wagertype": "Pick 6 Jackpot",
       "track": "Laurel Park",
-      "date": "Oct 08",
-      "ndate": 20231008
+      "date": "Oct 12",
+      "ndate": 20231012
+    },
+    {
+      "carryoverAmount": 1696,
+      "carryover": "$1,696",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Oct 13",
+      "ndate": 20231013
+    },
+    {
+      "carryoverAmount": 1579,
+      "carryover": "$1,579",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Oct 13",
+      "ndate": 20231013
     },
     {
       "carryoverAmount": 972,
@@ -167,14 +167,6 @@
       "track": "Finger Lakes",
       "date": "Oct 09",
       "ndate": 20231009
-    },
-    {
-      "carryoverAmount": 470,
-      "carryover": "$470",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Century Downs",
-      "date": "Oct 08",
-      "ndate": 20231008
     }
   ]
 }
