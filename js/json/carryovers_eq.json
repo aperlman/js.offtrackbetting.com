@@ -1,12 +1,12 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 95302,
-      "carryover": "$95,302",
-      "wagertype": "Pick 5",
-      "track": "Horseshoe",
-      "date": "Oct 12",
-      "ndate": 20231012
+      "carryoverAmount": 59352,
+      "carryover": "$59,352",
+      "wagertype": "Super High Five",
+      "track": "Keeneland",
+      "date": "Oct 13",
+      "ndate": 20231013
     },
     {
       "carryoverAmount": 58236,
@@ -17,28 +17,28 @@
       "ndate": 20231014
     },
     {
+      "carryoverAmount": 43712,
+      "carryover": "$43,712",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Woodbine",
+      "date": "Oct 13",
+      "ndate": 20231013
+    },
+    {
+      "carryoverAmount": 36176,
+      "carryover": "$36,176",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Charles Town",
+      "date": "Oct 13",
+      "ndate": 20231013
+    },
+    {
       "carryoverAmount": 33918,
       "carryover": "$33,918",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
       "date": "Oct 16",
       "ndate": 20231016
-    },
-    {
-      "carryoverAmount": 32806,
-      "carryover": "$32,806",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Woodbine",
-      "date": "Oct 12",
-      "ndate": 20231012
-    },
-    {
-      "carryoverAmount": 32113,
-      "carryover": "$32,113",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Charles Town",
-      "date": "Oct 12",
-      "ndate": 20231012
     },
     {
       "carryoverAmount": 28941,
@@ -49,12 +49,20 @@
       "ndate": 20231016
     },
     {
-      "carryoverAmount": 27770,
-      "carryover": "$27,770",
+      "carryoverAmount": 23689,
+      "carryover": "$23,689",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Lone Star",
+      "date": "Oct 13",
+      "ndate": 20231013
+    },
+    {
+      "carryoverAmount": 22141,
+      "carryover": "$22,141",
       "wagertype": "Pick 6",
-      "track": "Keeneland",
-      "date": "Oct 12",
-      "ndate": 20231012
+      "track": "Belmont At The",
+      "date": "Oct 13",
+      "ndate": 20231013
     },
     {
       "carryoverAmount": 21920,
@@ -63,22 +71,6 @@
       "track": "Meadowlands",
       "date": "Oct 13",
       "ndate": 20231013
-    },
-    {
-      "carryoverAmount": 16636,
-      "carryover": "$16,636",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Lone Star",
-      "date": "Oct 12",
-      "ndate": 20231012
-    },
-    {
-      "carryoverAmount": 16011,
-      "carryover": "$16,011",
-      "wagertype": "Super High Five",
-      "track": "Keeneland",
-      "date": "Oct 12",
-      "ndate": 20231012
     },
     {
       "carryoverAmount": 13566,
@@ -97,6 +89,14 @@
       "ndate": 20231013
     },
     {
+      "carryoverAmount": 9815,
+      "carryover": "$9,815",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Fort Erie",
+      "date": "Oct 16",
+      "ndate": 20231016
+    },
+    {
       "carryoverAmount": 8074,
       "carryover": "$8,074",
       "wagertype": "Pick 7",
@@ -105,42 +105,26 @@
       "ndate": 20231014
     },
     {
-      "carryoverAmount": 4202,
-      "carryover": "$4,202",
-      "wagertype": "Super High Five",
-      "track": "Horseshoe",
-      "date": "Oct 12",
-      "ndate": 20231012
-    },
-    {
-      "carryoverAmount": 3682,
-      "carryover": "$3,682",
+      "carryoverAmount": 4839,
+      "carryover": "$4,839",
       "wagertype": "Pick 6",
       "track": "Lone Star",
-      "date": "Oct 12",
-      "ndate": 20231012
-    },
-    {
-      "carryoverAmount": 2267,
-      "carryover": "$2,267",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Laurel Park",
-      "date": "Oct 12",
-      "ndate": 20231012
-    },
-    {
-      "carryoverAmount": 1696,
-      "carryover": "$1,696",
-      "wagertype": "Super High Five",
-      "track": "Gulfstream Park",
       "date": "Oct 13",
       "ndate": 20231013
     },
     {
-      "carryoverAmount": 1579,
-      "carryover": "$1,579",
-      "wagertype": "Super High Five",
-      "track": "Gulfstream Park",
+      "carryoverAmount": 3981,
+      "carryover": "$3,981",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Woodbine",
+      "date": "Oct 13",
+      "ndate": 20231013
+    },
+    {
+      "carryoverAmount": 2930,
+      "carryover": "$2,930",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Laurel Park",
       "date": "Oct 13",
       "ndate": 20231013
     },
@@ -159,6 +143,22 @@
       "track": "Hastings",
       "date": "Oct 14",
       "ndate": 20231014
+    },
+    {
+      "carryoverAmount": 614,
+      "carryover": "$614",
+      "wagertype": "Pick 5",
+      "track": "Lone Star",
+      "date": "Oct 13",
+      "ndate": 20231013
+    },
+    {
+      "carryoverAmount": 441,
+      "carryover": "$441",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Thistledown",
+      "date": "Oct 13",
+      "ndate": 20231013
     }
   ]
 }
