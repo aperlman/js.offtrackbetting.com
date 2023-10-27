@@ -1,20 +1,20 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 237537,
-      "carryover": "$237,537",
-      "wagertype": "Pick 6",
-      "track": "Keeneland",
-      "date": "Oct 26",
-      "ndate": 20231026
-    },
-    {
-      "carryoverAmount": 204519,
-      "carryover": "$204,519",
+      "carryoverAmount": 223885,
+      "carryover": "$223,885",
       "wagertype": "Super High Five Jackpot",
       "track": "Woodbine",
-      "date": "Oct 26",
-      "ndate": 20231026
+      "date": "Oct 27",
+      "ndate": 20231027
+    },
+    {
+      "carryoverAmount": 20080,
+      "carryover": "$20,080",
+      "wagertype": "Pick 6",
+      "track": "Belmont At The",
+      "date": "Oct 27",
+      "ndate": 20231027
     },
     {
       "carryoverAmount": 16037,
@@ -33,6 +33,14 @@
       "ndate": 20231030
     },
     {
+      "carryoverAmount": 13318,
+      "carryover": "$13,318",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Woodbine",
+      "date": "Oct 27",
+      "ndate": 20231027
+    },
+    {
       "carryoverAmount": 10004,
       "carryover": "$10,004",
       "wagertype": "Pick 6 Jackpot",
@@ -49,6 +57,14 @@
       "ndate": 20231030
     },
     {
+      "carryoverAmount": 9360,
+      "carryover": "$9,360",
+      "wagertype": "Pick 5",
+      "track": "Laurel Park",
+      "date": "Oct 27",
+      "ndate": 20231027
+    },
+    {
       "carryoverAmount": 9312,
       "carryover": "$9,312",
       "wagertype": "Pick 6 Jackpot",
@@ -57,18 +73,26 @@
       "ndate": 20231028
     },
     {
-      "carryoverAmount": 7294,
-      "carryover": "$7,294",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Woodbine",
-      "date": "Oct 26",
-      "ndate": 20231026
-    },
-    {
       "carryoverAmount": 4412,
       "carryover": "$4,412",
       "wagertype": "Super High Five",
       "track": "Gulfstream Park",
+      "date": "Oct 27",
+      "ndate": 20231027
+    },
+    {
+      "carryoverAmount": 3419,
+      "carryover": "$3,419",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Charles Town",
+      "date": "Oct 27",
+      "ndate": 20231027
+    },
+    {
+      "carryoverAmount": 3206,
+      "carryover": "$3,206",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Laurel Park",
       "date": "Oct 27",
       "ndate": 20231027
     },
@@ -89,14 +113,6 @@
       "ndate": 20231028
     },
     {
-      "carryoverAmount": 1949,
-      "carryover": "$1,949",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Laurel Park",
-      "date": "Oct 26",
-      "ndate": 20231026
-    },
-    {
       "carryoverAmount": 1845,
       "carryover": "$1,845",
       "wagertype": "Super High Five",
@@ -105,12 +121,12 @@
       "ndate": 20231027
     },
     {
-      "carryoverAmount": 1372,
-      "carryover": "$1,372",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Charles Town",
-      "date": "Oct 26",
-      "ndate": 20231026
+      "carryoverAmount": 1619,
+      "carryover": "$1,619",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Lone Star",
+      "date": "Oct 27",
+      "ndate": 20231027
     },
     {
       "carryoverAmount": 1213,
@@ -129,14 +145,6 @@
       "ndate": 20231028
     },
     {
-      "carryoverAmount": 794,
-      "carryover": "$794",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Lone Star",
-      "date": "Oct 26",
-      "ndate": 20231026
-    },
-    {
       "carryoverAmount": 681,
       "carryover": "$681",
       "wagertype": "Super High Five",
@@ -153,28 +161,12 @@
       "ndate": 20231028
     },
     {
-      "carryoverAmount": 623,
-      "carryover": "$623",
-      "wagertype": "Pick 6",
-      "track": "Lone Star",
-      "date": "Oct 26",
-      "ndate": 20231026
-    },
-    {
       "carryoverAmount": 567,
       "carryover": "$567",
       "wagertype": "Super High Five",
       "track": "Mountaineer",
       "date": "Oct 29",
       "ndate": 20231029
-    },
-    {
-      "carryoverAmount": 368,
-      "carryover": "$368",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Penn National",
-      "date": "Oct 26",
-      "ndate": 20231026
     }
   ]
 }
