@@ -1,26 +1,42 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 223885,
-      "carryover": "$223,885",
+      "carryoverAmount": 260307,
+      "carryover": "$260,307",
       "wagertype": "Super High Five Jackpot",
       "track": "Woodbine",
-      "date": "Oct 27",
-      "ndate": 20231027
+      "date": "Oct 28",
+      "ndate": 20231028
     },
     {
-      "carryoverAmount": 20080,
-      "carryover": "$20,080",
-      "wagertype": "Pick 6",
-      "track": "Belmont At The",
-      "date": "Oct 27",
-      "ndate": 20231027
+      "carryoverAmount": 16789,
+      "carryover": "$16,789",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Woodbine",
+      "date": "Oct 28",
+      "ndate": 20231028
     },
     {
       "carryoverAmount": 16037,
       "carryover": "$16,037",
       "wagertype": "Pick 7",
       "track": "Fanduel",
+      "date": "Oct 28",
+      "ndate": 20231028
+    },
+    {
+      "carryoverAmount": 15764,
+      "carryover": "$15,764",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Gulfstream Park",
+      "date": "Oct 28",
+      "ndate": 20231028
+    },
+    {
+      "carryoverAmount": 15050,
+      "carryover": "$15,050",
+      "wagertype": "Pick 5",
+      "track": "Delaware Park",
       "date": "Oct 28",
       "ndate": 20231028
     },
@@ -33,36 +49,12 @@
       "ndate": 20231030
     },
     {
-      "carryoverAmount": 13318,
-      "carryover": "$13,318",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Woodbine",
-      "date": "Oct 27",
-      "ndate": 20231027
-    },
-    {
-      "carryoverAmount": 10004,
-      "carryover": "$10,004",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Gulfstream Park",
-      "date": "Oct 27",
-      "ndate": 20231027
-    },
-    {
       "carryoverAmount": 9661,
       "carryover": "$9,661",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
       "date": "Oct 30",
       "ndate": 20231030
-    },
-    {
-      "carryoverAmount": 9360,
-      "carryover": "$9,360",
-      "wagertype": "Pick 5",
-      "track": "Laurel Park",
-      "date": "Oct 27",
-      "ndate": 20231027
     },
     {
       "carryoverAmount": 9312,
@@ -73,28 +65,28 @@
       "ndate": 20231028
     },
     {
-      "carryoverAmount": 4412,
-      "carryover": "$4,412",
-      "wagertype": "Super High Five",
-      "track": "Gulfstream Park",
-      "date": "Oct 27",
-      "ndate": 20231027
-    },
-    {
-      "carryoverAmount": 3419,
-      "carryover": "$3,419",
+      "carryoverAmount": 6428,
+      "carryover": "$6,428",
       "wagertype": "Pick 6 Jackpot",
       "track": "Charles Town",
-      "date": "Oct 27",
-      "ndate": 20231027
+      "date": "Oct 28",
+      "ndate": 20231028
     },
     {
-      "carryoverAmount": 3206,
-      "carryover": "$3,206",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Laurel Park",
-      "date": "Oct 27",
-      "ndate": 20231027
+      "carryoverAmount": 6252,
+      "carryover": "$6,252",
+      "wagertype": "Super High Five",
+      "track": "Keeneland",
+      "date": "Oct 28",
+      "ndate": 20231028
+    },
+    {
+      "carryoverAmount": 2553,
+      "carryover": "$2,553",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Lone Star",
+      "date": "Oct 28",
+      "ndate": 20231028
     },
     {
       "carryoverAmount": 2516,
@@ -113,20 +105,20 @@
       "ndate": 20231028
     },
     {
-      "carryoverAmount": 1845,
-      "carryover": "$1,845",
+      "carryoverAmount": 1458,
+      "carryover": "$1,458",
       "wagertype": "Super High Five",
       "track": "Gulfstream Park",
-      "date": "Oct 27",
-      "ndate": 20231027
+      "date": "Oct 28",
+      "ndate": 20231028
     },
     {
-      "carryoverAmount": 1619,
-      "carryover": "$1,619",
+      "carryoverAmount": 1243,
+      "carryover": "$1,243",
       "wagertype": "Super High Five Jackpot",
-      "track": "Lone Star",
-      "date": "Oct 27",
-      "ndate": 20231027
+      "track": "Penn National",
+      "date": "Nov 01",
+      "ndate": 20231101
     },
     {
       "carryoverAmount": 1213,
@@ -167,6 +159,14 @@
       "track": "Mountaineer",
       "date": "Oct 29",
       "ndate": 20231029
+    },
+    {
+      "carryoverAmount": 418,
+      "carryover": "$418",
+      "wagertype": "Pick 6",
+      "track": "Lone Star",
+      "date": "Oct 28",
+      "ndate": 20231028
     }
   ]
 }
