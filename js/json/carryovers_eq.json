@@ -17,12 +17,20 @@
       "ndate": 20231120
     },
     {
+      "carryoverAmount": 94601,
+      "carryover": "$94,601",
+      "wagertype": "Pick 6",
+      "track": "Del Mar",
+      "date": "Nov 23",
+      "ndate": 20231123
+    },
+    {
       "carryoverAmount": 85084,
       "carryover": "$85,084",
       "wagertype": "Pick 6 Jackpot",
       "track": "Woodbine",
-      "date": "Nov 19",
-      "ndate": 20231119
+      "date": "Nov 23",
+      "ndate": 20231123
     },
     {
       "carryoverAmount": 65099,
@@ -33,6 +41,14 @@
       "ndate": 20231122
     },
     {
+      "carryoverAmount": 42439,
+      "carryover": "$42,439",
+      "wagertype": "Super High Five",
+      "track": "Golden Gate",
+      "date": "Nov 23",
+      "ndate": 20231123
+    },
+    {
       "carryoverAmount": 41096,
       "carryover": "$41,096",
       "wagertype": "Pick 5",
@@ -41,20 +57,20 @@
       "ndate": 20231123
     },
     {
-      "carryoverAmount": 38614,
-      "carryover": "$38,614",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Woodbine",
-      "date": "Nov 19",
-      "ndate": 20231119
-    },
-    {
-      "carryoverAmount": 27790,
-      "carryover": "$27,790",
+      "carryoverAmount": 41091,
+      "carryover": "$41,091",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "Nov 19",
-      "ndate": 20231119
+      "date": "Nov 24",
+      "ndate": 20231124
+    },
+    {
+      "carryoverAmount": 20277,
+      "carryover": "$20,277",
+      "wagertype": "Super High Five",
+      "track": "Del Mar",
+      "date": "Nov 23",
+      "ndate": 20231123
     },
     {
       "carryoverAmount": 19130,
@@ -65,14 +81,6 @@
       "ndate": 20231120
     },
     {
-      "carryoverAmount": 15212,
-      "carryover": "$15,212",
-      "wagertype": "Pick 5",
-      "track": "Laurel Park",
-      "date": "Nov 19",
-      "ndate": 20231119
-    },
-    {
       "carryoverAmount": 10368,
       "carryover": "$10,368",
       "wagertype": "Pick 6 Jackpot",
@@ -81,20 +89,12 @@
       "ndate": 20231120
     },
     {
-      "carryoverAmount": 10000,
-      "carryover": "$10,000",
-      "wagertype": "Pick 6",
-      "track": "Los Alamitos",
-      "date": "Nov 19",
-      "ndate": 20231119
-    },
-    {
-      "carryoverAmount": 4987,
-      "carryover": "$4,987",
-      "wagertype": "Super High Five",
+      "carryoverAmount": 4795,
+      "carryover": "$4,795",
+      "wagertype": "Pick 6 Jackpot",
       "track": "Golden Gate",
-      "date": "Nov 19",
-      "ndate": 20231119
+      "date": "Nov 23",
+      "ndate": 20231123
     },
     {
       "carryoverAmount": 3370,
@@ -105,12 +105,20 @@
       "ndate": 20231124
     },
     {
-      "carryoverAmount": 2689,
-      "carryover": "$2,689",
+      "carryoverAmount": 3096,
+      "carryover": "$3,096",
       "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Nov 24",
+      "ndate": 20231124
+    },
+    {
+      "carryoverAmount": 2443,
+      "carryover": "$2,443",
+      "wagertype": "Pick 6 Jackpot",
       "track": "Churchill Downs",
-      "date": "Nov 19",
-      "ndate": 20231119
+      "date": "Nov 22",
+      "ndate": 20231122
     },
     {
       "carryoverAmount": 2253,
@@ -129,20 +137,44 @@
       "ndate": 20231120
     },
     {
-      "carryoverAmount": 756,
-      "carryover": "$756",
+      "carryoverAmount": 1661,
+      "carryover": "$1,661",
       "wagertype": "Pick 6 Jackpot",
       "track": "Laurel Park",
-      "date": "Nov 19",
-      "ndate": 20231119
+      "date": "Nov 23",
+      "ndate": 20231123
     },
     {
-      "carryoverAmount": 210,
-      "carryover": "$210",
+      "carryoverAmount": 1567,
+      "carryover": "$1,567",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Nov 24",
+      "ndate": 20231124
+    },
+    {
+      "carryoverAmount": 1128,
+      "carryover": "$1,128",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Nov 24",
+      "ndate": 20231124
+    },
+    {
+      "carryoverAmount": 791,
+      "carryover": "$791",
+      "wagertype": "Super High Five",
+      "track": "Mountaineer",
+      "date": "Nov 20",
+      "ndate": 20231120
+    },
+    {
+      "carryoverAmount": 404,
+      "carryover": "$404",
       "wagertype": "Pick 5",
       "track": "Zia Park",
-      "date": "Nov 19",
-      "ndate": 20231119
+      "date": "Nov 20",
+      "ndate": 20231120
     }
   ]
 }
