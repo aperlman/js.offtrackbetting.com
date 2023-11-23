@@ -1,22 +1,6 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 381939,
-      "carryover": "$381,939",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Parx Racing",
-      "date": "Nov 22",
-      "ndate": 20231122
-    },
-    {
-      "carryoverAmount": 363909,
-      "carryover": "$363,909",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Parx Racing",
-      "date": "Nov 22",
-      "ndate": 20231122
-    },
-    {
       "carryoverAmount": 94601,
       "carryover": "$94,601",
       "wagertype": "Pick 6",
@@ -33,12 +17,12 @@
       "ndate": 20231123
     },
     {
-      "carryoverAmount": 65099,
-      "carryover": "$65,099",
+      "carryoverAmount": 71515,
+      "carryover": "$71,515",
       "wagertype": "Pick 6 Jackpot",
       "track": "Charles Town",
-      "date": "Nov 22",
-      "ndate": 20231122
+      "date": "Nov 24",
+      "ndate": 20231124
     },
     {
       "carryoverAmount": 41096,
@@ -65,12 +49,20 @@
       "ndate": 20231123
     },
     {
-      "carryoverAmount": 9683,
-      "carryover": "$9,683",
-      "wagertype": "Pick 6",
-      "track": "Finger Lakes",
-      "date": "Nov 22",
-      "ndate": 20231122
+      "carryoverAmount": 6680,
+      "carryover": "$6,680",
+      "wagertype": "Super High Five",
+      "track": "Tampa Bay",
+      "date": "Nov 24",
+      "ndate": 20231124
+    },
+    {
+      "carryoverAmount": 5717,
+      "carryover": "$5,717",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Churchill Downs",
+      "date": "Nov 23",
+      "ndate": 20231123
     },
     {
       "carryoverAmount": 4795,
@@ -89,20 +81,20 @@
       "ndate": 20231124
     },
     {
-      "carryoverAmount": 2443,
-      "carryover": "$2,443",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Churchill Downs",
-      "date": "Nov 22",
-      "ndate": 20231122
-    },
-    {
       "carryoverAmount": 2253,
       "carryover": "$2,253",
       "wagertype": "Pick 6",
       "track": "Fair Grounds",
       "date": "Nov 23",
       "ndate": 20231123
+    },
+    {
+      "carryoverAmount": 1793,
+      "carryover": "$1,793",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Mahoning Valley",
+      "date": "Nov 27",
+      "ndate": 20231127
     },
     {
       "carryoverAmount": 1661,
@@ -113,20 +105,20 @@
       "ndate": 20231123
     },
     {
-      "carryoverAmount": 1033,
-      "carryover": "$1,033",
+      "carryoverAmount": 1382,
+      "carryover": "$1,382",
       "wagertype": "Pick 6 Jackpot",
-      "track": "Mahoning Valley",
-      "date": "Nov 22",
-      "ndate": 20231122
+      "track": "Tampa Bay",
+      "date": "Nov 24",
+      "ndate": 20231124
     },
     {
-      "carryoverAmount": 906,
-      "carryover": "$906",
-      "wagertype": "Super High Five",
-      "track": "Mountaineer",
-      "date": "Nov 22",
-      "ndate": 20231122
+      "carryoverAmount": 897,
+      "carryover": "$897",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Penn National",
+      "date": "Nov 24",
+      "ndate": 20231124
     }
   ]
 }
