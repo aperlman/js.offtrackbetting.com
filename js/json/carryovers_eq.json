@@ -1,28 +1,28 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 141544,
-      "carryover": "$141,544",
+      "carryoverAmount": 176280,
+      "carryover": "$176,280",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Dec 06",
-      "ndate": 20231206
+      "date": "Dec 11",
+      "ndate": 20231211
     },
     {
-      "carryoverAmount": 123043,
-      "carryover": "$123,043",
+      "carryoverAmount": 158752,
+      "carryover": "$158,752",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Dec 06",
-      "ndate": 20231206
+      "date": "Dec 11",
+      "ndate": 20231211
     },
     {
-      "carryoverAmount": 109403,
-      "carryover": "$109,403",
+      "carryoverAmount": 114352,
+      "carryover": "$114,352",
       "wagertype": "Pick 6 Jackpot",
       "track": "Charles Town",
-      "date": "Dec 06",
-      "ndate": 20231206
+      "date": "Dec 07",
+      "ndate": 20231207
     },
     {
       "carryoverAmount": 61336,
@@ -33,12 +33,12 @@
       "ndate": 20231207
     },
     {
-      "carryoverAmount": 28916,
-      "carryover": "$28,916",
+      "carryoverAmount": 48314,
+      "carryover": "$48,314",
       "wagertype": "Pick 6 Jackpot",
       "track": "Turfway Park",
-      "date": "Dec 06",
-      "ndate": 20231206
+      "date": "Dec 07",
+      "ndate": 20231207
     },
     {
       "carryoverAmount": 26034,
@@ -65,6 +65,22 @@
       "ndate": 20231207
     },
     {
+      "carryoverAmount": 16620,
+      "carryover": "$16,620",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Tampa Bay",
+      "date": "Dec 08",
+      "ndate": 20231208
+    },
+    {
+      "carryoverAmount": 15818,
+      "carryover": "$15,818",
+      "wagertype": "Pick 5",
+      "track": "Mountaineer",
+      "date": "Dec 10",
+      "ndate": 20231210
+    },
+    {
       "carryoverAmount": 13726,
       "carryover": "$13,726",
       "wagertype": "Pick 5",
@@ -73,68 +89,36 @@
       "ndate": 20231209
     },
     {
-      "carryoverAmount": 12030,
-      "carryover": "$12,030",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Tampa Bay",
-      "date": "Dec 06",
-      "ndate": 20231206
-    },
-    {
-      "carryoverAmount": 4117,
-      "carryover": "$4,117",
+      "carryoverAmount": 7458,
+      "carryover": "$7,458",
       "wagertype": "Super High Five",
       "track": "Turfway Park",
-      "date": "Dec 06",
-      "ndate": 20231206
-    },
-    {
-      "carryoverAmount": 3757,
-      "carryover": "$3,757",
-      "wagertype": "Super High Five",
-      "track": "Mountaineer",
-      "date": "Dec 06",
-      "ndate": 20231206
-    },
-    {
-      "carryoverAmount": 3066,
-      "carryover": "$3,066",
-      "wagertype": "Super High Five",
-      "track": "Tampa Bay",
-      "date": "Dec 06",
-      "ndate": 20231206
-    },
-    {
-      "carryoverAmount": 2649,
-      "carryover": "$2,649",
-      "wagertype": "Super High Five",
-      "track": "Gulfstream Park",
       "date": "Dec 07",
       "ndate": 20231207
     },
     {
-      "carryoverAmount": 2217,
-      "carryover": "$2,217",
+      "carryoverAmount": 3958,
+      "carryover": "$3,958",
       "wagertype": "Pick 6 Jackpot",
       "track": "Mahoning Valley",
-      "date": "Dec 06",
-      "ndate": 20231206
+      "date": "Dec 07",
+      "ndate": 20231207
     },
     {
-      "carryoverAmount": 1464,
-      "carryover": "$1,464",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Penn National",
-      "date": "Dec 06",
-      "ndate": 20231206
-    },
-    {
-      "carryoverAmount": 1367,
-      "carryover": "$1,367",
+      "carryoverAmount": 2411,
+      "carryover": "$2,411",
       "wagertype": "Super High Five",
-      "track": "Golden Gate",
+      "track": "Tampa Bay",
       "date": "Dec 08",
       "ndate": 20231208
+    },
+    {
+      "carryoverAmount": 1878,
+      "carryover": "$1,878",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Penn National",
+      "date": "Dec 07",
+      "ndate": 20231207
     }
   ]
 }
