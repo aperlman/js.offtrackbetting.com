@@ -17,52 +17,60 @@
       "ndate": 20231218
     },
     {
-      "carryoverAmount": 147098,
-      "carryover": "$147,098",
+      "carryoverAmount": 164044,
+      "carryover": "$164,044",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "Dec 15",
-      "ndate": 20231215
+      "date": "Dec 16",
+      "ndate": 20231216
     },
     {
-      "carryoverAmount": 118541,
-      "carryover": "$118,541",
-      "wagertype": "Pick 5",
-      "track": "Turfway Park",
-      "date": "Dec 15",
-      "ndate": 20231215
-    },
-    {
-      "carryoverAmount": 113053,
-      "carryover": "$113,053",
+      "carryoverAmount": 130837,
+      "carryover": "$130,837",
       "wagertype": "Super High Five Jackpot",
       "track": "Woodbine",
-      "date": "Dec 15",
-      "ndate": 20231215
+      "date": "Dec 16",
+      "ndate": 20231216
     },
     {
-      "carryoverAmount": 11300,
-      "carryover": "$11,300",
+      "carryoverAmount": 32472,
+      "carryover": "$32,472",
+      "wagertype": "Pick 6",
+      "track": "Aqueduct",
+      "date": "Dec 16",
+      "ndate": 20231216
+    },
+    {
+      "carryoverAmount": 21968,
+      "carryover": "$21,968",
+      "wagertype": "Pick 6",
+      "track": "Los Alamitos",
+      "date": "Dec 16",
+      "ndate": 20231216
+    },
+    {
+      "carryoverAmount": 13666,
+      "carryover": "$13,666",
       "wagertype": "Pick 6 Jackpot",
       "track": "Turfway Park",
-      "date": "Dec 15",
-      "ndate": 20231215
+      "date": "Dec 16",
+      "ndate": 20231216
     },
     {
-      "carryoverAmount": 6185,
-      "carryover": "$6,185",
-      "wagertype": "Super High Five",
-      "track": "Turfway Park",
-      "date": "Dec 15",
-      "ndate": 20231215
-    },
-    {
-      "carryoverAmount": 5120,
-      "carryover": "$5,120",
+      "carryoverAmount": 6943,
+      "carryover": "$6,943",
       "wagertype": "Pick 6 Jackpot",
       "track": "Woodbine",
-      "date": "Dec 15",
-      "ndate": 20231215
+      "date": "Dec 16",
+      "ndate": 20231216
+    },
+    {
+      "carryoverAmount": 5220,
+      "carryover": "$5,220",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Tampa Bay",
+      "date": "Dec 16",
+      "ndate": 20231216
     },
     {
       "carryoverAmount": 4761,
@@ -73,28 +81,44 @@
       "ndate": 20231218
     },
     {
-      "carryoverAmount": 3532,
-      "carryover": "$3,532",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Tampa Bay",
-      "date": "Dec 15",
-      "ndate": 20231215
+      "carryoverAmount": 4436,
+      "carryover": "$4,436",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Dec 16",
+      "ndate": 20231216
     },
     {
-      "carryoverAmount": 2101,
-      "carryover": "$2,101",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Laurel Park",
-      "date": "Dec 15",
-      "ndate": 20231215
-    },
-    {
-      "carryoverAmount": 1618,
-      "carryover": "$1,618",
+      "carryoverAmount": 2946,
+      "carryover": "$2,946",
       "wagertype": "Super High Five",
       "track": "Tampa Bay",
-      "date": "Dec 15",
-      "ndate": 20231215
+      "date": "Dec 16",
+      "ndate": 20231216
+    },
+    {
+      "carryoverAmount": 2790,
+      "carryover": "$2,790",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Laurel Park",
+      "date": "Dec 16",
+      "ndate": 20231216
+    },
+    {
+      "carryoverAmount": 2095,
+      "carryover": "$2,095",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Charles Town",
+      "date": "Dec 16",
+      "ndate": 20231216
+    },
+    {
+      "carryoverAmount": 948,
+      "carryover": "$948",
+      "wagertype": "Pick 6",
+      "track": "Fair Grounds",
+      "date": "Dec 16",
+      "ndate": 20231216
     },
     {
       "carryoverAmount": 520,
@@ -103,6 +127,14 @@
       "track": "Mahoning Valley",
       "date": "Dec 18",
       "ndate": 20231218
+    },
+    {
+      "carryoverAmount": 308,
+      "carryover": "$308",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Penn National",
+      "date": "Dec 20",
+      "ndate": 20231220
     }
   ]
 }
