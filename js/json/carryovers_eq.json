@@ -1,20 +1,12 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 431537,
-      "carryover": "$431,537",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Parx Racing",
-      "date": "Dec 27",
-      "ndate": 20231227
-    },
-    {
-      "carryoverAmount": 415616,
-      "carryover": "$415,616",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Parx Racing",
-      "date": "Dec 27",
-      "ndate": 20231227
+      "carryoverAmount": 59767,
+      "carryover": "$59,767",
+      "wagertype": "Pick 5",
+      "track": "Golden Gate",
+      "date": "Dec 29",
+      "ndate": 20231229
     },
     {
       "carryoverAmount": 54675,
@@ -33,12 +25,12 @@
       "ndate": 20231228
     },
     {
-      "carryoverAmount": 21949,
-      "carryover": "$21,949",
+      "carryoverAmount": 17705,
+      "carryover": "$17,705",
       "wagertype": "Pick 6 Jackpot",
-      "track": "Tampa Bay",
-      "date": "Dec 27",
-      "ndate": 20231227
+      "track": "Turfway Park",
+      "date": "Dec 28",
+      "ndate": 20231228
     },
     {
       "carryoverAmount": 10862,
@@ -57,6 +49,14 @@
       "ndate": 20231229
     },
     {
+      "carryoverAmount": 6428,
+      "carryover": "$6,428",
+      "wagertype": "Super High Five",
+      "track": "Turfway Park",
+      "date": "Dec 28",
+      "ndate": 20231228
+    },
+    {
       "carryoverAmount": 5924,
       "carryover": "$5,924",
       "wagertype": "Super High Five",
@@ -65,12 +65,12 @@
       "ndate": 20231229
     },
     {
-      "carryoverAmount": 3521,
-      "carryover": "$3,521",
+      "carryoverAmount": 5133,
+      "carryover": "$5,133",
       "wagertype": "Super High Five Jackpot",
       "track": "Penn National",
-      "date": "Dec 27",
-      "ndate": 20231227
+      "date": "Dec 28",
+      "ndate": 20231228
     },
     {
       "carryoverAmount": 2346,
@@ -79,14 +79,6 @@
       "track": "Golden Gate",
       "date": "Dec 29",
       "ndate": 20231229
-    },
-    {
-      "carryoverAmount": 1923,
-      "carryover": "$1,923",
-      "wagertype": "Super High Five",
-      "track": "Turfway Park",
-      "date": "Dec 27",
-      "ndate": 20231227
     },
     {
       "carryoverAmount": 1839,
@@ -103,6 +95,14 @@
       "track": "Golden Gate",
       "date": "Dec 29",
       "ndate": 20231229
+    },
+    {
+      "carryoverAmount": 1138,
+      "carryover": "$1,138",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Mahoning Valley",
+      "date": "Dec 28",
+      "ndate": 20231228
     }
   ]
 }
