@@ -1,60 +1,60 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 14412,
-      "carryover": "$14,412",
-      "wagertype": "Super High Five",
-      "track": "Gulfstream Park",
-      "date": "Dec 31",
-      "ndate": 20231231
-    },
-    {
-      "carryoverAmount": 11949,
-      "carryover": "$11,949",
-      "wagertype": "Super High Five",
+      "carryoverAmount": 26569,
+      "carryover": "$26,569",
+      "wagertype": "Pick 5",
       "track": "Tampa Bay",
-      "date": "Dec 31",
-      "ndate": 20231231
+      "date": "Jan 03",
+      "ndate": 20240103
     },
     {
-      "carryoverAmount": 10000,
-      "carryover": "$10,000",
-      "wagertype": "Pick 6",
-      "track": "Los Alamitos",
-      "date": "Dec 31",
-      "ndate": 20231231
-    },
-    {
-      "carryoverAmount": 5473,
-      "carryover": "$5,473",
+      "carryoverAmount": 25395,
+      "carryover": "$25,395",
       "wagertype": "Pick 6 Jackpot",
-      "track": "Golden Gate",
-      "date": "Dec 31",
-      "ndate": 20231231
-    },
-    {
-      "carryoverAmount": 2497,
-      "carryover": "$2,497",
-      "wagertype": "Super High Five",
       "track": "Gulfstream Park",
-      "date": "Dec 31",
-      "ndate": 20231231
+      "date": "Jan 01",
+      "ndate": 20240101
     },
     {
-      "carryoverAmount": 2094,
-      "carryover": "$2,094",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Laurel Park",
-      "date": "Dec 31",
-      "ndate": 20231231
-    },
-    {
-      "carryoverAmount": 1270,
-      "carryover": "$1,270",
+      "carryoverAmount": 8253,
+      "carryover": "$8,253",
       "wagertype": "Super High Five",
       "track": "Golden Gate",
-      "date": "Dec 31",
-      "ndate": 20231231
+      "date": "Jan 01",
+      "ndate": 20240101
+    },
+    {
+      "carryoverAmount": 3075,
+      "carryover": "$3,075",
+      "wagertype": "Super High Five",
+      "track": "Golden Gate",
+      "date": "Jan 01",
+      "ndate": 20240101
+    },
+    {
+      "carryoverAmount": 2447,
+      "carryover": "$2,447",
+      "wagertype": "Pick 6",
+      "track": "Fair Grounds",
+      "date": "Jan 01",
+      "ndate": 20240101
+    },
+    {
+      "carryoverAmount": 1460,
+      "carryover": "$1,460",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Tampa Bay",
+      "date": "Jan 03",
+      "ndate": 20240103
+    },
+    {
+      "carryoverAmount": 1086,
+      "carryover": "$1,086",
+      "wagertype": "Super High Five",
+      "track": "Golden Gate",
+      "date": "Jan 01",
+      "ndate": 20240101
     }
   ]
 }
