@@ -1,12 +1,12 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 56143,
-      "carryover": "$56,143",
+      "carryoverAmount": 76135,
+      "carryover": "$76,135",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "Jan 04",
-      "ndate": 20240104
+      "date": "Jan 05",
+      "ndate": 20240105
     },
     {
       "carryoverAmount": 48399,
@@ -25,20 +25,20 @@
       "ndate": 20240108
     },
     {
-      "carryoverAmount": 18230,
-      "carryover": "$18,230",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Turfway Park",
-      "date": "Jan 04",
-      "ndate": 20240104
-    },
-    {
       "carryoverAmount": 6271,
       "carryover": "$6,271",
       "wagertype": "Pick 6 Jackpot",
       "track": "Tampa Bay",
       "date": "Jan 05",
       "ndate": 20240105
+    },
+    {
+      "carryoverAmount": 4142,
+      "carryover": "$4,142",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Mahoning Valley",
+      "date": "Jan 08",
+      "ndate": 20240108
     },
     {
       "carryoverAmount": 3612,
@@ -49,12 +49,20 @@
       "ndate": 20240105
     },
     {
-      "carryoverAmount": 2599,
-      "carryover": "$2,599",
+      "carryoverAmount": 3152,
+      "carryover": "$3,152",
       "wagertype": "Pick 6 Jackpot",
-      "track": "Mahoning Valley",
-      "date": "Jan 04",
-      "ndate": 20240104
+      "track": "Charles Town",
+      "date": "Jan 05",
+      "ndate": 20240105
+    },
+    {
+      "carryoverAmount": 3039,
+      "carryover": "$3,039",
+      "wagertype": "Super High Five",
+      "track": "Turfway Park",
+      "date": "Jan 05",
+      "ndate": 20240105
     },
     {
       "carryoverAmount": 2332,
@@ -73,12 +81,12 @@
       "ndate": 20240105
     },
     {
-      "carryoverAmount": 1695,
-      "carryover": "$1,695",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Charles Town",
-      "date": "Jan 04",
-      "ndate": 20240104
+      "carryoverAmount": 1834,
+      "carryover": "$1,834",
+      "wagertype": "Pick 6",
+      "track": "Fair Grounds",
+      "date": "Jan 05",
+      "ndate": 20240105
     }
   ]
 }
