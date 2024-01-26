@@ -1,12 +1,12 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 627159,
-      "carryover": "$627,159",
+      "carryoverAmount": 669930,
+      "carryover": "$669,930",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "Jan 25",
-      "ndate": 20240125
+      "date": "Jan 26",
+      "ndate": 20240126
     },
     {
       "carryoverAmount": 142280,
@@ -17,28 +17,20 @@
       "ndate": 20240129
     },
     {
+      "carryoverAmount": 135281,
+      "carryover": "$135,281",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Turfway Park",
+      "date": "Jan 26",
+      "ndate": 20240126
+    },
+    {
       "carryoverAmount": 134952,
       "carryover": "$134,952",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
       "date": "Jan 29",
       "ndate": 20240129
-    },
-    {
-      "carryoverAmount": 120059,
-      "carryover": "$120,059",
-      "wagertype": "Pick 5",
-      "track": "Turfway Park",
-      "date": "Jan 25",
-      "ndate": 20240125
-    },
-    {
-      "carryoverAmount": 83741,
-      "carryover": "$83,741",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Turfway Park",
-      "date": "Jan 25",
-      "ndate": 20240125
     },
     {
       "carryoverAmount": 45790,
@@ -57,14 +49,6 @@
       "ndate": 20240126
     },
     {
-      "carryoverAmount": 24555,
-      "carryover": "$24,555",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Mahoning Valley",
-      "date": "Jan 25",
-      "ndate": 20240125
-    },
-    {
       "carryoverAmount": 18240,
       "carryover": "$18,240",
       "wagertype": "Pick 6",
@@ -73,20 +57,28 @@
       "ndate": 20240126
     },
     {
-      "carryoverAmount": 8164,
-      "carryover": "$8,164",
+      "carryoverAmount": 10499,
+      "carryover": "$10,499",
       "wagertype": "Pick 6 Jackpot",
       "track": "Charles Town",
-      "date": "Jan 25",
-      "ndate": 20240125
+      "date": "Jan 26",
+      "ndate": 20240126
     },
     {
-      "carryoverAmount": 7990,
-      "carryover": "$7,990",
-      "wagertype": "Pick 4",
-      "track": "Mahoning Valley",
-      "date": "Jan 25",
-      "ndate": 20240125
+      "carryoverAmount": 8505,
+      "carryover": "$8,505",
+      "wagertype": "Pick 6",
+      "track": "Fair Grounds",
+      "date": "Jan 26",
+      "ndate": 20240126
+    },
+    {
+      "carryoverAmount": 7880,
+      "carryover": "$7,880",
+      "wagertype": "Super High Five",
+      "track": "Turfway Park",
+      "date": "Jan 26",
+      "ndate": 20240126
     },
     {
       "carryoverAmount": 6746,
@@ -105,38 +97,6 @@
       "ndate": 20240126
     },
     {
-      "carryoverAmount": 4312,
-      "carryover": "$4,312",
-      "wagertype": "Super High Five",
-      "track": "Turfway Park",
-      "date": "Jan 25",
-      "ndate": 20240125
-    },
-    {
-      "carryoverAmount": 3125,
-      "carryover": "$3,125",
-      "wagertype": "Pick 6",
-      "track": "Fair Grounds",
-      "date": "Jan 25",
-      "ndate": 20240125
-    },
-    {
-      "carryoverAmount": 1274,
-      "carryover": "$1,274",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Penn National",
-      "date": "Jan 25",
-      "ndate": 20240125
-    },
-    {
-      "carryoverAmount": 1238,
-      "carryover": "$1,238",
-      "wagertype": "Super High Five",
-      "track": "Gulfstream Park",
-      "date": "Jan 25",
-      "ndate": 20240125
-    },
-    {
       "carryoverAmount": 1116,
       "carryover": "$1,116",
       "wagertype": "Super High Five",
@@ -145,20 +105,12 @@
       "ndate": 20240126
     },
     {
-      "carryoverAmount": 722,
-      "carryover": "$722",
-      "wagertype": "Pick 5",
-      "track": "Sunland Park",
-      "date": "Jan 25",
-      "ndate": 20240125
-    },
-    {
-      "carryoverAmount": 692,
-      "carryover": "$692",
+      "carryoverAmount": 267,
+      "carryover": "$267",
       "wagertype": "Super High Five",
-      "track": "Gulfstream Park",
-      "date": "Jan 25",
-      "ndate": 20240125
+      "track": "Sunland Park",
+      "date": "Jan 26",
+      "ndate": 20240126
     }
   ]
 }
