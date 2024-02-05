@@ -17,28 +17,28 @@
       "ndate": 20240205
     },
     {
-      "carryoverAmount": 78721,
-      "carryover": "$78,721",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Tampa Bay",
-      "date": "Feb 04",
-      "ndate": 20240204
-    },
-    {
-      "carryoverAmount": 61975,
-      "carryover": "$61,975",
+      "carryoverAmount": 94554,
+      "carryover": "$94,554",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "Feb 04",
-      "ndate": 20240204
+      "date": "Feb 07",
+      "ndate": 20240207
     },
     {
-      "carryoverAmount": 47590,
-      "carryover": "$47,590",
+      "carryoverAmount": 86704,
+      "carryover": "$86,704",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Tampa Bay",
+      "date": "Feb 07",
+      "ndate": 20240207
+    },
+    {
+      "carryoverAmount": 58749,
+      "carryover": "$58,749",
       "wagertype": "Pick 6 Jackpot",
       "track": "Golden Gate",
-      "date": "Feb 04",
-      "ndate": 20240204
+      "date": "Feb 09",
+      "ndate": 20240209
     },
     {
       "carryoverAmount": 27577,
@@ -69,16 +69,8 @@
       "carryover": "$6,153",
       "wagertype": "Super High Five",
       "track": "Santa Anita",
-      "date": "Feb 04",
-      "ndate": 20240204
-    },
-    {
-      "carryoverAmount": 5320,
-      "carryover": "$5,320",
-      "wagertype": "Super High Five",
-      "track": "Golden Gate",
-      "date": "Feb 04",
-      "ndate": 20240204
+      "date": "Feb 09",
+      "ndate": 20240209
     },
     {
       "carryoverAmount": 2872,
@@ -89,12 +81,20 @@
       "ndate": 20240207
     },
     {
-      "carryoverAmount": 1559,
-      "carryover": "$1,559",
+      "carryoverAmount": 2579,
+      "carryover": "$2,579",
       "wagertype": "Pick 6 Jackpot",
       "track": "Laurel Park",
-      "date": "Feb 04",
-      "ndate": 20240204
+      "date": "Feb 09",
+      "ndate": 20240209
+    },
+    {
+      "carryoverAmount": 1899,
+      "carryover": "$1,899",
+      "wagertype": "Pick 6",
+      "track": "Fair Grounds",
+      "date": "Feb 08",
+      "ndate": 20240208
     },
     {
       "carryoverAmount": 1224,
@@ -105,12 +105,28 @@
       "ndate": 20240207
     },
     {
-      "carryoverAmount": 124,
-      "carryover": "$124",
+      "carryoverAmount": 558,
+      "carryover": "$558",
       "wagertype": "Super High Five",
       "track": "Sunland Park",
-      "date": "Feb 04",
-      "ndate": 20240204
+      "date": "Feb 08",
+      "ndate": 20240208
+    },
+    {
+      "carryoverAmount": 423,
+      "carryover": "$423",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Sam Houston",
+      "date": "Feb 09",
+      "ndate": 20240209
+    },
+    {
+      "carryoverAmount": 254,
+      "carryover": "$254",
+      "wagertype": "Pick 5",
+      "track": "Sam Houston",
+      "date": "Feb 09",
+      "ndate": 20240209
     }
   ]
 }
