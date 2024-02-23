@@ -1,20 +1,20 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 319303,
-      "carryover": "$319,303",
+      "carryoverAmount": 357877,
+      "carryover": "$357,877",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "Feb 22",
-      "ndate": 20240222
+      "date": "Feb 23",
+      "ndate": 20240223
     },
     {
-      "carryoverAmount": 55789,
-      "carryover": "$55,789",
+      "carryoverAmount": 59638,
+      "carryover": "$59,638",
       "wagertype": "Pick 6 Jackpot",
       "track": "Turfway Park",
-      "date": "Feb 22",
-      "ndate": 20240222
+      "date": "Feb 23",
+      "ndate": 20240223
     },
     {
       "carryoverAmount": 36213,
@@ -33,20 +33,20 @@
       "ndate": 20240224
     },
     {
-      "carryoverAmount": 22580,
-      "carryover": "$22,580",
-      "wagertype": "Pick 5",
-      "track": "Turf Paradise",
-      "date": "Feb 22",
-      "ndate": 20240222
-    },
-    {
-      "carryoverAmount": 15874,
-      "carryover": "$15,874",
+      "carryoverAmount": 19230,
+      "carryover": "$19,230",
       "wagertype": "Pick 6 Jackpot",
       "track": "Mahoning Valley",
-      "date": "Feb 22",
-      "ndate": 20240222
+      "date": "Feb 24",
+      "ndate": 20240224
+    },
+    {
+      "carryoverAmount": 11549,
+      "carryover": "$11,549",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Turf Paradise",
+      "date": "Feb 26",
+      "ndate": 20240226
     },
     {
       "carryoverAmount": 10461,
@@ -57,14 +57,6 @@
       "ndate": 20240223
     },
     {
-      "carryoverAmount": 8773,
-      "carryover": "$8,773",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Turf Paradise",
-      "date": "Feb 22",
-      "ndate": 20240222
-    },
-    {
       "carryoverAmount": 8338,
       "carryover": "$8,338",
       "wagertype": "Pick 6 Jackpot",
@@ -73,12 +65,20 @@
       "ndate": 20240223
     },
     {
-      "carryoverAmount": 2438,
-      "carryover": "$2,438",
+      "carryoverAmount": 6646,
+      "carryover": "$6,646",
       "wagertype": "Pick 6",
       "track": "Fair Grounds",
-      "date": "Feb 22",
-      "ndate": 20240222
+      "date": "Feb 23",
+      "ndate": 20240223
+    },
+    {
+      "carryoverAmount": 3700,
+      "carryover": "$3,700",
+      "wagertype": "Pick 5",
+      "track": "Penn National",
+      "date": "Feb 23",
+      "ndate": 20240223
     },
     {
       "carryoverAmount": 2343,
@@ -87,6 +87,14 @@
       "track": "Fonner Park",
       "date": "Feb 24",
       "ndate": 20240224
+    },
+    {
+      "carryoverAmount": 1957,
+      "carryover": "$1,957",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Charles Town",
+      "date": "Feb 23",
+      "ndate": 20240223
     },
     {
       "carryoverAmount": 1118,
@@ -105,6 +113,14 @@
       "ndate": 20240223
     },
     {
+      "carryoverAmount": 795,
+      "carryover": "$795",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Penn National",
+      "date": "Feb 23",
+      "ndate": 20240223
+    },
+    {
       "carryoverAmount": 548,
       "carryover": "$548",
       "wagertype": "Pick 5",
@@ -113,12 +129,12 @@
       "ndate": 20240223
     },
     {
-      "carryoverAmount": 291,
-      "carryover": "$291",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Penn National",
-      "date": "Feb 22",
-      "ndate": 20240222
+      "carryoverAmount": 431,
+      "carryover": "$431",
+      "wagertype": "Super High Five",
+      "track": "Sunland Park",
+      "date": "Feb 23",
+      "ndate": 20240223
     }
   ]
 }
