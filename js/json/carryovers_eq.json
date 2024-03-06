@@ -1,20 +1,20 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 51072,
-      "carryover": "$51,072",
+      "carryoverAmount": 81550,
+      "carryover": "$81,550",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Mar 05",
-      "ndate": 20240305
+      "date": "Mar 06",
+      "ndate": 20240306
     },
     {
-      "carryoverAmount": 38382,
-      "carryover": "$38,382",
+      "carryoverAmount": 64651,
+      "carryover": "$64,651",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Mar 05",
-      "ndate": 20240305
+      "date": "Mar 06",
+      "ndate": 20240306
     },
     {
       "carryoverAmount": 29275,
@@ -41,12 +41,28 @@
       "ndate": 20240306
     },
     {
+      "carryoverAmount": 8863,
+      "carryover": "$8,863",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Turf Paradise",
+      "date": "Mar 06",
+      "ndate": 20240306
+    },
+    {
       "carryoverAmount": 7848,
       "carryover": "$7,848",
       "wagertype": "Pick 6 Jackpot",
       "track": "Golden Gate",
       "date": "Mar 08",
       "ndate": 20240308
+    },
+    {
+      "carryoverAmount": 7693,
+      "carryover": "$7,693",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Mahoning Valley",
+      "date": "Mar 06",
+      "ndate": 20240306
     },
     {
       "carryoverAmount": 6104,
@@ -65,14 +81,6 @@
       "ndate": 20240306
     },
     {
-      "carryoverAmount": 3341,
-      "carryover": "$3,341",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Mahoning Valley",
-      "date": "Mar 05",
-      "ndate": 20240305
-    },
-    {
       "carryoverAmount": 3274,
       "carryover": "$3,274",
       "wagertype": "Super High Five",
@@ -89,20 +97,20 @@
       "ndate": 20240306
     },
     {
-      "carryoverAmount": 2606,
-      "carryover": "$2,606",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Turf Paradise",
-      "date": "Mar 05",
-      "ndate": 20240305
-    },
-    {
       "carryoverAmount": 1085,
       "carryover": "$1,085",
       "wagertype": "Pick 6",
       "track": "Fair Grounds",
       "date": "Mar 06",
       "ndate": 20240306
+    },
+    {
+      "carryoverAmount": 750,
+      "carryover": "$750",
+      "wagertype": "Pick 5",
+      "track": "Fonner Park",
+      "date": "Mar 08",
+      "ndate": 20240308
     },
     {
       "carryoverAmount": 602,
