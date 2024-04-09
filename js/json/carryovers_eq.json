@@ -1,36 +1,20 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 376658,
-      "carryover": "$376,658",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Parx Racing",
-      "date": "Apr 08",
-      "ndate": 20240408
-    },
-    {
-      "carryoverAmount": 351672,
-      "carryover": "$351,672",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Parx Racing",
-      "date": "Apr 08",
-      "ndate": 20240408
-    },
-    {
-      "carryoverAmount": 208748,
-      "carryover": "$208,748",
+      "carryoverAmount": 244129,
+      "carryover": "$244,129",
       "wagertype": "Pick 6 Jackpot",
       "track": "Turf Paradise",
-      "date": "Apr 08",
-      "ndate": 20240408
+      "date": "Apr 09",
+      "ndate": 20240409
     },
     {
-      "carryoverAmount": 83558,
-      "carryover": "$83,558",
+      "carryoverAmount": 90356,
+      "carryover": "$90,356",
       "wagertype": "Pick 6 Jackpot",
       "track": "Mahoning Valley",
-      "date": "Apr 08",
-      "ndate": 20240408
+      "date": "Apr 09",
+      "ndate": 20240409
     },
     {
       "carryoverAmount": 63322,
@@ -71,14 +55,6 @@
       "track": "Tampa Bay",
       "date": "Apr 10",
       "ndate": 20240410
-    },
-    {
-      "carryoverAmount": 2566,
-      "carryover": "$2,566",
-      "wagertype": "Super High Five",
-      "track": "Golden Gate",
-      "date": "Apr 12",
-      "ndate": 20240412
     }
   ]
 }
