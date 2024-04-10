@@ -1,20 +1,20 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 244129,
-      "carryover": "$244,129",
+      "carryoverAmount": 267891,
+      "carryover": "$267,891",
       "wagertype": "Pick 6 Jackpot",
       "track": "Turf Paradise",
-      "date": "Apr 09",
-      "ndate": 20240409
+      "date": "Apr 10",
+      "ndate": 20240410
     },
     {
-      "carryoverAmount": 90356,
-      "carryover": "$90,356",
+      "carryoverAmount": 96018,
+      "carryover": "$96,018",
       "wagertype": "Pick 6 Jackpot",
       "track": "Mahoning Valley",
-      "date": "Apr 09",
-      "ndate": 20240409
+      "date": "Apr 10",
+      "ndate": 20240410
     },
     {
       "carryoverAmount": 63322,
@@ -31,6 +31,14 @@
       "track": "Golden Gate",
       "date": "Apr 12",
       "ndate": 20240412
+    },
+    {
+      "carryoverAmount": 15312,
+      "carryover": "$15,312",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Parx Racing",
+      "date": "Apr 10",
+      "ndate": 20240410
     },
     {
       "carryoverAmount": 14441,
@@ -55,6 +63,30 @@
       "track": "Tampa Bay",
       "date": "Apr 10",
       "ndate": 20240410
+    },
+    {
+      "carryoverAmount": 1779,
+      "carryover": "$1,779",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Fonner Park",
+      "date": "Apr 12",
+      "ndate": 20240412
+    },
+    {
+      "carryoverAmount": 1757,
+      "carryover": "$1,757",
+      "wagertype": "Pick 6",
+      "track": "Hawthorne",
+      "date": "Apr 13",
+      "ndate": 20240413
+    },
+    {
+      "carryoverAmount": 1328,
+      "carryover": "$1,328",
+      "wagertype": "Place Pick 8",
+      "track": "Hawthorne",
+      "date": "Apr 13",
+      "ndate": 20240413
     }
   ]
 }
