@@ -1,20 +1,20 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 267891,
-      "carryover": "$267,891",
+      "carryoverAmount": 305925,
+      "carryover": "$305,925",
       "wagertype": "Pick 6 Jackpot",
       "track": "Turf Paradise",
-      "date": "Apr 10",
-      "ndate": 20240410
+      "date": "Apr 11",
+      "ndate": 20240411
     },
     {
-      "carryoverAmount": 96018,
-      "carryover": "$96,018",
+      "carryoverAmount": 101058,
+      "carryover": "$101,058",
       "wagertype": "Pick 6 Jackpot",
       "track": "Mahoning Valley",
-      "date": "Apr 10",
-      "ndate": 20240410
+      "date": "Apr 11",
+      "ndate": 20240411
     },
     {
       "carryoverAmount": 63322,
@@ -33,14 +33,6 @@
       "ndate": 20240412
     },
     {
-      "carryoverAmount": 15312,
-      "carryover": "$15,312",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Parx Racing",
-      "date": "Apr 10",
-      "ndate": 20240410
-    },
-    {
       "carryoverAmount": 14441,
       "carryover": "$14,441",
       "wagertype": "Pick 6 Jackpot",
@@ -49,20 +41,12 @@
       "ndate": 20240411
     },
     {
-      "carryoverAmount": 7472,
-      "carryover": "$7,472",
-      "wagertype": "Super High Five",
-      "track": "Keeneland",
-      "date": "Apr 10",
-      "ndate": 20240410
-    },
-    {
-      "carryoverAmount": 2628,
-      "carryover": "$2,628",
-      "wagertype": "Super High Five",
-      "track": "Tampa Bay",
-      "date": "Apr 10",
-      "ndate": 20240410
+      "carryoverAmount": 7132,
+      "carryover": "$7,132",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Parx Racing",
+      "date": "Apr 15",
+      "ndate": 20240415
     },
     {
       "carryoverAmount": 1779,
@@ -81,12 +65,28 @@
       "ndate": 20240413
     },
     {
+      "carryoverAmount": 1632,
+      "carryover": "$1,632",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Tampa Bay",
+      "date": "Apr 12",
+      "ndate": 20240412
+    },
+    {
       "carryoverAmount": 1328,
       "carryover": "$1,328",
       "wagertype": "Place Pick 8",
       "track": "Hawthorne",
       "date": "Apr 13",
       "ndate": 20240413
+    },
+    {
+      "carryoverAmount": 1225,
+      "carryover": "$1,225",
+      "wagertype": "Super High Five",
+      "track": "Horseshoe",
+      "date": "Apr 16",
+      "ndate": 20240416
     }
   ]
 }
