@@ -17,36 +17,44 @@
       "ndate": 20240413
     },
     {
-      "carryoverAmount": 78357,
-      "carryover": "$78,357",
+      "carryoverAmount": 95230,
+      "carryover": "$95,230",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "Apr 12",
-      "ndate": 20240412
+      "date": "Apr 13",
+      "ndate": 20240413
     },
     {
-      "carryoverAmount": 57465,
-      "carryover": "$57,465",
+      "carryoverAmount": 60597,
+      "carryover": "$60,597",
       "wagertype": "Pick 6 Jackpot",
       "track": "Golden Gate",
-      "date": "Apr 12",
-      "ndate": 20240412
+      "date": "Apr 13",
+      "ndate": 20240413
     },
     {
-      "carryoverAmount": 23062,
-      "carryover": "$23,062",
-      "wagertype": "Pick 6",
-      "track": "Aqueduct",
-      "date": "Apr 12",
-      "ndate": 20240412
+      "carryoverAmount": 47362,
+      "carryover": "$47,362",
+      "wagertype": "Pick 5",
+      "track": "Charles Town",
+      "date": "Apr 13",
+      "ndate": 20240413
     },
     {
-      "carryoverAmount": 17796,
-      "carryover": "$17,796",
+      "carryoverAmount": 36345,
+      "carryover": "$36,345",
+      "wagertype": "Superfecta",
+      "track": "Evangeline",
+      "date": "Apr 13",
+      "ndate": 20240413
+    },
+    {
+      "carryoverAmount": 22697,
+      "carryover": "$22,697",
       "wagertype": "Pick 6 Jackpot",
       "track": "Charles Town",
-      "date": "Apr 12",
-      "ndate": 20240412
+      "date": "Apr 13",
+      "ndate": 20240413
     },
     {
       "carryoverAmount": 7132,
@@ -57,12 +65,12 @@
       "ndate": 20240415
     },
     {
-      "carryoverAmount": 1779,
-      "carryover": "$1,779",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Fonner Park",
-      "date": "Apr 12",
-      "ndate": 20240412
+      "carryoverAmount": 2863,
+      "carryover": "$2,863",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Tampa Bay",
+      "date": "Apr 13",
+      "ndate": 20240413
     },
     {
       "carryoverAmount": 1757,
@@ -71,14 +79,6 @@
       "track": "Hawthorne",
       "date": "Apr 13",
       "ndate": 20240413
-    },
-    {
-      "carryoverAmount": 1632,
-      "carryover": "$1,632",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Tampa Bay",
-      "date": "Apr 12",
-      "ndate": 20240412
     },
     {
       "carryoverAmount": 1328,
@@ -95,6 +95,14 @@
       "track": "Horseshoe",
       "date": "Apr 16",
       "ndate": 20240416
+    },
+    {
+      "carryoverAmount": 839,
+      "carryover": "$839",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Laurel Park",
+      "date": "Apr 13",
+      "ndate": 20240413
     }
   ]
 }
