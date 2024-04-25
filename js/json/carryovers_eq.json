@@ -1,12 +1,20 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 540834,
-      "carryover": "$540,834",
+      "carryoverAmount": 572763,
+      "carryover": "$572,763",
       "wagertype": "Pick 6 Jackpot",
       "track": "Turf Paradise",
-      "date": "Apr 24",
-      "ndate": 20240424
+      "date": "Apr 25",
+      "ndate": 20240425
+    },
+    {
+      "carryoverAmount": 286380,
+      "carryover": "$286,380",
+      "wagertype": "Pick 6",
+      "track": "Keeneland",
+      "date": "Apr 25",
+      "ndate": 20240425
     },
     {
       "carryoverAmount": 267185,
@@ -17,20 +25,20 @@
       "ndate": 20240425
     },
     {
-      "carryoverAmount": 154694,
-      "carryover": "$154,694",
+      "carryoverAmount": 176026,
+      "carryover": "$176,026",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Apr 24",
-      "ndate": 20240424
+      "date": "Apr 29",
+      "ndate": 20240429
     },
     {
-      "carryoverAmount": 138802,
-      "carryover": "$138,802",
+      "carryoverAmount": 165337,
+      "carryover": "$165,337",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Apr 24",
-      "ndate": 20240424
+      "date": "Apr 29",
+      "ndate": 20240429
     },
     {
       "carryoverAmount": 82785,
@@ -39,14 +47,6 @@
       "track": "Golden Gate",
       "date": "Apr 26",
       "ndate": 20240426
-    },
-    {
-      "carryoverAmount": 56441,
-      "carryover": "$56,441",
-      "wagertype": "Pick 6",
-      "track": "Keeneland",
-      "date": "Apr 24",
-      "ndate": 20240424
     },
     {
       "carryoverAmount": 12280,
@@ -63,6 +63,14 @@
       "track": "Laurel Park",
       "date": "Apr 26",
       "ndate": 20240426
+    },
+    {
+      "carryoverAmount": 7022,
+      "carryover": "$7,022",
+      "wagertype": "Super High Five",
+      "track": "Keeneland",
+      "date": "Apr 25",
+      "ndate": 20240425
     },
     {
       "carryoverAmount": 6519,
@@ -89,6 +97,14 @@
       "ndate": 20240427
     },
     {
+      "carryoverAmount": 3483,
+      "carryover": "$3,483",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Thistledown",
+      "date": "Apr 25",
+      "ndate": 20240425
+    },
+    {
       "carryoverAmount": 2974,
       "carryover": "$2,974",
       "wagertype": "Super High Five",
@@ -105,20 +121,28 @@
       "ndate": 20240425
     },
     {
+      "carryoverAmount": 1876,
+      "carryover": "$1,876",
+      "wagertype": "Super High Five",
+      "track": "Tampa Bay",
+      "date": "Apr 26",
+      "ndate": 20240426
+    },
+    {
+      "carryoverAmount": 1619,
+      "carryover": "$1,619",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Tampa Bay",
+      "date": "Apr 26",
+      "ndate": 20240426
+    },
+    {
       "carryoverAmount": 1611,
       "carryover": "$1,611",
       "wagertype": "Super High Five",
       "track": "Golden Gate",
       "date": "Apr 26",
       "ndate": 20240426
-    },
-    {
-      "carryoverAmount": 1588,
-      "carryover": "$1,588",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Thistledown",
-      "date": "Apr 24",
-      "ndate": 20240424
     },
     {
       "carryoverAmount": 1072,
