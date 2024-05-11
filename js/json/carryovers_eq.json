@@ -1,14 +1,6 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 104581,
-      "carryover": "$104,581",
-      "wagertype": "Pick 6",
-      "track": "Santa Anita",
-      "date": "May 10",
-      "ndate": 20240510
-    },
-    {
       "carryoverAmount": 98665,
       "carryover": "$98,665",
       "wagertype": "Pick 5 Jackpot",
@@ -17,12 +9,12 @@
       "ndate": 20240513
     },
     {
-      "carryoverAmount": 24697,
-      "carryover": "$24,697",
+      "carryoverAmount": 30463,
+      "carryover": "$30,463",
       "wagertype": "Super High Five Jackpot",
       "track": "Woodbine",
-      "date": "May 10",
-      "ndate": 20240510
+      "date": "May 11",
+      "ndate": 20240511
     },
     {
       "carryoverAmount": 20674,
@@ -33,20 +25,28 @@
       "ndate": 20240513
     },
     {
-      "carryoverAmount": 15030,
-      "carryover": "$15,030",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Woodbine",
-      "date": "May 10",
-      "ndate": 20240510
-    },
-    {
-      "carryoverAmount": 10285,
-      "carryover": "$10,285",
+      "carryoverAmount": 20215,
+      "carryover": "$20,215",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "May 10",
-      "ndate": 20240510
+      "date": "May 11",
+      "ndate": 20240511
+    },
+    {
+      "carryoverAmount": 18486,
+      "carryover": "$18,486",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Woodbine",
+      "date": "May 11",
+      "ndate": 20240511
+    },
+    {
+      "carryoverAmount": 13009,
+      "carryover": "$13,009",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Charles Town",
+      "date": "May 11",
+      "ndate": 20240511
     },
     {
       "carryoverAmount": 9681,
@@ -57,20 +57,12 @@
       "ndate": 20240511
     },
     {
-      "carryoverAmount": 9554,
-      "carryover": "$9,554",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Charles Town",
-      "date": "May 10",
-      "ndate": 20240510
-    },
-    {
-      "carryoverAmount": 8736,
-      "carryover": "$8,736",
+      "carryoverAmount": 9243,
+      "carryover": "$9,243",
       "wagertype": "Super High Five Jackpot",
       "track": "Lone Star",
-      "date": "May 10",
-      "ndate": 20240510
+      "date": "May 11",
+      "ndate": 20240511
     },
     {
       "carryoverAmount": 6144,
@@ -81,68 +73,108 @@
       "ndate": 20240513
     },
     {
-      "carryoverAmount": 4353,
-      "carryover": "$4,353",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Churchill Downs",
-      "date": "May 10",
-      "ndate": 20240510
-    },
-    {
-      "carryoverAmount": 4349,
-      "carryover": "$4,349",
+      "carryoverAmount": 5647,
+      "carryover": "$5,647",
       "wagertype": "Super High Five",
       "track": "Churchill Downs",
-      "date": "May 10",
-      "ndate": 20240510
+      "date": "May 11",
+      "ndate": 20240511
     },
     {
-      "carryoverAmount": 3290,
-      "carryover": "$3,290",
+      "carryoverAmount": 4841,
+      "carryover": "$4,841",
+      "wagertype": "Pick 5",
+      "track": "Hastings",
+      "date": "May 11",
+      "ndate": 20240511
+    },
+    {
+      "carryoverAmount": 4526,
+      "carryover": "$4,526",
       "wagertype": "Pick 6 Jackpot",
       "track": "Golden Gate",
-      "date": "May 10",
-      "ndate": 20240510
+      "date": "May 11",
+      "ndate": 20240511
     },
     {
-      "carryoverAmount": 3283,
-      "carryover": "$3,283",
-      "wagertype": "Pick 4",
-      "track": "Century Mile",
-      "date": "May 10",
-      "ndate": 20240510
+      "carryoverAmount": 3462,
+      "carryover": "$3,462",
+      "wagertype": "Super High Five",
+      "track": "Golden Gate",
+      "date": "May 11",
+      "ndate": 20240511
     },
     {
-      "carryoverAmount": 1302,
-      "carryover": "$1,302",
+      "carryoverAmount": 3388,
+      "carryover": "$3,388",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Prairie Meadows",
+      "date": "May 11",
+      "ndate": 20240511
+    },
+    {
+      "carryoverAmount": 3143,
+      "carryover": "$3,143",
       "wagertype": "Super High Five",
       "track": "Pimlico",
-      "date": "May 10",
-      "ndate": 20240510
+      "date": "May 11",
+      "ndate": 20240511
     },
     {
-      "carryoverAmount": 952,
-      "carryover": "$952",
+      "carryoverAmount": 2850,
+      "carryover": "$2,850",
       "wagertype": "Super High Five",
       "track": "Belterra Park",
-      "date": "May 10",
-      "ndate": 20240510
+      "date": "May 11",
+      "ndate": 20240511
     },
     {
-      "carryoverAmount": 749,
-      "carryover": "$749",
+      "carryoverAmount": 2396,
+      "carryover": "$2,396",
+      "wagertype": "Pick 4",
+      "track": "Century Mile",
+      "date": "May 11",
+      "ndate": 20240511
+    },
+    {
+      "carryoverAmount": 733,
+      "carryover": "$733",
       "wagertype": "Pick 5",
-      "track": "Lone Star",
-      "date": "May 10",
-      "ndate": 20240510
+      "track": "Century Mile",
+      "date": "May 11",
+      "ndate": 20240511
     },
     {
-      "carryoverAmount": 184,
-      "carryover": "$184",
+      "carryoverAmount": 427,
+      "carryover": "$427",
+      "wagertype": "Pick 5",
+      "track": "Sam Houston",
+      "date": "May 11",
+      "ndate": 20240511
+    },
+    {
+      "carryoverAmount": 402,
+      "carryover": "$402",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Prairie Meadows",
+      "date": "May 11",
+      "ndate": 20240511
+    },
+    {
+      "carryoverAmount": 282,
+      "carryover": "$282",
+      "wagertype": "Pick 6",
+      "track": "Sam Houston",
+      "date": "May 11",
+      "ndate": 20240511
+    },
+    {
+      "carryoverAmount": 196,
+      "carryover": "$196",
       "wagertype": "Pick 6",
       "track": "Sunray Park",
-      "date": "May 10",
-      "ndate": 20240510
+      "date": "May 11",
+      "ndate": 20240511
     }
   ]
 }
