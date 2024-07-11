@@ -1,14 +1,6 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 294782,
-      "carryover": "$294,782",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Assiniboia",
-      "date": "Jul 10",
-      "ndate": 20240710
-    },
-    {
       "carryoverAmount": 267363,
       "carryover": "$267,363",
       "wagertype": "Pick 6 Jackpot",
@@ -23,6 +15,14 @@
       "track": "Prairie Meadows",
       "date": "Jul 12",
       "ndate": 20240712
+    },
+    {
+      "carryoverAmount": 70094,
+      "carryover": "$70,094",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Parx Racing",
+      "date": "Jul 15",
+      "ndate": 20240715
     },
     {
       "carryoverAmount": 66625,
@@ -49,12 +49,12 @@
       "ndate": 20240712
     },
     {
-      "carryoverAmount": 40757,
-      "carryover": "$40,757",
+      "carryoverAmount": 53138,
+      "carryover": "$53,138",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Jul 10",
-      "ndate": 20240710
+      "date": "Jul 15",
+      "ndate": 20240715
     },
     {
       "carryoverAmount": 30404,
@@ -71,14 +71,6 @@
       "track": "Charles Town",
       "date": "Jul 11",
       "ndate": 20240711
-    },
-    {
-      "carryoverAmount": 25579,
-      "carryover": "$25,579",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Parx Racing",
-      "date": "Jul 10",
-      "ndate": 20240710
     },
     {
       "carryoverAmount": 16111,
@@ -113,6 +105,22 @@
       "ndate": 20240712
     },
     {
+      "carryoverAmount": 5469,
+      "carryover": "$5,469",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Thistledown",
+      "date": "Jul 11",
+      "ndate": 20240711
+    },
+    {
+      "carryoverAmount": 4650,
+      "carryover": "$4,650",
+      "wagertype": "Super High Five",
+      "track": "Horseshoe",
+      "date": "Jul 11",
+      "ndate": 20240711
+    },
+    {
       "carryoverAmount": 4415,
       "carryover": "$4,415",
       "wagertype": "Super High Five",
@@ -121,44 +129,20 @@
       "ndate": 20240713
     },
     {
-      "carryoverAmount": 3543,
-      "carryover": "$3,543",
-      "wagertype": "Super High Five",
-      "track": "Assiniboia",
-      "date": "Jul 10",
-      "ndate": 20240710
-    },
-    {
-      "carryoverAmount": 2995,
-      "carryover": "$2,995",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Thistledown",
-      "date": "Jul 10",
-      "ndate": 20240710
-    },
-    {
-      "carryoverAmount": 2112,
-      "carryover": "$2,112",
+      "carryoverAmount": 4385,
+      "carryover": "$4,385",
       "wagertype": "Pick 6 Jackpot",
       "track": "Louisiana Downs",
-      "date": "Jul 10",
-      "ndate": 20240710
+      "date": "Jul 15",
+      "ndate": 20240715
     },
     {
-      "carryoverAmount": 2005,
-      "carryover": "$2,005",
-      "wagertype": "Super High Five",
-      "track": "Penn National",
-      "date": "Jul 10",
-      "ndate": 20240710
-    },
-    {
-      "carryoverAmount": 1764,
-      "carryover": "$1,764",
+      "carryoverAmount": 3055,
+      "carryover": "$3,055",
       "wagertype": "Pick 5",
-      "track": "Presque Isle",
-      "date": "Jul 10",
-      "ndate": 20240710
+      "track": "Century Mile",
+      "date": "Jul 12",
+      "ndate": 20240712
     },
     {
       "carryoverAmount": 1281,
@@ -167,6 +151,14 @@
       "track": "Emerald Downs",
       "date": "Jul 12",
       "ndate": 20240712
+    },
+    {
+      "carryoverAmount": 940,
+      "carryover": "$940",
+      "wagertype": "Pick 6",
+      "track": "Finger Lakes",
+      "date": "Jul 15",
+      "ndate": 20240715
     },
     {
       "carryoverAmount": 791,
