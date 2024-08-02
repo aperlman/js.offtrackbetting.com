@@ -1,12 +1,12 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 56458,
-      "carryover": "$56,458",
-      "wagertype": "Pick 6",
-      "track": "Saratoga",
-      "date": "Aug 01",
-      "ndate": 20240801
+      "carryoverAmount": 49979,
+      "carryover": "$49,979",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Fort Erie",
+      "date": "Aug 05",
+      "ndate": 20240805
     },
     {
       "carryoverAmount": 38103,
@@ -25,28 +25,28 @@
       "ndate": 20240803
     },
     {
-      "carryoverAmount": 19051,
-      "carryover": "$19,051",
-      "wagertype": "Super High Five",
-      "track": "Belterra Park",
-      "date": "Aug 01",
-      "ndate": 20240801
-    },
-    {
-      "carryoverAmount": 14006,
-      "carryover": "$14,006",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Woodbine",
-      "date": "Aug 01",
-      "ndate": 20240801
-    },
-    {
-      "carryoverAmount": 13527,
-      "carryover": "$13,527",
+      "carryoverAmount": 27374,
+      "carryover": "$27,374",
       "wagertype": "Super High Five Jackpot",
       "track": "Woodbine",
-      "date": "Aug 01",
-      "ndate": 20240801
+      "date": "Aug 02",
+      "ndate": 20240802
+    },
+    {
+      "carryoverAmount": 20490,
+      "carryover": "$20,490",
+      "wagertype": "Super High Five",
+      "track": "Belterra Park",
+      "date": "Aug 02",
+      "ndate": 20240802
+    },
+    {
+      "carryoverAmount": 18386,
+      "carryover": "$18,386",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Woodbine",
+      "date": "Aug 02",
+      "ndate": 20240802
     },
     {
       "carryoverAmount": 8730,
@@ -57,12 +57,20 @@
       "ndate": 20240802
     },
     {
-      "carryoverAmount": 7589,
-      "carryover": "$7,589",
+      "carryoverAmount": 8693,
+      "carryover": "$8,693",
       "wagertype": "Super High Five Jackpot",
       "track": "Penn National",
-      "date": "Aug 01",
-      "ndate": 20240801
+      "date": "Aug 02",
+      "ndate": 20240802
+    },
+    {
+      "carryoverAmount": 8307,
+      "carryover": "$8,307",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Thistledown",
+      "date": "Aug 05",
+      "ndate": 20240805
     },
     {
       "carryoverAmount": 6555,
@@ -73,20 +81,20 @@
       "ndate": 20240802
     },
     {
-      "carryoverAmount": 6253,
-      "carryover": "$6,253",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Thistledown",
-      "date": "Aug 01",
-      "ndate": 20240801
+      "carryoverAmount": 5740,
+      "carryover": "$5,740",
+      "wagertype": "Pick 5",
+      "track": "Hawthorne",
+      "date": "Aug 04",
+      "ndate": 20240804
     },
     {
-      "carryoverAmount": 5062,
-      "carryover": "$5,062",
-      "wagertype": "Super High Five",
-      "track": "Horseshoe",
-      "date": "Aug 01",
-      "ndate": 20240801
+      "carryoverAmount": 5238,
+      "carryover": "$5,238",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Charles Town",
+      "date": "Aug 02",
+      "ndate": 20240802
     },
     {
       "carryoverAmount": 4172,
@@ -97,12 +105,12 @@
       "ndate": 20240802
     },
     {
-      "carryoverAmount": 2557,
-      "carryover": "$2,557",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Charles Town",
-      "date": "Aug 01",
-      "ndate": 20240801
+      "carryoverAmount": 3111,
+      "carryover": "$3,111",
+      "wagertype": "Super High Five",
+      "track": "Hawthorne",
+      "date": "Aug 04",
+      "ndate": 20240804
     },
     {
       "carryoverAmount": 2107,
@@ -129,20 +137,20 @@
       "ndate": 20240802
     },
     {
-      "carryoverAmount": 1395,
-      "carryover": "$1,395",
-      "wagertype": "Super High Five",
-      "track": "Hawthorne",
-      "date": "Aug 01",
-      "ndate": 20240801
-    },
-    {
       "carryoverAmount": 936,
       "carryover": "$936",
       "wagertype": "Pick 6",
       "track": "Finger Lakes",
       "date": "Aug 05",
       "ndate": 20240805
+    },
+    {
+      "carryoverAmount": 733,
+      "carryover": "$733",
+      "wagertype": "Pick 6",
+      "track": "Colonial Downs",
+      "date": "Aug 02",
+      "ndate": 20240802
     }
   ]
 }
