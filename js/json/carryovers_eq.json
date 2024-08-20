@@ -1,14 +1,6 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 93583,
-      "carryover": "$93,583",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Ellis Park",
-      "date": "Aug 19",
-      "ndate": 20240819
-    },
-    {
       "carryoverAmount": 80040,
       "carryover": "$80,040",
       "wagertype": "Super High Five Jackpot",
@@ -25,20 +17,20 @@
       "ndate": 20240822
     },
     {
-      "carryoverAmount": 42141,
-      "carryover": "$42,141",
+      "carryoverAmount": 54553,
+      "carryover": "$54,553",
       "wagertype": "Pick 5 Jackpot",
       "track": "Assiniboia",
-      "date": "Aug 19",
-      "ndate": 20240819
+      "date": "Aug 20",
+      "ndate": 20240820
     },
     {
-      "carryoverAmount": 32961,
-      "carryover": "$32,961",
+      "carryoverAmount": 39865,
+      "carryover": "$39,865",
       "wagertype": "Pick 5 Jackpot",
       "track": "Prairie Meadows",
-      "date": "Aug 19",
-      "ndate": 20240819
+      "date": "Aug 23",
+      "ndate": 20240823
     },
     {
       "carryoverAmount": 23330,
@@ -73,12 +65,28 @@
       "ndate": 20240823
     },
     {
-      "carryoverAmount": 11846,
-      "carryover": "$11,846",
+      "carryoverAmount": 14638,
+      "carryover": "$14,638",
       "wagertype": "Pick 6 Jackpot",
       "track": "Louisiana Downs",
-      "date": "Aug 19",
-      "ndate": 20240819
+      "date": "Aug 20",
+      "ndate": 20240820
+    },
+    {
+      "carryoverAmount": 14629,
+      "carryover": "$14,629",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Parx Racing",
+      "date": "Aug 20",
+      "ndate": 20240820
+    },
+    {
+      "carryoverAmount": 7624,
+      "carryover": "$7,624",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Parx Racing",
+      "date": "Aug 20",
+      "ndate": 20240820
     },
     {
       "carryoverAmount": 6211,
@@ -97,12 +105,28 @@
       "ndate": 20240823
     },
     {
-      "carryoverAmount": 3704,
-      "carryover": "$3,704",
+      "carryoverAmount": 4828,
+      "carryover": "$4,828",
       "wagertype": "Super High Five Jackpot",
       "track": "Prairie Meadows",
-      "date": "Aug 19",
-      "ndate": 20240819
+      "date": "Aug 23",
+      "ndate": 20240823
+    },
+    {
+      "carryoverAmount": 4093,
+      "carryover": "$4,093",
+      "wagertype": "Super High Five",
+      "track": "Louisiana Downs",
+      "date": "Aug 20",
+      "ndate": 20240820
+    },
+    {
+      "carryoverAmount": 3136,
+      "carryover": "$3,136",
+      "wagertype": "Super High Five",
+      "track": "Ellis Park",
+      "date": "Aug 24",
+      "ndate": 20240824
     },
     {
       "carryoverAmount": 3119,
@@ -121,20 +145,20 @@
       "ndate": 20240823
     },
     {
-      "carryoverAmount": 1782,
-      "carryover": "$1,782",
-      "wagertype": "Super High Five",
-      "track": "Louisiana Downs",
-      "date": "Aug 19",
-      "ndate": 20240819
-    },
-    {
       "carryoverAmount": 1621,
       "carryover": "$1,621",
       "wagertype": "3x3",
       "track": "Del Mar",
       "date": "Aug 22",
       "ndate": 20240822
+    },
+    {
+      "carryoverAmount": 1444,
+      "carryover": "$1,444",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Thistledown",
+      "date": "Aug 20",
+      "ndate": 20240820
     },
     {
       "carryoverAmount": 1360,
@@ -145,28 +169,12 @@
       "ndate": 20240820
     },
     {
-      "carryoverAmount": 1337,
-      "carryover": "$1,337",
-      "wagertype": "Super High Five",
-      "track": "Ellis Park",
-      "date": "Aug 19",
-      "ndate": 20240819
-    },
-    {
-      "carryoverAmount": 716,
-      "carryover": "$716",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Thistledown",
-      "date": "Aug 19",
-      "ndate": 20240819
-    },
-    {
-      "carryoverAmount": 678,
-      "carryover": "$678",
-      "wagertype": "Pick 5",
-      "track": "Presque Isle",
-      "date": "Aug 19",
-      "ndate": 20240819
+      "carryoverAmount": 934,
+      "carryover": "$934",
+      "wagertype": "Pick 6",
+      "track": "Finger Lakes",
+      "date": "Aug 20",
+      "ndate": 20240820
     },
     {
       "carryoverAmount": 325,
