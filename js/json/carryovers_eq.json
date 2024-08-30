@@ -1,20 +1,28 @@
 {
   "carryovers": [
     {
+      "carryoverAmount": 117558,
+      "carryover": "$117,558",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Assiniboia",
+      "date": "Sep 02",
+      "ndate": 20240902
+    },
+    {
+      "carryoverAmount": 115347,
+      "carryover": "$115,347",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Fort Erie",
+      "date": "Sep 02",
+      "ndate": 20240902
+    },
+    {
       "carryoverAmount": 102814,
       "carryover": "$102,814",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
       "date": "Sep 02",
       "ndate": 20240902
-    },
-    {
-      "carryoverAmount": 85837,
-      "carryover": "$85,837",
-      "wagertype": "Pick 6",
-      "track": "Saratoga",
-      "date": "Aug 29",
-      "ndate": 20240829
     },
     {
       "carryoverAmount": 63731,
@@ -49,12 +57,12 @@
       "ndate": 20240831
     },
     {
-      "carryoverAmount": 21870,
-      "carryover": "$21,870",
+      "carryoverAmount": 23055,
+      "carryover": "$23,055",
       "wagertype": "Super High Five Jackpot",
       "track": "Penn National",
-      "date": "Aug 29",
-      "ndate": 20240829
+      "date": "Aug 30",
+      "ndate": 20240830
     },
     {
       "carryoverAmount": 13407,
@@ -73,12 +81,20 @@
       "ndate": 20240831
     },
     {
-      "carryoverAmount": 6880,
-      "carryover": "$6,880",
+      "carryoverAmount": 7824,
+      "carryover": "$7,824",
       "wagertype": "3x3",
       "track": "Del Mar",
-      "date": "Aug 29",
-      "ndate": 20240829
+      "date": "Aug 30",
+      "ndate": 20240830
+    },
+    {
+      "carryoverAmount": 4449,
+      "carryover": "$4,449",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Thistledown",
+      "date": "Sep 02",
+      "ndate": 20240902
     },
     {
       "carryoverAmount": 4263,
@@ -89,12 +105,20 @@
       "ndate": 20240831
     },
     {
-      "carryoverAmount": 3291,
-      "carryover": "$3,291",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Thistledown",
-      "date": "Aug 29",
-      "ndate": 20240829
+      "carryoverAmount": 2876,
+      "carryover": "$2,876",
+      "wagertype": "Super High Five",
+      "track": "Assiniboia",
+      "date": "Sep 02",
+      "ndate": 20240902
+    },
+    {
+      "carryoverAmount": 2806,
+      "carryover": "$2,806",
+      "wagertype": "Super High Five",
+      "track": "Horseshoe",
+      "date": "Aug 31",
+      "ndate": 20240831
     },
     {
       "carryoverAmount": 2435,
@@ -113,12 +137,36 @@
       "ndate": 20240831
     },
     {
-      "carryoverAmount": 629,
-      "carryover": "$629",
+      "carryoverAmount": 792,
+      "carryover": "$792",
       "wagertype": "Pick 6",
       "track": "Fair Grounds",
-      "date": "Aug 29",
-      "ndate": 20240829
+      "date": "Aug 30",
+      "ndate": 20240830
+    },
+    {
+      "carryoverAmount": 607,
+      "carryover": "$607",
+      "wagertype": "Pick 6",
+      "track": "Colonial Downs",
+      "date": "Aug 30",
+      "ndate": 20240830
+    },
+    {
+      "carryoverAmount": 413,
+      "carryover": "$413",
+      "wagertype": "Pick 5",
+      "track": "Fair Grounds",
+      "date": "Aug 30",
+      "ndate": 20240830
+    },
+    {
+      "carryoverAmount": 355,
+      "carryover": "$355",
+      "wagertype": "Pick 5",
+      "track": "Fair Grounds",
+      "date": "Aug 30",
+      "ndate": 20240830
     }
   ]
 }
