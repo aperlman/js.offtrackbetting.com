@@ -1,6 +1,22 @@
 {
   "carryovers": [
     {
+      "carryoverAmount": 191501,
+      "carryover": "$191,501",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Parx Racing",
+      "date": "Sep 11",
+      "ndate": 20240911
+    },
+    {
+      "carryoverAmount": 177962,
+      "carryover": "$177,962",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Parx Racing",
+      "date": "Sep 11",
+      "ndate": 20240911
+    },
+    {
       "carryoverAmount": 172879,
       "carryover": "$172,879",
       "wagertype": "Pick 6 Jackpot",
@@ -9,36 +25,12 @@
       "ndate": 20240913
     },
     {
-      "carryoverAmount": 166033,
-      "carryover": "$166,033",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Parx Racing",
-      "date": "Sep 10",
-      "ndate": 20240910
-    },
-    {
       "carryoverAmount": 157731,
       "carryover": "$157,731",
       "wagertype": "Pick 5 Jackpot",
       "track": "Assiniboia",
-      "date": "Sep 10",
-      "ndate": 20240910
-    },
-    {
-      "carryoverAmount": 150598,
-      "carryover": "$150,598",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Parx Racing",
-      "date": "Sep 10",
-      "ndate": 20240910
-    },
-    {
-      "carryoverAmount": 51022,
-      "carryover": "$51,022",
-      "wagertype": "Pick 5",
-      "track": "Horseshoe",
-      "date": "Sep 10",
-      "ndate": 20240910
+      "date": "Sep 11",
+      "ndate": 20240911
     },
     {
       "carryoverAmount": 49419,
@@ -47,14 +39,6 @@
       "track": "Woodbine",
       "date": "Sep 12",
       "ndate": 20240912
-    },
-    {
-      "carryoverAmount": 30715,
-      "carryover": "$30,715",
-      "wagertype": "Pick 4",
-      "track": "Horseshoe",
-      "date": "Sep 10",
-      "ndate": 20240910
     },
     {
       "carryoverAmount": 18515,
@@ -73,12 +57,20 @@
       "ndate": 20240913
     },
     {
-      "carryoverAmount": 7997,
-      "carryover": "$7,997",
+      "carryoverAmount": 8806,
+      "carryover": "$8,806",
       "wagertype": "Pick 7",
       "track": "Fanduel",
-      "date": "Sep 10",
-      "ndate": 20240910
+      "date": "Sep 14",
+      "ndate": 20240914
+    },
+    {
+      "carryoverAmount": 6360,
+      "carryover": "$6,360",
+      "wagertype": "Pick 6",
+      "track": "Finger Lakes",
+      "date": "Sep 11",
+      "ndate": 20240911
     },
     {
       "carryoverAmount": 5458,
@@ -89,28 +81,20 @@
       "ndate": 20240912
     },
     {
+      "carryoverAmount": 4606,
+      "carryover": "$4,606",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Thistledown",
+      "date": "Sep 11",
+      "ndate": 20240911
+    },
+    {
       "carryoverAmount": 3753,
       "carryover": "$3,753",
       "wagertype": "Pick 5",
       "track": "Hawthorne",
       "date": "Sep 12",
       "ndate": 20240912
-    },
-    {
-      "carryoverAmount": 3266,
-      "carryover": "$3,266",
-      "wagertype": "Pick 6",
-      "track": "Finger Lakes",
-      "date": "Sep 10",
-      "ndate": 20240910
-    },
-    {
-      "carryoverAmount": 2829,
-      "carryover": "$2,829",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Thistledown",
-      "date": "Sep 10",
-      "ndate": 20240910
     },
     {
       "carryoverAmount": 2299,
@@ -129,12 +113,12 @@
       "ndate": 20240913
     },
     {
-      "carryoverAmount": 2017,
-      "carryover": "$2,017",
-      "wagertype": "Super High Five",
-      "track": "Horseshoe",
-      "date": "Sep 10",
-      "ndate": 20240910
+      "carryoverAmount": 1535,
+      "carryover": "$1,535",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Louisiana Downs",
+      "date": "Sep 11",
+      "ndate": 20240911
     },
     {
       "carryoverAmount": 1490,
@@ -153,14 +137,6 @@
       "ndate": 20240912
     },
     {
-      "carryoverAmount": 1283,
-      "carryover": "$1,283",
-      "wagertype": "Pick 5",
-      "track": "Presque Isle",
-      "date": "Sep 10",
-      "ndate": 20240910
-    },
-    {
       "carryoverAmount": 1005,
       "carryover": "$1,005",
       "wagertype": "Pick 5",
@@ -169,20 +145,12 @@
       "ndate": 20240912
     },
     {
-      "carryoverAmount": 792,
-      "carryover": "$792",
+      "carryoverAmount": 606,
+      "carryover": "$606",
       "wagertype": "Super High Five",
-      "track": "Mountaineer",
-      "date": "Sep 10",
-      "ndate": 20240910
-    },
-    {
-      "carryoverAmount": 677,
-      "carryover": "$677",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Louisiana Downs",
-      "date": "Sep 10",
-      "ndate": 20240910
+      "track": "Century Mile",
+      "date": "Sep 13",
+      "ndate": 20240913
     },
     {
       "carryoverAmount": 463,
