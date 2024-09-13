@@ -25,12 +25,20 @@
       "ndate": 20240913
     },
     {
-      "carryoverAmount": 49419,
-      "carryover": "$49,419",
+      "carryoverAmount": 167720,
+      "carryover": "$167,720",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Assiniboia",
+      "date": "Sep 16",
+      "ndate": 20240916
+    },
+    {
+      "carryoverAmount": 56232,
+      "carryover": "$56,232",
       "wagertype": "Super High Five Jackpot",
       "track": "Woodbine",
-      "date": "Sep 12",
-      "ndate": 20240912
+      "date": "Sep 13",
+      "ndate": 20240913
     },
     {
       "carryoverAmount": 18515,
@@ -45,6 +53,14 @@
       "carryover": "$11,581",
       "wagertype": "Pick 5 Jackpot",
       "track": "Prairie Meadows",
+      "date": "Sep 13",
+      "ndate": 20240913
+    },
+    {
+      "carryoverAmount": 9825,
+      "carryover": "$9,825",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Woodbine",
       "date": "Sep 13",
       "ndate": 20240913
     },
@@ -65,20 +81,36 @@
       "ndate": 20240914
     },
     {
-      "carryoverAmount": 5458,
-      "carryover": "$5,458",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Woodbine",
-      "date": "Sep 12",
-      "ndate": 20240912
+      "carryoverAmount": 7041,
+      "carryover": "$7,041",
+      "wagertype": "Super High Five",
+      "track": "Churchill Downs",
+      "date": "Sep 13",
+      "ndate": 20240913
     },
     {
-      "carryoverAmount": 3753,
-      "carryover": "$3,753",
+      "carryoverAmount": 3355,
+      "carryover": "$3,355",
       "wagertype": "Pick 5",
-      "track": "Hawthorne",
-      "date": "Sep 12",
-      "ndate": 20240912
+      "track": "Lone Star",
+      "date": "Sep 13",
+      "ndate": 20240913
+    },
+    {
+      "carryoverAmount": 3013,
+      "carryover": "$3,013",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Churchill Downs",
+      "date": "Sep 13",
+      "ndate": 20240913
+    },
+    {
+      "carryoverAmount": 2910,
+      "carryover": "$2,910",
+      "wagertype": "Super High Five",
+      "track": "Assiniboia",
+      "date": "Sep 16",
+      "ndate": 20240916
     },
     {
       "carryoverAmount": 2630,
@@ -89,14 +121,6 @@
       "ndate": 20240914
     },
     {
-      "carryoverAmount": 2299,
-      "carryover": "$2,299",
-      "wagertype": "Super High Five",
-      "track": "Hawthorne",
-      "date": "Sep 12",
-      "ndate": 20240912
-    },
-    {
       "carryoverAmount": 2169,
       "carryover": "$2,169",
       "wagertype": "Pick 6 Jackpot",
@@ -105,20 +129,20 @@
       "ndate": 20240913
     },
     {
-      "carryoverAmount": 1490,
-      "carryover": "$1,490",
-      "wagertype": "Pick 5",
-      "track": "Lone Star",
-      "date": "Sep 12",
-      "ndate": 20240912
+      "carryoverAmount": 1969,
+      "carryover": "$1,969",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Thistledown",
+      "date": "Sep 16",
+      "ndate": 20240916
     },
     {
       "carryoverAmount": 1413,
       "carryover": "$1,413",
       "wagertype": "Pick 6",
       "track": "Fair Grounds",
-      "date": "Sep 12",
-      "ndate": 20240912
+      "date": "Sep 13",
+      "ndate": 20240913
     },
     {
       "carryoverAmount": 1397,
@@ -127,6 +151,14 @@
       "track": "Monmouth Park",
       "date": "Sep 14",
       "ndate": 20240914
+    },
+    {
+      "carryoverAmount": 1248,
+      "carryover": "$1,248",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Charles Town",
+      "date": "Sep 13",
+      "ndate": 20240913
     },
     {
       "carryoverAmount": 1104,
@@ -141,8 +173,24 @@
       "carryover": "$1,005",
       "wagertype": "Pick 5",
       "track": "Fair Grounds",
-      "date": "Sep 12",
-      "ndate": 20240912
+      "date": "Sep 13",
+      "ndate": 20240913
+    },
+    {
+      "carryoverAmount": 804,
+      "carryover": "$804",
+      "wagertype": "Super High Five",
+      "track": "Belterra Park",
+      "date": "Sep 13",
+      "ndate": 20240913
+    },
+    {
+      "carryoverAmount": 656,
+      "carryover": "$656",
+      "wagertype": "Pick 6",
+      "track": "Lone Star",
+      "date": "Sep 13",
+      "ndate": 20240913
     },
     {
       "carryoverAmount": 606,
@@ -159,14 +207,6 @@
       "track": "Mountaineer",
       "date": "Sep 15",
       "ndate": 20240915
-    },
-    {
-      "carryoverAmount": 463,
-      "carryover": "$463",
-      "wagertype": "Pick 6",
-      "track": "Lone Star",
-      "date": "Sep 12",
-      "ndate": 20240912
     }
   ]
 }
