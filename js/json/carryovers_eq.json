@@ -1,20 +1,20 @@
 {
   "carryovers": [
     {
+      "carryoverAmount": 95446,
+      "carryover": "$95,446",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Parx Racing",
+      "date": "Oct 07",
+      "ndate": 20241007
+    },
+    {
       "carryoverAmount": 83940,
       "carryover": "$83,940",
       "wagertype": "Pick 6",
       "track": "Santa Anita",
       "date": "Oct 04",
       "ndate": 20241004
-    },
-    {
-      "carryoverAmount": 79695,
-      "carryover": "$79,695",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Parx Racing",
-      "date": "Oct 02",
-      "ndate": 20241002
     },
     {
       "carryoverAmount": 77267,
@@ -65,6 +65,14 @@
       "ndate": 20241003
     },
     {
+      "carryoverAmount": 6599,
+      "carryover": "$6,599",
+      "wagertype": "Super High Five",
+      "track": "Horseshoe",
+      "date": "Oct 03",
+      "ndate": 20241003
+    },
+    {
       "carryoverAmount": 6515,
       "carryover": "$6,515",
       "wagertype": "Pick 6 Jackpot",
@@ -81,12 +89,12 @@
       "ndate": 20241003
     },
     {
-      "carryoverAmount": 3659,
-      "carryover": "$3,659",
-      "wagertype": "Super High Five",
-      "track": "Mountaineer",
-      "date": "Oct 02",
-      "ndate": 20241002
+      "carryoverAmount": 3693,
+      "carryover": "$3,693",
+      "wagertype": "Pick 6",
+      "track": "Finger Lakes",
+      "date": "Oct 07",
+      "ndate": 20241007
     },
     {
       "carryoverAmount": 2407,
@@ -97,28 +105,28 @@
       "ndate": 20241003
     },
     {
+      "carryoverAmount": 1621,
+      "carryover": "$1,621",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Thistledown",
+      "date": "Oct 03",
+      "ndate": 20241003
+    },
+    {
+      "carryoverAmount": 1583,
+      "carryover": "$1,583",
+      "wagertype": "Super High Five",
+      "track": "Belterra Park",
+      "date": "Oct 03",
+      "ndate": 20241003
+    },
+    {
       "carryoverAmount": 1544,
       "carryover": "$1,544",
       "wagertype": "Pick 6",
       "track": "Lone Star",
       "date": "Oct 03",
       "ndate": 20241003
-    },
-    {
-      "carryoverAmount": 1057,
-      "carryover": "$1,057",
-      "wagertype": "Pick 6",
-      "track": "Finger Lakes",
-      "date": "Oct 02",
-      "ndate": 20241002
-    },
-    {
-      "carryoverAmount": 884,
-      "carryover": "$884",
-      "wagertype": "Super High Five",
-      "track": "Belterra Park",
-      "date": "Oct 02",
-      "ndate": 20241002
     },
     {
       "carryoverAmount": 459,
