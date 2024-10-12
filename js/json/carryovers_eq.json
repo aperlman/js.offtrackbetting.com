@@ -1,20 +1,28 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 47004,
-      "carryover": "$47,004",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Charles Town",
-      "date": "Oct 11",
-      "ndate": 20241011
+      "carryoverAmount": 90543,
+      "carryover": "$90,543",
+      "wagertype": "Pick 5",
+      "track": "Woodbine",
+      "date": "Oct 12",
+      "ndate": 20241012
     },
     {
-      "carryoverAmount": 22000,
-      "carryover": "$22,000",
+      "carryoverAmount": 55260,
+      "carryover": "$55,260",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Charles Town",
+      "date": "Oct 12",
+      "ndate": 20241012
+    },
+    {
+      "carryoverAmount": 30575,
+      "carryover": "$30,575",
       "wagertype": "Super High Five Jackpot",
       "track": "Woodbine",
-      "date": "Oct 11",
-      "ndate": 20241011
+      "date": "Oct 12",
+      "ndate": 20241012
     },
     {
       "carryoverAmount": 21058,
@@ -25,12 +33,20 @@
       "ndate": 20241014
     },
     {
-      "carryoverAmount": 14749,
-      "carryover": "$14,749",
+      "carryoverAmount": 19913,
+      "carryover": "$19,913",
+      "wagertype": "Super High Five",
+      "track": "Keeneland",
+      "date": "Oct 12",
+      "ndate": 20241012
+    },
+    {
+      "carryoverAmount": 18549,
+      "carryover": "$18,549",
       "wagertype": "Pick 6 Jackpot",
       "track": "Fresno",
-      "date": "Oct 11",
-      "ndate": 20241011
+      "date": "Oct 12",
+      "ndate": 20241012
     },
     {
       "carryoverAmount": 14543,
@@ -41,36 +57,28 @@
       "ndate": 20241014
     },
     {
-      "carryoverAmount": 10423,
-      "carryover": "$10,423",
+      "carryoverAmount": 11400,
+      "carryover": "$11,400",
       "wagertype": "Super High Five Jackpot",
       "track": "Lone Star",
-      "date": "Oct 11",
-      "ndate": 20241011
+      "date": "Oct 12",
+      "ndate": 20241012
     },
     {
-      "carryoverAmount": 7085,
-      "carryover": "$7,085",
+      "carryoverAmount": 7583,
+      "carryover": "$7,583",
       "wagertype": "Pick 6 Jackpot",
-      "track": "Meadowlands",
-      "date": "Oct 11",
-      "ndate": 20241011
+      "track": "Gulfstream Park",
+      "date": "Oct 12",
+      "ndate": 20241012
     },
     {
-      "carryoverAmount": 5399,
-      "carryover": "$5,399",
+      "carryoverAmount": 5874,
+      "carryover": "$5,874",
       "wagertype": "3x3",
       "track": "Santa Anita",
-      "date": "Oct 11",
-      "ndate": 20241011
-    },
-    {
-      "carryoverAmount": 5112,
-      "carryover": "$5,112",
-      "wagertype": "Super High Five",
-      "track": "Keeneland",
-      "date": "Oct 11",
-      "ndate": 20241011
+      "date": "Oct 12",
+      "ndate": 20241012
     },
     {
       "carryoverAmount": 3827,
@@ -81,6 +89,14 @@
       "ndate": 20241014
     },
     {
+      "carryoverAmount": 2506,
+      "carryover": "$2,506",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Fresno",
+      "date": "Oct 12",
+      "ndate": 20241012
+    },
+    {
       "carryoverAmount": 2198,
       "carryover": "$2,198",
       "wagertype": "Super High Five",
@@ -89,28 +105,28 @@
       "ndate": 20241013
     },
     {
-      "carryoverAmount": 1353,
-      "carryover": "$1,353",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Fresno",
-      "date": "Oct 11",
-      "ndate": 20241011
-    },
-    {
-      "carryoverAmount": 785,
-      "carryover": "$785",
+      "carryoverAmount": 686,
+      "carryover": "$686",
       "wagertype": "Pick 6 Jackpot",
-      "track": "Thistledown",
-      "date": "Oct 11",
-      "ndate": 20241011
+      "track": "Laurel Park",
+      "date": "Oct 12",
+      "ndate": 20241012
     },
     {
-      "carryoverAmount": 413,
-      "carryover": "$413",
+      "carryoverAmount": 660,
+      "carryover": "$660",
       "wagertype": "Pick 6",
       "track": "Lone Star",
-      "date": "Oct 11",
-      "ndate": 20241011
+      "date": "Oct 12",
+      "ndate": 20241012
+    },
+    {
+      "carryoverAmount": 555,
+      "carryover": "$555",
+      "wagertype": "Pick 5",
+      "track": "Lone Star",
+      "date": "Oct 12",
+      "ndate": 20241012
     }
   ]
 }
