@@ -41,14 +41,6 @@
       "ndate": 20241016
     },
     {
-      "carryoverAmount": 18203,
-      "carryover": "$18,203",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Fort Erie",
-      "date": "Oct 15",
-      "ndate": 20241015
-    },
-    {
       "carryoverAmount": 12499,
       "carryover": "$12,499",
       "wagertype": "Super High Five Jackpot",
@@ -73,6 +65,14 @@
       "ndate": 20241018
     },
     {
+      "carryoverAmount": 8557,
+      "carryover": "$8,557",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Parx Racing",
+      "date": "Oct 16",
+      "ndate": 20241016
+    },
+    {
       "carryoverAmount": 5851,
       "carryover": "$5,851",
       "wagertype": "Pick 5",
@@ -89,28 +89,12 @@
       "ndate": 20241017
     },
     {
-      "carryoverAmount": 5550,
-      "carryover": "$5,550",
-      "wagertype": "Super High Five",
-      "track": "Horseshoe",
-      "date": "Oct 15",
-      "ndate": 20241015
-    },
-    {
-      "carryoverAmount": 3543,
-      "carryover": "$3,543",
-      "wagertype": "Super High Five",
-      "track": "Horseshoe",
-      "date": "Oct 15",
-      "ndate": 20241015
-    },
-    {
-      "carryoverAmount": 1067,
-      "carryover": "$1,067",
-      "wagertype": "Pick 5",
-      "track": "Presque Isle",
-      "date": "Oct 15",
-      "ndate": 20241015
+      "carryoverAmount": 2494,
+      "carryover": "$2,494",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Meadowlands",
+      "date": "Oct 18",
+      "ndate": 20241018
     },
     {
       "carryoverAmount": 929,
@@ -121,12 +105,12 @@
       "ndate": 20241017
     },
     {
-      "carryoverAmount": 340,
-      "carryover": "$340",
+      "carryoverAmount": 749,
+      "carryover": "$749",
       "wagertype": "Pick 7",
       "track": "Fanduel",
-      "date": "Oct 15",
-      "ndate": 20241015
+      "date": "Oct 17",
+      "ndate": 20241017
     }
   ]
 }
