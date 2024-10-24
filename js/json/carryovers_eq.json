@@ -1,14 +1,6 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 301896,
-      "carryover": "$301,896",
-      "wagertype": "Pick 5",
-      "track": "Keeneland",
-      "date": "Oct 23",
-      "ndate": 20241023
-    },
-    {
       "carryoverAmount": 153105,
       "carryover": "$153,105",
       "wagertype": "Pick 6",
@@ -49,6 +41,14 @@
       "ndate": 20241025
     },
     {
+      "carryoverAmount": 22256,
+      "carryover": "$22,256",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Parx Racing",
+      "date": "Oct 28",
+      "ndate": 20241028
+    },
+    {
       "carryoverAmount": 18731,
       "carryover": "$18,731",
       "wagertype": "Super High Five Jackpot",
@@ -57,20 +57,20 @@
       "ndate": 20241024
     },
     {
-      "carryoverAmount": 18551,
-      "carryover": "$18,551",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Parx Racing",
-      "date": "Oct 23",
-      "ndate": 20241023
-    },
-    {
       "carryoverAmount": 11449,
       "carryover": "$11,449",
       "wagertype": "3x3",
       "track": "Santa Anita",
       "date": "Oct 25",
       "ndate": 20241025
+    },
+    {
+      "carryoverAmount": 9425,
+      "carryover": "$9,425",
+      "wagertype": "Pick 5",
+      "track": "Finger Lakes",
+      "date": "Oct 28",
+      "ndate": 20241028
     },
     {
       "carryoverAmount": 9397,
@@ -105,6 +105,14 @@
       "ndate": 20241025
     },
     {
+      "carryoverAmount": 4479,
+      "carryover": "$4,479",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Mahoning Valley",
+      "date": "Oct 26",
+      "ndate": 20241026
+    },
+    {
       "carryoverAmount": 4158,
       "carryover": "$4,158",
       "wagertype": "Pick 6 Jackpot",
@@ -113,12 +121,12 @@
       "ndate": 20241024
     },
     {
-      "carryoverAmount": 2789,
-      "carryover": "$2,789",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Mahoning Valley",
-      "date": "Oct 23",
-      "ndate": 20241023
+      "carryoverAmount": 3499,
+      "carryover": "$3,499",
+      "wagertype": "Super High Five",
+      "track": "Horseshoe",
+      "date": "Oct 24",
+      "ndate": 20241024
     },
     {
       "carryoverAmount": 2273,
@@ -129,20 +137,28 @@
       "ndate": 20241024
     },
     {
+      "carryoverAmount": 1863,
+      "carryover": "$1,863",
+      "wagertype": "Pick 5",
+      "track": "Presque Isle",
+      "date": "Oct 24",
+      "ndate": 20241024
+    },
+    {
+      "carryoverAmount": 1851,
+      "carryover": "$1,851",
+      "wagertype": "Pick 6",
+      "track": "Finger Lakes",
+      "date": "Oct 28",
+      "ndate": 20241028
+    },
+    {
       "carryoverAmount": 1407,
       "carryover": "$1,407",
       "wagertype": "Super High Five",
       "track": "Pleasanton",
       "date": "Oct 25",
       "ndate": 20241025
-    },
-    {
-      "carryoverAmount": 1313,
-      "carryover": "$1,313",
-      "wagertype": "Super High Five",
-      "track": "Horseshoe",
-      "date": "Oct 23",
-      "ndate": 20241023
     },
     {
       "carryoverAmount": 1306,
@@ -153,12 +169,20 @@
       "ndate": 20241024
     },
     {
-      "carryoverAmount": 1043,
-      "carryover": "$1,043",
-      "wagertype": "Pick 6",
-      "track": "Finger Lakes",
-      "date": "Oct 23",
-      "ndate": 20241023
+      "carryoverAmount": 1030,
+      "carryover": "$1,030",
+      "wagertype": "Pick 5",
+      "track": "Presque Isle",
+      "date": "Oct 24",
+      "ndate": 20241024
+    },
+    {
+      "carryoverAmount": 1026,
+      "carryover": "$1,026",
+      "wagertype": "Super High Five",
+      "track": "Mountaineer",
+      "date": "Oct 27",
+      "ndate": 20241027
     },
     {
       "carryoverAmount": 771,
@@ -167,6 +191,14 @@
       "track": "Pleasanton",
       "date": "Oct 25",
       "ndate": 20241025
+    },
+    {
+      "carryoverAmount": 535,
+      "carryover": "$535",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Penn National",
+      "date": "Oct 24",
+      "ndate": 20241024
     },
     {
       "carryoverAmount": 212,
