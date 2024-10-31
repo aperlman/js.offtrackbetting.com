@@ -9,26 +9,42 @@
       "ndate": 20241031
     },
     {
-      "carryoverAmount": 63925,
-      "carryover": "$63,925",
+      "carryoverAmount": 80673,
+      "carryover": "$80,673",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Oct 30",
-      "ndate": 20241030
+      "date": "Nov 02",
+      "ndate": 20241102
     },
     {
-      "carryoverAmount": 51564,
-      "carryover": "$51,564",
+      "carryoverAmount": 72248,
+      "carryover": "$72,248",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Oct 30",
-      "ndate": 20241030
+      "date": "Nov 02",
+      "ndate": 20241102
     },
     {
       "carryoverAmount": 49758,
       "carryover": "$49,758",
       "wagertype": "Pick 6",
       "track": "Belmont At The",
+      "date": "Oct 31",
+      "ndate": 20241031
+    },
+    {
+      "carryoverAmount": 36216,
+      "carryover": "$36,216",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Churchill Downs",
+      "date": "Oct 31",
+      "ndate": 20241031
+    },
+    {
+      "carryoverAmount": 25342,
+      "carryover": "$25,342",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Charles Town",
       "date": "Oct 31",
       "ndate": 20241031
     },
@@ -49,14 +65,6 @@
       "ndate": 20241031
     },
     {
-      "carryoverAmount": 20917,
-      "carryover": "$20,917",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Charles Town",
-      "date": "Oct 30",
-      "ndate": 20241030
-    },
-    {
       "carryoverAmount": 15806,
       "carryover": "$15,806",
       "wagertype": "Pick 6 Jackpot",
@@ -73,12 +81,20 @@
       "ndate": 20241101
     },
     {
-      "carryoverAmount": 6028,
-      "carryover": "$6,028",
+      "carryoverAmount": 12906,
+      "carryover": "$12,906",
       "wagertype": "Pick 5",
-      "track": "Mahoning Valley",
-      "date": "Oct 30",
-      "ndate": 20241030
+      "track": "Finger Lakes",
+      "date": "Nov 04",
+      "ndate": 20241104
+    },
+    {
+      "carryoverAmount": 9696,
+      "carryover": "$9,696",
+      "wagertype": "Pick 6",
+      "track": "Finger Lakes",
+      "date": "Nov 04",
+      "ndate": 20241104
     },
     {
       "carryoverAmount": 5811,
@@ -89,28 +105,20 @@
       "ndate": 20241101
     },
     {
-      "carryoverAmount": 5393,
-      "carryover": "$5,393",
-      "wagertype": "Pick 6",
-      "track": "Finger Lakes",
-      "date": "Oct 30",
-      "ndate": 20241030
-    },
-    {
-      "carryoverAmount": 4850,
-      "carryover": "$4,850",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Churchill Downs",
-      "date": "Oct 30",
-      "ndate": 20241030
-    },
-    {
       "carryoverAmount": 4336,
       "carryover": "$4,336",
       "wagertype": "Pick 7",
       "track": "Fanduel",
       "date": "Oct 31",
       "ndate": 20241031
+    },
+    {
+      "carryoverAmount": 3068,
+      "carryover": "$3,068",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Mahoning Valley",
+      "date": "Nov 02",
+      "ndate": 20241102
     },
     {
       "carryoverAmount": 2840,
@@ -121,20 +129,12 @@
       "ndate": 20241101
     },
     {
-      "carryoverAmount": 2028,
-      "carryover": "$2,028",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Mahoning Valley",
-      "date": "Oct 30",
-      "ndate": 20241030
-    },
-    {
-      "carryoverAmount": 1820,
-      "carryover": "$1,820",
+      "carryoverAmount": 2509,
+      "carryover": "$2,509",
       "wagertype": "Super High Five Jackpot",
       "track": "Penn National",
-      "date": "Oct 30",
-      "ndate": 20241030
+      "date": "Oct 31",
+      "ndate": 20241031
     }
   ]
 }
