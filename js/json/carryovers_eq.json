@@ -9,12 +9,20 @@
       "ndate": 20241111
     },
     {
-      "carryoverAmount": 81164,
-      "carryover": "$81,164",
+      "carryoverAmount": 103476,
+      "carryover": "$103,476",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "Nov 10",
-      "ndate": 20241110
+      "date": "Nov 15",
+      "ndate": 20241115
+    },
+    {
+      "carryoverAmount": 51725,
+      "carryover": "$51,725",
+      "wagertype": "Pick 6",
+      "track": "Aqueduct",
+      "date": "Nov 14",
+      "ndate": 20241114
     },
     {
       "carryoverAmount": 36069,
@@ -25,6 +33,14 @@
       "ndate": 20241114
     },
     {
+      "carryoverAmount": 19346,
+      "carryover": "$19,346",
+      "wagertype": "Super High Five",
+      "track": "Pleasanton",
+      "date": "Nov 15",
+      "ndate": 20241115
+    },
+    {
       "carryoverAmount": 19332,
       "carryover": "$19,332",
       "wagertype": "Pick 6 Jackpot",
@@ -33,28 +49,20 @@
       "ndate": 20241113
     },
     {
-      "carryoverAmount": 17073,
-      "carryover": "$17,073",
-      "wagertype": "Super High Five",
-      "track": "Pleasanton",
-      "date": "Nov 10",
-      "ndate": 20241110
+      "carryoverAmount": 16966,
+      "carryover": "$16,966",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Churchill Downs",
+      "date": "Nov 13",
+      "ndate": 20241113
     },
     {
       "carryoverAmount": 13804,
       "carryover": "$13,804",
       "wagertype": "Pick 6 Jackpot",
       "track": "Woodbine",
-      "date": "Nov 10",
-      "ndate": 20241110
-    },
-    {
-      "carryoverAmount": 11984,
-      "carryover": "$11,984",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Churchill Downs",
-      "date": "Nov 10",
-      "ndate": 20241110
+      "date": "Nov 14",
+      "ndate": 20241114
     },
     {
       "carryoverAmount": 11010,
@@ -65,20 +73,20 @@
       "ndate": 20241111
     },
     {
-      "carryoverAmount": 9009,
-      "carryover": "$9,009",
-      "wagertype": "Pick 6",
-      "track": "Los Alamitos",
-      "date": "Nov 10",
-      "ndate": 20241110
+      "carryoverAmount": 6684,
+      "carryover": "$6,684",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Pleasanton",
+      "date": "Nov 15",
+      "ndate": 20241115
     },
     {
-      "carryoverAmount": 6601,
-      "carryover": "$6,601",
-      "wagertype": "Super High Five",
-      "track": "Churchill Downs",
-      "date": "Nov 10",
-      "ndate": 20241110
+      "carryoverAmount": 6293,
+      "carryover": "$6,293",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Laurel Park",
+      "date": "Nov 15",
+      "ndate": 20241115
     },
     {
       "carryoverAmount": 5997,
@@ -89,20 +97,12 @@
       "ndate": 20241113
     },
     {
-      "carryoverAmount": 4416,
-      "carryover": "$4,416",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Laurel Park",
-      "date": "Nov 10",
-      "ndate": 20241110
-    },
-    {
-      "carryoverAmount": 3951,
-      "carryover": "$3,951",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Pleasanton",
-      "date": "Nov 10",
-      "ndate": 20241110
+      "carryoverAmount": 3048,
+      "carryover": "$3,048",
+      "wagertype": "3x3",
+      "track": "Del Mar",
+      "date": "Nov 15",
+      "ndate": 20241115
     },
     {
       "carryoverAmount": 3045,
@@ -113,12 +113,12 @@
       "ndate": 20241111
     },
     {
-      "carryoverAmount": 2229,
-      "carryover": "$2,229",
-      "wagertype": "3x3",
-      "track": "Del Mar",
-      "date": "Nov 10",
-      "ndate": 20241110
+      "carryoverAmount": 2546,
+      "carryover": "$2,546",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Nov 15",
+      "ndate": 20241115
     },
     {
       "carryoverAmount": 1220,
@@ -127,14 +127,6 @@
       "track": "Lone Star",
       "date": "Nov 14",
       "ndate": 20241114
-    },
-    {
-      "carryoverAmount": 959,
-      "carryover": "$959",
-      "wagertype": "Super High Five",
-      "track": "Mountaineer",
-      "date": "Nov 10",
-      "ndate": 20241110
     }
   ]
 }
