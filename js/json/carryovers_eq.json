@@ -1,12 +1,20 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 168955,
-      "carryover": "$168,955",
+      "carryoverAmount": 193163,
+      "carryover": "$193,163",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Nov 18",
-      "ndate": 20241118
+      "date": "Nov 19",
+      "ndate": 20241119
+    },
+    {
+      "carryoverAmount": 179935,
+      "carryover": "$179,935",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Parx Racing",
+      "date": "Nov 19",
+      "ndate": 20241119
     },
     {
       "carryoverAmount": 162740,
@@ -15,14 +23,6 @@
       "track": "Gulfstream Park",
       "date": "Nov 22",
       "ndate": 20241122
-    },
-    {
-      "carryoverAmount": 158979,
-      "carryover": "$158,979",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Parx Racing",
-      "date": "Nov 18",
-      "ndate": 20241118
     },
     {
       "carryoverAmount": 128612,
@@ -81,20 +81,20 @@
       "ndate": 20241122
     },
     {
+      "carryoverAmount": 10148,
+      "carryover": "$10,148",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Turf Paradise",
+      "date": "Nov 19",
+      "ndate": 20241119
+    },
+    {
       "carryoverAmount": 7347,
       "carryover": "$7,347",
       "wagertype": "Super High Five",
       "track": "Churchill Downs",
       "date": "Nov 20",
       "ndate": 20241120
-    },
-    {
-      "carryoverAmount": 7245,
-      "carryover": "$7,245",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Turf Paradise",
-      "date": "Nov 18",
-      "ndate": 20241118
     },
     {
       "carryoverAmount": 5581,
@@ -113,12 +113,20 @@
       "ndate": 20241122
     },
     {
-      "carryoverAmount": 1142,
-      "carryover": "$1,142",
+      "carryoverAmount": 2689,
+      "carryover": "$2,689",
       "wagertype": "Pick 6 Jackpot",
       "track": "Mahoning Valley",
-      "date": "Nov 18",
-      "ndate": 20241118
+      "date": "Nov 19",
+      "ndate": 20241119
+    },
+    {
+      "carryoverAmount": 1288,
+      "carryover": "$1,288",
+      "wagertype": "Pick 6",
+      "track": "Finger Lakes",
+      "date": "Nov 19",
+      "ndate": 20241119
     }
   ]
 }
