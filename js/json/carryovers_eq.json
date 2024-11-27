@@ -25,12 +25,28 @@
       "ndate": 20241127
     },
     {
+      "carryoverAmount": 58109,
+      "carryover": "$58,109",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Parx Racing",
+      "date": "Nov 27",
+      "ndate": 20241127
+    },
+    {
       "carryoverAmount": 45418,
       "carryover": "$45,418",
       "wagertype": "Super High Five Jackpot",
       "track": "Woodbine",
       "date": "Nov 28",
       "ndate": 20241128
+    },
+    {
+      "carryoverAmount": 43282,
+      "carryover": "$43,282",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Parx Racing",
+      "date": "Nov 27",
+      "ndate": 20241127
     },
     {
       "carryoverAmount": 37841,
@@ -47,22 +63,6 @@
       "track": "Fair Grounds",
       "date": "Nov 28",
       "ndate": 20241128
-    },
-    {
-      "carryoverAmount": 31391,
-      "carryover": "$31,391",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Parx Racing",
-      "date": "Nov 26",
-      "ndate": 20241126
-    },
-    {
-      "carryoverAmount": 20572,
-      "carryover": "$20,572",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Parx Racing",
-      "date": "Nov 26",
-      "ndate": 20241126
     },
     {
       "carryoverAmount": 8454,
@@ -97,10 +97,34 @@
       "ndate": 20241127
     },
     {
+      "carryoverAmount": 2462,
+      "carryover": "$2,462",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Turf Paradise",
+      "date": "Nov 27",
+      "ndate": 20241127
+    },
+    {
+      "carryoverAmount": 2167,
+      "carryover": "$2,167",
+      "wagertype": "Pick 6",
+      "track": "Finger Lakes",
+      "date": "Nov 27",
+      "ndate": 20241127
+    },
+    {
       "carryoverAmount": 1421,
       "carryover": "$1,421",
       "wagertype": "Super High Five Jackpot",
       "track": "Penn National",
+      "date": "Nov 27",
+      "ndate": 20241127
+    },
+    {
+      "carryoverAmount": 912,
+      "carryover": "$912",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Mahoning Valley",
       "date": "Nov 27",
       "ndate": 20241127
     }
