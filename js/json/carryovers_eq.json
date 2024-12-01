@@ -1,90 +1,98 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 217937,
-      "carryover": "$217,937",
+      "carryoverAmount": 240017,
+      "carryover": "$240,017",
       "wagertype": "Pick 6 Jackpot",
       "track": "Churchill Downs",
-      "date": "Nov 30",
-      "ndate": 20241130
+      "date": "Dec 01",
+      "ndate": 20241201
     },
     {
-      "carryoverAmount": 113983,
-      "carryover": "$113,983",
+      "carryoverAmount": 123451,
+      "carryover": "$123,451",
       "wagertype": "Pick 6 Jackpot",
       "track": "Woodbine",
-      "date": "Nov 30",
-      "ndate": 20241130
+      "date": "Dec 01",
+      "ndate": 20241201
     },
     {
-      "carryoverAmount": 81388,
-      "carryover": "$81,388",
+      "carryoverAmount": 89982,
+      "carryover": "$89,982",
       "wagertype": "Pick 6 Jackpot",
       "track": "Charles Town",
-      "date": "Nov 30",
-      "ndate": 20241130
+      "date": "Dec 04",
+      "ndate": 20241204
     },
     {
-      "carryoverAmount": 40389,
-      "carryover": "$40,389",
-      "wagertype": "Super High Five",
-      "track": "Pleasanton",
-      "date": "Nov 30",
-      "ndate": 20241130
-    },
-    {
-      "carryoverAmount": 29049,
-      "carryover": "$29,049",
+      "carryoverAmount": 57992,
+      "carryover": "$57,992",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "Nov 30",
-      "ndate": 20241130
+      "date": "Dec 01",
+      "ndate": 20241201
     },
     {
-      "carryoverAmount": 13529,
-      "carryover": "$13,529",
+      "carryoverAmount": 43366,
+      "carryover": "$43,366",
+      "wagertype": "Super High Five",
+      "track": "Pleasanton",
+      "date": "Dec 01",
+      "ndate": 20241201
+    },
+    {
+      "carryoverAmount": 10000,
+      "carryover": "$10,000",
       "wagertype": "Pick 6",
-      "track": "Fair Grounds",
-      "date": "Nov 30",
-      "ndate": 20241130
+      "track": "Los Alamitos",
+      "date": "Dec 01",
+      "ndate": 20241201
     },
     {
-      "carryoverAmount": 13266,
-      "carryover": "$13,266",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Woodbine",
-      "date": "Nov 30",
-      "ndate": 20241130
-    },
-    {
-      "carryoverAmount": 9404,
-      "carryover": "$9,404",
+      "carryoverAmount": 9922,
+      "carryover": "$9,922",
       "wagertype": "3x3",
       "track": "Del Mar",
-      "date": "Nov 30",
-      "ndate": 20241130
+      "date": "Dec 01",
+      "ndate": 20241201
     },
     {
-      "carryoverAmount": 5828,
-      "carryover": "$5,828",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Turf Paradise",
-      "date": "Nov 30",
-      "ndate": 20241130
-    },
-    {
-      "carryoverAmount": 5390,
-      "carryover": "$5,390",
+      "carryoverAmount": 6817,
+      "carryover": "$6,817",
       "wagertype": "Pick 6 Jackpot",
       "track": "Tampa Bay",
-      "date": "Nov 30",
-      "ndate": 20241130
+      "date": "Dec 04",
+      "ndate": 20241204
+    },
+    {
+      "carryoverAmount": 6300,
+      "carryover": "$6,300",
+      "wagertype": "Super High Five",
+      "track": "Churchill Downs",
+      "date": "Dec 01",
+      "ndate": 20241201
     },
     {
       "carryoverAmount": 3503,
       "carryover": "$3,503",
       "wagertype": "Super High Five Jackpot",
       "track": "Penn National",
+      "date": "Dec 04",
+      "ndate": 20241204
+    },
+    {
+      "carryoverAmount": 3358,
+      "carryover": "$3,358",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Pleasanton",
+      "date": "Dec 01",
+      "ndate": 20241201
+    },
+    {
+      "carryoverAmount": 2369,
+      "carryover": "$2,369",
+      "wagertype": "Super High Five",
+      "track": "Tampa Bay",
       "date": "Dec 04",
       "ndate": 20241204
     },
@@ -97,28 +105,20 @@
       "ndate": 20241202
     },
     {
+      "carryoverAmount": 1852,
+      "carryover": "$1,852",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Laurel Park",
+      "date": "Dec 01",
+      "ndate": 20241201
+    },
+    {
       "carryoverAmount": 1841,
       "carryover": "$1,841",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
       "date": "Dec 02",
       "ndate": 20241202
-    },
-    {
-      "carryoverAmount": 1408,
-      "carryover": "$1,408",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Laurel Park",
-      "date": "Nov 30",
-      "ndate": 20241130
-    },
-    {
-      "carryoverAmount": 909,
-      "carryover": "$909",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Pleasanton",
-      "date": "Nov 30",
-      "ndate": 20241130
     }
   ]
 }
