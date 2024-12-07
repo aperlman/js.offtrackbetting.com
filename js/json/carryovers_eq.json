@@ -1,36 +1,28 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 145254,
-      "carryover": "$145,254",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Woodbine",
-      "date": "Dec 06",
-      "ndate": 20241206
-    },
-    {
-      "carryoverAmount": 104370,
-      "carryover": "$104,370",
+      "carryoverAmount": 129700,
+      "carryover": "$129,700",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "Dec 06",
-      "ndate": 20241206
+      "date": "Dec 07",
+      "ndate": 20241207
     },
     {
       "carryoverAmount": 97939,
       "carryover": "$97,939",
       "wagertype": "Pick 6 Jackpot",
       "track": "Charles Town",
-      "date": "Dec 06",
-      "ndate": 20241206
+      "date": "Dec 07",
+      "ndate": 20241207
     },
     {
-      "carryoverAmount": 48082,
-      "carryover": "$48,082",
+      "carryoverAmount": 51204,
+      "carryover": "$51,204",
       "wagertype": "Super High Five",
       "track": "Pleasanton",
-      "date": "Dec 06",
-      "ndate": 20241206
+      "date": "Dec 07",
+      "ndate": 20241207
     },
     {
       "carryoverAmount": 47198,
@@ -41,6 +33,14 @@
       "ndate": 20241209
     },
     {
+      "carryoverAmount": 17311,
+      "carryover": "$17,311",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Woodbine",
+      "date": "Dec 07",
+      "ndate": 20241207
+    },
+    {
       "carryoverAmount": 14876,
       "carryover": "$14,876",
       "wagertype": "Pick 6 Jackpot",
@@ -49,12 +49,20 @@
       "ndate": 20241209
     },
     {
-      "carryoverAmount": 10674,
-      "carryover": "$10,674",
+      "carryoverAmount": 12214,
+      "carryover": "$12,214",
       "wagertype": "Pick 6 Jackpot",
       "track": "Tampa Bay",
-      "date": "Dec 06",
-      "ndate": 20241206
+      "date": "Dec 07",
+      "ndate": 20241207
+    },
+    {
+      "carryoverAmount": 8240,
+      "carryover": "$8,240",
+      "wagertype": "Super High Five",
+      "track": "Turfway Park",
+      "date": "Dec 07",
+      "ndate": 20241207
     },
     {
       "carryoverAmount": 8099,
@@ -65,52 +73,36 @@
       "ndate": 20241209
     },
     {
-      "carryoverAmount": 7575,
-      "carryover": "$7,575",
-      "wagertype": "Super High Five",
-      "track": "Gulfstream Park",
-      "date": "Dec 06",
-      "ndate": 20241206
-    },
-    {
-      "carryoverAmount": 5715,
-      "carryover": "$5,715",
+      "carryoverAmount": 7130,
+      "carryover": "$7,130",
       "wagertype": "Pick 6 Jackpot",
       "track": "Pleasanton",
-      "date": "Dec 06",
-      "ndate": 20241206
+      "date": "Dec 07",
+      "ndate": 20241207
     },
     {
-      "carryoverAmount": 4072,
-      "carryover": "$4,072",
+      "carryoverAmount": 4821,
+      "carryover": "$4,821",
       "wagertype": "Super High Five Jackpot",
       "track": "Penn National",
-      "date": "Dec 06",
-      "ndate": 20241206
+      "date": "Dec 11",
+      "ndate": 20241211
     },
     {
-      "carryoverAmount": 3535,
-      "carryover": "$3,535",
-      "wagertype": "Pick 5",
-      "track": "Penn National",
-      "date": "Dec 06",
-      "ndate": 20241206
-    },
-    {
-      "carryoverAmount": 3125,
-      "carryover": "$3,125",
-      "wagertype": "Super High Five",
-      "track": "Turfway Park",
-      "date": "Dec 06",
-      "ndate": 20241206
-    },
-    {
-      "carryoverAmount": 2445,
-      "carryover": "$2,445",
+      "carryoverAmount": 2717,
+      "carryover": "$2,717",
       "wagertype": "Pick 6 Jackpot",
       "track": "Laurel Park",
-      "date": "Dec 06",
-      "ndate": 20241206
+      "date": "Dec 07",
+      "ndate": 20241207
+    },
+    {
+      "carryoverAmount": 2163,
+      "carryover": "$2,163",
+      "wagertype": "Pick 6",
+      "track": "Fair Grounds",
+      "date": "Dec 07",
+      "ndate": 20241207
     },
     {
       "carryoverAmount": 1762,
