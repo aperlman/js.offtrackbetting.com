@@ -17,12 +17,20 @@
       "ndate": 20241211
     },
     {
-      "carryoverAmount": 69466,
-      "carryover": "$69,466",
+      "carryoverAmount": 92683,
+      "carryover": "$92,683",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Dec 10",
-      "ndate": 20241210
+      "date": "Dec 11",
+      "ndate": 20241211
+    },
+    {
+      "carryoverAmount": 79382,
+      "carryover": "$79,382",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Parx Racing",
+      "date": "Dec 11",
+      "ndate": 20241211
     },
     {
       "carryoverAmount": 56866,
@@ -33,14 +41,6 @@
       "ndate": 20241213
     },
     {
-      "carryoverAmount": 56696,
-      "carryover": "$56,696",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Parx Racing",
-      "date": "Dec 10",
-      "ndate": 20241210
-    },
-    {
       "carryoverAmount": 51062,
       "carryover": "$51,062",
       "wagertype": "Super High Five Jackpot",
@@ -49,12 +49,12 @@
       "ndate": 20241212
     },
     {
-      "carryoverAmount": 20332,
-      "carryover": "$20,332",
+      "carryoverAmount": 26852,
+      "carryover": "$26,852",
       "wagertype": "Pick 6 Jackpot",
       "track": "Turf Paradise",
-      "date": "Dec 10",
-      "ndate": 20241210
+      "date": "Dec 11",
+      "ndate": 20241211
     },
     {
       "carryoverAmount": 14649,
@@ -77,6 +77,22 @@
       "carryover": "$11,566",
       "wagertype": "Super High Five",
       "track": "Turfway Park",
+      "date": "Dec 11",
+      "ndate": 20241211
+    },
+    {
+      "carryoverAmount": 7363,
+      "carryover": "$7,363",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Mahoning Valley",
+      "date": "Dec 11",
+      "ndate": 20241211
+    },
+    {
+      "carryoverAmount": 5930,
+      "carryover": "$5,930",
+      "wagertype": "Super High Five",
+      "track": "Mountaineer",
       "date": "Dec 11",
       "ndate": 20241211
     },
@@ -105,28 +121,12 @@
       "ndate": 20241213
     },
     {
-      "carryoverAmount": 3789,
-      "carryover": "$3,789",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Mahoning Valley",
-      "date": "Dec 10",
-      "ndate": 20241210
-    },
-    {
       "carryoverAmount": 1819,
       "carryover": "$1,819",
       "wagertype": "Pick 6",
       "track": "Fair Grounds",
       "date": "Dec 12",
       "ndate": 20241212
-    },
-    {
-      "carryoverAmount": 929,
-      "carryover": "$929",
-      "wagertype": "Super High Five",
-      "track": "Mountaineer",
-      "date": "Dec 10",
-      "ndate": 20241210
     }
   ]
 }
