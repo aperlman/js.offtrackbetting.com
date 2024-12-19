@@ -1,60 +1,52 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 140595,
-      "carryover": "$140,595",
+      "carryoverAmount": 168891,
+      "carryover": "$168,891",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Dec 18",
-      "ndate": 20241218
+      "date": "Dec 23",
+      "ndate": 20241223
     },
     {
-      "carryoverAmount": 126126,
-      "carryover": "$126,126",
+      "carryoverAmount": 153938,
+      "carryover": "$153,938",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Dec 18",
-      "ndate": 20241218
+      "date": "Dec 23",
+      "ndate": 20241223
     },
     {
-      "carryoverAmount": 93353,
-      "carryover": "$93,353",
+      "carryoverAmount": 140326,
+      "carryover": "$140,326",
       "wagertype": "Pick 6 Jackpot",
       "track": "Turfway Park",
-      "date": "Dec 18",
-      "ndate": 20241218
+      "date": "Dec 19",
+      "ndate": 20241219
     },
     {
-      "carryoverAmount": 54130,
-      "carryover": "$54,130",
+      "carryoverAmount": 61917,
+      "carryover": "$61,917",
       "wagertype": "Pick 6 Jackpot",
       "track": "Turf Paradise",
-      "date": "Dec 18",
-      "ndate": 20241218
+      "date": "Dec 19",
+      "ndate": 20241219
     },
     {
-      "carryoverAmount": 25069,
-      "carryover": "$25,069",
+      "carryoverAmount": 30290,
+      "carryover": "$30,290",
       "wagertype": "Pick 6 Jackpot",
       "track": "Tampa Bay",
-      "date": "Dec 18",
-      "ndate": 20241218
+      "date": "Dec 20",
+      "ndate": 20241220
     },
     {
-      "carryoverAmount": 17781,
-      "carryover": "$17,781",
+      "carryoverAmount": 20794,
+      "carryover": "$20,794",
       "wagertype": "Pick 6 Jackpot",
       "track": "Mahoning Valley",
-      "date": "Dec 18",
-      "ndate": 20241218
-    },
-    {
-      "carryoverAmount": 13248,
-      "carryover": "$13,248",
-      "wagertype": "Pick 5",
-      "track": "Mahoning Valley",
-      "date": "Dec 18",
-      "ndate": 20241218
+      "date": "Dec 19",
+      "ndate": 20241219
     },
     {
       "carryoverAmount": 13050,
@@ -65,28 +57,20 @@
       "ndate": 20241219
     },
     {
+      "carryoverAmount": 7407,
+      "carryover": "$7,407",
+      "wagertype": "Super High Five",
+      "track": "Turfway Park",
+      "date": "Dec 19",
+      "ndate": 20241219
+    },
+    {
       "carryoverAmount": 6880,
       "carryover": "$6,880",
       "wagertype": "Pick 6 Jackpot",
       "track": "Laurel Park",
       "date": "Dec 20",
       "ndate": 20241220
-    },
-    {
-      "carryoverAmount": 4465,
-      "carryover": "$4,465",
-      "wagertype": "Super High Five",
-      "track": "Turfway Park",
-      "date": "Dec 18",
-      "ndate": 20241218
-    },
-    {
-      "carryoverAmount": 3230,
-      "carryover": "$3,230",
-      "wagertype": "Super High Five",
-      "track": "Tampa Bay",
-      "date": "Dec 18",
-      "ndate": 20241218
     }
   ]
 }
