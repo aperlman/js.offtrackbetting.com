@@ -1,6 +1,14 @@
 {
   "carryovers": [
     {
+      "carryoverAmount": 223652,
+      "carryover": "$223,652",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Turfway Park",
+      "date": "Dec 26",
+      "ndate": 20241226
+    },
+    {
       "carryoverAmount": 168891,
       "carryover": "$168,891",
       "wagertype": "Pick 5 Jackpot",
@@ -17,28 +25,12 @@
       "ndate": 20241223
     },
     {
-      "carryoverAmount": 152673,
-      "carryover": "$152,673",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Turfway Park",
-      "date": "Dec 21",
-      "ndate": 20241221
-    },
-    {
-      "carryoverAmount": 40759,
-      "carryover": "$40,759",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Gulfstream Park",
-      "date": "Dec 21",
-      "ndate": 20241221
-    },
-    {
-      "carryoverAmount": 34730,
-      "carryover": "$34,730",
+      "carryoverAmount": 40369,
+      "carryover": "$40,369",
       "wagertype": "Pick 6 Jackpot",
       "track": "Tampa Bay",
-      "date": "Dec 21",
-      "ndate": 20241221
+      "date": "Dec 22",
+      "ndate": 20241222
     },
     {
       "carryoverAmount": 24697,
@@ -49,28 +41,12 @@
       "ndate": 20241223
     },
     {
-      "carryoverAmount": 9368,
-      "carryover": "$9,368",
+      "carryoverAmount": 5901,
+      "carryover": "$5,901",
       "wagertype": "Super High Five",
-      "track": "Tampa Bay",
-      "date": "Dec 21",
-      "ndate": 20241221
-    },
-    {
-      "carryoverAmount": 7857,
-      "carryover": "$7,857",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Laurel Park",
-      "date": "Dec 21",
-      "ndate": 20241221
-    },
-    {
-      "carryoverAmount": 6577,
-      "carryover": "$6,577",
-      "wagertype": "Super High Five",
-      "track": "Gulfstream Park",
-      "date": "Dec 21",
-      "ndate": 20241221
+      "track": "Turfway Park",
+      "date": "Dec 26",
+      "ndate": 20241226
     },
     {
       "carryoverAmount": 3232,
@@ -81,12 +57,12 @@
       "ndate": 20241226
     },
     {
-      "carryoverAmount": 2003,
-      "carryover": "$2,003",
+      "carryoverAmount": 2668,
+      "carryover": "$2,668",
       "wagertype": "Super High Five",
-      "track": "Turfway Park",
-      "date": "Dec 21",
-      "ndate": 20241221
+      "track": "Tampa Bay",
+      "date": "Dec 22",
+      "ndate": 20241222
     }
   ]
 }
