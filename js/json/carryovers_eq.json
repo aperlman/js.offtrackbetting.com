@@ -9,36 +9,20 @@
       "ndate": 20241230
     },
     {
+      "carryoverAmount": 166992,
+      "carryover": "$166,992",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Gulfstream Park",
+      "date": "Jan 01",
+      "ndate": 20250101
+    },
+    {
       "carryoverAmount": 153938,
       "carryover": "$153,938",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
       "date": "Dec 30",
       "ndate": 20241230
-    },
-    {
-      "carryoverAmount": 133026,
-      "carryover": "$133,026",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Gulfstream Park",
-      "date": "Dec 29",
-      "ndate": 20241229
-    },
-    {
-      "carryoverAmount": 25916,
-      "carryover": "$25,916",
-      "wagertype": "Pick 6",
-      "track": "Aqueduct",
-      "date": "Dec 29",
-      "ndate": 20241229
-    },
-    {
-      "carryoverAmount": 12578,
-      "carryover": "$12,578",
-      "wagertype": "Super High Five",
-      "track": "Gulfstream Park",
-      "date": "Dec 29",
-      "ndate": 20241229
     },
     {
       "carryoverAmount": 3201,
@@ -49,36 +33,12 @@
       "ndate": 20241230
     },
     {
-      "carryoverAmount": 2687,
-      "carryover": "$2,687",
-      "wagertype": "Super High Five",
-      "track": "Tampa Bay",
-      "date": "Dec 29",
-      "ndate": 20241229
-    },
-    {
-      "carryoverAmount": 2250,
-      "carryover": "$2,250",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Laurel Park",
-      "date": "Dec 29",
-      "ndate": 20241229
-    },
-    {
-      "carryoverAmount": 1547,
-      "carryover": "$1,547",
-      "wagertype": "Pick 6",
-      "track": "Fair Grounds",
-      "date": "Dec 29",
-      "ndate": 20241229
-    },
-    {
-      "carryoverAmount": 1116,
-      "carryover": "$1,116",
+      "carryoverAmount": 2655,
+      "carryover": "$2,655",
       "wagertype": "Pick 6 Jackpot",
       "track": "Tampa Bay",
-      "date": "Dec 29",
-      "ndate": 20241229
+      "date": "Jan 01",
+      "ndate": 20250101
     },
     {
       "carryoverAmount": 902,
@@ -89,12 +49,12 @@
       "ndate": 20241230
     },
     {
-      "carryoverAmount": 606,
-      "carryover": "$606",
+      "carryoverAmount": 773,
+      "carryover": "$773",
       "wagertype": "3x3",
       "track": "Santa Anita",
-      "date": "Dec 29",
-      "ndate": 20241229
+      "date": "Jan 01",
+      "ndate": 20250101
     }
   ]
 }
