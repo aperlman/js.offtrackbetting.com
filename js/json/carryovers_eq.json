@@ -1,36 +1,76 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 166992,
-      "carryover": "$166,992",
+      "carryoverAmount": 210599,
+      "carryover": "$210,599",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "Jan 01",
-      "ndate": 20250101
+      "date": "Jan 02",
+      "ndate": 20250102
     },
     {
-      "carryoverAmount": 15099,
-      "carryover": "$15,099",
+      "carryoverAmount": 94897,
+      "carryover": "$94,897",
+      "wagertype": "Pick 5",
+      "track": "Turfway Park",
+      "date": "Jan 02",
+      "ndate": 20250102
+    },
+    {
+      "carryoverAmount": 18970,
+      "carryover": "$18,970",
       "wagertype": "Pick 6 Jackpot",
       "track": "Turf Paradise",
-      "date": "Jan 01",
-      "ndate": 20250101
+      "date": "Jan 02",
+      "ndate": 20250102
     },
     {
-      "carryoverAmount": 2655,
-      "carryover": "$2,655",
+      "carryoverAmount": 18141,
+      "carryover": "$18,141",
+      "wagertype": "Pick 6",
+      "track": "Aqueduct",
+      "date": "Jan 02",
+      "ndate": 20250102
+    },
+    {
+      "carryoverAmount": 11479,
+      "carryover": "$11,479",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Turfway Park",
+      "date": "Jan 02",
+      "ndate": 20250102
+    },
+    {
+      "carryoverAmount": 6636,
+      "carryover": "$6,636",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Parx Racing",
+      "date": "Jan 06",
+      "ndate": 20250106
+    },
+    {
+      "carryoverAmount": 4705,
+      "carryover": "$4,705",
       "wagertype": "Pick 6 Jackpot",
       "track": "Tampa Bay",
-      "date": "Jan 01",
-      "ndate": 20250101
+      "date": "Jan 03",
+      "ndate": 20250103
     },
     {
-      "carryoverAmount": 773,
-      "carryover": "$773",
+      "carryoverAmount": 1444,
+      "carryover": "$1,444",
+      "wagertype": "Super High Five",
+      "track": "Turfway Park",
+      "date": "Jan 02",
+      "ndate": 20250102
+    },
+    {
+      "carryoverAmount": 862,
+      "carryover": "$862",
       "wagertype": "3x3",
       "track": "Santa Anita",
-      "date": "Jan 01",
-      "ndate": 20250101
+      "date": "Jan 03",
+      "ndate": 20250103
     }
   ]
 }
