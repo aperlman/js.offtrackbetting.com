@@ -1,12 +1,12 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 104764,
-      "carryover": "$104,764",
+      "carryoverAmount": 109936,
+      "carryover": "$109,936",
       "wagertype": "Pick 6 Jackpot",
       "track": "Turfway Park",
-      "date": "Mar 06",
-      "ndate": 20250306
+      "date": "Mar 07",
+      "ndate": 20250307
     },
     {
       "carryoverAmount": 70521,
@@ -33,28 +33,36 @@
       "ndate": 20250307
     },
     {
-      "carryoverAmount": 31627,
-      "carryover": "$31,627",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Charles Town",
-      "date": "Mar 06",
-      "ndate": 20250306
-    },
-    {
-      "carryoverAmount": 18242,
-      "carryover": "$18,242",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Mahoning Valley",
-      "date": "Mar 06",
-      "ndate": 20250306
-    },
-    {
-      "carryoverAmount": 17801,
-      "carryover": "$17,801",
+      "carryoverAmount": 44148,
+      "carryover": "$44,148",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "Mar 06",
-      "ndate": 20250306
+      "date": "Mar 07",
+      "ndate": 20250307
+    },
+    {
+      "carryoverAmount": 34663,
+      "carryover": "$34,663",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Charles Town",
+      "date": "Mar 07",
+      "ndate": 20250307
+    },
+    {
+      "carryoverAmount": 22098,
+      "carryover": "$22,098",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Mahoning Valley",
+      "date": "Mar 10",
+      "ndate": 20250310
+    },
+    {
+      "carryoverAmount": 11600,
+      "carryover": "$11,600",
+      "wagertype": "Super High Five",
+      "track": "Turfway Park",
+      "date": "Mar 07",
+      "ndate": 20250307
     },
     {
       "carryoverAmount": 11516,
@@ -65,14 +73,6 @@
       "ndate": 20250307
     },
     {
-      "carryoverAmount": 10433,
-      "carryover": "$10,433",
-      "wagertype": "Super High Five",
-      "track": "Gulfstream Park",
-      "date": "Mar 06",
-      "ndate": 20250306
-    },
-    {
       "carryoverAmount": 9548,
       "carryover": "$9,548",
       "wagertype": "Pick 6 Jackpot",
@@ -81,12 +81,20 @@
       "ndate": 20250307
     },
     {
-      "carryoverAmount": 5651,
-      "carryover": "$5,651",
+      "carryoverAmount": 7121,
+      "carryover": "$7,121",
       "wagertype": "Super High Five Jackpot",
       "track": "Penn National",
-      "date": "Mar 06",
-      "ndate": 20250306
+      "date": "Mar 07",
+      "ndate": 20250307
+    },
+    {
+      "carryoverAmount": 6455,
+      "carryover": "$6,455",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Turf Paradise",
+      "date": "Mar 10",
+      "ndate": 20250310
     },
     {
       "carryoverAmount": 5296,
@@ -113,20 +121,12 @@
       "ndate": 20250307
     },
     {
-      "carryoverAmount": 3719,
-      "carryover": "$3,719",
-      "wagertype": "Super High Five",
-      "track": "Turfway Park",
-      "date": "Mar 06",
-      "ndate": 20250306
-    },
-    {
-      "carryoverAmount": 3286,
-      "carryover": "$3,286",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Turf Paradise",
-      "date": "Mar 06",
-      "ndate": 20250306
+      "carryoverAmount": 3706,
+      "carryover": "$3,706",
+      "wagertype": "Pick 6",
+      "track": "Fair Grounds",
+      "date": "Mar 07",
+      "ndate": 20250307
     }
   ]
 }
