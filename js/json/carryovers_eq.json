@@ -1,12 +1,12 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 174688,
-      "carryover": "$174,688",
+      "carryoverAmount": 180368,
+      "carryover": "$180,368",
       "wagertype": "Pick 6 Jackpot",
       "track": "Turfway Park",
-      "date": "Mar 14",
-      "ndate": 20250314
+      "date": "Mar 15",
+      "ndate": 20250315
     },
     {
       "carryoverAmount": 130105,
@@ -25,20 +25,36 @@
       "ndate": 20250317
     },
     {
-      "carryoverAmount": 46688,
-      "carryover": "$46,688",
+      "carryoverAmount": 51026,
+      "carryover": "$51,026",
       "wagertype": "Pick 6 Jackpot",
       "track": "Tampa Bay",
-      "date": "Mar 14",
-      "ndate": 20250314
+      "date": "Mar 15",
+      "ndate": 20250315
     },
     {
-      "carryoverAmount": 46189,
-      "carryover": "$46,189",
+      "carryoverAmount": 49892,
+      "carryover": "$49,892",
       "wagertype": "Pick 6 Jackpot",
       "track": "Charles Town",
-      "date": "Mar 14",
-      "ndate": 20250314
+      "date": "Mar 15",
+      "ndate": 20250315
+    },
+    {
+      "carryoverAmount": 43815,
+      "carryover": "$43,815",
+      "wagertype": "Pick 5",
+      "track": "Tampa Bay",
+      "date": "Mar 15",
+      "ndate": 20250315
+    },
+    {
+      "carryoverAmount": 40549,
+      "carryover": "$40,549",
+      "wagertype": "Pick 6",
+      "track": "Santa Anita",
+      "date": "Mar 15",
+      "ndate": 20250315
     },
     {
       "carryoverAmount": 37402,
@@ -49,76 +65,100 @@
       "ndate": 20250317
     },
     {
-      "carryoverAmount": 24087,
-      "carryover": "$24,087",
-      "wagertype": "Super High Five",
-      "track": "Santa Anita",
-      "date": "Mar 14",
-      "ndate": 20250314
+      "carryoverAmount": 35878,
+      "carryover": "$35,878",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Turf Paradise",
+      "date": "Mar 15",
+      "ndate": 20250315
     },
     {
-      "carryoverAmount": 15369,
-      "carryover": "$15,369",
-      "wagertype": "Super High Five",
+      "carryoverAmount": 17708,
+      "carryover": "$17,708",
+      "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "Mar 14",
-      "ndate": 20250314
+      "date": "Mar 15",
+      "ndate": 20250315
     },
     {
-      "carryoverAmount": 9201,
-      "carryover": "$9,201",
+      "carryoverAmount": 10623,
+      "carryover": "$10,623",
       "wagertype": "Pick 5",
       "track": "Fonner Park",
-      "date": "Mar 14",
-      "ndate": 20250314
+      "date": "Mar 15",
+      "ndate": 20250315
     },
     {
-      "carryoverAmount": 6304,
-      "carryover": "$6,304",
+      "carryoverAmount": 9683,
+      "carryover": "$9,683",
       "wagertype": "Pick 6",
       "track": "Fair Grounds",
-      "date": "Mar 14",
-      "ndate": 20250314
+      "date": "Mar 15",
+      "ndate": 20250315
     },
     {
-      "carryoverAmount": 6005,
-      "carryover": "$6,005",
+      "carryoverAmount": 6183,
+      "carryover": "$6,183",
       "wagertype": "Super High Five",
-      "track": "Turfway Park",
-      "date": "Mar 14",
-      "ndate": 20250314
+      "track": "Tampa Bay",
+      "date": "Mar 15",
+      "ndate": 20250315
     },
     {
-      "carryoverAmount": 4665,
-      "carryover": "$4,665",
+      "carryoverAmount": 4782,
+      "carryover": "$4,782",
       "wagertype": "3x3",
       "track": "Santa Anita",
-      "date": "Mar 14",
-      "ndate": 20250314
+      "date": "Mar 15",
+      "ndate": 20250315
     },
     {
-      "carryoverAmount": 2103,
-      "carryover": "$2,103",
-      "wagertype": "Pick 6",
-      "track": "Colonial Downs",
-      "date": "Mar 14",
-      "ndate": 20250314
+      "carryoverAmount": 3112,
+      "carryover": "$3,112",
+      "wagertype": "Pick 5",
+      "track": "Penn National",
+      "date": "Mar 20",
+      "ndate": 20250320
     },
     {
-      "carryoverAmount": 722,
-      "carryover": "$722",
+      "carryoverAmount": 856,
+      "carryover": "$856",
       "wagertype": "Super High Five",
       "track": "Sunland Park",
-      "date": "Mar 14",
-      "ndate": 20250314
+      "date": "Mar 15",
+      "ndate": 20250315
     },
     {
-      "carryoverAmount": 146,
-      "carryover": "$146",
-      "wagertype": "Super High Five Jackpot",
+      "carryoverAmount": 586,
+      "carryover": "$586",
+      "wagertype": "Super High Five",
       "track": "Sam Houston",
-      "date": "Mar 14",
-      "ndate": 20250314
+      "date": "Mar 15",
+      "ndate": 20250315
+    },
+    {
+      "carryoverAmount": 458,
+      "carryover": "$458",
+      "wagertype": "Pick 5",
+      "track": "Sam Houston",
+      "date": "Mar 15",
+      "ndate": 20250315
+    },
+    {
+      "carryoverAmount": 271,
+      "carryover": "$271",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Penn National",
+      "date": "Mar 20",
+      "ndate": 20250320
+    },
+    {
+      "carryoverAmount": 212,
+      "carryover": "$212",
+      "wagertype": "Pick 5",
+      "track": "Sunland Park",
+      "date": "Mar 15",
+      "ndate": 20250315
     }
   ]
 }
