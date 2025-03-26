@@ -1,12 +1,20 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 204900,
-      "carryover": "$204,900",
+      "carryoverAmount": 235621,
+      "carryover": "$235,621",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Mar 25",
-      "ndate": 20250325
+      "date": "Mar 26",
+      "ndate": 20250326
+    },
+    {
+      "carryoverAmount": 219602,
+      "carryover": "$219,602",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Parx Racing",
+      "date": "Mar 26",
+      "ndate": 20250326
     },
     {
       "carryoverAmount": 74963,
@@ -41,20 +49,28 @@
       "ndate": 20250326
     },
     {
+      "carryoverAmount": 7209,
+      "carryover": "$7,209",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Turf Paradise",
+      "date": "Mar 26",
+      "ndate": 20250326
+    },
+    {
+      "carryoverAmount": 6042,
+      "carryover": "$6,042",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Mahoning Valley",
+      "date": "Mar 26",
+      "ndate": 20250326
+    },
+    {
       "carryoverAmount": 5542,
       "carryover": "$5,542",
       "wagertype": "3x3",
       "track": "Santa Anita",
       "date": "Mar 28",
       "ndate": 20250328
-    },
-    {
-      "carryoverAmount": 2826,
-      "carryover": "$2,826",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Mahoning Valley",
-      "date": "Mar 25",
-      "ndate": 20250325
     },
     {
       "carryoverAmount": 2347,
@@ -95,6 +111,14 @@
       "track": "Tampa Bay",
       "date": "Mar 26",
       "ndate": 20250326
+    },
+    {
+      "carryoverAmount": 827,
+      "carryover": "$827",
+      "wagertype": "Pick 5",
+      "track": "Fonner Park",
+      "date": "Mar 28",
+      "ndate": 20250328
     },
     {
       "carryoverAmount": 224,
