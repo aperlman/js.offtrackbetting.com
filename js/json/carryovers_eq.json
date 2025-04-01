@@ -1,20 +1,12 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 254514,
-      "carryover": "$254,514",
+      "carryoverAmount": 273372,
+      "carryover": "$273,372",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Mar 31",
-      "ndate": 20250331
-    },
-    {
-      "carryoverAmount": 245196,
-      "carryover": "$245,196",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Parx Racing",
-      "date": "Mar 31",
-      "ndate": 20250331
+      "date": "Apr 01",
+      "ndate": 20250401
     },
     {
       "carryoverAmount": 100819,
@@ -33,12 +25,12 @@
       "ndate": 20250403
     },
     {
-      "carryoverAmount": 19024,
-      "carryover": "$19,024",
+      "carryoverAmount": 33505,
+      "carryover": "$33,505",
       "wagertype": "Pick 6 Jackpot",
       "track": "Turf Paradise",
-      "date": "Mar 31",
-      "ndate": 20250331
+      "date": "Apr 01",
+      "ndate": 20250401
     },
     {
       "carryoverAmount": 11277,
@@ -65,6 +57,14 @@
       "ndate": 20250403
     },
     {
+      "carryoverAmount": 2243,
+      "carryover": "$2,243",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Mahoning Valley",
+      "date": "Apr 01",
+      "ndate": 20250401
+    },
+    {
       "carryoverAmount": 1141,
       "carryover": "$1,141",
       "wagertype": "Pick 6",
@@ -79,14 +79,6 @@
       "track": "Sam Houston",
       "date": "Apr 04",
       "ndate": 20250404
-    },
-    {
-      "carryoverAmount": 389,
-      "carryover": "$389",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Mahoning Valley",
-      "date": "Mar 31",
-      "ndate": 20250331
     }
   ]
 }
