@@ -1,20 +1,20 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 316187,
-      "carryover": "$316,187",
+      "carryoverAmount": 350614,
+      "carryover": "$350,614",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Apr 02",
-      "ndate": 20250402
+      "date": "Apr 07",
+      "ndate": 20250407
     },
     {
-      "carryoverAmount": 293347,
-      "carryover": "$293,347",
+      "carryoverAmount": 331634,
+      "carryover": "$331,634",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Apr 02",
-      "ndate": 20250402
+      "date": "Apr 07",
+      "ndate": 20250407
     },
     {
       "carryoverAmount": 100819,
@@ -33,20 +33,28 @@
       "ndate": 20250403
     },
     {
-      "carryoverAmount": 50719,
-      "carryover": "$50,719",
+      "carryoverAmount": 62854,
+      "carryover": "$62,854",
       "wagertype": "Pick 6 Jackpot",
       "track": "Turf Paradise",
-      "date": "Apr 02",
-      "ndate": 20250402
+      "date": "Apr 03",
+      "ndate": 20250403
     },
     {
-      "carryoverAmount": 11277,
-      "carryover": "$11,277",
+      "carryoverAmount": 15311,
+      "carryover": "$15,311",
       "wagertype": "Pick 6 Jackpot",
       "track": "Tampa Bay",
-      "date": "Apr 02",
-      "ndate": 20250402
+      "date": "Apr 04",
+      "ndate": 20250404
+    },
+    {
+      "carryoverAmount": 8160,
+      "carryover": "$8,160",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Mahoning Valley",
+      "date": "Apr 03",
+      "ndate": 20250403
     },
     {
       "carryoverAmount": 6018,
@@ -55,14 +63,6 @@
       "track": "Santa Anita",
       "date": "Apr 04",
       "ndate": 20250404
-    },
-    {
-      "carryoverAmount": 4845,
-      "carryover": "$4,845",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Mahoning Valley",
-      "date": "Apr 02",
-      "ndate": 20250402
     },
     {
       "carryoverAmount": 4017,
@@ -79,6 +79,14 @@
       "track": "Hawthorne",
       "date": "Apr 03",
       "ndate": 20250403
+    },
+    {
+      "carryoverAmount": 1436,
+      "carryover": "$1,436",
+      "wagertype": "Super High Five",
+      "track": "Tampa Bay",
+      "date": "Apr 04",
+      "ndate": 20250404
     },
     {
       "carryoverAmount": 1141,
