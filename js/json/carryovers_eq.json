@@ -1,12 +1,12 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 403923,
-      "carryover": "$403,923",
+      "carryoverAmount": 455070,
+      "carryover": "$455,070",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "Apr 06",
-      "ndate": 20250406
+      "date": "Apr 10",
+      "ndate": 20250410
     },
     {
       "carryoverAmount": 350614,
@@ -33,12 +33,12 @@
       "ndate": 20250408
     },
     {
-      "carryoverAmount": 15441,
-      "carryover": "$15,441",
+      "carryoverAmount": 39292,
+      "carryover": "$39,292",
       "wagertype": "Pick 6",
-      "track": "Los Alamitos",
-      "date": "Apr 06",
-      "ndate": 20250406
+      "track": "Keeneland",
+      "date": "Apr 07",
+      "ndate": 20250407
     },
     {
       "carryoverAmount": 12175,
@@ -49,76 +49,28 @@
       "ndate": 20250407
     },
     {
-      "carryoverAmount": 10992,
-      "carryover": "$10,992",
-      "wagertype": "Super High Five",
-      "track": "Gulfstream Park",
-      "date": "Apr 06",
-      "ndate": 20250406
-    },
-    {
-      "carryoverAmount": 6427,
-      "carryover": "$6,427",
-      "wagertype": "3x3",
-      "track": "Santa Anita",
-      "date": "Apr 06",
-      "ndate": 20250406
-    },
-    {
-      "carryoverAmount": 6346,
-      "carryover": "$6,346",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Fonner Park",
-      "date": "Apr 06",
-      "ndate": 20250406
-    },
-    {
-      "carryoverAmount": 2425,
-      "carryover": "$2,425",
-      "wagertype": "Super High Five",
-      "track": "Tampa Bay",
-      "date": "Apr 06",
-      "ndate": 20250406
-    },
-    {
-      "carryoverAmount": 2180,
-      "carryover": "$2,180",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Sam Houston",
-      "date": "Apr 06",
-      "ndate": 20250406
-    },
-    {
-      "carryoverAmount": 1898,
-      "carryover": "$1,898",
+      "carryoverAmount": 3724,
+      "carryover": "$3,724",
       "wagertype": "Pick 6 Jackpot",
       "track": "Tampa Bay",
-      "date": "Apr 06",
-      "ndate": 20250406
+      "date": "Apr 09",
+      "ndate": 20250409
     },
     {
-      "carryoverAmount": 1836,
-      "carryover": "$1,836",
+      "carryoverAmount": 2634,
+      "carryover": "$2,634",
       "wagertype": "Pick 6 Jackpot",
       "track": "Laurel Park",
-      "date": "Apr 06",
-      "ndate": 20250406
+      "date": "Apr 11",
+      "ndate": 20250411
     },
     {
-      "carryoverAmount": 382,
-      "carryover": "$382",
-      "wagertype": "Pick 5",
-      "track": "Sam Houston",
-      "date": "Apr 06",
-      "ndate": 20250406
-    },
-    {
-      "carryoverAmount": 298,
-      "carryover": "$298",
-      "wagertype": "Super High Five",
-      "track": "Sunland Park",
-      "date": "Apr 06",
-      "ndate": 20250406
+      "carryoverAmount": 552,
+      "carryover": "$552",
+      "wagertype": "Pick 6",
+      "track": "Hawthorne",
+      "date": "Apr 10",
+      "ndate": 20250410
     }
   ]
 }
