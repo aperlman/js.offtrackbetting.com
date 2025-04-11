@@ -1,12 +1,12 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 455070,
-      "carryover": "$455,070",
+      "carryoverAmount": 478581,
+      "carryover": "$478,581",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "Apr 10",
-      "ndate": 20250410
+      "date": "Apr 11",
+      "ndate": 20250411
     },
     {
       "carryoverAmount": 421123,
@@ -25,28 +25,20 @@
       "ndate": 20250414
     },
     {
-      "carryoverAmount": 88162,
-      "carryover": "$88,162",
-      "wagertype": "Super High Five",
-      "track": "Keeneland",
-      "date": "Apr 10",
-      "ndate": 20250410
-    },
-    {
-      "carryoverAmount": 45904,
-      "carryover": "$45,904",
+      "carryoverAmount": 211734,
+      "carryover": "$211,734",
       "wagertype": "Pick 6",
       "track": "Keeneland",
-      "date": "Apr 10",
-      "ndate": 20250410
+      "date": "Apr 11",
+      "ndate": 20250411
     },
     {
-      "carryoverAmount": 18619,
-      "carryover": "$18,619",
+      "carryoverAmount": 21352,
+      "carryover": "$21,352",
       "wagertype": "Pick 6 Jackpot",
       "track": "Mahoning Valley",
-      "date": "Apr 10",
-      "ndate": 20250410
+      "date": "Apr 11",
+      "ndate": 20250411
     },
     {
       "carryoverAmount": 7415,
@@ -73,12 +65,28 @@
       "ndate": 20250411
     },
     {
-      "carryoverAmount": 552,
-      "carryover": "$552",
+      "carryoverAmount": 2428,
+      "carryover": "$2,428",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Charles Town",
+      "date": "Apr 11",
+      "ndate": 20250411
+    },
+    {
+      "carryoverAmount": 2206,
+      "carryover": "$2,206",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Turf Paradise",
+      "date": "Apr 12",
+      "ndate": 20250412
+    },
+    {
+      "carryoverAmount": 1264,
+      "carryover": "$1,264",
       "wagertype": "Pick 6",
       "track": "Hawthorne",
-      "date": "Apr 10",
-      "ndate": 20250410
+      "date": "Apr 13",
+      "ndate": 20250413
     }
   ]
 }
