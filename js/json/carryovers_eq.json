@@ -17,6 +17,22 @@
       "ndate": 20250421
     },
     {
+      "carryoverAmount": 82329,
+      "carryover": "$82,329",
+      "wagertype": "Pick 6",
+      "track": "Keeneland",
+      "date": "Apr 19",
+      "ndate": 20250419
+    },
+    {
+      "carryoverAmount": 19723,
+      "carryover": "$19,723",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Gulfstream Park",
+      "date": "Apr 19",
+      "ndate": 20250419
+    },
+    {
       "carryoverAmount": 16053,
       "carryover": "$16,053",
       "wagertype": "Pick 6 Jackpot",
@@ -25,28 +41,36 @@
       "ndate": 20250419
     },
     {
-      "carryoverAmount": 11513,
-      "carryover": "$11,513",
+      "carryoverAmount": 13461,
+      "carryover": "$13,461",
       "wagertype": "Pick 5 Jackpot",
       "track": "Fonner Park",
-      "date": "Apr 18",
-      "ndate": 20250418
+      "date": "Apr 19",
+      "ndate": 20250419
     },
     {
-      "carryoverAmount": 7536,
-      "carryover": "$7,536",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Gulfstream Park",
-      "date": "Apr 18",
-      "ndate": 20250418
+      "carryoverAmount": 6787,
+      "carryover": "$6,787",
+      "wagertype": "3x3",
+      "track": "Santa Anita",
+      "date": "Apr 19",
+      "ndate": 20250419
     },
     {
-      "carryoverAmount": 5342,
-      "carryover": "$5,342",
+      "carryoverAmount": 3676,
+      "carryover": "$3,676",
       "wagertype": "Pick 6 Jackpot",
-      "track": "Laurel Park",
-      "date": "Apr 18",
-      "ndate": 20250418
+      "track": "Charles Town",
+      "date": "Apr 19",
+      "ndate": 20250419
+    },
+    {
+      "carryoverAmount": 2880,
+      "carryover": "$2,880",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Tampa Bay",
+      "date": "Apr 19",
+      "ndate": 20250419
     },
     {
       "carryoverAmount": 2413,
@@ -57,14 +81,6 @@
       "ndate": 20250420
     },
     {
-      "carryoverAmount": 1959,
-      "carryover": "$1,959",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Tampa Bay",
-      "date": "Apr 18",
-      "ndate": 20250418
-    },
-    {
       "carryoverAmount": 1463,
       "carryover": "$1,463",
       "wagertype": "Super High Five",
@@ -73,12 +89,20 @@
       "ndate": 20250420
     },
     {
-      "carryoverAmount": 763,
-      "carryover": "$763",
+      "carryoverAmount": 1462,
+      "carryover": "$1,462",
       "wagertype": "Super High Five",
       "track": "Lone Star",
-      "date": "Apr 18",
-      "ndate": 20250418
+      "date": "Apr 19",
+      "ndate": 20250419
+    },
+    {
+      "carryoverAmount": 745,
+      "carryover": "$745",
+      "wagertype": "Pick 5",
+      "track": "Lone Star",
+      "date": "Apr 19",
+      "ndate": 20250419
     },
     {
       "carryoverAmount": 295,
