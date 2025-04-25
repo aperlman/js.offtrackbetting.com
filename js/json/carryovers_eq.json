@@ -1,12 +1,12 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 78717,
-      "carryover": "$78,717",
+      "carryoverAmount": 92478,
+      "carryover": "$92,478",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "Apr 24",
-      "ndate": 20250424
+      "date": "Apr 25",
+      "ndate": 20250425
     },
     {
       "carryoverAmount": 68636,
@@ -33,36 +33,12 @@
       "ndate": 20250428
     },
     {
-      "carryoverAmount": 25217,
-      "carryover": "$25,217",
-      "wagertype": "Pick 6",
-      "track": "Keeneland",
-      "date": "Apr 24",
-      "ndate": 20250424
-    },
-    {
       "carryoverAmount": 15694,
       "carryover": "$15,694",
       "wagertype": "Pick 5 Jackpot",
       "track": "Fonner Park",
       "date": "Apr 25",
       "ndate": 20250425
-    },
-    {
-      "carryoverAmount": 9874,
-      "carryover": "$9,874",
-      "wagertype": "Pick 6",
-      "track": "Aqueduct",
-      "date": "Apr 24",
-      "ndate": 20250424
-    },
-    {
-      "carryoverAmount": 8719,
-      "carryover": "$8,719",
-      "wagertype": "Super High Five",
-      "track": "Gulfstream Park",
-      "date": "Apr 24",
-      "ndate": 20250424
     },
     {
       "carryoverAmount": 7064,
@@ -73,12 +49,28 @@
       "ndate": 20250425
     },
     {
-      "carryoverAmount": 5511,
-      "carryover": "$5,511",
+      "carryoverAmount": 7000,
+      "carryover": "$7,000",
       "wagertype": "Pick 6 Jackpot",
       "track": "Thistledown",
-      "date": "Apr 24",
-      "ndate": 20250424
+      "date": "Apr 28",
+      "ndate": 20250428
+    },
+    {
+      "carryoverAmount": 5153,
+      "carryover": "$5,153",
+      "wagertype": "Pick 6",
+      "track": "Hawthorne",
+      "date": "Apr 27",
+      "ndate": 20250427
+    },
+    {
+      "carryoverAmount": 5046,
+      "carryover": "$5,046",
+      "wagertype": "Pick 5",
+      "track": "Penn National",
+      "date": "Apr 25",
+      "ndate": 20250425
     },
     {
       "carryoverAmount": 4176,
@@ -89,26 +81,34 @@
       "ndate": 20250425
     },
     {
-      "carryoverAmount": 3682,
-      "carryover": "$3,682",
-      "wagertype": "Pick 6",
-      "track": "Hawthorne",
-      "date": "Apr 24",
-      "ndate": 20250424
+      "carryoverAmount": 3074,
+      "carryover": "$3,074",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Turf Paradise",
+      "date": "Apr 28",
+      "ndate": 20250428
     },
     {
-      "carryoverAmount": 2861,
-      "carryover": "$2,861",
-      "wagertype": "Super High Five",
-      "track": "Horseshoe",
-      "date": "Apr 24",
-      "ndate": 20250424
+      "carryoverAmount": 2659,
+      "carryover": "$2,659",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Sam Houston",
+      "date": "Apr 25",
+      "ndate": 20250425
     },
     {
       "carryoverAmount": 1110,
       "carryover": "$1,110",
       "wagertype": "Pick 6 Jackpot",
       "track": "Tampa Bay",
+      "date": "Apr 25",
+      "ndate": 20250425
+    },
+    {
+      "carryoverAmount": 865,
+      "carryover": "$865",
+      "wagertype": "Pick 5",
+      "track": "Sam Houston",
       "date": "Apr 25",
       "ndate": 20250425
     }
