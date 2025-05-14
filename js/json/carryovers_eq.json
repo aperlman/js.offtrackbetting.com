@@ -1,20 +1,20 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 222088,
-      "carryover": "$222,088",
+      "carryoverAmount": 255285,
+      "carryover": "$255,285",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "May 13",
-      "ndate": 20250513
+      "date": "May 17",
+      "ndate": 20250517
     },
     {
-      "carryoverAmount": 206526,
-      "carryover": "$206,526",
+      "carryoverAmount": 238834,
+      "carryover": "$238,834",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "May 13",
-      "ndate": 20250513
+      "date": "May 17",
+      "ndate": 20250517
     },
     {
       "carryoverAmount": 150098,
@@ -41,12 +41,28 @@
       "ndate": 20250515
     },
     {
-      "carryoverAmount": 13999,
-      "carryover": "$13,999",
+      "carryoverAmount": 27275,
+      "carryover": "$27,275",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Woodbine",
+      "date": "May 16",
+      "ndate": 20250516
+    },
+    {
+      "carryoverAmount": 20499,
+      "carryover": "$20,499",
       "wagertype": "Pick 6 Jackpot",
       "track": "Thistledown",
-      "date": "May 13",
-      "ndate": 20250513
+      "date": "May 14",
+      "ndate": 20250514
+    },
+    {
+      "carryoverAmount": 9784,
+      "carryover": "$9,784",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Assiniboia",
+      "date": "May 14",
+      "ndate": 20250514
     },
     {
       "carryoverAmount": 7959,
@@ -73,6 +89,22 @@
       "ndate": 20250515
     },
     {
+      "carryoverAmount": 5262,
+      "carryover": "$5,262",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Monmouth Park",
+      "date": "May 17",
+      "ndate": 20250517
+    },
+    {
+      "carryoverAmount": 4539,
+      "carryover": "$4,539",
+      "wagertype": "Super High Five",
+      "track": "Horseshoe",
+      "date": "May 14",
+      "ndate": 20250514
+    },
+    {
       "carryoverAmount": 4015,
       "carryover": "$4,015",
       "wagertype": "Super High Five Jackpot",
@@ -95,6 +127,14 @@
       "track": "Hawthorne",
       "date": "May 15",
       "ndate": 20250515
+    },
+    {
+      "carryoverAmount": 2972,
+      "carryover": "$2,972",
+      "wagertype": "Pick 5",
+      "track": "Legacy Downs",
+      "date": "May 16",
+      "ndate": 20250516
     },
     {
       "carryoverAmount": 2905,
