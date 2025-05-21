@@ -1,36 +1,12 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 295843,
-      "carryover": "$295,843",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Parx Racing",
-      "date": "May 20",
-      "ndate": 20250520
-    },
-    {
-      "carryoverAmount": 280197,
-      "carryover": "$280,197",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Parx Racing",
-      "date": "May 20",
-      "ndate": 20250520
-    },
-    {
-      "carryoverAmount": 106969,
-      "carryover": "$106,969",
-      "wagertype": "Pick 5",
-      "track": "Horseshoe",
-      "date": "May 20",
-      "ndate": 20250520
-    },
-    {
-      "carryoverAmount": 19026,
-      "carryover": "$19,026",
+      "carryoverAmount": 32259,
+      "carryover": "$32,259",
       "wagertype": "Pick 5 Jackpot",
       "track": "Assiniboia",
-      "date": "May 20",
-      "ndate": 20250520
+      "date": "May 21",
+      "ndate": 20250521
     },
     {
       "carryoverAmount": 15300,
@@ -39,14 +15,6 @@
       "track": "Gulfstream Park",
       "date": "May 22",
       "ndate": 20250522
-    },
-    {
-      "carryoverAmount": 15218,
-      "carryover": "$15,218",
-      "wagertype": "Super High Five",
-      "track": "Horseshoe",
-      "date": "May 20",
-      "ndate": 20250520
     },
     {
       "carryoverAmount": 12595,
@@ -63,6 +31,14 @@
       "track": "Prairie Meadows",
       "date": "May 23",
       "ndate": 20250523
+    },
+    {
+      "carryoverAmount": 8975,
+      "carryover": "$8,975",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Monmouth Park",
+      "date": "May 24",
+      "ndate": 20250524
     },
     {
       "carryoverAmount": 8908,
@@ -89,22 +65,6 @@
       "ndate": 20250522
     },
     {
-      "carryoverAmount": 3982,
-      "carryover": "$3,982",
-      "wagertype": "Super High Five",
-      "track": "Horseshoe",
-      "date": "May 20",
-      "ndate": 20250520
-    },
-    {
-      "carryoverAmount": 3594,
-      "carryover": "$3,594",
-      "wagertype": "Super High Five",
-      "track": "Assiniboia",
-      "date": "May 20",
-      "ndate": 20250520
-    },
-    {
       "carryoverAmount": 2527,
       "carryover": "$2,527",
       "wagertype": "Pick 6 Jackpot",
@@ -129,12 +89,20 @@
       "ndate": 20250522
     },
     {
-      "carryoverAmount": 1572,
-      "carryover": "$1,572",
+      "carryoverAmount": 1679,
+      "carryover": "$1,679",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Thistledown",
+      "date": "May 21",
+      "ndate": 20250521
+    },
+    {
+      "carryoverAmount": 1518,
+      "carryover": "$1,518",
       "wagertype": "Super High Five",
-      "track": "Mountaineer",
-      "date": "May 20",
-      "ndate": 20250520
+      "track": "Century Mile",
+      "date": "May 23",
+      "ndate": 20250523
     },
     {
       "carryoverAmount": 734,
