@@ -9,28 +9,20 @@
       "ndate": 20250604
     },
     {
-      "carryoverAmount": 89998,
-      "carryover": "$89,998",
+      "carryoverAmount": 105042,
+      "carryover": "$105,042",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Jun 03",
-      "ndate": 20250603
+      "date": "Jun 07",
+      "ndate": 20250607
     },
     {
-      "carryoverAmount": 87575,
-      "carryover": "$87,575",
+      "carryoverAmount": 102678,
+      "carryover": "$102,678",
       "wagertype": "Pick 5 Jackpot",
       "track": "Assiniboia",
-      "date": "Jun 03",
-      "ndate": 20250603
-    },
-    {
-      "carryoverAmount": 71036,
-      "carryover": "$71,036",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Parx Racing",
-      "date": "Jun 03",
-      "ndate": 20250603
+      "date": "Jun 04",
+      "ndate": 20250604
     },
     {
       "carryoverAmount": 23581,
@@ -65,6 +57,14 @@
       "ndate": 20250606
     },
     {
+      "carryoverAmount": 5822,
+      "carryover": "$5,822",
+      "wagertype": "Super High Five",
+      "track": "Century Mile",
+      "date": "Jun 06",
+      "ndate": 20250606
+    },
+    {
       "carryoverAmount": 5458,
       "carryover": "$5,458",
       "wagertype": "Super High Five Jackpot",
@@ -73,20 +73,20 @@
       "ndate": 20250605
     },
     {
-      "carryoverAmount": 5196,
-      "carryover": "$5,196",
-      "wagertype": "Super High Five",
-      "track": "Assiniboia",
-      "date": "Jun 03",
-      "ndate": 20250603
-    },
-    {
       "carryoverAmount": 4235,
       "carryover": "$4,235",
       "wagertype": "Pick 6 Jackpot",
       "track": "Woodbine",
       "date": "Jun 05",
       "ndate": 20250605
+    },
+    {
+      "carryoverAmount": 3870,
+      "carryover": "$3,870",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Thistledown",
+      "date": "Jun 04",
+      "ndate": 20250604
     },
     {
       "carryoverAmount": 3818,
@@ -105,12 +105,36 @@
       "ndate": 20250605
     },
     {
+      "carryoverAmount": 3573,
+      "carryover": "$3,573",
+      "wagertype": "Superfecta",
+      "track": "Century Mile",
+      "date": "Jun 06",
+      "ndate": 20250606
+    },
+    {
+      "carryoverAmount": 3323,
+      "carryover": "$3,323",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Monmouth Park",
+      "date": "Jun 07",
+      "ndate": 20250607
+    },
+    {
       "carryoverAmount": 3089,
       "carryover": "$3,089",
       "wagertype": "Super High Five",
       "track": "Lone Star",
       "date": "Jun 06",
       "ndate": 20250606
+    },
+    {
+      "carryoverAmount": 2889,
+      "carryover": "$2,889",
+      "wagertype": "Super High Five",
+      "track": "Horseshoe",
+      "date": "Jun 04",
+      "ndate": 20250604
     },
     {
       "carryoverAmount": 2833,
@@ -121,44 +145,12 @@
       "ndate": 20250606
     },
     {
-      "carryoverAmount": 1667,
-      "carryover": "$1,667",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Thistledown",
-      "date": "Jun 03",
-      "ndate": 20250603
-    },
-    {
-      "carryoverAmount": 1609,
-      "carryover": "$1,609",
-      "wagertype": "Super High Five",
-      "track": "Horseshoe",
-      "date": "Jun 03",
-      "ndate": 20250603
-    },
-    {
-      "carryoverAmount": 1450,
-      "carryover": "$1,450",
-      "wagertype": "Super High Five",
-      "track": "Mountaineer",
-      "date": "Jun 03",
-      "ndate": 20250603
-    },
-    {
       "carryoverAmount": 1278,
       "carryover": "$1,278",
       "wagertype": "Pick 5",
       "track": "Sam Houston",
       "date": "Jun 05",
       "ndate": 20250605
-    },
-    {
-      "carryoverAmount": 1228,
-      "carryover": "$1,228",
-      "wagertype": "Super High Five",
-      "track": "Horseshoe",
-      "date": "Jun 03",
-      "ndate": 20250603
     },
     {
       "carryoverAmount": 1109,
@@ -191,6 +183,14 @@
       "track": "Sam Houston",
       "date": "Jun 05",
       "ndate": 20250605
+    },
+    {
+      "carryoverAmount": 591,
+      "carryover": "$591",
+      "wagertype": "Super High Five",
+      "track": "Thistledown",
+      "date": "Jun 04",
+      "ndate": 20250604
     }
   ]
 }
