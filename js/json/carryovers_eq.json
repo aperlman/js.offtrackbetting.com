@@ -1,28 +1,20 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 810513,
-      "carryover": "$810,513",
+      "carryoverAmount": 830837,
+      "carryover": "$830,837",
       "wagertype": "Pick 6 Jackpot",
       "track": "Churchill Downs",
-      "date": "Jun 18",
-      "ndate": 20250618
+      "date": "Jun 19",
+      "ndate": 20250619
     },
     {
-      "carryoverAmount": 196144,
-      "carryover": "$196,144",
+      "carryoverAmount": 206718,
+      "carryover": "$206,718",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Jun 18",
-      "ndate": 20250618
-    },
-    {
-      "carryoverAmount": 170669,
-      "carryover": "$170,669",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Assiniboia",
-      "date": "Jun 18",
-      "ndate": 20250618
+      "date": "Jun 23",
+      "ndate": 20250623
     },
     {
       "carryoverAmount": 72128,
@@ -37,6 +29,14 @@
       "carryover": "$46,241",
       "wagertype": "Pick 6 Jackpot",
       "track": "Charles Town",
+      "date": "Jun 19",
+      "ndate": 20250619
+    },
+    {
+      "carryoverAmount": 16590,
+      "carryover": "$16,590",
+      "wagertype": "Super High Five",
+      "track": "Churchill Downs",
       "date": "Jun 19",
       "ndate": 20250619
     },
@@ -73,12 +73,12 @@
       "ndate": 20250619
     },
     {
-      "carryoverAmount": 11600,
-      "carryover": "$11,600",
+      "carryoverAmount": 14581,
+      "carryover": "$14,581",
       "wagertype": "Pick 6 Jackpot",
       "track": "Thistledown",
-      "date": "Jun 18",
-      "ndate": 20250618
+      "date": "Jun 21",
+      "ndate": 20250621
     },
     {
       "carryoverAmount": 11299,
@@ -97,20 +97,12 @@
       "ndate": 20250620
     },
     {
-      "carryoverAmount": 4902,
-      "carryover": "$4,902",
-      "wagertype": "Super High Five Jackpot",
+      "carryoverAmount": 8776,
+      "carryover": "$8,776",
+      "wagertype": "Pick 5",
       "track": "Penn National",
-      "date": "Jun 18",
-      "ndate": 20250618
-    },
-    {
-      "carryoverAmount": 1698,
-      "carryover": "$1,698",
-      "wagertype": "Super High Five",
-      "track": "Assiniboia",
-      "date": "Jun 18",
-      "ndate": 20250618
+      "date": "Jun 19",
+      "ndate": 20250619
     },
     {
       "carryoverAmount": 1367,
@@ -135,14 +127,6 @@
       "track": "Hawthorne",
       "date": "Jun 19",
       "ndate": 20250619
-    },
-    {
-      "carryoverAmount": 252,
-      "carryover": "$252",
-      "wagertype": "Super High Five",
-      "track": "Thistledown",
-      "date": "Jun 18",
-      "ndate": 20250618
     }
   ]
 }
