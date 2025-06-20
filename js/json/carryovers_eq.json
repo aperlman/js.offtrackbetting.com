@@ -1,18 +1,26 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 830837,
-      "carryover": "$830,837",
+      "carryoverAmount": 854231,
+      "carryover": "$854,231",
       "wagertype": "Pick 6 Jackpot",
       "track": "Churchill Downs",
-      "date": "Jun 19",
-      "ndate": 20250619
+      "date": "Jun 20",
+      "ndate": 20250620
     },
     {
       "carryoverAmount": 206718,
       "carryover": "$206,718",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
+      "date": "Jun 23",
+      "ndate": 20250623
+    },
+    {
+      "carryoverAmount": 191564,
+      "carryover": "$191,564",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Assiniboia",
       "date": "Jun 23",
       "ndate": 20250623
     },
@@ -25,20 +33,20 @@
       "ndate": 20250620
     },
     {
-      "carryoverAmount": 46241,
-      "carryover": "$46,241",
+      "carryoverAmount": 50811,
+      "carryover": "$50,811",
       "wagertype": "Pick 6 Jackpot",
       "track": "Charles Town",
-      "date": "Jun 19",
-      "ndate": 20250619
+      "date": "Jun 20",
+      "ndate": 20250620
     },
     {
-      "carryoverAmount": 16590,
-      "carryover": "$16,590",
-      "wagertype": "Super High Five",
-      "track": "Churchill Downs",
-      "date": "Jun 19",
-      "ndate": 20250619
+      "carryoverAmount": 19387,
+      "carryover": "$19,387",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Woodbine",
+      "date": "Jun 20",
+      "ndate": 20250620
     },
     {
       "carryoverAmount": 16094,
@@ -65,20 +73,28 @@
       "ndate": 20250620
     },
     {
-      "carryoverAmount": 14685,
-      "carryover": "$14,685",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Woodbine",
-      "date": "Jun 19",
-      "ndate": 20250619
-    },
-    {
       "carryoverAmount": 14581,
       "carryover": "$14,581",
       "wagertype": "Pick 6 Jackpot",
       "track": "Thistledown",
       "date": "Jun 21",
       "ndate": 20250621
+    },
+    {
+      "carryoverAmount": 12027,
+      "carryover": "$12,027",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Gulfstream Park",
+      "date": "Jun 20",
+      "ndate": 20250620
+    },
+    {
+      "carryoverAmount": 11953,
+      "carryover": "$11,953",
+      "wagertype": "Super High Five",
+      "track": "Belterra Park",
+      "date": "Jun 20",
+      "ndate": 20250620
     },
     {
       "carryoverAmount": 11299,
@@ -97,12 +113,28 @@
       "ndate": 20250620
     },
     {
-      "carryoverAmount": 8776,
-      "carryover": "$8,776",
-      "wagertype": "Pick 5",
+      "carryoverAmount": 6423,
+      "carryover": "$6,423",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Fort Erie",
+      "date": "Jun 23",
+      "ndate": 20250623
+    },
+    {
+      "carryoverAmount": 5493,
+      "carryover": "$5,493",
+      "wagertype": "Super High Five Jackpot",
       "track": "Penn National",
-      "date": "Jun 19",
-      "ndate": 20250619
+      "date": "Jun 20",
+      "ndate": 20250620
+    },
+    {
+      "carryoverAmount": 2882,
+      "carryover": "$2,882",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Woodbine",
+      "date": "Jun 20",
+      "ndate": 20250620
     },
     {
       "carryoverAmount": 1367,
@@ -119,14 +151,6 @@
       "track": "Lone Star",
       "date": "Jun 20",
       "ndate": 20250620
-    },
-    {
-      "carryoverAmount": 764,
-      "carryover": "$764",
-      "wagertype": "Pick 6",
-      "track": "Hawthorne",
-      "date": "Jun 19",
-      "ndate": 20250619
     }
   ]
 }
