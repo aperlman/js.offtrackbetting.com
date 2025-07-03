@@ -1,20 +1,20 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 237896,
-      "carryover": "$237,896",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Assiniboia",
-      "date": "Jul 02",
-      "ndate": 20250702
-    },
-    {
-      "carryoverAmount": 233102,
-      "carryover": "$233,102",
+      "carryoverAmount": 263465,
+      "carryover": "$263,465",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Jul 02",
-      "ndate": 20250702
+      "date": "Jul 07",
+      "ndate": 20250707
+    },
+    {
+      "carryoverAmount": 247832,
+      "carryover": "$247,832",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Parx Racing",
+      "date": "Jul 07",
+      "ndate": 20250707
     },
     {
       "carryoverAmount": 119683,
@@ -73,20 +73,20 @@
       "ndate": 20250703
     },
     {
+      "carryoverAmount": 8246,
+      "carryover": "$8,246",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Thistledown",
+      "date": "Jul 03",
+      "ndate": 20250703
+    },
+    {
       "carryoverAmount": 7032,
       "carryover": "$7,032",
       "wagertype": "Super High Five",
       "track": "Lone Star",
       "date": "Jul 03",
       "ndate": 20250703
-    },
-    {
-      "carryoverAmount": 5664,
-      "carryover": "$5,664",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Thistledown",
-      "date": "Jul 02",
-      "ndate": 20250702
     },
     {
       "carryoverAmount": 2776,
@@ -105,18 +105,18 @@
       "ndate": 20250703
     },
     {
-      "carryoverAmount": 539,
-      "carryover": "$539",
-      "wagertype": "Super High Five",
-      "track": "Thistledown",
-      "date": "Jul 02",
-      "ndate": 20250702
-    },
-    {
       "carryoverAmount": 518,
       "carryover": "$518",
       "wagertype": "Pick 6",
       "track": "Hawthorne",
+      "date": "Jul 03",
+      "ndate": 20250703
+    },
+    {
+      "carryoverAmount": 403,
+      "carryover": "$403",
+      "wagertype": "Super High Five",
+      "track": "Retama Park",
       "date": "Jul 03",
       "ndate": 20250703
     }
