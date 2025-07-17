@@ -1,20 +1,20 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 402373,
-      "carryover": "$402,373",
+      "carryoverAmount": 414260,
+      "carryover": "$414,260",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Jul 16",
-      "ndate": 20250716
+      "date": "Jul 21",
+      "ndate": 20250721
     },
     {
-      "carryoverAmount": 333349,
-      "carryover": "$333,349",
+      "carryoverAmount": 150419,
+      "carryover": "$150,419",
       "wagertype": "Pick 5 Jackpot",
-      "track": "Assiniboia",
-      "date": "Jul 16",
-      "ndate": 20250716
+      "track": "Hastings",
+      "date": "Jul 19",
+      "ndate": 20250719
     },
     {
       "carryoverAmount": 125703,
@@ -81,6 +81,22 @@
       "ndate": 20250717
     },
     {
+      "carryoverAmount": 6693,
+      "carryover": "$6,693",
+      "wagertype": "Super High Five",
+      "track": "Belterra Park",
+      "date": "Jul 17",
+      "ndate": 20250717
+    },
+    {
+      "carryoverAmount": 6187,
+      "carryover": "$6,187",
+      "wagertype": "Pick 6",
+      "track": "Colonial Downs",
+      "date": "Jul 17",
+      "ndate": 20250717
+    },
+    {
       "carryoverAmount": 4931,
       "carryover": "$4,931",
       "wagertype": "Pick 6 Jackpot",
@@ -103,30 +119,6 @@
       "track": "Hawthorne",
       "date": "Jul 17",
       "ndate": 20250717
-    },
-    {
-      "carryoverAmount": 2715,
-      "carryover": "$2,715",
-      "wagertype": "Pick 6",
-      "track": "Colonial Downs",
-      "date": "Jul 16",
-      "ndate": 20250716
-    },
-    {
-      "carryoverAmount": 1942,
-      "carryover": "$1,942",
-      "wagertype": "Super High Five",
-      "track": "Retama Park",
-      "date": "Jul 16",
-      "ndate": 20250716
-    },
-    {
-      "carryoverAmount": 883,
-      "carryover": "$883",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Penn National",
-      "date": "Jul 16",
-      "ndate": 20250716
     },
     {
       "carryoverAmount": 856,
