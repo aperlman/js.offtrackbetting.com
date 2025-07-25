@@ -25,6 +25,14 @@
       "ndate": 20250725
     },
     {
+      "carryoverAmount": 48647,
+      "carryover": "$48,647",
+      "wagertype": "Pick 5",
+      "track": "Delaware Park",
+      "date": "Jul 25",
+      "ndate": 20250725
+    },
+    {
       "carryoverAmount": 44076,
       "carryover": "$44,076",
       "wagertype": "Pick 6 Jackpot",
@@ -41,20 +49,36 @@
       "ndate": 20250725
     },
     {
-      "carryoverAmount": 20997,
-      "carryover": "$20,997",
-      "wagertype": "Super High Five",
-      "track": "Del Mar",
-      "date": "Jul 24",
-      "ndate": 20250724
+      "carryoverAmount": 31416,
+      "carryover": "$31,416",
+      "wagertype": "Pick 5",
+      "track": "Charles Town",
+      "date": "Jul 25",
+      "ndate": 20250725
     },
     {
-      "carryoverAmount": 17968,
-      "carryover": "$17,968",
+      "carryoverAmount": 30906,
+      "carryover": "$30,906",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Fort Erie",
+      "date": "Jul 27",
+      "ndate": 20250727
+    },
+    {
+      "carryoverAmount": 30299,
+      "carryover": "$30,299",
+      "wagertype": "Pick 5",
+      "track": "Delaware Park",
+      "date": "Jul 25",
+      "ndate": 20250725
+    },
+    {
+      "carryoverAmount": 20394,
+      "carryover": "$20,394",
       "wagertype": "Pick 6 Jackpot",
       "track": "Charles Town",
-      "date": "Jul 24",
-      "ndate": 20250724
+      "date": "Jul 25",
+      "ndate": 20250725
     },
     {
       "carryoverAmount": 11756,
@@ -63,22 +87,6 @@
       "track": "Emerald Downs",
       "date": "Jul 25",
       "ndate": 20250725
-    },
-    {
-      "carryoverAmount": 9103,
-      "carryover": "$9,103",
-      "wagertype": "Super High Five",
-      "track": "Belterra Park",
-      "date": "Jul 24",
-      "ndate": 20250724
-    },
-    {
-      "carryoverAmount": 6733,
-      "carryover": "$6,733",
-      "wagertype": "Pick 5",
-      "track": "Delaware Park",
-      "date": "Jul 24",
-      "ndate": 20250724
     },
     {
       "carryoverAmount": 5215,
@@ -97,12 +105,28 @@
       "ndate": 20250728
     },
     {
-      "carryoverAmount": 3343,
-      "carryover": "$3,343",
+      "carryoverAmount": 4334,
+      "carryover": "$4,334",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Woodbine",
+      "date": "Jul 25",
+      "ndate": 20250725
+    },
+    {
+      "carryoverAmount": 3989,
+      "carryover": "$3,989",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Woodbine",
+      "date": "Jul 25",
+      "ndate": 20250725
+    },
+    {
+      "carryoverAmount": 3599,
+      "carryover": "$3,599",
       "wagertype": "Pick 6",
-      "track": "Colonial Downs",
-      "date": "Jul 24",
-      "ndate": 20250724
+      "track": "Hawthorne",
+      "date": "Jul 27",
+      "ndate": 20250727
     },
     {
       "carryoverAmount": 3306,
@@ -113,28 +137,12 @@
       "ndate": 20250725
     },
     {
-      "carryoverAmount": 3087,
-      "carryover": "$3,087",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Parx Racing",
-      "date": "Jul 24",
-      "ndate": 20250724
-    },
-    {
-      "carryoverAmount": 2189,
-      "carryover": "$2,189",
+      "carryoverAmount": 3162,
+      "carryover": "$3,162",
       "wagertype": "Super High Five Jackpot",
       "track": "Penn National",
-      "date": "Jul 24",
-      "ndate": 20250724
-    },
-    {
-      "carryoverAmount": 2171,
-      "carryover": "$2,171",
-      "wagertype": "Pick 6",
-      "track": "Hawthorne",
-      "date": "Jul 24",
-      "ndate": 20250724
+      "date": "Jul 25",
+      "ndate": 20250725
     },
     {
       "carryoverAmount": 1945,
@@ -149,24 +157,24 @@
       "carryover": "$847",
       "wagertype": "Pick 6 Jackpot",
       "track": "Thistledown",
-      "date": "Jul 24",
-      "ndate": 20250724
+      "date": "Jul 28",
+      "ndate": 20250728
     },
     {
       "carryoverAmount": 550,
       "carryover": "$550",
       "wagertype": "Super High Five",
       "track": "Thistledown",
-      "date": "Jul 24",
-      "ndate": 20250724
+      "date": "Jul 28",
+      "ndate": 20250728
     },
     {
-      "carryoverAmount": 342,
-      "carryover": "$342",
+      "carryoverAmount": 389,
+      "carryover": "$389",
       "wagertype": "3x3",
       "track": "Del Mar",
-      "date": "Jul 24",
-      "ndate": 20250724
+      "date": "Jul 25",
+      "ndate": 20250725
     }
   ]
 }
