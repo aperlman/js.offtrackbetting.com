@@ -1,12 +1,12 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 401747,
-      "carryover": "$401,747",
+      "carryoverAmount": 434357,
+      "carryover": "$434,357",
       "wagertype": "Pick 5 Jackpot",
       "track": "Assiniboia",
-      "date": "Jul 29",
-      "ndate": 20250729
+      "date": "Jul 30",
+      "ndate": 20250730
     },
     {
       "carryoverAmount": 204775,
@@ -15,6 +15,14 @@
       "track": "Prairie Meadows",
       "date": "Jul 31",
       "ndate": 20250731
+    },
+    {
+      "carryoverAmount": 170051,
+      "carryover": "$170,051",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Hastings",
+      "date": "Aug 04",
+      "ndate": 20250804
     },
     {
       "carryoverAmount": 132233,
@@ -89,6 +97,14 @@
       "ndate": 20250730
     },
     {
+      "carryoverAmount": 4474,
+      "carryover": "$4,474",
+      "wagertype": "Super High Five",
+      "track": "Horseshoe",
+      "date": "Jul 30",
+      "ndate": 20250730
+    },
+    {
       "carryoverAmount": 4123,
       "carryover": "$4,123",
       "wagertype": "Super High Five",
@@ -117,8 +133,8 @@
       "carryover": "$847",
       "wagertype": "Pick 6 Jackpot",
       "track": "Thistledown",
-      "date": "Jul 29",
-      "ndate": 20250729
+      "date": "Jul 30",
+      "ndate": 20250730
     },
     {
       "carryoverAmount": 659,
@@ -133,8 +149,8 @@
       "carryover": "$550",
       "wagertype": "Super High Five",
       "track": "Thistledown",
-      "date": "Jul 29",
-      "ndate": 20250729
+      "date": "Jul 30",
+      "ndate": 20250730
     }
   ]
 }
