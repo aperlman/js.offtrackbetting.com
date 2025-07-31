@@ -1,14 +1,6 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 434357,
-      "carryover": "$434,357",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Assiniboia",
-      "date": "Jul 30",
-      "ndate": 20250730
-    },
-    {
       "carryoverAmount": 204775,
       "carryover": "$204,775",
       "wagertype": "Pick 5 Jackpot",
@@ -23,14 +15,6 @@
       "track": "Hastings",
       "date": "Aug 04",
       "ndate": 20250804
-    },
-    {
-      "carryoverAmount": 132233,
-      "carryover": "$132,233",
-      "wagertype": "Pick 6",
-      "track": "Saratoga",
-      "date": "Jul 30",
-      "ndate": 20250730
     },
     {
       "carryoverAmount": 84473,
@@ -89,20 +73,12 @@
       "ndate": 20250731
     },
     {
-      "carryoverAmount": 5203,
-      "carryover": "$5,203",
+      "carryoverAmount": 6350,
+      "carryover": "$6,350",
       "wagertype": "Super High Five Jackpot",
       "track": "Penn National",
-      "date": "Jul 30",
-      "ndate": 20250730
-    },
-    {
-      "carryoverAmount": 4474,
-      "carryover": "$4,474",
-      "wagertype": "Super High Five",
-      "track": "Horseshoe",
-      "date": "Jul 30",
-      "ndate": 20250730
+      "date": "Jul 31",
+      "ndate": 20250731
     },
     {
       "carryoverAmount": 4123,
@@ -121,6 +97,22 @@
       "ndate": 20250801
     },
     {
+      "carryoverAmount": 4092,
+      "carryover": "$4,092",
+      "wagertype": "Super High Five",
+      "track": "Horseshoe",
+      "date": "Jul 31",
+      "ndate": 20250731
+    },
+    {
+      "carryoverAmount": 1933,
+      "carryover": "$1,933",
+      "wagertype": "Pick 6",
+      "track": "Colonial Downs",
+      "date": "Jul 31",
+      "ndate": 20250731
+    },
+    {
       "carryoverAmount": 1385,
       "carryover": "$1,385",
       "wagertype": "Pick 6 Jackpot",
@@ -133,8 +125,8 @@
       "carryover": "$847",
       "wagertype": "Pick 6 Jackpot",
       "track": "Thistledown",
-      "date": "Jul 30",
-      "ndate": 20250730
+      "date": "Jul 31",
+      "ndate": 20250731
     },
     {
       "carryoverAmount": 659,
@@ -149,8 +141,8 @@
       "carryover": "$550",
       "wagertype": "Super High Five",
       "track": "Thistledown",
-      "date": "Jul 30",
-      "ndate": 20250730
+      "date": "Jul 31",
+      "ndate": 20250731
     }
   ]
 }
