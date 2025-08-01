@@ -1,12 +1,20 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 204775,
-      "carryover": "$204,775",
+      "carryoverAmount": 465217,
+      "carryover": "$465,217",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Assiniboia",
+      "date": "Aug 04",
+      "ndate": 20250804
+    },
+    {
+      "carryoverAmount": 217241,
+      "carryover": "$217,241",
       "wagertype": "Pick 5 Jackpot",
       "track": "Prairie Meadows",
-      "date": "Jul 31",
-      "ndate": 20250731
+      "date": "Aug 01",
+      "ndate": 20250801
     },
     {
       "carryoverAmount": 170051,
@@ -33,12 +41,20 @@
       "ndate": 20250801
     },
     {
-      "carryoverAmount": 58220,
-      "carryover": "$58,220",
+      "carryoverAmount": 61159,
+      "carryover": "$61,159",
       "wagertype": "Super High Five Jackpot",
       "track": "Prairie Meadows",
-      "date": "Jul 31",
-      "ndate": 20250731
+      "date": "Aug 01",
+      "ndate": 20250801
+    },
+    {
+      "carryoverAmount": 51081,
+      "carryover": "$51,081",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Woodbine",
+      "date": "Aug 01",
+      "ndate": 20250801
     },
     {
       "carryoverAmount": 42974,
@@ -49,36 +65,44 @@
       "ndate": 20250801
     },
     {
-      "carryoverAmount": 40363,
-      "carryover": "$40,363",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Woodbine",
-      "date": "Jul 31",
-      "ndate": 20250731
+      "carryoverAmount": 38384,
+      "carryover": "$38,384",
+      "wagertype": "Pick 6",
+      "track": "Del Mar",
+      "date": "Aug 01",
+      "ndate": 20250801
     },
     {
-      "carryoverAmount": 27488,
-      "carryover": "$27,488",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Charles Town",
-      "date": "Jul 31",
-      "ndate": 20250731
-    },
-    {
-      "carryoverAmount": 26135,
-      "carryover": "$26,135",
+      "carryoverAmount": 32000,
+      "carryover": "$32,000",
       "wagertype": "Pick 6 Jackpot",
       "track": "Woodbine",
-      "date": "Jul 31",
-      "ndate": 20250731
+      "date": "Aug 01",
+      "ndate": 20250801
     },
     {
-      "carryoverAmount": 6350,
-      "carryover": "$6,350",
+      "carryoverAmount": 10422,
+      "carryover": "$10,422",
+      "wagertype": "Super High Five",
+      "track": "Del Mar",
+      "date": "Aug 01",
+      "ndate": 20250801
+    },
+    {
+      "carryoverAmount": 6577,
+      "carryover": "$6,577",
       "wagertype": "Super High Five Jackpot",
       "track": "Penn National",
-      "date": "Jul 31",
-      "ndate": 20250731
+      "date": "Aug 01",
+      "ndate": 20250801
+    },
+    {
+      "carryoverAmount": 4697,
+      "carryover": "$4,697",
+      "wagertype": "Pick 6",
+      "track": "Colonial Downs",
+      "date": "Aug 01",
+      "ndate": 20250801
     },
     {
       "carryoverAmount": 4123,
@@ -97,22 +121,6 @@
       "ndate": 20250801
     },
     {
-      "carryoverAmount": 4092,
-      "carryover": "$4,092",
-      "wagertype": "Super High Five",
-      "track": "Horseshoe",
-      "date": "Jul 31",
-      "ndate": 20250731
-    },
-    {
-      "carryoverAmount": 1933,
-      "carryover": "$1,933",
-      "wagertype": "Pick 6",
-      "track": "Colonial Downs",
-      "date": "Jul 31",
-      "ndate": 20250731
-    },
-    {
       "carryoverAmount": 1385,
       "carryover": "$1,385",
       "wagertype": "Pick 6 Jackpot",
@@ -125,24 +133,24 @@
       "carryover": "$847",
       "wagertype": "Pick 6 Jackpot",
       "track": "Thistledown",
-      "date": "Jul 31",
-      "ndate": 20250731
+      "date": "Aug 04",
+      "ndate": 20250804
     },
     {
-      "carryoverAmount": 659,
-      "carryover": "$659",
-      "wagertype": "3x3",
-      "track": "Del Mar",
-      "date": "Jul 31",
-      "ndate": 20250731
+      "carryoverAmount": 567,
+      "carryover": "$567",
+      "wagertype": "Pick 6",
+      "track": "Hawthorne",
+      "date": "Aug 03",
+      "ndate": 20250803
     },
     {
       "carryoverAmount": 550,
       "carryover": "$550",
       "wagertype": "Super High Five",
       "track": "Thistledown",
-      "date": "Jul 31",
-      "ndate": 20250731
+      "date": "Aug 04",
+      "ndate": 20250804
     }
   ]
 }
