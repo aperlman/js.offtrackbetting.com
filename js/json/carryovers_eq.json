@@ -9,12 +9,12 @@
       "ndate": 20250804
     },
     {
-      "carryoverAmount": 224686,
-      "carryover": "$224,686",
+      "carryoverAmount": 233333,
+      "carryover": "$233,333",
       "wagertype": "Pick 5 Jackpot",
       "track": "Prairie Meadows",
-      "date": "Aug 02",
-      "ndate": 20250802
+      "date": "Aug 03",
+      "ndate": 20250803
     },
     {
       "carryoverAmount": 170051,
@@ -25,28 +25,36 @@
       "ndate": 20250804
     },
     {
-      "carryoverAmount": 95597,
-      "carryover": "$95,597",
+      "carryoverAmount": 110621,
+      "carryover": "$110,621",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "Aug 02",
-      "ndate": 20250802
+      "date": "Aug 03",
+      "ndate": 20250803
     },
     {
-      "carryoverAmount": 84050,
-      "carryover": "$84,050",
+      "carryoverAmount": 89252,
+      "carryover": "$89,252",
       "wagertype": "Pick 6 Jackpot",
       "track": "Ellis Park",
-      "date": "Aug 02",
-      "ndate": 20250802
+      "date": "Aug 03",
+      "ndate": 20250803
     },
     {
-      "carryoverAmount": 59925,
-      "carryover": "$59,925",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Woodbine",
-      "date": "Aug 02",
-      "ndate": 20250802
+      "carryoverAmount": 23942,
+      "carryover": "$23,942",
+      "wagertype": "Super High Five",
+      "track": "Del Mar",
+      "date": "Aug 03",
+      "ndate": 20250803
+    },
+    {
+      "carryoverAmount": 10000,
+      "carryover": "$10,000",
+      "wagertype": "Pick 6",
+      "track": "Los Alamitos",
+      "date": "Aug 03",
+      "ndate": 20250803
     },
     {
       "carryoverAmount": 8307,
@@ -57,36 +65,60 @@
       "ndate": 20250806
     },
     {
-      "carryoverAmount": 5095,
-      "carryover": "$5,095",
+      "carryoverAmount": 7411,
+      "carryover": "$7,411",
       "wagertype": "Pick 6 Jackpot",
       "track": "Monmouth Park",
-      "date": "Aug 02",
-      "ndate": 20250802
+      "date": "Aug 03",
+      "ndate": 20250803
     },
     {
-      "carryoverAmount": 4336,
-      "carryover": "$4,336",
-      "wagertype": "Super High Five",
-      "track": "Ellis Park",
-      "date": "Aug 02",
-      "ndate": 20250802
+      "carryoverAmount": 5883,
+      "carryover": "$5,883",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Woodbine",
+      "date": "Aug 03",
+      "ndate": 20250803
     },
     {
-      "carryoverAmount": 1843,
-      "carryover": "$1,843",
+      "carryoverAmount": 3790,
+      "carryover": "$3,790",
       "wagertype": "Pick 6 Jackpot",
       "track": "Charles Town",
-      "date": "Aug 02",
-      "ndate": 20250802
+      "date": "Aug 07",
+      "ndate": 20250807
     },
     {
-      "carryoverAmount": 865,
-      "carryover": "$865",
+      "carryoverAmount": 3241,
+      "carryover": "$3,241",
+      "wagertype": "Super High Five",
+      "track": "Century Mile",
+      "date": "Aug 04",
+      "ndate": 20250804
+    },
+    {
+      "carryoverAmount": 1839,
+      "carryover": "$1,839",
+      "wagertype": "Super High Five",
+      "track": "Ellis Park",
+      "date": "Aug 03",
+      "ndate": 20250803
+    },
+    {
+      "carryoverAmount": 1472,
+      "carryover": "$1,472",
+      "wagertype": "Pick 6",
+      "track": "Colonial Downs",
+      "date": "Aug 06",
+      "ndate": 20250806
+    },
+    {
+      "carryoverAmount": 1038,
+      "carryover": "$1,038",
       "wagertype": "3x3",
       "track": "Del Mar",
-      "date": "Aug 02",
-      "ndate": 20250802
+      "date": "Aug 03",
+      "ndate": 20250803
     },
     {
       "carryoverAmount": 847,
@@ -97,12 +129,12 @@
       "ndate": 20250804
     },
     {
-      "carryoverAmount": 673,
-      "carryover": "$673",
-      "wagertype": "Super High Five",
-      "track": "Century Mile",
-      "date": "Aug 02",
-      "ndate": 20250802
+      "carryoverAmount": 807,
+      "carryover": "$807",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Emerald Downs",
+      "date": "Aug 03",
+      "ndate": 20250803
     },
     {
       "carryoverAmount": 567,
@@ -119,6 +151,14 @@
       "track": "Thistledown",
       "date": "Aug 04",
       "ndate": 20250804
+    },
+    {
+      "carryoverAmount": 199,
+      "carryover": "$199",
+      "wagertype": "Super High Five",
+      "track": "Belterra Park",
+      "date": "Aug 06",
+      "ndate": 20250806
     }
   ]
 }
