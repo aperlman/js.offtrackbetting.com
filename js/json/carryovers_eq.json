@@ -1,14 +1,6 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 158820,
-      "carryover": "$158,820",
-      "wagertype": "Pick 6",
-      "track": "Saratoga",
-      "date": "Aug 13",
-      "ndate": 20250813
-    },
-    {
       "carryoverAmount": 132815,
       "carryover": "$132,815",
       "wagertype": "Pick 6 Jackpot",
@@ -23,14 +15,6 @@
       "track": "Prairie Meadows",
       "date": "Aug 15",
       "ndate": 20250815
-    },
-    {
-      "carryoverAmount": 37930,
-      "carryover": "$37,930",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Assiniboia",
-      "date": "Aug 13",
-      "ndate": 20250813
     },
     {
       "carryoverAmount": 37557,
@@ -73,12 +57,12 @@
       "ndate": 20250814
     },
     {
-      "carryoverAmount": 11764,
-      "carryover": "$11,764",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Penn National",
-      "date": "Aug 13",
-      "ndate": 20250813
+      "carryoverAmount": 5453,
+      "carryover": "$5,453",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Thistledown",
+      "date": "Aug 14",
+      "ndate": 20250814
     },
     {
       "carryoverAmount": 4894,
@@ -87,22 +71,6 @@
       "track": "Emerald Downs",
       "date": "Aug 15",
       "ndate": 20250815
-    },
-    {
-      "carryoverAmount": 4398,
-      "carryover": "$4,398",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Thistledown",
-      "date": "Aug 13",
-      "ndate": 20250813
-    },
-    {
-      "carryoverAmount": 3980,
-      "carryover": "$3,980",
-      "wagertype": "Pick 5",
-      "track": "Horseshoe",
-      "date": "Aug 13",
-      "ndate": 20250813
     },
     {
       "carryoverAmount": 2673,
@@ -129,6 +97,14 @@
       "ndate": 20250815
     },
     {
+      "carryoverAmount": 1917,
+      "carryover": "$1,917",
+      "wagertype": "Super High Five",
+      "track": "Belterra Park",
+      "date": "Aug 14",
+      "ndate": 20250814
+    },
+    {
       "carryoverAmount": 1353,
       "carryover": "$1,353",
       "wagertype": "3x3",
@@ -145,18 +121,26 @@
       "ndate": 20250815
     },
     {
-      "carryoverAmount": 1230,
-      "carryover": "$1,230",
-      "wagertype": "Super High Five",
-      "track": "Assiniboia",
-      "date": "Aug 13",
-      "ndate": 20250813
+      "carryoverAmount": 1112,
+      "carryover": "$1,112",
+      "wagertype": "Pick 6",
+      "track": "Colonial Downs",
+      "date": "Aug 14",
+      "ndate": 20250814
     },
     {
       "carryoverAmount": 507,
       "carryover": "$507",
       "wagertype": "Pick 6",
       "track": "Hawthorne",
+      "date": "Aug 14",
+      "ndate": 20250814
+    },
+    {
+      "carryoverAmount": 373,
+      "carryover": "$373",
+      "wagertype": "Super High Five",
+      "track": "Thistledown",
       "date": "Aug 14",
       "ndate": 20250814
     }
