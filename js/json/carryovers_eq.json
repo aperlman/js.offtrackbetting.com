@@ -49,26 +49,42 @@
       "ndate": 20250815
     },
     {
-      "carryoverAmount": 13309,
-      "carryover": "$13,309",
+      "carryoverAmount": 16011,
+      "carryover": "$16,011",
       "wagertype": "Pick 6 Jackpot",
       "track": "Charles Town",
-      "date": "Aug 14",
-      "ndate": 20250814
+      "date": "Aug 15",
+      "ndate": 20250815
     },
     {
-      "carryoverAmount": 5453,
-      "carryover": "$5,453",
+      "carryoverAmount": 13108,
+      "carryover": "$13,108",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Penn National",
+      "date": "Aug 15",
+      "ndate": 20250815
+    },
+    {
+      "carryoverAmount": 8462,
+      "carryover": "$8,462",
       "wagertype": "Pick 6 Jackpot",
       "track": "Thistledown",
-      "date": "Aug 14",
-      "ndate": 20250814
+      "date": "Aug 18",
+      "ndate": 20250818
     },
     {
       "carryoverAmount": 4894,
       "carryover": "$4,894",
       "wagertype": "Pick 6 Jackpot",
       "track": "Emerald Downs",
+      "date": "Aug 15",
+      "ndate": 20250815
+    },
+    {
+      "carryoverAmount": 2919,
+      "carryover": "$2,919",
+      "wagertype": "Pick 6",
+      "track": "Colonial Downs",
       "date": "Aug 15",
       "ndate": 20250815
     },
@@ -89,6 +105,14 @@
       "ndate": 20250816
     },
     {
+      "carryoverAmount": 2593,
+      "carryover": "$2,593",
+      "wagertype": "Super High Five",
+      "track": "Belterra Park",
+      "date": "Aug 15",
+      "ndate": 20250815
+    },
+    {
       "carryoverAmount": 1918,
       "carryover": "$1,918",
       "wagertype": "Pick 5 Jackpot",
@@ -97,20 +121,28 @@
       "ndate": 20250815
     },
     {
-      "carryoverAmount": 1917,
-      "carryover": "$1,917",
+      "carryoverAmount": 1779,
+      "carryover": "$1,779",
       "wagertype": "Super High Five",
-      "track": "Belterra Park",
-      "date": "Aug 14",
-      "ndate": 20250814
+      "track": "Hawthorne",
+      "date": "Aug 17",
+      "ndate": 20250817
     },
     {
-      "carryoverAmount": 1353,
-      "carryover": "$1,353",
+      "carryoverAmount": 1662,
+      "carryover": "$1,662",
+      "wagertype": "Super High Five",
+      "track": "Retama Park",
+      "date": "Aug 15",
+      "ndate": 20250815
+    },
+    {
+      "carryoverAmount": 1396,
+      "carryover": "$1,396",
       "wagertype": "3x3",
       "track": "Del Mar",
-      "date": "Aug 14",
-      "ndate": 20250814
+      "date": "Aug 15",
+      "ndate": 20250815
     },
     {
       "carryoverAmount": 1348,
@@ -121,28 +153,12 @@
       "ndate": 20250815
     },
     {
-      "carryoverAmount": 1112,
-      "carryover": "$1,112",
-      "wagertype": "Pick 6",
-      "track": "Colonial Downs",
-      "date": "Aug 14",
-      "ndate": 20250814
-    },
-    {
-      "carryoverAmount": 507,
-      "carryover": "$507",
+      "carryoverAmount": 945,
+      "carryover": "$945",
       "wagertype": "Pick 6",
       "track": "Hawthorne",
-      "date": "Aug 14",
-      "ndate": 20250814
-    },
-    {
-      "carryoverAmount": 373,
-      "carryover": "$373",
-      "wagertype": "Super High Five",
-      "track": "Thistledown",
-      "date": "Aug 14",
-      "ndate": 20250814
+      "date": "Aug 17",
+      "ndate": 20250817
     }
   ]
 }
