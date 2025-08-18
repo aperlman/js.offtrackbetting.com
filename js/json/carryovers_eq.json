@@ -1,20 +1,36 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 140729,
-      "carryover": "$140,729",
+      "carryoverAmount": 145997,
+      "carryover": "$145,997",
       "wagertype": "Pick 6 Jackpot",
       "track": "Ellis Park",
-      "date": "Aug 17",
-      "ndate": 20250817
+      "date": "Aug 18",
+      "ndate": 20250818
     },
     {
-      "carryoverAmount": 66643,
-      "carryover": "$66,643",
+      "carryoverAmount": 86720,
+      "carryover": "$86,720",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "Aug 17",
-      "ndate": 20250817
+      "date": "Aug 22",
+      "ndate": 20250822
+    },
+    {
+      "carryoverAmount": 79970,
+      "carryover": "$79,970",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Prairie Meadows",
+      "date": "Aug 18",
+      "ndate": 20250818
+    },
+    {
+      "carryoverAmount": 78841,
+      "carryover": "$78,841",
+      "wagertype": "Pick 5",
+      "track": "Emerald Downs",
+      "date": "Aug 22",
+      "ndate": 20250822
     },
     {
       "carryoverAmount": 51768,
@@ -25,20 +41,12 @@
       "ndate": 20250819
     },
     {
-      "carryoverAmount": 10780,
-      "carryover": "$10,780",
-      "wagertype": "Super High Five",
+      "carryoverAmount": 12382,
+      "carryover": "$12,382",
+      "wagertype": "Pick 6 Jackpot",
       "track": "Emerald Downs",
-      "date": "Aug 17",
-      "ndate": 20250817
-    },
-    {
-      "carryoverAmount": 10000,
-      "carryover": "$10,000",
-      "wagertype": "Pick 6",
-      "track": "Los Alamitos",
-      "date": "Aug 17",
-      "ndate": 20250817
+      "date": "Aug 22",
+      "ndate": 20250822
     },
     {
       "carryoverAmount": 8462,
@@ -49,44 +57,44 @@
       "ndate": 20250818
     },
     {
-      "carryoverAmount": 6936,
-      "carryover": "$6,936",
-      "wagertype": "Super High Five",
-      "track": "Gulfstream Park",
-      "date": "Aug 17",
-      "ndate": 20250817
-    },
-    {
-      "carryoverAmount": 6192,
-      "carryover": "$6,192",
+      "carryoverAmount": 8129,
+      "carryover": "$8,129",
       "wagertype": "Pick 5 Jackpot",
       "track": "Prairie Meadows",
-      "date": "Aug 17",
-      "ndate": 20250817
+      "date": "Aug 18",
+      "ndate": 20250818
     },
     {
-      "carryoverAmount": 6093,
-      "carryover": "$6,093",
-      "wagertype": "Pick 5",
-      "track": "Emerald Downs",
-      "date": "Aug 17",
-      "ndate": 20250817
-    },
-    {
-      "carryoverAmount": 6038,
-      "carryover": "$6,038",
+      "carryoverAmount": 7202,
+      "carryover": "$7,202",
       "wagertype": "Pick 6 Jackpot",
-      "track": "Emerald Downs",
-      "date": "Aug 17",
-      "ndate": 20250817
+      "track": "Woodbine",
+      "date": "Aug 21",
+      "ndate": 20250821
     },
     {
-      "carryoverAmount": 1779,
-      "carryover": "$1,779",
+      "carryoverAmount": 6711,
+      "carryover": "$6,711",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Woodbine",
+      "date": "Aug 21",
+      "ndate": 20250821
+    },
+    {
+      "carryoverAmount": 3099,
+      "carryover": "$3,099",
       "wagertype": "Super High Five",
-      "track": "Hawthorne",
-      "date": "Aug 17",
-      "ndate": 20250817
+      "track": "Ellis Park",
+      "date": "Aug 18",
+      "ndate": 20250818
+    },
+    {
+      "carryoverAmount": 1726,
+      "carryover": "$1,726",
+      "wagertype": "3x3",
+      "track": "Del Mar",
+      "date": "Aug 21",
+      "ndate": 20250821
     },
     {
       "carryoverAmount": 1661,
@@ -97,20 +105,12 @@
       "ndate": 20250818
     },
     {
-      "carryoverAmount": 1557,
-      "carryover": "$1,557",
-      "wagertype": "3x3",
-      "track": "Del Mar",
-      "date": "Aug 17",
-      "ndate": 20250817
-    },
-    {
-      "carryoverAmount": 945,
-      "carryover": "$945",
-      "wagertype": "Pick 6",
-      "track": "Hawthorne",
-      "date": "Aug 17",
-      "ndate": 20250817
+      "carryoverAmount": 1637,
+      "carryover": "$1,637",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Monmouth Park",
+      "date": "Aug 22",
+      "ndate": 20250822
     }
   ]
 }
