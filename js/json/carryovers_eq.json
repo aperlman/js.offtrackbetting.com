@@ -25,6 +25,14 @@
       "ndate": 20250822
     },
     {
+      "carryoverAmount": 79194,
+      "carryover": "$79,194",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Assiniboia",
+      "date": "Aug 25",
+      "ndate": 20250825
+    },
+    {
       "carryoverAmount": 78841,
       "carryover": "$78,841",
       "wagertype": "Pick 5",
@@ -57,6 +65,14 @@
       "ndate": 20250823
     },
     {
+      "carryoverAmount": 13860,
+      "carryover": "$13,860",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Penn National",
+      "date": "Aug 22",
+      "ndate": 20250822
+    },
+    {
       "carryoverAmount": 12382,
       "carryover": "$12,382",
       "wagertype": "Pick 6 Jackpot",
@@ -81,28 +97,28 @@
       "ndate": 20250825
     },
     {
-      "carryoverAmount": 7202,
-      "carryover": "$7,202",
+      "carryoverAmount": 10332,
+      "carryover": "$10,332",
       "wagertype": "Pick 6 Jackpot",
       "track": "Woodbine",
-      "date": "Aug 21",
-      "ndate": 20250821
+      "date": "Aug 22",
+      "ndate": 20250822
     },
     {
-      "carryoverAmount": 6711,
-      "carryover": "$6,711",
+      "carryoverAmount": 10296,
+      "carryover": "$10,296",
       "wagertype": "Super High Five Jackpot",
       "track": "Woodbine",
-      "date": "Aug 21",
-      "ndate": 20250821
+      "date": "Aug 22",
+      "ndate": 20250822
     },
     {
-      "carryoverAmount": 6456,
-      "carryover": "$6,456",
-      "wagertype": "Pick 5",
-      "track": "Penn National",
-      "date": "Aug 21",
-      "ndate": 20250821
+      "carryoverAmount": 4844,
+      "carryover": "$4,844",
+      "wagertype": "Pick 6",
+      "track": "Colonial Downs",
+      "date": "Aug 22",
+      "ndate": 20250822
     },
     {
       "carryoverAmount": 4248,
@@ -129,20 +145,20 @@
       "ndate": 20250825
     },
     {
-      "carryoverAmount": 1954,
-      "carryover": "$1,954",
+      "carryoverAmount": 2588,
+      "carryover": "$2,588",
       "wagertype": "Super High Five",
       "track": "Belterra Park",
-      "date": "Aug 21",
-      "ndate": 20250821
+      "date": "Aug 22",
+      "ndate": 20250822
     },
     {
-      "carryoverAmount": 1726,
-      "carryover": "$1,726",
+      "carryoverAmount": 1741,
+      "carryover": "$1,741",
       "wagertype": "3x3",
       "track": "Del Mar",
-      "date": "Aug 21",
-      "ndate": 20250821
+      "date": "Aug 22",
+      "ndate": 20250822
     },
     {
       "carryoverAmount": 1637,
@@ -153,12 +169,12 @@
       "ndate": 20250822
     },
     {
-      "carryoverAmount": 1594,
-      "carryover": "$1,594",
-      "wagertype": "Pick 6",
-      "track": "Colonial Downs",
-      "date": "Aug 21",
-      "ndate": 20250821
+      "carryoverAmount": 1483,
+      "carryover": "$1,483",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Charles Town",
+      "date": "Aug 22",
+      "ndate": 20250822
     },
     {
       "carryoverAmount": 1091,
@@ -169,12 +185,36 @@
       "ndate": 20250825
     },
     {
+      "carryoverAmount": 658,
+      "carryover": "$658",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Thistledown",
+      "date": "Aug 25",
+      "ndate": 20250825
+    },
+    {
+      "carryoverAmount": 636,
+      "carryover": "$636",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Fort Erie",
+      "date": "Aug 25",
+      "ndate": 20250825
+    },
+    {
       "carryoverAmount": 541,
       "carryover": "$541",
       "wagertype": "Super High Five",
       "track": "Century Mile",
       "date": "Aug 22",
       "ndate": 20250822
+    },
+    {
+      "carryoverAmount": 163,
+      "carryover": "$163",
+      "wagertype": "Pick 6",
+      "track": "Hawthorne",
+      "date": "Aug 24",
+      "ndate": 20250824
     }
   ]
 }
