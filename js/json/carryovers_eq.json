@@ -1,36 +1,20 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 91731,
-      "carryover": "$91,731",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Prairie Meadows",
-      "date": "Aug 25",
-      "ndate": 20250825
-    },
-    {
-      "carryoverAmount": 79194,
-      "carryover": "$79,194",
+      "carryoverAmount": 90461,
+      "carryover": "$90,461",
       "wagertype": "Pick 5 Jackpot",
       "track": "Assiniboia",
-      "date": "Aug 25",
-      "ndate": 20250825
+      "date": "Aug 26",
+      "ndate": 20250826
     },
     {
-      "carryoverAmount": 66097,
-      "carryover": "$66,097",
+      "carryoverAmount": 76595,
+      "carryover": "$76,595",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Aug 25",
-      "ndate": 20250825
-    },
-    {
-      "carryoverAmount": 60716,
-      "carryover": "$60,716",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Parx Racing",
-      "date": "Aug 25",
-      "ndate": 20250825
+      "date": "Aug 26",
+      "ndate": 20250826
     },
     {
       "carryoverAmount": 26916,
@@ -41,20 +25,20 @@
       "ndate": 20250828
     },
     {
+      "carryoverAmount": 25260,
+      "carryover": "$25,260",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Prairie Meadows",
+      "date": "Aug 29",
+      "ndate": 20250829
+    },
+    {
       "carryoverAmount": 23234,
       "carryover": "$23,234",
       "wagertype": "Pick 6 Jackpot",
       "track": "Emerald Downs",
       "date": "Aug 29",
       "ndate": 20250829
-    },
-    {
-      "carryoverAmount": 21326,
-      "carryover": "$21,326",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Prairie Meadows",
-      "date": "Aug 25",
-      "ndate": 20250825
     },
     {
       "carryoverAmount": 16272,
@@ -73,14 +57,6 @@
       "ndate": 20250827
     },
     {
-      "carryoverAmount": 12308,
-      "carryover": "$12,308",
-      "wagertype": "Pick 5",
-      "track": "Finger Lakes",
-      "date": "Aug 25",
-      "ndate": 20250825
-    },
-    {
       "carryoverAmount": 11696,
       "carryover": "$11,696",
       "wagertype": "Pick 5",
@@ -97,12 +73,12 @@
       "ndate": 20250827
     },
     {
-      "carryoverAmount": 3550,
-      "carryover": "$3,550",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Hastings",
-      "date": "Aug 25",
-      "ndate": 20250825
+      "carryoverAmount": 2474,
+      "carryover": "$2,474",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Thistledown",
+      "date": "Aug 26",
+      "ndate": 20250826
     },
     {
       "carryoverAmount": 2157,
@@ -113,28 +89,12 @@
       "ndate": 20250828
     },
     {
-      "carryoverAmount": 1091,
-      "carryover": "$1,091",
-      "wagertype": "Pick 5",
-      "track": "Presque Isle",
-      "date": "Aug 25",
-      "ndate": 20250825
-    },
-    {
-      "carryoverAmount": 658,
-      "carryover": "$658",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Thistledown",
-      "date": "Aug 25",
-      "ndate": 20250825
-    },
-    {
-      "carryoverAmount": 636,
-      "carryover": "$636",
+      "carryoverAmount": 1726,
+      "carryover": "$1,726",
       "wagertype": "Super High Five Jackpot",
       "track": "Fort Erie",
-      "date": "Aug 25",
-      "ndate": 20250825
+      "date": "Aug 26",
+      "ndate": 20250826
     }
   ]
 }
