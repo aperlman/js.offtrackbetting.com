@@ -1,20 +1,12 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 132604,
-      "carryover": "$132,604",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Assiniboia",
-      "date": "Sep 03",
-      "ndate": 20250903
-    },
-    {
-      "carryoverAmount": 111139,
-      "carryover": "$111,139",
+      "carryoverAmount": 122829,
+      "carryover": "$122,829",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Sep 03",
-      "ndate": 20250903
+      "date": "Sep 08",
+      "ndate": 20250908
     },
     {
       "carryoverAmount": 106348,
@@ -89,12 +81,28 @@
       "ndate": 20250905
     },
     {
-      "carryoverAmount": 3944,
-      "carryover": "$3,944",
-      "wagertype": "Super High Five",
-      "track": "Assiniboia",
-      "date": "Sep 03",
-      "ndate": 20250903
+      "carryoverAmount": 5926,
+      "carryover": "$5,926",
+      "wagertype": "Pick 5",
+      "track": "Penn National",
+      "date": "Sep 04",
+      "ndate": 20250904
+    },
+    {
+      "carryoverAmount": 3744,
+      "carryover": "$3,744",
+      "wagertype": "Pick 6",
+      "track": "Colonial Downs",
+      "date": "Sep 04",
+      "ndate": 20250904
+    },
+    {
+      "carryoverAmount": 3298,
+      "carryover": "$3,298",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Thistledown",
+      "date": "Sep 04",
+      "ndate": 20250904
     },
     {
       "carryoverAmount": 2622,
@@ -111,14 +119,6 @@
       "track": "Charles Town",
       "date": "Sep 04",
       "ndate": 20250904
-    },
-    {
-      "carryoverAmount": 1857,
-      "carryover": "$1,857",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Thistledown",
-      "date": "Sep 03",
-      "ndate": 20250903
     },
     {
       "carryoverAmount": 1396,
@@ -151,14 +151,6 @@
       "track": "Hawthorne",
       "date": "Sep 04",
       "ndate": 20250904
-    },
-    {
-      "carryoverAmount": 340,
-      "carryover": "$340",
-      "wagertype": "Super High Five",
-      "track": "Belterra Park",
-      "date": "Sep 03",
-      "ndate": 20250903
     }
   ]
 }
