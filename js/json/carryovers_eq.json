@@ -1,20 +1,28 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 147272,
-      "carryover": "$147,272",
+      "carryoverAmount": 159055,
+      "carryover": "$159,055",
       "wagertype": "Pick 5 Jackpot",
       "track": "Assiniboia",
-      "date": "Sep 09",
-      "ndate": 20250909
+      "date": "Sep 10",
+      "ndate": 20250910
     },
     {
-      "carryoverAmount": 132910,
-      "carryover": "$132,910",
+      "carryoverAmount": 151536,
+      "carryover": "$151,536",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Sep 09",
-      "ndate": 20250909
+      "date": "Sep 10",
+      "ndate": 20250910
+    },
+    {
+      "carryoverAmount": 141820,
+      "carryover": "$141,820",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Parx Racing",
+      "date": "Sep 10",
+      "ndate": 20250910
     },
     {
       "carryoverAmount": 99438,
@@ -57,6 +65,22 @@
       "ndate": 20250910
     },
     {
+      "carryoverAmount": 17250,
+      "carryover": "$17,250",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Monmouth Park",
+      "date": "Sep 13",
+      "ndate": 20250913
+    },
+    {
+      "carryoverAmount": 17050,
+      "carryover": "$17,050",
+      "wagertype": "Pick 5",
+      "track": "Finger Lakes",
+      "date": "Sep 10",
+      "ndate": 20250910
+    },
+    {
       "carryoverAmount": 14767,
       "carryover": "$14,767",
       "wagertype": "Pick 5",
@@ -65,12 +89,28 @@
       "ndate": 20250910
     },
     {
-      "carryoverAmount": 6089,
-      "carryover": "$6,089",
+      "carryoverAmount": 9571,
+      "carryover": "$9,571",
+      "wagertype": "Super High Five",
+      "track": "Century Mile",
+      "date": "Sep 12",
+      "ndate": 20250912
+    },
+    {
+      "carryoverAmount": 7881,
+      "carryover": "$7,881",
       "wagertype": "Pick 6 Jackpot",
       "track": "Thistledown",
-      "date": "Sep 09",
-      "ndate": 20250909
+      "date": "Sep 10",
+      "ndate": 20250910
+    },
+    {
+      "carryoverAmount": 4993,
+      "carryover": "$4,993",
+      "wagertype": "Super High Five",
+      "track": "Horseshoe",
+      "date": "Sep 10",
+      "ndate": 20250910
     },
     {
       "carryoverAmount": 2852,
