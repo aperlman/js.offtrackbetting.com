@@ -1,20 +1,28 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 172619,
-      "carryover": "$172,619",
+      "carryoverAmount": 184703,
+      "carryover": "$184,703",
       "wagertype": "Pick 5 Jackpot",
       "track": "Assiniboia",
-      "date": "Sep 15",
-      "ndate": 20250915
+      "date": "Sep 16",
+      "ndate": 20250916
     },
     {
-      "carryoverAmount": 158748,
-      "carryover": "$158,748",
+      "carryoverAmount": 181083,
+      "carryover": "$181,083",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Sep 15",
-      "ndate": 20250915
+      "date": "Sep 16",
+      "ndate": 20250916
+    },
+    {
+      "carryoverAmount": 170250,
+      "carryover": "$170,250",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Parx Racing",
+      "date": "Sep 16",
+      "ndate": 20250916
     },
     {
       "carryoverAmount": 54866,
@@ -41,20 +49,20 @@
       "ndate": 20250917
     },
     {
+      "carryoverAmount": 10372,
+      "carryover": "$10,372",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Prairie Meadows",
+      "date": "Sep 19",
+      "ndate": 20250919
+    },
+    {
       "carryoverAmount": 7112,
       "carryover": "$7,112",
       "wagertype": "Super High Five Jackpot",
       "track": "Woodbine",
       "date": "Sep 18",
       "ndate": 20250918
-    },
-    {
-      "carryoverAmount": 7031,
-      "carryover": "$7,031",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Prairie Meadows",
-      "date": "Sep 15",
-      "ndate": 20250915
     },
     {
       "carryoverAmount": 4797,
@@ -65,28 +73,12 @@
       "ndate": 20250919
     },
     {
-      "carryoverAmount": 3066,
-      "carryover": "$3,066",
-      "wagertype": "Super High Five",
-      "track": "Horseshoe",
-      "date": "Sep 15",
-      "ndate": 20250915
-    },
-    {
-      "carryoverAmount": 2798,
-      "carryover": "$2,798",
+      "carryoverAmount": 4017,
+      "carryover": "$4,017",
       "wagertype": "Super High Five Jackpot",
       "track": "Prairie Meadows",
-      "date": "Sep 15",
-      "ndate": 20250915
-    },
-    {
-      "carryoverAmount": 2385,
-      "carryover": "$2,385",
-      "wagertype": "Super High Five",
-      "track": "Assiniboia",
-      "date": "Sep 15",
-      "ndate": 20250915
+      "date": "Sep 19",
+      "ndate": 20250919
     },
     {
       "carryoverAmount": 2333,
@@ -95,6 +87,14 @@
       "track": "Charles Town",
       "date": "Sep 18",
       "ndate": 20250918
+    },
+    {
+      "carryoverAmount": 2304,
+      "carryover": "$2,304",
+      "wagertype": "Pick 5",
+      "track": "Presque Isle",
+      "date": "Sep 16",
+      "ndate": 20250916
     },
     {
       "carryoverAmount": 2244,
@@ -113,12 +113,12 @@
       "ndate": 20250918
     },
     {
-      "carryoverAmount": 384,
-      "carryover": "$384",
-      "wagertype": "Super High Five",
+      "carryoverAmount": 1829,
+      "carryover": "$1,829",
+      "wagertype": "Pick 6 Jackpot",
       "track": "Thistledown",
-      "date": "Sep 15",
-      "ndate": 20250915
+      "date": "Sep 16",
+      "ndate": 20250916
     },
     {
       "carryoverAmount": 345,
