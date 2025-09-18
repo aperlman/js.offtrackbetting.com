@@ -9,14 +9,6 @@
       "ndate": 20250919
     },
     {
-      "carryoverAmount": 197614,
-      "carryover": "$197,614",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Assiniboia",
-      "date": "Sep 17",
-      "ndate": 20250917
-    },
-    {
       "carryoverAmount": 192985,
       "carryover": "$192,985",
       "wagertype": "Pick 5 Jackpot",
@@ -25,12 +17,12 @@
       "ndate": 20250919
     },
     {
-      "carryoverAmount": 54866,
-      "carryover": "$54,866",
+      "carryoverAmount": 61686,
+      "carryover": "$61,686",
       "wagertype": "Pick 6 Jackpot",
       "track": "Churchill Downs",
-      "date": "Sep 17",
-      "ndate": 20250917
+      "date": "Sep 18",
+      "ndate": 20250918
     },
     {
       "carryoverAmount": 30636,
@@ -41,12 +33,20 @@
       "ndate": 20250919
     },
     {
-      "carryoverAmount": 21596,
-      "carryover": "$21,596",
+      "carryoverAmount": 22444,
+      "carryover": "$22,444",
       "wagertype": "Super High Five Jackpot",
       "track": "Penn National",
-      "date": "Sep 17",
-      "ndate": 20250917
+      "date": "Sep 18",
+      "ndate": 20250918
+    },
+    {
+      "carryoverAmount": 12781,
+      "carryover": "$12,781",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Hastings",
+      "date": "Sep 20",
+      "ndate": 20250920
     },
     {
       "carryoverAmount": 10372,
@@ -65,6 +65,22 @@
       "ndate": 20250918
     },
     {
+      "carryoverAmount": 5234,
+      "carryover": "$5,234",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Thistledown",
+      "date": "Sep 18",
+      "ndate": 20250918
+    },
+    {
+      "carryoverAmount": 5044,
+      "carryover": "$5,044",
+      "wagertype": "Super High Five",
+      "track": "Churchill Downs",
+      "date": "Sep 18",
+      "ndate": 20250918
+    },
+    {
       "carryoverAmount": 4797,
       "carryover": "$4,797",
       "wagertype": "Pick 6 Jackpot",
@@ -79,14 +95,6 @@
       "track": "Prairie Meadows",
       "date": "Sep 19",
       "ndate": 20250919
-    },
-    {
-      "carryoverAmount": 3494,
-      "carryover": "$3,494",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Thistledown",
-      "date": "Sep 17",
-      "ndate": 20250917
     },
     {
       "carryoverAmount": 2333,
@@ -113,12 +121,12 @@
       "ndate": 20250918
     },
     {
-      "carryoverAmount": 1756,
-      "carryover": "$1,756",
+      "carryoverAmount": 908,
+      "carryover": "$908",
       "wagertype": "Super High Five",
-      "track": "Mountaineer",
-      "date": "Sep 17",
-      "ndate": 20250917
+      "track": "Belterra Park",
+      "date": "Sep 18",
+      "ndate": 20250918
     },
     {
       "carryoverAmount": 345,
@@ -127,14 +135,6 @@
       "track": "Hawthorne",
       "date": "Sep 18",
       "ndate": 20250918
-    },
-    {
-      "carryoverAmount": 163,
-      "carryover": "$163",
-      "wagertype": "Super High Five",
-      "track": "Belterra Park",
-      "date": "Sep 17",
-      "ndate": 20250917
     }
   ]
 }
