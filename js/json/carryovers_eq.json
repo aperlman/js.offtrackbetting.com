@@ -17,20 +17,20 @@
       "ndate": 20250924
     },
     {
+      "carryoverAmount": 30455,
+      "carryover": "$30,455",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Prairie Meadows",
+      "date": "Sep 26",
+      "ndate": 20250926
+    },
+    {
       "carryoverAmount": 23667,
       "carryover": "$23,667",
       "wagertype": "Super High Five Jackpot",
       "track": "Penn National",
       "date": "Sep 24",
       "ndate": 20250924
-    },
-    {
-      "carryoverAmount": 22527,
-      "carryover": "$22,527",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Prairie Meadows",
-      "date": "Sep 22",
-      "ndate": 20250922
     },
     {
       "carryoverAmount": 13012,
@@ -41,6 +41,14 @@
       "ndate": 20250925
     },
     {
+      "carryoverAmount": 12873,
+      "carryover": "$12,873",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Parx Racing",
+      "date": "Sep 23",
+      "ndate": 20250923
+    },
+    {
       "carryoverAmount": 10501,
       "carryover": "$10,501",
       "wagertype": "Pick 6 Jackpot",
@@ -49,12 +57,20 @@
       "ndate": 20250925
     },
     {
-      "carryoverAmount": 7054,
-      "carryover": "$7,054",
+      "carryoverAmount": 9816,
+      "carryover": "$9,816",
       "wagertype": "Pick 6 Jackpot",
       "track": "Thistledown",
-      "date": "Sep 22",
-      "ndate": 20250922
+      "date": "Sep 23",
+      "ndate": 20250923
+    },
+    {
+      "carryoverAmount": 5296,
+      "carryover": "$5,296",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Fort Erie",
+      "date": "Sep 23",
+      "ndate": 20250923
     },
     {
       "carryoverAmount": 4380,
@@ -71,6 +87,14 @@
       "track": "Delaware Park",
       "date": "Sep 25",
       "ndate": 20250925
+    },
+    {
+      "carryoverAmount": 2504,
+      "carryover": "$2,504",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Prairie Meadows",
+      "date": "Sep 26",
+      "ndate": 20250926
     },
     {
       "carryoverAmount": 2426,
@@ -95,22 +119,6 @@
       "track": "Hawthorne",
       "date": "Sep 25",
       "ndate": 20250925
-    },
-    {
-      "carryoverAmount": 1592,
-      "carryover": "$1,592",
-      "wagertype": "Super High Five",
-      "track": "Mountaineer",
-      "date": "Sep 22",
-      "ndate": 20250922
-    },
-    {
-      "carryoverAmount": 1408,
-      "carryover": "$1,408",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Prairie Meadows",
-      "date": "Sep 22",
-      "ndate": 20250922
     }
   ]
 }
