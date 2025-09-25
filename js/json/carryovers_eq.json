@@ -1,28 +1,20 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 228683,
-      "carryover": "$228,683",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Assiniboia",
-      "date": "Sep 24",
-      "ndate": 20250924
-    },
-    {
-      "carryoverAmount": 91853,
-      "carryover": "$91,853",
+      "carryoverAmount": 99841,
+      "carryover": "$99,841",
       "wagertype": "Pick 6 Jackpot",
       "track": "Churchill Downs",
-      "date": "Sep 24",
-      "ndate": 20250924
+      "date": "Sep 25",
+      "ndate": 20250925
     },
     {
-      "carryoverAmount": 32572,
-      "carryover": "$32,572",
+      "carryoverAmount": 40806,
+      "carryover": "$40,806",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Sep 24",
-      "ndate": 20250924
+      "date": "Sep 29",
+      "ndate": 20250929
     },
     {
       "carryoverAmount": 30455,
@@ -33,20 +25,12 @@
       "ndate": 20250926
     },
     {
-      "carryoverAmount": 23667,
-      "carryover": "$23,667",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Penn National",
-      "date": "Sep 24",
-      "ndate": 20250924
-    },
-    {
-      "carryoverAmount": 21972,
-      "carryover": "$21,972",
+      "carryoverAmount": 20487,
+      "carryover": "$20,487",
       "wagertype": "Pick 5 Jackpot",
-      "track": "Parx Racing",
-      "date": "Sep 24",
-      "ndate": 20250924
+      "track": "Hastings",
+      "date": "Sep 27",
+      "ndate": 20250927
     },
     {
       "carryoverAmount": 13012,
@@ -55,14 +39,6 @@
       "track": "Woodbine",
       "date": "Sep 25",
       "ndate": 20250925
-    },
-    {
-      "carryoverAmount": 12375,
-      "carryover": "$12,375",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Thistledown",
-      "date": "Sep 24",
-      "ndate": 20250924
     },
     {
       "carryoverAmount": 10501,
@@ -81,12 +57,12 @@
       "ndate": 20250926
     },
     {
-      "carryoverAmount": 4380,
-      "carryover": "$4,380",
+      "carryoverAmount": 6212,
+      "carryover": "$6,212",
       "wagertype": "Super High Five",
-      "track": "Belterra Park",
-      "date": "Sep 24",
-      "ndate": 20250924
+      "track": "Churchill Downs",
+      "date": "Sep 25",
+      "ndate": 20250925
     },
     {
       "carryoverAmount": 2922,
@@ -127,14 +103,6 @@
       "track": "Hawthorne",
       "date": "Sep 25",
       "ndate": 20250925
-    },
-    {
-      "carryoverAmount": 1002,
-      "carryover": "$1,002",
-      "wagertype": "Super High Five",
-      "track": "Thistledown",
-      "date": "Sep 24",
-      "ndate": 20250924
     }
   ]
 }
