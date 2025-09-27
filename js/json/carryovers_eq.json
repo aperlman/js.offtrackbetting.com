@@ -1,12 +1,28 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 110216,
-      "carryover": "$110,216",
+      "carryoverAmount": 243567,
+      "carryover": "$243,567",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Assiniboia",
+      "date": "Sep 30",
+      "ndate": 20250930
+    },
+    {
+      "carryoverAmount": 199103,
+      "carryover": "$199,103",
       "wagertype": "Pick 6 Jackpot",
       "track": "Churchill Downs",
-      "date": "Sep 26",
-      "ndate": 20250926
+      "date": "Sep 27",
+      "ndate": 20250927
+    },
+    {
+      "carryoverAmount": 110188,
+      "carryover": "$110,188",
+      "wagertype": "Pick 6",
+      "track": "Belmont At The",
+      "date": "Sep 27",
+      "ndate": 20250927
     },
     {
       "carryoverAmount": 40806,
@@ -17,20 +33,36 @@
       "ndate": 20250929
     },
     {
-      "carryoverAmount": 30455,
-      "carryover": "$30,455",
+      "carryoverAmount": 39018,
+      "carryover": "$39,018",
       "wagertype": "Pick 5 Jackpot",
       "track": "Prairie Meadows",
-      "date": "Sep 26",
-      "ndate": 20250926
+      "date": "Sep 27",
+      "ndate": 20250927
     },
     {
-      "carryoverAmount": 25972,
-      "carryover": "$25,972",
+      "carryoverAmount": 34020,
+      "carryover": "$34,020",
+      "wagertype": "Pick 5",
+      "track": "Meadowlands",
+      "date": "Sep 27",
+      "ndate": 20250927
+    },
+    {
+      "carryoverAmount": 32433,
+      "carryover": "$32,433",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Gulfstream Park",
+      "date": "Sep 27",
+      "ndate": 20250927
+    },
+    {
+      "carryoverAmount": 28475,
+      "carryover": "$28,475",
       "wagertype": "Pick 6",
-      "track": "Belmont At The",
-      "date": "Sep 26",
-      "ndate": 20250926
+      "track": "Santa Anita",
+      "date": "Sep 27",
+      "ndate": 20250927
     },
     {
       "carryoverAmount": 20487,
@@ -41,44 +73,68 @@
       "ndate": 20250927
     },
     {
-      "carryoverAmount": 13147,
-      "carryover": "$13,147",
+      "carryoverAmount": 17978,
+      "carryover": "$17,978",
       "wagertype": "Pick 6 Jackpot",
       "track": "Charles Town",
-      "date": "Sep 26",
-      "ndate": 20250926
+      "date": "Sep 27",
+      "ndate": 20250927
     },
     {
-      "carryoverAmount": 6390,
-      "carryover": "$6,390",
+      "carryoverAmount": 12707,
+      "carryover": "$12,707",
+      "wagertype": "Pick 6",
+      "track": "Santa Anita",
+      "date": "Sep 27",
+      "ndate": 20250927
+    },
+    {
+      "carryoverAmount": 9432,
+      "carryover": "$9,432",
       "wagertype": "Pick 6 Jackpot",
       "track": "Meadowlands",
-      "date": "Sep 26",
-      "ndate": 20250926
+      "date": "Sep 27",
+      "ndate": 20250927
     },
     {
-      "carryoverAmount": 5232,
-      "carryover": "$5,232",
-      "wagertype": "Super High Five",
+      "carryoverAmount": 7956,
+      "carryover": "$7,956",
+      "wagertype": "Pick 5",
       "track": "Belterra Park",
-      "date": "Sep 26",
-      "ndate": 20250926
+      "date": "Sep 27",
+      "ndate": 20250927
     },
     {
-      "carryoverAmount": 3901,
-      "carryover": "$3,901",
+      "carryoverAmount": 7342,
+      "carryover": "$7,342",
       "wagertype": "Super High Five Jackpot",
       "track": "Woodbine",
-      "date": "Sep 26",
-      "ndate": 20250926
+      "date": "Sep 27",
+      "ndate": 20250927
     },
     {
-      "carryoverAmount": 3135,
-      "carryover": "$3,135",
+      "carryoverAmount": 5495,
+      "carryover": "$5,495",
+      "wagertype": "Pick 5",
+      "track": "Century Downs",
+      "date": "Sep 27",
+      "ndate": 20250927
+    },
+    {
+      "carryoverAmount": 4207,
+      "carryover": "$4,207",
       "wagertype": "Super High Five Jackpot",
       "track": "Lone Star",
-      "date": "Sep 26",
-      "ndate": 20250926
+      "date": "Sep 27",
+      "ndate": 20250927
+    },
+    {
+      "carryoverAmount": 3305,
+      "carryover": "$3,305",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Sep 27",
+      "ndate": 20250927
     },
     {
       "carryoverAmount": 2794,
@@ -89,36 +145,52 @@
       "ndate": 20250928
     },
     {
-      "carryoverAmount": 2504,
-      "carryover": "$2,504",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Prairie Meadows",
-      "date": "Sep 26",
-      "ndate": 20250926
-    },
-    {
-      "carryoverAmount": 2193,
-      "carryover": "$2,193",
+      "carryoverAmount": 2717,
+      "carryover": "$2,717",
       "wagertype": "Pick 6 Jackpot",
       "track": "Laurel Park",
-      "date": "Sep 26",
-      "ndate": 20250926
+      "date": "Sep 27",
+      "ndate": 20250927
     },
     {
-      "carryoverAmount": 1310,
-      "carryover": "$1,310",
+      "carryoverAmount": 2588,
+      "carryover": "$2,588",
+      "wagertype": "Super High Five",
+      "track": "Assiniboia",
+      "date": "Sep 30",
+      "ndate": 20250930
+    },
+    {
+      "carryoverAmount": 2537,
+      "carryover": "$2,537",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Woodbine",
+      "date": "Sep 27",
+      "ndate": 20250927
+    },
+    {
+      "carryoverAmount": 2242,
+      "carryover": "$2,242",
       "wagertype": "Pick 6 Jackpot",
       "track": "Thistledown",
-      "date": "Sep 26",
-      "ndate": 20250926
+      "date": "Sep 29",
+      "ndate": 20250929
     },
     {
-      "carryoverAmount": 151,
-      "carryover": "$151",
+      "carryoverAmount": 1367,
+      "carryover": "$1,367",
       "wagertype": "Pick 6",
       "track": "Lone Star",
-      "date": "Sep 26",
-      "ndate": 20250926
+      "date": "Sep 27",
+      "ndate": 20250927
+    },
+    {
+      "carryoverAmount": 990,
+      "carryover": "$990",
+      "wagertype": "Pick 5",
+      "track": "Lone Star",
+      "date": "Sep 27",
+      "ndate": 20250927
     }
   ]
 }
