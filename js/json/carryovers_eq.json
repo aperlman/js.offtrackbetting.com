@@ -9,28 +9,20 @@
       "ndate": 20250930
     },
     {
-      "carryoverAmount": 214090,
-      "carryover": "$214,090",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Churchill Downs",
-      "date": "Sep 28",
-      "ndate": 20250928
+      "carryoverAmount": 104929,
+      "carryover": "$104,929",
+      "wagertype": "Super High Five",
+      "track": "Santa Anita",
+      "date": "Oct 03",
+      "ndate": 20251003
     },
     {
-      "carryoverAmount": 49019,
-      "carryover": "$49,019",
+      "carryoverAmount": 64370,
+      "carryover": "$64,370",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "Sep 28",
-      "ndate": 20250928
-    },
-    {
-      "carryoverAmount": 47057,
-      "carryover": "$47,057",
-      "wagertype": "Pick 6",
-      "track": "Santa Anita",
-      "date": "Sep 28",
-      "ndate": 20250928
+      "date": "Oct 03",
+      "ndate": 20251003
     },
     {
       "carryoverAmount": 40806,
@@ -41,60 +33,44 @@
       "ndate": 20250929
     },
     {
-      "carryoverAmount": 23240,
-      "carryover": "$23,240",
-      "wagertype": "Pick 5",
-      "track": "Delaware Park",
-      "date": "Sep 28",
-      "ndate": 20250928
+      "carryoverAmount": 26885,
+      "carryover": "$26,885",
+      "wagertype": "Pick 6",
+      "track": "Belmont At The",
+      "date": "Oct 02",
+      "ndate": 20251002
     },
     {
-      "carryoverAmount": 17307,
-      "carryover": "$17,307",
-      "wagertype": "Pick 5",
-      "track": "Delaware Park",
-      "date": "Sep 28",
-      "ndate": 20250928
-    },
-    {
-      "carryoverAmount": 15361,
-      "carryover": "$15,361",
-      "wagertype": "Super High Five",
-      "track": "Santa Anita",
-      "date": "Sep 28",
-      "ndate": 20250928
-    },
-    {
-      "carryoverAmount": 11844,
-      "carryover": "$11,844",
+      "carryoverAmount": 16818,
+      "carryover": "$16,818",
       "wagertype": "Super High Five Jackpot",
       "track": "Woodbine",
-      "date": "Sep 28",
-      "ndate": 20250928
+      "date": "Oct 02",
+      "ndate": 20251002
     },
     {
-      "carryoverAmount": 9618,
-      "carryover": "$9,618",
-      "wagertype": "Pick 6",
-      "track": "Los Alamitos",
-      "date": "Sep 28",
-      "ndate": 20250928
-    },
-    {
-      "carryoverAmount": 9002,
-      "carryover": "$9,002",
-      "wagertype": "Pick 5",
-      "track": "Delaware Park",
-      "date": "Sep 28",
-      "ndate": 20250928
-    },
-    {
-      "carryoverAmount": 6596,
-      "carryover": "$6,596",
+      "carryoverAmount": 13171,
+      "carryover": "$13,171",
       "wagertype": "Pick 6 Jackpot",
       "track": "Woodbine",
-      "date": "Sep 28",
-      "ndate": 20250928
+      "date": "Oct 02",
+      "ndate": 20251002
+    },
+    {
+      "carryoverAmount": 5602,
+      "carryover": "$5,602",
+      "wagertype": "Pick 5",
+      "track": "Hawthorne",
+      "date": "Oct 02",
+      "ndate": 20251002
+    },
+    {
+      "carryoverAmount": 5148,
+      "carryover": "$5,148",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Laurel Park",
+      "date": "Oct 03",
+      "ndate": 20251003
     },
     {
       "carryoverAmount": 5140,
@@ -105,20 +81,12 @@
       "ndate": 20251002
     },
     {
-      "carryoverAmount": 4627,
-      "carryover": "$4,627",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Laurel Park",
-      "date": "Sep 28",
-      "ndate": 20250928
-    },
-    {
-      "carryoverAmount": 2794,
-      "carryover": "$2,794",
+      "carryoverAmount": 3282,
+      "carryover": "$3,282",
       "wagertype": "Pick 6",
       "track": "Hawthorne",
-      "date": "Sep 28",
-      "ndate": 20250928
+      "date": "Oct 02",
+      "ndate": 20251002
     },
     {
       "carryoverAmount": 2588,
@@ -145,12 +113,28 @@
       "ndate": 20251002
     },
     {
-      "carryoverAmount": 133,
-      "carryover": "$133",
+      "carryoverAmount": 1649,
+      "carryover": "$1,649",
+      "wagertype": "Super High Five",
+      "track": "Mountaineer",
+      "date": "Sep 29",
+      "ndate": 20250929
+    },
+    {
+      "carryoverAmount": 873,
+      "carryover": "$873",
+      "wagertype": "Super High Five",
+      "track": "Hawthorne",
+      "date": "Oct 02",
+      "ndate": 20251002
+    },
+    {
+      "carryoverAmount": 161,
+      "carryover": "$161",
       "wagertype": "3x3",
       "track": "Santa Anita",
-      "date": "Sep 28",
-      "ndate": 20250928
+      "date": "Oct 03",
+      "ndate": 20251003
     }
   ]
 }
