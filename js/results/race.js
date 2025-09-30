@@ -117,7 +117,7 @@ function PopulateDates(raceDay, initialize) {
       if (typeof todaysRaces === "undefined" || !("tracks" in todaysRaces)) {
         // previous AJAX call did not complete -- try again
         $.getJSON({
-          url: 'https://us-west-2.aws.data.mongodb-api.com/app/races-bwsnh/endpoint/current_races/v2',
+          url: 'https://ojlbo7v5hb.execute-api.us-west-2.amazonaws.com/current_races/v2',
           crossDomain: true
         })
           .done((data) => {
