@@ -25,14 +25,6 @@
       "ndate": 20251003
     },
     {
-      "carryoverAmount": 40806,
-      "carryover": "$40,806",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Parx Racing",
-      "date": "Sep 29",
-      "ndate": 20250929
-    },
-    {
       "carryoverAmount": 26885,
       "carryover": "$26,885",
       "wagertype": "Pick 6",
@@ -55,6 +47,14 @@
       "track": "Woodbine",
       "date": "Oct 02",
       "ndate": 20251002
+    },
+    {
+      "carryoverAmount": 6754,
+      "carryover": "$6,754",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Fort Erie",
+      "date": "Sep 30",
+      "ndate": 20250930
     },
     {
       "carryoverAmount": 5602,
@@ -81,12 +81,28 @@
       "ndate": 20251002
     },
     {
+      "carryoverAmount": 4483,
+      "carryover": "$4,483",
+      "wagertype": "Super High Five",
+      "track": "Horseshoe",
+      "date": "Sep 30",
+      "ndate": 20250930
+    },
+    {
       "carryoverAmount": 3282,
       "carryover": "$3,282",
       "wagertype": "Pick 6",
       "track": "Hawthorne",
       "date": "Oct 02",
       "ndate": 20251002
+    },
+    {
+      "carryoverAmount": 3215,
+      "carryover": "$3,215",
+      "wagertype": "Pick 5",
+      "track": "Presque Isle",
+      "date": "Sep 30",
+      "ndate": 20250930
     },
     {
       "carryoverAmount": 2588,
@@ -101,8 +117,8 @@
       "carryover": "$2,242",
       "wagertype": "Pick 6 Jackpot",
       "track": "Thistledown",
-      "date": "Sep 29",
-      "ndate": 20250929
+      "date": "Sep 30",
+      "ndate": 20250930
     },
     {
       "carryoverAmount": 1745,
@@ -111,14 +127,6 @@
       "track": "Lone Star",
       "date": "Oct 02",
       "ndate": 20251002
-    },
-    {
-      "carryoverAmount": 1649,
-      "carryover": "$1,649",
-      "wagertype": "Super High Five",
-      "track": "Mountaineer",
-      "date": "Sep 29",
-      "ndate": 20250929
     },
     {
       "carryoverAmount": 873,
