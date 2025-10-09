@@ -1,28 +1,12 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 303741,
-      "carryover": "$303,741",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Assiniboia",
-      "date": "Oct 08",
-      "ndate": 20251008
-    },
-    {
-      "carryoverAmount": 149888,
-      "carryover": "$149,888",
+      "carryoverAmount": 159402,
+      "carryover": "$159,402",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Oct 08",
-      "ndate": 20251008
-    },
-    {
-      "carryoverAmount": 135421,
-      "carryover": "$135,421",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Parx Racing",
-      "date": "Oct 08",
-      "ndate": 20251008
+      "date": "Oct 13",
+      "ndate": 20251013
     },
     {
       "carryoverAmount": 54239,
@@ -31,14 +15,6 @@
       "track": "Santa Anita",
       "date": "Oct 10",
       "ndate": 20251010
-    },
-    {
-      "carryoverAmount": 50245,
-      "carryover": "$50,245",
-      "wagertype": "Super High Five",
-      "track": "Keeneland",
-      "date": "Oct 08",
-      "ndate": 20251008
     },
     {
       "carryoverAmount": 48662,
@@ -65,6 +41,22 @@
       "ndate": 20251010
     },
     {
+      "carryoverAmount": 33968,
+      "carryover": "$33,968",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Hastings",
+      "date": "Oct 11",
+      "ndate": 20251011
+    },
+    {
+      "carryoverAmount": 26648,
+      "carryover": "$26,648",
+      "wagertype": "Pick 6",
+      "track": "Keeneland",
+      "date": "Oct 09",
+      "ndate": 20251009
+    },
+    {
       "carryoverAmount": 17885,
       "carryover": "$17,885",
       "wagertype": "Super High Five Jackpot",
@@ -73,12 +65,12 @@
       "ndate": 20251010
     },
     {
-      "carryoverAmount": 13231,
-      "carryover": "$13,231",
-      "wagertype": "Super High Five",
-      "track": "Assiniboia",
-      "date": "Oct 08",
-      "ndate": 20251008
+      "carryoverAmount": 12871,
+      "carryover": "$12,871",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Charles Town",
+      "date": "Oct 09",
+      "ndate": 20251009
     },
     {
       "carryoverAmount": 10545,
@@ -89,12 +81,12 @@
       "ndate": 20251010
     },
     {
-      "carryoverAmount": 10364,
-      "carryover": "$10,364",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Charles Town",
-      "date": "Oct 08",
-      "ndate": 20251008
+      "carryoverAmount": 9213,
+      "carryover": "$9,213",
+      "wagertype": "Super High Five",
+      "track": "Horseshoe",
+      "date": "Oct 09",
+      "ndate": 20251009
     },
     {
       "carryoverAmount": 8266,
@@ -127,14 +119,6 @@
       "track": "Lone Star",
       "date": "Oct 09",
       "ndate": 20251009
-    },
-    {
-      "carryoverAmount": 2779,
-      "carryover": "$2,779",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Thistledown",
-      "date": "Oct 08",
-      "ndate": 20251008
     },
     {
       "carryoverAmount": 2441,
