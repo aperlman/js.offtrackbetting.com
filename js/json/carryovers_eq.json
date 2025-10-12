@@ -1,14 +1,6 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 408658,
-      "carryover": "$408,658",
-      "wagertype": "Pick 6",
-      "track": "Keeneland",
-      "date": "Oct 11",
-      "ndate": 20251011
-    },
-    {
       "carryoverAmount": 159402,
       "carryover": "$159,402",
       "wagertype": "Pick 5 Jackpot",
@@ -17,36 +9,52 @@
       "ndate": 20251013
     },
     {
-      "carryoverAmount": 33968,
-      "carryover": "$33,968",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Hastings",
-      "date": "Oct 11",
-      "ndate": 20251011
+      "carryoverAmount": 93586,
+      "carryover": "$93,586",
+      "wagertype": "Pick 6",
+      "track": "Santa Anita",
+      "date": "Oct 12",
+      "ndate": 20251012
     },
     {
-      "carryoverAmount": 23835,
-      "carryover": "$23,835",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Woodbine",
-      "date": "Oct 11",
-      "ndate": 20251011
+      "carryoverAmount": 47318,
+      "carryover": "$47,318",
+      "wagertype": "Pick 6",
+      "track": "Santa Anita",
+      "date": "Oct 12",
+      "ndate": 20251012
     },
     {
-      "carryoverAmount": 19202,
-      "carryover": "$19,202",
+      "carryoverAmount": 24923,
+      "carryover": "$24,923",
       "wagertype": "Pick 6 Jackpot",
       "track": "Charles Town",
-      "date": "Oct 11",
-      "ndate": 20251011
+      "date": "Oct 15",
+      "ndate": 20251015
     },
     {
-      "carryoverAmount": 13704,
-      "carryover": "$13,704",
+      "carryoverAmount": 19881,
+      "carryover": "$19,881",
+      "wagertype": "Super High Five",
+      "track": "Santa Anita",
+      "date": "Oct 12",
+      "ndate": 20251012
+    },
+    {
+      "carryoverAmount": 19716,
+      "carryover": "$19,716",
       "wagertype": "Pick 6 Jackpot",
       "track": "Woodbine",
-      "date": "Oct 11",
-      "ndate": 20251011
+      "date": "Oct 12",
+      "ndate": 20251012
+    },
+    {
+      "carryoverAmount": 13881,
+      "carryover": "$13,881",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Gulfstream Park",
+      "date": "Oct 12",
+      "ndate": 20251012
     },
     {
       "carryoverAmount": 12408,
@@ -57,12 +65,20 @@
       "ndate": 20251013
     },
     {
+      "carryoverAmount": 9996,
+      "carryover": "$9,996",
+      "wagertype": "Pick 6",
+      "track": "Los Alamitos",
+      "date": "Oct 12",
+      "ndate": 20251012
+    },
+    {
       "carryoverAmount": 8924,
       "carryover": "$8,924",
       "wagertype": "Super High Five Jackpot",
       "track": "Lone Star",
-      "date": "Oct 11",
-      "ndate": 20251011
+      "date": "Oct 16",
+      "ndate": 20251016
     },
     {
       "carryoverAmount": 6123,
@@ -77,24 +93,8 @@
       "carryover": "$5,157",
       "wagertype": "Pick 6",
       "track": "Lone Star",
-      "date": "Oct 11",
-      "ndate": 20251011
-    },
-    {
-      "carryoverAmount": 2823,
-      "carryover": "$2,823",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Meadowlands",
-      "date": "Oct 11",
-      "ndate": 20251011
-    },
-    {
-      "carryoverAmount": 2100,
-      "carryover": "$2,100",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Laurel Park",
-      "date": "Oct 11",
-      "ndate": 20251011
+      "date": "Oct 16",
+      "ndate": 20251016
     },
     {
       "carryoverAmount": 1090,
@@ -113,12 +113,12 @@
       "ndate": 20251012
     },
     {
-      "carryoverAmount": 414,
-      "carryover": "$414",
+      "carryoverAmount": 469,
+      "carryover": "$469",
       "wagertype": "3x3",
       "track": "Santa Anita",
-      "date": "Oct 11",
-      "ndate": 20251011
+      "date": "Oct 12",
+      "ndate": 20251012
     }
   ]
 }
