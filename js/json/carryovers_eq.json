@@ -1,20 +1,28 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 159402,
-      "carryover": "$159,402",
+      "carryoverAmount": 184551,
+      "carryover": "$184,551",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Oct 13",
-      "ndate": 20251013
+      "date": "Oct 14",
+      "ndate": 20251014
     },
     {
-      "carryoverAmount": 27610,
-      "carryover": "$27,610",
+      "carryoverAmount": 172169,
+      "carryover": "$172,169",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Parx Racing",
+      "date": "Oct 14",
+      "ndate": 20251014
+    },
+    {
+      "carryoverAmount": 35076,
+      "carryover": "$35,076",
       "wagertype": "Pick 6 Jackpot",
       "track": "Woodbine",
-      "date": "Oct 13",
-      "ndate": 20251013
+      "date": "Oct 16",
+      "ndate": 20251016
     },
     {
       "carryoverAmount": 24923,
@@ -25,12 +33,20 @@
       "ndate": 20251015
     },
     {
-      "carryoverAmount": 12408,
-      "carryover": "$12,408",
+      "carryoverAmount": 13386,
+      "carryover": "$13,386",
       "wagertype": "Super High Five Jackpot",
       "track": "Fort Erie",
-      "date": "Oct 13",
-      "ndate": 20251013
+      "date": "Oct 14",
+      "ndate": 20251014
+    },
+    {
+      "carryoverAmount": 10504,
+      "carryover": "$10,504",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Woodbine",
+      "date": "Oct 16",
+      "ndate": 20251016
     },
     {
       "carryoverAmount": 8924,
@@ -47,14 +63,6 @@
       "track": "Hawthorne",
       "date": "Oct 16",
       "ndate": 20251016
-    },
-    {
-      "carryoverAmount": 6078,
-      "carryover": "$6,078",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Woodbine",
-      "date": "Oct 13",
-      "ndate": 20251013
     },
     {
       "carryoverAmount": 5157,
@@ -81,12 +89,12 @@
       "ndate": 20251016
     },
     {
-      "carryoverAmount": 1090,
-      "carryover": "$1,090",
+      "carryoverAmount": 2222,
+      "carryover": "$2,222",
       "wagertype": "Pick 6 Jackpot",
       "track": "Thistledown",
-      "date": "Oct 13",
-      "ndate": 20251013
+      "date": "Oct 14",
+      "ndate": 20251014
     },
     {
       "carryoverAmount": 848,
@@ -97,12 +105,12 @@
       "ndate": 20251017
     },
     {
-      "carryoverAmount": 532,
-      "carryover": "$532",
+      "carryoverAmount": 574,
+      "carryover": "$574",
       "wagertype": "3x3",
       "track": "Santa Anita",
-      "date": "Oct 13",
-      "ndate": 20251013
+      "date": "Oct 17",
+      "ndate": 20251017
     }
   ]
 }
