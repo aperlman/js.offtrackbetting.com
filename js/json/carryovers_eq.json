@@ -1,20 +1,20 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 184551,
-      "carryover": "$184,551",
+      "carryoverAmount": 213520,
+      "carryover": "$213,520",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Oct 14",
-      "ndate": 20251014
+      "date": "Oct 15",
+      "ndate": 20251015
     },
     {
-      "carryoverAmount": 172169,
-      "carryover": "$172,169",
+      "carryoverAmount": 197904,
+      "carryover": "$197,904",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Oct 14",
-      "ndate": 20251014
+      "date": "Oct 15",
+      "ndate": 20251015
     },
     {
       "carryoverAmount": 35076,
@@ -31,14 +31,6 @@
       "track": "Charles Town",
       "date": "Oct 15",
       "ndate": 20251015
-    },
-    {
-      "carryoverAmount": 13386,
-      "carryover": "$13,386",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Fort Erie",
-      "date": "Oct 14",
-      "ndate": 20251014
     },
     {
       "carryoverAmount": 10504,
@@ -65,12 +57,28 @@
       "ndate": 20251016
     },
     {
+      "carryoverAmount": 6407,
+      "carryover": "$6,407",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Meadowlands",
+      "date": "Oct 17",
+      "ndate": 20251017
+    },
+    {
       "carryoverAmount": 5157,
       "carryover": "$5,157",
       "wagertype": "Pick 6",
       "track": "Lone Star",
       "date": "Oct 16",
       "ndate": 20251016
+    },
+    {
+      "carryoverAmount": 3582,
+      "carryover": "$3,582",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Thistledown",
+      "date": "Oct 15",
+      "ndate": 20251015
     },
     {
       "carryoverAmount": 3280,
@@ -89,12 +97,12 @@
       "ndate": 20251016
     },
     {
-      "carryoverAmount": 2222,
-      "carryover": "$2,222",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Thistledown",
-      "date": "Oct 14",
-      "ndate": 20251014
+      "carryoverAmount": 1849,
+      "carryover": "$1,849",
+      "wagertype": "Superfecta",
+      "track": "Century Downs",
+      "date": "Oct 17",
+      "ndate": 20251017
     },
     {
       "carryoverAmount": 848,
@@ -109,6 +117,14 @@
       "carryover": "$574",
       "wagertype": "3x3",
       "track": "Santa Anita",
+      "date": "Oct 17",
+      "ndate": 20251017
+    },
+    {
+      "carryoverAmount": 469,
+      "carryover": "$469",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Century Downs",
       "date": "Oct 17",
       "ndate": 20251017
     }
