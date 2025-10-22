@@ -1,12 +1,20 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 255466,
-      "carryover": "$255,466",
+      "carryoverAmount": 282670,
+      "carryover": "$282,670",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Oct 21",
-      "ndate": 20251021
+      "date": "Oct 22",
+      "ndate": 20251022
+    },
+    {
+      "carryoverAmount": 267802,
+      "carryover": "$267,802",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Parx Racing",
+      "date": "Oct 22",
+      "ndate": 20251022
     },
     {
       "carryoverAmount": 71564,
@@ -65,14 +73,6 @@
       "ndate": 20251022
     },
     {
-      "carryoverAmount": 4031,
-      "carryover": "$4,031",
-      "wagertype": "Pick 5",
-      "track": "Presque Isle",
-      "date": "Oct 21",
-      "ndate": 20251021
-    },
-    {
       "carryoverAmount": 3698,
       "carryover": "$3,698",
       "wagertype": "Pick 6 Jackpot",
@@ -81,12 +81,36 @@
       "ndate": 20251024
     },
     {
+      "carryoverAmount": 1593,
+      "carryover": "$1,593",
+      "wagertype": "Superfecta",
+      "track": "Century Downs",
+      "date": "Oct 24",
+      "ndate": 20251024
+    },
+    {
+      "carryoverAmount": 1538,
+      "carryover": "$1,538",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Mahoning Valley",
+      "date": "Oct 22",
+      "ndate": 20251022
+    },
+    {
       "carryoverAmount": 1234,
       "carryover": "$1,234",
       "wagertype": "Pick 5",
       "track": "Lone Star",
       "date": "Oct 23",
       "ndate": 20251023
+    },
+    {
+      "carryoverAmount": 1052,
+      "carryover": "$1,052",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Century Downs",
+      "date": "Oct 24",
+      "ndate": 20251024
     },
     {
       "carryoverAmount": 884,
@@ -103,14 +127,6 @@
       "track": "Santa Anita",
       "date": "Oct 24",
       "ndate": 20251024
-    },
-    {
-      "carryoverAmount": 443,
-      "carryover": "$443",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Mahoning Valley",
-      "date": "Oct 21",
-      "ndate": 20251021
     },
     {
       "carryoverAmount": 243,
