@@ -1,20 +1,28 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 282670,
-      "carryover": "$282,670",
+      "carryoverAmount": 301397,
+      "carryover": "$301,397",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Oct 22",
-      "ndate": 20251022
+      "date": "Oct 27",
+      "ndate": 20251027
     },
     {
-      "carryoverAmount": 267802,
-      "carryover": "$267,802",
+      "carryoverAmount": 292069,
+      "carryover": "$292,069",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Oct 22",
-      "ndate": 20251022
+      "date": "Oct 27",
+      "ndate": 20251027
+    },
+    {
+      "carryoverAmount": 88865,
+      "carryover": "$88,865",
+      "wagertype": "Pick 6",
+      "track": "Keeneland",
+      "date": "Oct 23",
+      "ndate": 20251023
     },
     {
       "carryoverAmount": 71564,
@@ -25,12 +33,20 @@
       "ndate": 20251023
     },
     {
-      "carryoverAmount": 41311,
-      "carryover": "$41,311",
+      "carryoverAmount": 45189,
+      "carryover": "$45,189",
       "wagertype": "Pick 6 Jackpot",
       "track": "Charles Town",
-      "date": "Oct 22",
-      "ndate": 20251022
+      "date": "Oct 23",
+      "ndate": 20251023
+    },
+    {
+      "carryoverAmount": 42810,
+      "carryover": "$42,810",
+      "wagertype": "Super High Five",
+      "track": "Keeneland",
+      "date": "Oct 23",
+      "ndate": 20251023
     },
     {
       "carryoverAmount": 38538,
@@ -49,28 +65,12 @@
       "ndate": 20251023
     },
     {
-      "carryoverAmount": 24777,
-      "carryover": "$24,777",
-      "wagertype": "Pick 6",
-      "track": "Keeneland",
-      "date": "Oct 22",
-      "ndate": 20251022
-    },
-    {
       "carryoverAmount": 12119,
       "carryover": "$12,119",
       "wagertype": "Super High Five Jackpot",
       "track": "Lone Star",
       "date": "Oct 23",
       "ndate": 20251023
-    },
-    {
-      "carryoverAmount": 11573,
-      "carryover": "$11,573",
-      "wagertype": "Super High Five",
-      "track": "Keeneland",
-      "date": "Oct 22",
-      "ndate": 20251022
     },
     {
       "carryoverAmount": 3698,
@@ -81,20 +81,28 @@
       "ndate": 20251024
     },
     {
+      "carryoverAmount": 2672,
+      "carryover": "$2,672",
+      "wagertype": "Pick 5",
+      "track": "Mahoning Valley",
+      "date": "Oct 23",
+      "ndate": 20251023
+    },
+    {
+      "carryoverAmount": 2214,
+      "carryover": "$2,214",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Mahoning Valley",
+      "date": "Oct 23",
+      "ndate": 20251023
+    },
+    {
       "carryoverAmount": 1593,
       "carryover": "$1,593",
       "wagertype": "Superfecta",
       "track": "Century Downs",
       "date": "Oct 24",
       "ndate": 20251024
-    },
-    {
-      "carryoverAmount": 1538,
-      "carryover": "$1,538",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Mahoning Valley",
-      "date": "Oct 22",
-      "ndate": 20251022
     },
     {
       "carryoverAmount": 1234,
