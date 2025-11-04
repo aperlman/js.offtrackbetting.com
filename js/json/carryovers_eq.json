@@ -1,12 +1,20 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 390772,
-      "carryover": "$390,772",
+      "carryoverAmount": 416500,
+      "carryover": "$416,500",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Nov 03",
-      "ndate": 20251103
+      "date": "Nov 04",
+      "ndate": 20251104
+    },
+    {
+      "carryoverAmount": 402144,
+      "carryover": "$402,144",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Parx Racing",
+      "date": "Nov 04",
+      "ndate": 20251104
     },
     {
       "carryoverAmount": 129381,
@@ -33,6 +41,14 @@
       "ndate": 20251106
     },
     {
+      "carryoverAmount": 41079,
+      "carryover": "$41,079",
+      "wagertype": "Pick 4",
+      "track": "Horseshoe",
+      "date": "Nov 04",
+      "ndate": 20251104
+    },
+    {
       "carryoverAmount": 28274,
       "carryover": "$28,274",
       "wagertype": "Super High Five Jackpot",
@@ -49,12 +65,20 @@
       "ndate": 20251107
     },
     {
-      "carryoverAmount": 10839,
-      "carryover": "$10,839",
+      "carryoverAmount": 13069,
+      "carryover": "$13,069",
       "wagertype": "Pick 6 Jackpot",
       "track": "Mahoning Valley",
-      "date": "Nov 03",
-      "ndate": 20251103
+      "date": "Nov 04",
+      "ndate": 20251104
+    },
+    {
+      "carryoverAmount": 7553,
+      "carryover": "$7,553",
+      "wagertype": "Super High Five",
+      "track": "Horseshoe",
+      "date": "Nov 04",
+      "ndate": 20251104
     },
     {
       "carryoverAmount": 2805,
