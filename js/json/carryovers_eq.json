@@ -1,12 +1,12 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 145504,
-      "carryover": "$145,504",
+      "carryoverAmount": 153419,
+      "carryover": "$153,419",
       "wagertype": "Pick 6 Jackpot",
       "track": "Churchill Downs",
-      "date": "Nov 19",
-      "ndate": 20251119
+      "date": "Nov 20",
+      "ndate": 20251120
     },
     {
       "carryoverAmount": 139675,
@@ -17,6 +17,14 @@
       "ndate": 20251120
     },
     {
+      "carryoverAmount": 98116,
+      "carryover": "$98,116",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Parx Racing",
+      "date": "Nov 24",
+      "ndate": 20251124
+    },
+    {
       "carryoverAmount": 93377,
       "carryover": "$93,377",
       "wagertype": "Pick 6 Jackpot",
@@ -25,20 +33,12 @@
       "ndate": 20251121
     },
     {
-      "carryoverAmount": 81615,
-      "carryover": "$81,615",
+      "carryoverAmount": 90302,
+      "carryover": "$90,302",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Nov 19",
-      "ndate": 20251119
-    },
-    {
-      "carryoverAmount": 65517,
-      "carryover": "$65,517",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Parx Racing",
-      "date": "Nov 19",
-      "ndate": 20251119
+      "date": "Nov 24",
+      "ndate": 20251124
     },
     {
       "carryoverAmount": 51879,
@@ -61,48 +61,40 @@
       "carryover": "$14,428",
       "wagertype": "Pick 6 Jackpot",
       "track": "Turf Paradise",
-      "date": "Nov 19",
-      "ndate": 20251119
+      "date": "Nov 24",
+      "ndate": 20251124
     },
     {
-      "carryoverAmount": 11753,
-      "carryover": "$11,753",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Penn National",
-      "date": "Nov 19",
-      "ndate": 20251119
-    },
-    {
-      "carryoverAmount": 10245,
-      "carryover": "$10,245",
+      "carryoverAmount": 14241,
+      "carryover": "$14,241",
       "wagertype": "Pick 6 Jackpot",
       "track": "Charles Town",
-      "date": "Nov 19",
-      "ndate": 20251119
+      "date": "Nov 20",
+      "ndate": 20251120
     },
     {
-      "carryoverAmount": 10215,
-      "carryover": "$10,215",
+      "carryoverAmount": 13206,
+      "carryover": "$13,206",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Penn National",
+      "date": "Nov 20",
+      "ndate": 20251120
+    },
+    {
+      "carryoverAmount": 5624,
+      "carryover": "$5,624",
       "wagertype": "Super High Five",
       "track": "Churchill Downs",
-      "date": "Nov 19",
-      "ndate": 20251119
+      "date": "Nov 20",
+      "ndate": 20251120
     },
     {
-      "carryoverAmount": 3227,
-      "carryover": "$3,227",
-      "wagertype": "Super High Five",
-      "track": "Churchill Downs",
-      "date": "Nov 19",
-      "ndate": 20251119
-    },
-    {
-      "carryoverAmount": 2522,
-      "carryover": "$2,522",
+      "carryoverAmount": 3812,
+      "carryover": "$3,812",
       "wagertype": "Pick 6 Jackpot",
       "track": "Mahoning Valley",
-      "date": "Nov 19",
-      "ndate": 20251119
+      "date": "Nov 20",
+      "ndate": 20251120
     },
     {
       "carryoverAmount": 2195,
@@ -113,12 +105,12 @@
       "ndate": 20251121
     },
     {
-      "carryoverAmount": 1495,
-      "carryover": "$1,495",
-      "wagertype": "Super High Five",
-      "track": "Churchill Downs",
-      "date": "Nov 19",
-      "ndate": 20251119
+      "carryoverAmount": 1970,
+      "carryover": "$1,970",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Tampa Bay",
+      "date": "Nov 22",
+      "ndate": 20251122
     },
     {
       "carryoverAmount": 464,
