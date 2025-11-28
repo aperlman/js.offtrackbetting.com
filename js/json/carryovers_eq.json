@@ -1,20 +1,36 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 373345,
-      "carryover": "$373,345",
+      "carryoverAmount": 395317,
+      "carryover": "$395,317",
       "wagertype": "Pick 6 Jackpot",
       "track": "Churchill Downs",
-      "date": "Nov 27",
-      "ndate": 20251127
+      "date": "Nov 28",
+      "ndate": 20251128
     },
     {
-      "carryoverAmount": 191754,
-      "carryover": "$191,754",
+      "carryoverAmount": 200175,
+      "carryover": "$200,175",
       "wagertype": "Super High Five Jackpot",
       "track": "Woodbine",
-      "date": "Nov 27",
-      "ndate": 20251127
+      "date": "Nov 28",
+      "ndate": 20251128
+    },
+    {
+      "carryoverAmount": 169861,
+      "carryover": "$169,861",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Gulfstream Park",
+      "date": "Nov 28",
+      "ndate": 20251128
+    },
+    {
+      "carryoverAmount": 36083,
+      "carryover": "$36,083",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Woodbine",
+      "date": "Nov 28",
+      "ndate": 20251128
     },
     {
       "carryoverAmount": 32334,
@@ -23,14 +39,6 @@
       "track": "Charles Town",
       "date": "Nov 28",
       "ndate": 20251128
-    },
-    {
-      "carryoverAmount": 24035,
-      "carryover": "$24,035",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Woodbine",
-      "date": "Nov 27",
-      "ndate": 20251127
     },
     {
       "carryoverAmount": 15346,
@@ -47,22 +55,6 @@
       "track": "Turf Paradise",
       "date": "Nov 28",
       "ndate": 20251128
-    },
-    {
-      "carryoverAmount": 6192,
-      "carryover": "$6,192",
-      "wagertype": "Pick 6",
-      "track": "Fair Grounds",
-      "date": "Nov 27",
-      "ndate": 20251127
-    },
-    {
-      "carryoverAmount": 5567,
-      "carryover": "$5,567",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Laurel Park",
-      "date": "Nov 27",
-      "ndate": 20251127
     },
     {
       "carryoverAmount": 617,
