@@ -1,68 +1,76 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 422348,
-      "carryover": "$422,348",
+      "carryoverAmount": 451889,
+      "carryover": "$451,889",
       "wagertype": "Pick 6 Jackpot",
       "track": "Churchill Downs",
-      "date": "Nov 29",
-      "ndate": 20251129
+      "date": "Nov 30",
+      "ndate": 20251130
     },
     {
-      "carryoverAmount": 204226,
-      "carryover": "$204,226",
+      "carryoverAmount": 329973,
+      "carryover": "$329,973",
+      "wagertype": "Pick 5",
+      "track": "Del Mar",
+      "date": "Nov 30",
+      "ndate": 20251130
+    },
+    {
+      "carryoverAmount": 214854,
+      "carryover": "$214,854",
       "wagertype": "Super High Five Jackpot",
       "track": "Woodbine",
-      "date": "Nov 29",
-      "ndate": 20251129
+      "date": "Nov 30",
+      "ndate": 20251130
     },
     {
-      "carryoverAmount": 184136,
-      "carryover": "$184,136",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Gulfstream Park",
-      "date": "Nov 29",
-      "ndate": 20251129
-    },
-    {
-      "carryoverAmount": 52110,
-      "carryover": "$52,110",
-      "wagertype": "Pick 5",
-      "track": "Charles Town",
-      "date": "Nov 29",
-      "ndate": 20251129
-    },
-    {
-      "carryoverAmount": 38579,
-      "carryover": "$38,579",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Charles Town",
-      "date": "Nov 29",
-      "ndate": 20251129
-    },
-    {
-      "carryoverAmount": 31524,
-      "carryover": "$31,524",
-      "wagertype": "Pick 6",
-      "track": "Fair Grounds",
-      "date": "Nov 29",
-      "ndate": 20251129
-    },
-    {
-      "carryoverAmount": 20630,
-      "carryover": "$20,630",
+      "carryoverAmount": 79410,
+      "carryover": "$79,410",
       "wagertype": "Pick 6",
       "track": "Aqueduct",
-      "date": "Nov 29",
-      "ndate": 20251129
+      "date": "Nov 30",
+      "ndate": 20251130
     },
     {
-      "carryoverAmount": 16617,
-      "carryover": "$16,617",
+      "carryoverAmount": 47502,
+      "carryover": "$47,502",
+      "wagertype": "Pick 6",
+      "track": "Fair Grounds",
+      "date": "Dec 04",
+      "ndate": 20251204
+    },
+    {
+      "carryoverAmount": 45259,
+      "carryover": "$45,259",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Charles Town",
+      "date": "Dec 03",
+      "ndate": 20251203
+    },
+    {
+      "carryoverAmount": 17883,
+      "carryover": "$17,883",
       "wagertype": "Pick 6 Jackpot",
       "track": "Turf Paradise",
-      "date": "Nov 29",
-      "ndate": 20251129
+      "date": "Dec 01",
+      "ndate": 20251201
+    },
+    {
+      "carryoverAmount": 15925,
+      "carryover": "$15,925",
+      "wagertype": "Pick 5",
+      "track": "Fair Grounds",
+      "date": "Dec 04",
+      "ndate": 20251204
+    },
+    {
+      "carryoverAmount": 9997,
+      "carryover": "$9,997",
+      "wagertype": "Pick 6",
+      "track": "Los Alamitos",
+      "date": "Nov 30",
+      "ndate": 20251130
     },
     {
       "carryoverAmount": 5988,
@@ -73,6 +81,14 @@
       "ndate": 20251201
     },
     {
+      "carryoverAmount": 5925,
+      "carryover": "$5,925",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Woodbine",
+      "date": "Nov 30",
+      "ndate": 20251130
+    },
+    {
       "carryoverAmount": 3035,
       "carryover": "$3,035",
       "wagertype": "Pick 5 Jackpot",
@@ -81,36 +97,28 @@
       "ndate": 20251201
     },
     {
-      "carryoverAmount": 1092,
-      "carryover": "$1,092",
+      "carryoverAmount": 2040,
+      "carryover": "$2,040",
       "wagertype": "Pick 6 Jackpot",
       "track": "Tampa Bay",
-      "date": "Nov 29",
-      "ndate": 20251129
+      "date": "Dec 03",
+      "ndate": 20251203
     },
     {
-      "carryoverAmount": 940,
-      "carryover": "$940",
-      "wagertype": "Pick 5",
-      "track": "Zia Park",
-      "date": "Nov 29",
-      "ndate": 20251129
-    },
-    {
-      "carryoverAmount": 690,
-      "carryover": "$690",
-      "wagertype": "3x3",
-      "track": "Del Mar",
-      "date": "Nov 29",
-      "ndate": 20251129
-    },
-    {
-      "carryoverAmount": 356,
-      "carryover": "$356",
+      "carryoverAmount": 1048,
+      "carryover": "$1,048",
       "wagertype": "Pick 6 Jackpot",
       "track": "Laurel Park",
-      "date": "Nov 29",
-      "ndate": 20251129
+      "date": "Nov 30",
+      "ndate": 20251130
+    },
+    {
+      "carryoverAmount": 751,
+      "carryover": "$751",
+      "wagertype": "3x3",
+      "track": "Del Mar",
+      "date": "Nov 30",
+      "ndate": 20251130
     }
   ]
 }
