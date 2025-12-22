@@ -1,20 +1,12 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 318560,
-      "carryover": "$318,560",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Gulfstream Park",
-      "date": "Dec 21",
-      "ndate": 20251221
-    },
-    {
-      "carryoverAmount": 215922,
-      "carryover": "$215,922",
+      "carryoverAmount": 226238,
+      "carryover": "$226,238",
       "wagertype": "Pick 6 Jackpot",
       "track": "Turfway Park",
-      "date": "Dec 21",
-      "ndate": 20251221
+      "date": "Dec 26",
+      "ndate": 20251226
     },
     {
       "carryoverAmount": 176938,
@@ -41,20 +33,20 @@
       "ndate": 20251224
     },
     {
-      "carryoverAmount": 12583,
-      "carryover": "$12,583",
-      "wagertype": "Super High Five",
-      "track": "Turfway Park",
-      "date": "Dec 21",
-      "ndate": 20251221
+      "carryoverAmount": 10594,
+      "carryover": "$10,594",
+      "wagertype": "Classix",
+      "track": "Oaklawn Park",
+      "date": "Dec 26",
+      "ndate": 20251226
     },
     {
-      "carryoverAmount": 8981,
-      "carryover": "$8,981",
-      "wagertype": "Pick 6",
-      "track": "Los Alamitos",
-      "date": "Dec 21",
-      "ndate": 20251221
+      "carryoverAmount": 9512,
+      "carryover": "$9,512",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Dec 24",
+      "ndate": 20251224
     },
     {
       "carryoverAmount": 6019,
@@ -65,6 +57,14 @@
       "ndate": 20251222
     },
     {
+      "carryoverAmount": 3737,
+      "carryover": "$3,737",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Laurel Park",
+      "date": "Dec 26",
+      "ndate": 20251226
+    },
+    {
       "carryoverAmount": 2197,
       "carryover": "$2,197",
       "wagertype": "Pick 6 Jackpot",
@@ -73,12 +73,12 @@
       "ndate": 20251222
     },
     {
-      "carryoverAmount": 1823,
-      "carryover": "$1,823",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Laurel Park",
-      "date": "Dec 21",
-      "ndate": 20251221
+      "carryoverAmount": 1155,
+      "carryover": "$1,155",
+      "wagertype": "Pick 6",
+      "track": "Fair Grounds",
+      "date": "Dec 26",
+      "ndate": 20251226
     }
   ]
 }
