@@ -25,12 +25,20 @@
       "ndate": 20260101
     },
     {
-      "carryoverAmount": 6991,
-      "carryover": "$6,991",
-      "wagertype": "Pick 6",
-      "track": "Santa Anita",
-      "date": "Dec 29",
-      "ndate": 20251229
+      "carryoverAmount": 19222,
+      "carryover": "$19,222",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Parx Racing",
+      "date": "Dec 30",
+      "ndate": 20251230
+    },
+    {
+      "carryoverAmount": 8139,
+      "carryover": "$8,139",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Parx Racing",
+      "date": "Dec 30",
+      "ndate": 20251230
     },
     {
       "carryoverAmount": 5159,
@@ -53,8 +61,16 @@
       "carryover": "$1,657",
       "wagertype": "Pick 6 Jackpot",
       "track": "Mahoning Valley",
-      "date": "Dec 29",
-      "ndate": 20251229
+      "date": "Dec 30",
+      "ndate": 20251230
+    },
+    {
+      "carryoverAmount": 397,
+      "carryover": "$397",
+      "wagertype": "3x3",
+      "track": "Santa Anita",
+      "date": "Dec 31",
+      "ndate": 20251231
     }
   ]
 }
