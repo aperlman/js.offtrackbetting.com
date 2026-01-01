@@ -9,30 +9,6 @@
       "ndate": 20260101
     },
     {
-      "carryoverAmount": 63841,
-      "carryover": "$63,841",
-      "wagertype": "Pick 5",
-      "track": "Tampa Bay",
-      "date": "Dec 31",
-      "ndate": 20251231
-    },
-    {
-      "carryoverAmount": 48720,
-      "carryover": "$48,720",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Parx Racing",
-      "date": "Dec 31",
-      "ndate": 20251231
-    },
-    {
-      "carryoverAmount": 31960,
-      "carryover": "$31,960",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Parx Racing",
-      "date": "Dec 31",
-      "ndate": 20251231
-    },
-    {
       "carryoverAmount": 20776,
       "carryover": "$20,776",
       "wagertype": "Classix",
@@ -41,20 +17,20 @@
       "ndate": 20260101
     },
     {
-      "carryoverAmount": 6316,
-      "carryover": "$6,316",
+      "carryoverAmount": 13523,
+      "carryover": "$13,523",
       "wagertype": "Pick 6 Jackpot",
       "track": "Turf Paradise",
-      "date": "Dec 31",
-      "ndate": 20251231
+      "date": "Jan 01",
+      "ndate": 20260101
     },
     {
-      "carryoverAmount": 5159,
-      "carryover": "$5,159",
+      "carryoverAmount": 9879,
+      "carryover": "$9,879",
       "wagertype": "Pick 6 Jackpot",
       "track": "Tampa Bay",
-      "date": "Dec 31",
-      "ndate": 20251231
+      "date": "Jan 02",
+      "ndate": 20260102
     },
     {
       "carryoverAmount": 4624,
@@ -69,8 +45,8 @@
       "carryover": "$397",
       "wagertype": "3x3",
       "track": "Santa Anita",
-      "date": "Dec 31",
-      "ndate": 20251231
+      "date": "Jan 01",
+      "ndate": 20260101
     }
   ]
 }
