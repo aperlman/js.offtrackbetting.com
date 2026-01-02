@@ -1,28 +1,28 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 130527,
-      "carryover": "$130,527",
+      "carryoverAmount": 164143,
+      "carryover": "$164,143",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "Jan 01",
-      "ndate": 20260101
+      "date": "Jan 02",
+      "ndate": 20260102
     },
     {
-      "carryoverAmount": 20776,
-      "carryover": "$20,776",
-      "wagertype": "Classix",
-      "track": "Oaklawn Park",
-      "date": "Jan 01",
-      "ndate": 20260101
+      "carryoverAmount": 31833,
+      "carryover": "$31,833",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Turfway Park",
+      "date": "Jan 02",
+      "ndate": 20260102
     },
     {
-      "carryoverAmount": 13523,
-      "carryover": "$13,523",
+      "carryoverAmount": 18447,
+      "carryover": "$18,447",
       "wagertype": "Pick 6 Jackpot",
       "track": "Turf Paradise",
-      "date": "Jan 01",
-      "ndate": 20260101
+      "date": "Jan 05",
+      "ndate": 20260105
     },
     {
       "carryoverAmount": 9879,
@@ -33,20 +33,20 @@
       "ndate": 20260102
     },
     {
-      "carryoverAmount": 4624,
-      "carryover": "$4,624",
-      "wagertype": "Pick 6",
-      "track": "Fair Grounds",
-      "date": "Jan 01",
-      "ndate": 20260101
+      "carryoverAmount": 5932,
+      "carryover": "$5,932",
+      "wagertype": "Super High Five",
+      "track": "Turfway Park",
+      "date": "Jan 02",
+      "ndate": 20260102
     },
     {
       "carryoverAmount": 397,
       "carryover": "$397",
       "wagertype": "3x3",
       "track": "Santa Anita",
-      "date": "Jan 01",
-      "ndate": 20260101
+      "date": "Jan 02",
+      "ndate": 20260102
     }
   ]
 }
