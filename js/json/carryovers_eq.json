@@ -1,36 +1,36 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 82865,
-      "carryover": "$82,865",
+      "carryoverAmount": 104299,
+      "carryover": "$104,299",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Feb 17",
-      "ndate": 20260217
+      "date": "Feb 18",
+      "ndate": 20260218
     },
     {
-      "carryoverAmount": 74036,
-      "carryover": "$74,036",
+      "carryoverAmount": 91951,
+      "carryover": "$91,951",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Feb 17",
-      "ndate": 20260217
+      "date": "Feb 18",
+      "ndate": 20260218
+    },
+    {
+      "carryoverAmount": 69387,
+      "carryover": "$69,387",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Fair Grounds",
+      "date": "Feb 19",
+      "ndate": 20260219
     },
     {
       "carryoverAmount": 64308,
       "carryover": "$64,308",
-      "wagertype": "Pick 6",
+      "wagertype": "Sunset Six",
       "track": "Santa Anita",
       "date": "Feb 20",
       "ndate": 20260220
-    },
-    {
-      "carryoverAmount": 62299,
-      "carryover": "$62,299",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Fair Grounds",
-      "date": "Feb 17",
-      "ndate": 20260217
     },
     {
       "carryoverAmount": 47256,
@@ -73,12 +73,28 @@
       "ndate": 20260220
     },
     {
+      "carryoverAmount": 4019,
+      "carryover": "$4,019",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Turf Paradise",
+      "date": "Feb 18",
+      "ndate": 20260218
+    },
+    {
       "carryoverAmount": 3514,
       "carryover": "$3,514",
       "wagertype": "Pick 6 Jackpot",
       "track": "Laurel Park",
       "date": "Feb 20",
       "ndate": 20260220
+    },
+    {
+      "carryoverAmount": 3162,
+      "carryover": "$3,162",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Mahoning Valley",
+      "date": "Feb 18",
+      "ndate": 20260218
     },
     {
       "carryoverAmount": 1831,
@@ -89,12 +105,12 @@
       "ndate": 20260220
     },
     {
-      "carryoverAmount": 1383,
-      "carryover": "$1,383",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Mahoning Valley",
-      "date": "Feb 17",
-      "ndate": 20260217
+      "carryoverAmount": 592,
+      "carryover": "$592",
+      "wagertype": "Pick 5",
+      "track": "Louisiana Downs",
+      "date": "Feb 23",
+      "ndate": 20260223
     },
     {
       "carryoverAmount": 326,
@@ -103,14 +119,6 @@
       "track": "Sunland Park",
       "date": "Feb 20",
       "ndate": 20260220
-    },
-    {
-      "carryoverAmount": 164,
-      "carryover": "$164",
-      "wagertype": "Pick 5",
-      "track": "Louisiana Downs",
-      "date": "Feb 17",
-      "ndate": 20260217
     }
   ]
 }
