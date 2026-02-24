@@ -13,16 +13,16 @@
       "carryover": "$127,037",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Feb 23",
-      "ndate": 20260223
+      "date": "Feb 24",
+      "ndate": 20260224
     },
     {
       "carryoverAmount": 116095,
       "carryover": "$116,095",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Feb 23",
-      "ndate": 20260223
+      "date": "Feb 24",
+      "ndate": 20260224
     },
     {
       "carryoverAmount": 86435,
@@ -89,6 +89,14 @@
       "ndate": 20260226
     },
     {
+      "carryoverAmount": 12737,
+      "carryover": "$12,737",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Mahoning Valley",
+      "date": "Feb 24",
+      "ndate": 20260224
+    },
+    {
       "carryoverAmount": 7077,
       "carryover": "$7,077",
       "wagertype": "Pick 6 Jackpot",
@@ -97,28 +105,20 @@
       "ndate": 20260227
     },
     {
-      "carryoverAmount": 6598,
-      "carryover": "$6,598",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Mahoning Valley",
-      "date": "Feb 23",
-      "ndate": 20260223
-    },
-    {
-      "carryoverAmount": 4542,
-      "carryover": "$4,542",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Turf Paradise",
-      "date": "Feb 23",
-      "ndate": 20260223
-    },
-    {
       "carryoverAmount": 2078,
       "carryover": "$2,078",
       "wagertype": "3x3",
       "track": "Santa Anita",
       "date": "Feb 27",
       "ndate": 20260227
+    },
+    {
+      "carryoverAmount": 1552,
+      "carryover": "$1,552",
+      "wagertype": "Pick 5",
+      "track": "Louisiana Downs",
+      "date": "Feb 24",
+      "ndate": 20260224
     },
     {
       "carryoverAmount": 967,
@@ -135,14 +135,6 @@
       "track": "Sam Houston",
       "date": "Feb 27",
       "ndate": 20260227
-    },
-    {
-      "carryoverAmount": 592,
-      "carryover": "$592",
-      "wagertype": "Pick 5",
-      "track": "Louisiana Downs",
-      "date": "Feb 23",
-      "ndate": 20260223
     }
   ]
 }
