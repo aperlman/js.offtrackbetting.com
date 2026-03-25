@@ -1,12 +1,20 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 243828,
-      "carryover": "$243,828",
+      "carryoverAmount": 276356,
+      "carryover": "$276,356",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Mar 24",
-      "ndate": 20260324
+      "date": "Mar 25",
+      "ndate": 20260325
+    },
+    {
+      "carryoverAmount": 259797,
+      "carryover": "$259,797",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Parx Racing",
+      "date": "Mar 25",
+      "ndate": 20260325
     },
     {
       "carryoverAmount": 115638,
@@ -29,6 +37,14 @@
       "carryover": "$58,869",
       "wagertype": "Pick 6",
       "track": "Santa Anita",
+      "date": "Mar 27",
+      "ndate": 20260327
+    },
+    {
+      "carryoverAmount": 49456,
+      "carryover": "$49,456",
+      "wagertype": "Pick 5",
+      "track": "Fonner Park",
       "date": "Mar 27",
       "ndate": 20260327
     },
@@ -65,12 +81,12 @@
       "ndate": 20260327
     },
     {
-      "carryoverAmount": 12316,
-      "carryover": "$12,316",
+      "carryoverAmount": 17581,
+      "carryover": "$17,581",
       "wagertype": "Pick 6 Jackpot",
-      "track": "Mahoning Valley",
-      "date": "Mar 24",
-      "ndate": 20260324
+      "track": "Turf Paradise",
+      "date": "Mar 25",
+      "ndate": 20260325
     },
     {
       "carryoverAmount": 8493,
@@ -79,14 +95,6 @@
       "track": "Gulfstream Park",
       "date": "Mar 26",
       "ndate": 20260326
-    },
-    {
-      "carryoverAmount": 8180,
-      "carryover": "$8,180",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Turf Paradise",
-      "date": "Mar 24",
-      "ndate": 20260324
     },
     {
       "carryoverAmount": 6107,
