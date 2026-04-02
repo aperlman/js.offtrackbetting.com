@@ -1,12 +1,28 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 57655,
-      "carryover": "$57,655",
+      "carryoverAmount": 82238,
+      "carryover": "$82,238",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Apr 01",
-      "ndate": 20260401
+      "date": "Apr 06",
+      "ndate": 20260406
+    },
+    {
+      "carryoverAmount": 71170,
+      "carryover": "$71,170",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Turf Paradise",
+      "date": "Apr 02",
+      "ndate": 20260402
+    },
+    {
+      "carryoverAmount": 68987,
+      "carryover": "$68,987",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Parx Racing",
+      "date": "Apr 06",
+      "ndate": 20260406
     },
     {
       "carryoverAmount": 52483,
@@ -17,22 +33,6 @@
       "ndate": 20260402
     },
     {
-      "carryoverAmount": 51310,
-      "carryover": "$51,310",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Turf Paradise",
-      "date": "Apr 01",
-      "ndate": 20260401
-    },
-    {
-      "carryoverAmount": 40560,
-      "carryover": "$40,560",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Parx Racing",
-      "date": "Apr 01",
-      "ndate": 20260401
-    },
-    {
       "carryoverAmount": 30598,
       "carryover": "$30,598",
       "wagertype": "Sunset Six",
@@ -41,28 +41,20 @@
       "ndate": 20260402
     },
     {
-      "carryoverAmount": 11553,
-      "carryover": "$11,553",
+      "carryoverAmount": 14850,
+      "carryover": "$14,850",
       "wagertype": "Pick 6 Jackpot",
       "track": "Mahoning Valley",
-      "date": "Apr 01",
-      "ndate": 20260401
+      "date": "Apr 02",
+      "ndate": 20260402
     },
     {
-      "carryoverAmount": 9021,
-      "carryover": "$9,021",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Penn National",
-      "date": "Apr 01",
-      "ndate": 20260401
-    },
-    {
-      "carryoverAmount": 9020,
-      "carryover": "$9,020",
+      "carryoverAmount": 13745,
+      "carryover": "$13,745",
       "wagertype": "Pick 6 Jackpot",
       "track": "Tampa Bay",
-      "date": "Apr 01",
-      "ndate": 20260401
+      "date": "Apr 03",
+      "ndate": 20260403
     },
     {
       "carryoverAmount": 3276,
