@@ -1,20 +1,20 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 97983,
-      "carryover": "$97,983",
-      "wagertype": "Pick 6",
-      "track": "Santa Anita",
-      "date": "Apr 05",
-      "ndate": 20260405
-    },
-    {
       "carryoverAmount": 82238,
       "carryover": "$82,238",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
       "date": "Apr 06",
       "ndate": 20260406
+    },
+    {
+      "carryoverAmount": 80905,
+      "carryover": "$80,905",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Gulfstream Park",
+      "date": "Apr 09",
+      "ndate": 20260409
     },
     {
       "carryoverAmount": 79979,
@@ -33,36 +33,12 @@
       "ndate": 20260406
     },
     {
-      "carryoverAmount": 54824,
-      "carryover": "$54,824",
-      "wagertype": "Sunset Six",
-      "track": "Santa Anita",
-      "date": "Apr 05",
-      "ndate": 20260405
-    },
-    {
       "carryoverAmount": 50563,
       "carryover": "$50,563",
       "wagertype": "Pick 6",
       "track": "Aqueduct",
       "date": "Apr 09",
       "ndate": 20260409
-    },
-    {
-      "carryoverAmount": 43660,
-      "carryover": "$43,660",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Gulfstream Park",
-      "date": "Apr 05",
-      "ndate": 20260405
-    },
-    {
-      "carryoverAmount": 36477,
-      "carryover": "$36,477",
-      "wagertype": "Super High Five",
-      "track": "Santa Anita",
-      "date": "Apr 05",
-      "ndate": 20260405
     },
     {
       "carryoverAmount": 21531,
@@ -89,20 +65,20 @@
       "ndate": 20260409
     },
     {
+      "carryoverAmount": 13660,
+      "carryover": "$13,660",
+      "wagertype": "Super High Five",
+      "track": "Gulfstream Park",
+      "date": "Apr 09",
+      "ndate": 20260409
+    },
+    {
       "carryoverAmount": 11649,
       "carryover": "$11,649",
       "wagertype": "Classix",
       "track": "Oaklawn Park",
       "date": "Apr 09",
       "ndate": 20260409
-    },
-    {
-      "carryoverAmount": 3620,
-      "carryover": "$3,620",
-      "wagertype": "3x3",
-      "track": "Santa Anita",
-      "date": "Apr 05",
-      "ndate": 20260405
     },
     {
       "carryoverAmount": 3120,
@@ -119,22 +95,6 @@
       "track": "Laurel Park",
       "date": "Apr 10",
       "ndate": 20260410
-    },
-    {
-      "carryoverAmount": 513,
-      "carryover": "$513",
-      "wagertype": "Pick 5",
-      "track": "Sunland Park",
-      "date": "Apr 05",
-      "ndate": 20260405
-    },
-    {
-      "carryoverAmount": 356,
-      "carryover": "$356",
-      "wagertype": "Super High Five",
-      "track": "Sunland Park",
-      "date": "Apr 05",
-      "ndate": 20260405
     }
   ]
 }
