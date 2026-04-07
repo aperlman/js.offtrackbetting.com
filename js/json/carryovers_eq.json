@@ -1,12 +1,28 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 82238,
-      "carryover": "$82,238",
+      "carryoverAmount": 115116,
+      "carryover": "$115,116",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Apr 06",
-      "ndate": 20260406
+      "date": "Apr 07",
+      "ndate": 20260407
+    },
+    {
+      "carryoverAmount": 97977,
+      "carryover": "$97,977",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Turf Paradise",
+      "date": "Apr 07",
+      "ndate": 20260407
+    },
+    {
+      "carryoverAmount": 95740,
+      "carryover": "$95,740",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Parx Racing",
+      "date": "Apr 07",
+      "ndate": 20260407
     },
     {
       "carryoverAmount": 80905,
@@ -17,22 +33,6 @@
       "ndate": 20260409
     },
     {
-      "carryoverAmount": 79979,
-      "carryover": "$79,979",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Turf Paradise",
-      "date": "Apr 06",
-      "ndate": 20260406
-    },
-    {
-      "carryoverAmount": 68987,
-      "carryover": "$68,987",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Parx Racing",
-      "date": "Apr 06",
-      "ndate": 20260406
-    },
-    {
       "carryoverAmount": 50563,
       "carryover": "$50,563",
       "wagertype": "Pick 6",
@@ -41,12 +41,20 @@
       "ndate": 20260409
     },
     {
-      "carryoverAmount": 21531,
-      "carryover": "$21,531",
+      "carryoverAmount": 27382,
+      "carryover": "$27,382",
       "wagertype": "Pick 6 Jackpot",
       "track": "Mahoning Valley",
-      "date": "Apr 06",
-      "ndate": 20260406
+      "date": "Apr 07",
+      "ndate": 20260407
+    },
+    {
+      "carryoverAmount": 19187,
+      "carryover": "$19,187",
+      "wagertype": "Pick 5",
+      "track": "Mahoning Valley",
+      "date": "Apr 07",
+      "ndate": 20260407
     },
     {
       "carryoverAmount": 17798,
