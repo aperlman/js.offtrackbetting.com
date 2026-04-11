@@ -1,6 +1,14 @@
 {
   "carryovers": [
     {
+      "carryoverAmount": 154006,
+      "carryover": "$154,006",
+      "wagertype": "Pick 6",
+      "track": "Keeneland",
+      "date": "Apr 11",
+      "ndate": 20260411
+    },
+    {
       "carryoverAmount": 142996,
       "carryover": "$142,996",
       "wagertype": "Pick 6 Jackpot",
@@ -17,68 +25,20 @@
       "ndate": 20260413
     },
     {
-      "carryoverAmount": 138226,
-      "carryover": "$138,226",
-      "wagertype": "Pick 6",
-      "track": "Aqueduct",
-      "date": "Apr 10",
-      "ndate": 20260410
-    },
-    {
-      "carryoverAmount": 90315,
-      "carryover": "$90,315",
+      "carryoverAmount": 104829,
+      "carryover": "$104,829",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "Apr 10",
-      "ndate": 20260410
+      "date": "Apr 11",
+      "ndate": 20260411
     },
     {
-      "carryoverAmount": 40008,
-      "carryover": "$40,008",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Mahoning Valley",
-      "date": "Apr 10",
-      "ndate": 20260410
-    },
-    {
-      "carryoverAmount": 25792,
-      "carryover": "$25,792",
-      "wagertype": "Pick 6",
-      "track": "Keeneland",
-      "date": "Apr 10",
-      "ndate": 20260410
-    },
-    {
-      "carryoverAmount": 20610,
-      "carryover": "$20,610",
+      "carryoverAmount": 22606,
+      "carryover": "$22,606",
       "wagertype": "Pick 6 Jackpot",
       "track": "Tampa Bay",
-      "date": "Apr 10",
-      "ndate": 20260410
-    },
-    {
-      "carryoverAmount": 19035,
-      "carryover": "$19,035",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Charles Town",
-      "date": "Apr 10",
-      "ndate": 20260410
-    },
-    {
-      "carryoverAmount": 18499,
-      "carryover": "$18,499",
-      "wagertype": "Classix",
-      "track": "Oaklawn Park",
-      "date": "Apr 10",
-      "ndate": 20260410
-    },
-    {
-      "carryoverAmount": 15975,
-      "carryover": "$15,975",
-      "wagertype": "Super High Five",
-      "track": "Keeneland",
-      "date": "Apr 10",
-      "ndate": 20260410
+      "date": "Apr 11",
+      "ndate": 20260411
     },
     {
       "carryoverAmount": 14702,
@@ -89,12 +49,12 @@
       "ndate": 20260411
     },
     {
-      "carryoverAmount": 5404,
-      "carryover": "$5,404",
+      "carryoverAmount": 7861,
+      "carryover": "$7,861",
       "wagertype": "Pick 5 Jackpot",
       "track": "Fonner Park",
-      "date": "Apr 10",
-      "ndate": 20260410
+      "date": "Apr 11",
+      "ndate": 20260411
     },
     {
       "carryoverAmount": 5048,
@@ -105,28 +65,20 @@
       "ndate": 20260414
     },
     {
-      "carryoverAmount": 3750,
-      "carryover": "$3,750",
+      "carryoverAmount": 4422,
+      "carryover": "$4,422",
       "wagertype": "Pick 6 Jackpot",
       "track": "Evangeline",
-      "date": "Apr 10",
-      "ndate": 20260410
+      "date": "Apr 11",
+      "ndate": 20260411
     },
     {
-      "carryoverAmount": 2903,
-      "carryover": "$2,903",
+      "carryoverAmount": 3864,
+      "carryover": "$3,864",
       "wagertype": "Pick 6 Jackpot",
       "track": "Laurel Park",
-      "date": "Apr 10",
-      "ndate": 20260410
-    },
-    {
-      "carryoverAmount": 2068,
-      "carryover": "$2,068",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Penn National",
-      "date": "Apr 10",
-      "ndate": 20260410
+      "date": "Apr 11",
+      "ndate": 20260411
     }
   ]
 }
