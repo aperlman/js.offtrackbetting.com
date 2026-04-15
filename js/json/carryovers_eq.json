@@ -1,28 +1,20 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 176508,
-      "carryover": "$176,508",
+      "carryoverAmount": 199817,
+      "carryover": "$199,817",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Apr 14",
-      "ndate": 20260414
+      "date": "Apr 15",
+      "ndate": 20260415
     },
     {
-      "carryoverAmount": 162247,
-      "carryover": "$162,247",
+      "carryoverAmount": 180837,
+      "carryover": "$180,837",
       "wagertype": "Pick 6 Jackpot",
       "track": "Turf Paradise",
-      "date": "Apr 14",
-      "ndate": 20260414
-    },
-    {
-      "carryoverAmount": 158372,
-      "carryover": "$158,372",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Parx Racing",
-      "date": "Apr 14",
-      "ndate": 20260414
+      "date": "Apr 15",
+      "ndate": 20260415
     },
     {
       "carryoverAmount": 152833,
@@ -49,14 +41,6 @@
       "ndate": 20260417
     },
     {
-      "carryoverAmount": 5048,
-      "carryover": "$5,048",
-      "wagertype": "Super High Five",
-      "track": "Horseshoe",
-      "date": "Apr 14",
-      "ndate": 20260414
-    },
-    {
       "carryoverAmount": 4922,
       "carryover": "$4,922",
       "wagertype": "Pick 6 Jackpot",
@@ -71,6 +55,14 @@
       "track": "Charles Town",
       "date": "Apr 16",
       "ndate": 20260416
+    },
+    {
+      "carryoverAmount": 3194,
+      "carryover": "$3,194",
+      "wagertype": "Super High Five",
+      "track": "Horseshoe",
+      "date": "Apr 15",
+      "ndate": 20260415
     }
   ]
 }
