@@ -41,6 +41,14 @@
       "ndate": 20260427
     },
     {
+      "carryoverAmount": 21145,
+      "carryover": "$21,145",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Charles Town",
+      "date": "Apr 25",
+      "ndate": 20260425
+    },
+    {
       "carryoverAmount": 12100,
       "carryover": "$12,100",
       "wagertype": "Pick 6",
@@ -61,6 +69,14 @@
       "carryover": "$5,905",
       "wagertype": "Pick 6 Jackpot",
       "track": "Laurel Park",
+      "date": "Apr 25",
+      "ndate": 20260425
+    },
+    {
+      "carryoverAmount": 4681,
+      "carryover": "$4,681",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Sam Houston",
       "date": "Apr 25",
       "ndate": 20260425
     },
@@ -89,10 +105,34 @@
       "ndate": 20260425
     },
     {
+      "carryoverAmount": 2497,
+      "carryover": "$2,497",
+      "wagertype": "Super High Five",
+      "track": "Lone Star",
+      "date": "Apr 25",
+      "ndate": 20260425
+    },
+    {
       "carryoverAmount": 2462,
       "carryover": "$2,462",
       "wagertype": "Sunset Six",
       "track": "Santa Anita",
+      "date": "Apr 25",
+      "ndate": 20260425
+    },
+    {
+      "carryoverAmount": 826,
+      "carryover": "$826",
+      "wagertype": "Pick 6",
+      "track": "Sam Houston",
+      "date": "Apr 25",
+      "ndate": 20260425
+    },
+    {
+      "carryoverAmount": 281,
+      "carryover": "$281",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Evangeline",
       "date": "Apr 25",
       "ndate": 20260425
     }
