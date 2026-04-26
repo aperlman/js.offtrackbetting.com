@@ -13,7 +13,9 @@ function ConvertTime(date, timeStr) {
   const timeParts = timeStr.split(/:| /).map(
     (part, idx) => (idx < 2) ? parseInt(part) : part);
   const ampm = timeParts.pop();
-  timeParts[0] += (ampm == "PM") ? 12 : 0;
+  timeParts[0] = (ampm === "PM" && timeParts[0] !== 12) 
+    ? timeParts[0] + 12 
+    : (ampm === "AM" && timeParts[0] === 12) ? 0 : timeParts[0];
 
   const dateParts = date.split('-').map((d) => parseInt(d));
   dateParts[1] -= 1;
@@ -25,10 +27,16 @@ function ConvertTime(date, timeStr) {
 }
 
 function DisplayLocalTime(date, cell) {
-  current_value = cell.innerHTML;
-  return (original) => cell.innerHTML = (original) ? current_value : 
-    ConvertTime(date, current_value); 
-}
+  const originalValue = cell.innerHTML;
+
+  return function (showOriginal) {
+    if (showOriginal) {
+      cell.innerHTML = originalValue;
+    } else {
+      cell.innerHTML = ConvertTime(date, originalValue);
+    }
+  };
+} 
 
 function ThisDaysSchedule(date, scheduleData) {
   return scheduleData.sort((a, b) => {
