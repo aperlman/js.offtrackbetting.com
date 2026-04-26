@@ -117,7 +117,8 @@ function PopulateDates(raceDay, initialize) {
       if (typeof todaysRaces === "undefined" || !("tracks" in todaysRaces)) {
         // previous AJAX call did not complete -- try again
         $.getJSON({
-          url: 'https://ojlbo7v5hb.execute-api.us-west-2.amazonaws.com/current_races/v2',
+          //url: 'https://ojlbo7v5hb.execute-api.us-west-2.amazonaws.com/current_races/v2',
+          url: '/api/current_races/v2',
           crossDomain: true
         })
           .done((data) => {
@@ -375,7 +376,8 @@ function Race(track) {
     const dateStr = (dateObj(eventNo, track)
     .toISOString("en-US", {timeZone: "America/New_York"})
     .replace(/T.*/g,""));
-    const postYear = dateStr.match(/^\d{4}/);
+
+    const postYear = parseInt(dateStr.match(/^\d{4}/)[0]);
 
     const programDate = track.businessDate
     .replace(/(\d{4})(\d{2})(\d{2})/g, '$1-$2-$3');

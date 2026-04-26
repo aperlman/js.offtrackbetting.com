@@ -1,7 +1,7 @@
 /* 
 Version: 2
 
-Minimize should always be used in production. Generate race.min.js using the
+Minimize should always be used in production. Generate today.min.js using the
 following:
 
 terser today.js | sed -r 's/\\n\s+/ /g;' > today.min.js
@@ -17,7 +17,8 @@ function PopulateTodaysRaces() {
   // [todaysRaces] global variable -- populated when OTB Schedule loads
   if (typeof todaysRaces === "undefined" || !("tracks" in todaysRaces)) {
     $.getJSON({
-      url: 'https://ojlbo7v5hb.execute-api.us-west-2.amazonaws.com/current_races/v2',
+      //url: 'https://ojlbo7v5hb.execute-api.us-west-2.amazonaws.com/current_races/v2',
+      url: '/api/current_races/v2',
       crossDomain: true
     })
       .done((data) => {
