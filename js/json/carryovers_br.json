@@ -1,3 +1,84 @@
 {
-  "carryovers": [ ]
+  "carryovers": [
+    {
+      "carryoverAmount": 140159,
+      "carryover": "$140,159",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Thistledown",
+      "date": "Jun 09",
+      "ndate": 20260609
+    },
+    {
+      "carryoverAmount": 24132,
+      "carryover": "$24,132",
+      "wagertype": "Z-5 Super Hi-5",
+      "track": "Churchill Downs",
+      "date": "Jun 10",
+      "ndate": 20260610
+    },
+    {
+      "carryoverAmount": 12911,
+      "carryover": "$12,911",
+      "wagertype": "Pick 5",
+      "track": "Horseshoe Indianapolis",
+      "date": "Jun 09",
+      "ndate": 20260609
+    },
+    {
+      "carryoverAmount": 11438,
+      "carryover": "$11,438",
+      "wagertype": "Z-5 Super Hi-5",
+      "track": "Churchill Downs",
+      "date": "Jun 10",
+      "ndate": 20260610
+    },
+    {
+      "carryoverAmount": 7618,
+      "carryover": "$7,618",
+      "wagertype": "Z-5 Super Hi-5",
+      "track": "Laurel Park",
+      "date": "Jun 12",
+      "ndate": 20260612
+    },
+    {
+      "carryoverAmount": 3646,
+      "carryover": "$3,646",
+      "wagertype": "Z-5 Super Hi-5",
+      "track": "Churchill Downs",
+      "date": "Jun 10",
+      "ndate": 20260610
+    },
+    {
+      "carryoverAmount": 3054,
+      "carryover": "$3,054",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Laurel Park",
+      "date": "Jun 12",
+      "ndate": 20260612
+    },
+    {
+      "carryoverAmount": 1888,
+      "carryover": "$1,888",
+      "wagertype": "Super High Five",
+      "track": "Horseshoe Indianapolis",
+      "date": "Jun 09",
+      "ndate": 20260609
+    },
+    {
+      "carryoverAmount": 494,
+      "carryover": "$494",
+      "wagertype": "Z-5 Super Hi-5",
+      "track": "Sam Houston Race Park",
+      "date": "Jun 11",
+      "ndate": 20260611
+    },
+    {
+      "carryoverAmount": 276,
+      "carryover": "$276",
+      "wagertype": "Super High Five",
+      "track": "Belterra Park",
+      "date": "Jun 10",
+      "ndate": 20260610
+    }
+  ]
 }
