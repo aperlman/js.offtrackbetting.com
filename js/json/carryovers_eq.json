@@ -1,28 +1,28 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 148531,
-      "carryover": "$148,531",
+      "carryoverAmount": 153994,
+      "carryover": "$153,994",
       "wagertype": "Pick 6 Jackpot",
       "track": "Thistledown",
-      "date": "Jun 10",
-      "ndate": 20260610
+      "date": "Jun 11",
+      "ndate": 20260611
     },
     {
-      "carryoverAmount": 141774,
-      "carryover": "$141,774",
+      "carryoverAmount": 146549,
+      "carryover": "$146,549",
       "wagertype": "Octafecta Jackpot",
       "track": "Churchill Downs",
-      "date": "Jun 10",
-      "ndate": 20260610
+      "date": "Jun 11",
+      "ndate": 20260611
     },
     {
-      "carryoverAmount": 105387,
-      "carryover": "$105,387",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Assiniboia",
-      "date": "Jun 10",
-      "ndate": 20260610
+      "carryoverAmount": 36044,
+      "carryover": "$36,044",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Churchill Downs",
+      "date": "Jun 11",
+      "ndate": 20260611
     },
     {
       "carryoverAmount": 32594,
@@ -31,14 +31,6 @@
       "track": "Gulfstream Park",
       "date": "Jun 12",
       "ndate": 20260612
-    },
-    {
-      "carryoverAmount": 30235,
-      "carryover": "$30,235",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Churchill Downs",
-      "date": "Jun 10",
-      "ndate": 20260610
     },
     {
       "carryoverAmount": 24496,
@@ -57,20 +49,12 @@
       "ndate": 20260611
     },
     {
-      "carryoverAmount": 11618,
-      "carryover": "$11,618",
+      "carryoverAmount": 17774,
+      "carryover": "$17,774",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Jun 10",
-      "ndate": 20260610
-    },
-    {
-      "carryoverAmount": 8018,
-      "carryover": "$8,018",
-      "wagertype": "Super High Five",
-      "track": "Churchill Downs",
-      "date": "Jun 10",
-      "ndate": 20260610
+      "date": "Jun 15",
+      "ndate": 20260615
     },
     {
       "carryoverAmount": 7901,
@@ -89,12 +73,12 @@
       "ndate": 20260611
     },
     {
-      "carryoverAmount": 6614,
-      "carryover": "$6,614",
+      "carryoverAmount": 7074,
+      "carryover": "$7,074",
       "wagertype": "Super High Five Jackpot",
       "track": "Penn National",
-      "date": "Jun 10",
-      "ndate": 20260610
+      "date": "Jun 11",
+      "ndate": 20260611
     },
     {
       "carryoverAmount": 5301,
@@ -105,10 +89,26 @@
       "ndate": 20260611
     },
     {
+      "carryoverAmount": 4998,
+      "carryover": "$4,998",
+      "wagertype": "Super High Five",
+      "track": "Churchill Downs",
+      "date": "Jun 11",
+      "ndate": 20260611
+    },
+    {
       "carryoverAmount": 4874,
       "carryover": "$4,874",
       "wagertype": "Pick 6 Jackpot",
       "track": "Woodbine",
+      "date": "Jun 11",
+      "ndate": 20260611
+    },
+    {
+      "carryoverAmount": 4610,
+      "carryover": "$4,610",
+      "wagertype": "Super High Five",
+      "track": "Horseshoe",
       "date": "Jun 11",
       "ndate": 20260611
     },
@@ -127,6 +127,14 @@
       "track": "Laurel Park",
       "date": "Jun 12",
       "ndate": 20260612
+    },
+    {
+      "carryoverAmount": 2011,
+      "carryover": "$2,011",
+      "wagertype": "Pick 5",
+      "track": "Presque Isle",
+      "date": "Jun 15",
+      "ndate": 20260615
     },
     {
       "carryoverAmount": 1809,
@@ -169,12 +177,12 @@
       "ndate": 20260611
     },
     {
-      "carryoverAmount": 276,
-      "carryover": "$276",
+      "carryoverAmount": 796,
+      "carryover": "$796",
       "wagertype": "Super High Five",
       "track": "Belterra Park",
-      "date": "Jun 10",
-      "ndate": 20260610
+      "date": "Jun 11",
+      "ndate": 20260611
     },
     {
       "carryoverAmount": 233,
