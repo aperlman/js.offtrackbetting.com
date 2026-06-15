@@ -1,12 +1,12 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 164832,
-      "carryover": "$164,832",
+      "carryoverAmount": 169156,
+      "carryover": "$169,156",
       "wagertype": "Octafecta Jackpot",
       "track": "Churchill Downs",
-      "date": "Jun 14",
-      "ndate": 20260614
+      "date": "Jun 17",
+      "ndate": 20260617
     },
     {
       "carryoverAmount": 161374,
@@ -25,36 +25,20 @@
       "ndate": 20260616
     },
     {
-      "carryoverAmount": 64110,
-      "carryover": "$64,110",
+      "carryoverAmount": 70777,
+      "carryover": "$70,777",
       "wagertype": "Pick 6 Jackpot",
       "track": "Churchill Downs",
-      "date": "Jun 14",
-      "ndate": 20260614
+      "date": "Jun 17",
+      "ndate": 20260617
     },
     {
-      "carryoverAmount": 56154,
-      "carryover": "$56,154",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Gulfstream Park",
-      "date": "Jun 14",
-      "ndate": 20260614
-    },
-    {
-      "carryoverAmount": 38706,
-      "carryover": "$38,706",
-      "wagertype": "Pick 6",
-      "track": "Belmont At The",
-      "date": "Jun 14",
-      "ndate": 20260614
-    },
-    {
-      "carryoverAmount": 33233,
-      "carryover": "$33,233",
+      "carryoverAmount": 37241,
+      "carryover": "$37,241",
       "wagertype": "Pick 5 Jackpot",
       "track": "Prairie Meadows",
-      "date": "Jun 14",
-      "ndate": 20260614
+      "date": "Jun 15",
+      "ndate": 20260615
     },
     {
       "carryoverAmount": 17774,
@@ -73,14 +57,6 @@
       "ndate": 20260617
     },
     {
-      "carryoverAmount": 10378,
-      "carryover": "$10,378",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Monmouth Park",
-      "date": "Jun 14",
-      "ndate": 20260614
-    },
-    {
       "carryoverAmount": 7834,
       "carryover": "$7,834",
       "wagertype": "Pick 6 Jackpot",
@@ -89,36 +65,12 @@
       "ndate": 20260618
     },
     {
-      "carryoverAmount": 6978,
-      "carryover": "$6,978",
+      "carryoverAmount": 7058,
+      "carryover": "$7,058",
       "wagertype": "Super High Five Jackpot",
-      "track": "Prairie Meadows",
-      "date": "Jun 14",
-      "ndate": 20260614
-    },
-    {
-      "carryoverAmount": 5406,
-      "carryover": "$5,406",
-      "wagertype": "3x3",
-      "track": "Santa Anita",
-      "date": "Jun 14",
-      "ndate": 20260614
-    },
-    {
-      "carryoverAmount": 4245,
-      "carryover": "$4,245",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Emerald Downs",
-      "date": "Jun 14",
-      "ndate": 20260614
-    },
-    {
-      "carryoverAmount": 3361,
-      "carryover": "$3,361",
-      "wagertype": "Pick 6 Jackpot",
       "track": "Woodbine",
-      "date": "Jun 14",
-      "ndate": 20260614
+      "date": "Jun 18",
+      "ndate": 20260618
     },
     {
       "carryoverAmount": 2352,
@@ -137,28 +89,44 @@
       "ndate": 20260615
     },
     {
-      "carryoverAmount": 1724,
-      "carryover": "$1,724",
-      "wagertype": "Pick 5",
-      "track": "Hawthorne",
-      "date": "Jun 14",
-      "ndate": 20260614
+      "carryoverAmount": 795,
+      "carryover": "$795",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Laurel Park",
+      "date": "Jun 19",
+      "ndate": 20260619
     },
     {
-      "carryoverAmount": 1361,
-      "carryover": "$1,361",
-      "wagertype": "Pick 5",
-      "track": "Legacy Downs",
-      "date": "Jun 14",
-      "ndate": 20260614
-    },
-    {
-      "carryoverAmount": 314,
-      "carryover": "$314",
+      "carryoverAmount": 537,
+      "carryover": "$537",
       "wagertype": "Pick 6",
       "track": "Hawthorne",
-      "date": "Jun 14",
-      "ndate": 20260614
+      "date": "Jun 18",
+      "ndate": 20260618
+    },
+    {
+      "carryoverAmount": 501,
+      "carryover": "$501",
+      "wagertype": "Super High Five",
+      "track": "Emerald Downs",
+      "date": "Jun 19",
+      "ndate": 20260619
+    },
+    {
+      "carryoverAmount": 265,
+      "carryover": "$265",
+      "wagertype": "Pick 5",
+      "track": "Lone Star",
+      "date": "Jun 19",
+      "ndate": 20260619
+    },
+    {
+      "carryoverAmount": 265,
+      "carryover": "$265",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Lone Star",
+      "date": "Jun 19",
+      "ndate": 20260619
     }
   ]
 }
