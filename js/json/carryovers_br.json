@@ -1,28 +1,20 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 4982,
-      "carryover": "$4,982",
-      "wagertype": "Z-5 Super Hi-5",
-      "track": "Churchill Downs",
-      "date": "Jun 20",
-      "ndate": 20260620
+      "carryoverAmount": 35742,
+      "carryover": "$35,742",
+      "wagertype": "Pick 4",
+      "track": "Monmouth Park",
+      "date": "Jun 21",
+      "ndate": 20260621
     },
     {
-      "carryoverAmount": 1260,
-      "carryover": "$1,260",
-      "wagertype": "Z-5 Super Hi-5",
-      "track": "Churchill Downs",
-      "date": "Jun 20",
-      "ndate": 20260620
-    },
-    {
-      "carryoverAmount": 1054,
-      "carryover": "$1,054",
+      "carryoverAmount": 1646,
+      "carryover": "$1,646",
       "wagertype": "Z-5 Super Hi-5",
       "track": "Laurel Park",
-      "date": "Jun 20",
-      "ndate": 20260620
+      "date": "Jun 21",
+      "ndate": 20260621
     }
   ]
 }
