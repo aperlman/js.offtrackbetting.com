@@ -1,12 +1,20 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 21844,
-      "carryover": "$21,844",
+      "carryoverAmount": 1487,
+      "carryover": "$1,487",
       "wagertype": "Z-5 Super Hi-5",
       "track": "Churchill Downs",
-      "date": "Jun 24",
-      "ndate": 20260624
+      "date": "Jun 25",
+      "ndate": 20260625
+    },
+    {
+      "carryoverAmount": 1299,
+      "carryover": "$1,299",
+      "wagertype": "Z-5 Super Hi-5",
+      "track": "Churchill Downs",
+      "date": "Jun 25",
+      "ndate": 20260625
     }
   ]
 }
