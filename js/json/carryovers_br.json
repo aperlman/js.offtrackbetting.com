@@ -1,6 +1,14 @@
 {
   "carryovers": [
     {
+      "carryoverAmount": 263857,
+      "carryover": "$263,857",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Assiniboia Downs",
+      "date": "Jul 01",
+      "ndate": 20260701
+    },
+    {
       "carryoverAmount": 103355,
       "carryover": "$103,355",
       "wagertype": "Pick 5 Jackpot",
@@ -9,12 +17,12 @@
       "ndate": 20260703
     },
     {
-      "carryoverAmount": 76956,
-      "carryover": "$76,956",
+      "carryoverAmount": 88072,
+      "carryover": "$88,072",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Jun 30",
-      "ndate": 20260630
+      "date": "Jul 01",
+      "ndate": 20260701
     },
     {
       "carryoverAmount": 12976,
@@ -25,28 +33,12 @@
       "ndate": 20260703
     },
     {
-      "carryoverAmount": 8949,
-      "carryover": "$8,949",
+      "carryoverAmount": 11446,
+      "carryover": "$11,446",
       "wagertype": "Pick 6 Jackpot",
       "track": "Thistledown",
-      "date": "Jun 30",
-      "ndate": 20260630
-    },
-    {
-      "carryoverAmount": 1504,
-      "carryover": "$1,504",
-      "wagertype": "Jackpot High-5",
-      "track": "Fort Erie",
-      "date": "Jun 30",
-      "ndate": 20260630
-    },
-    {
-      "carryoverAmount": 1137,
-      "carryover": "$1,137",
-      "wagertype": "Super High Five",
-      "track": "Mountaineer Casino Racetrack",
-      "date": "Jun 30",
-      "ndate": 20260630
+      "date": "Jul 01",
+      "ndate": 20260701
     }
   ]
 }
