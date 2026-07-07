@@ -1,20 +1,28 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 130977,
-      "carryover": "$130,977",
+      "carryoverAmount": 143730,
+      "carryover": "$143,730",
       "wagertype": "Pick 5 Jackpot",
       "track": "Prairie Meadows",
-      "date": "Jul 06",
-      "ndate": 20260706
+      "date": "Jul 10",
+      "ndate": 20260710
     },
     {
-      "carryoverAmount": 68425,
-      "carryover": "$68,425",
+      "carryoverAmount": 107244,
+      "carryover": "$107,244",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Parx Racing",
+      "date": "Jul 07",
+      "ndate": 20260707
+    },
+    {
+      "carryoverAmount": 76475,
+      "carryover": "$76,475",
       "wagertype": "Jackpot High-5",
       "track": "Woodbine",
-      "date": "Jul 06",
-      "ndate": 20260706
+      "date": "Jul 09",
+      "ndate": 20260709
     },
     {
       "carryoverAmount": 52189,
@@ -33,12 +41,12 @@
       "ndate": 20260710
     },
     {
-      "carryoverAmount": 17138,
-      "carryover": "$17,138",
+      "carryoverAmount": 19754,
+      "carryover": "$19,754",
       "wagertype": "Pick 6 Jackpot",
       "track": "Thistledown",
-      "date": "Jul 06",
-      "ndate": 20260706
+      "date": "Jul 07",
+      "ndate": 20260707
     },
     {
       "carryoverAmount": 14269,
@@ -57,12 +65,28 @@
       "ndate": 20260708
     },
     {
-      "carryoverAmount": 5033,
-      "carryover": "$5,033",
+      "carryoverAmount": 7331,
+      "carryover": "$7,331",
       "wagertype": "Pick 6 Jackpot",
       "track": "Ellis Park",
-      "date": "Jul 06",
-      "ndate": 20260706
+      "date": "Jul 09",
+      "ndate": 20260709
+    },
+    {
+      "carryoverAmount": 5089,
+      "carryover": "$5,089",
+      "wagertype": "Jackpot High-5",
+      "track": "Fort Erie",
+      "date": "Jul 07",
+      "ndate": 20260707
+    },
+    {
+      "carryoverAmount": 4904,
+      "carryover": "$4,904",
+      "wagertype": "Jackpot High-5",
+      "track": "Prairie Meadows",
+      "date": "Jul 10",
+      "ndate": 20260710
     },
     {
       "carryoverAmount": 4852,
@@ -81,12 +105,28 @@
       "ndate": 20260709
     },
     {
-      "carryoverAmount": 2629,
-      "carryover": "$2,629",
-      "wagertype": "Jackpot High-5",
-      "track": "Prairie Meadows",
-      "date": "Jul 06",
-      "ndate": 20260706
+      "carryoverAmount": 3115,
+      "carryover": "$3,115",
+      "wagertype": "Z-5 Super Hi-5",
+      "track": "Ellis Park",
+      "date": "Jul 09",
+      "ndate": 20260709
+    },
+    {
+      "carryoverAmount": 2562,
+      "carryover": "$2,562",
+      "wagertype": "Pick 6",
+      "track": "Colonial Downs",
+      "date": "Jul 09",
+      "ndate": 20260709
+    },
+    {
+      "carryoverAmount": 2080,
+      "carryover": "$2,080",
+      "wagertype": "Pick 5",
+      "track": "Presque Isle Downs",
+      "date": "Jul 07",
+      "ndate": 20260707
     },
     {
       "carryoverAmount": 1735,
@@ -97,12 +137,28 @@
       "ndate": 20260707
     },
     {
-      "carryoverAmount": 1201,
-      "carryover": "$1,201",
+      "carryoverAmount": 1678,
+      "carryover": "$1,678",
       "wagertype": "Z-5 Super Hi-5",
       "track": "Ellis Park",
-      "date": "Jul 06",
-      "ndate": 20260706
+      "date": "Jul 09",
+      "ndate": 20260709
+    },
+    {
+      "carryoverAmount": 1116,
+      "carryover": "$1,116",
+      "wagertype": "Super High Five",
+      "track": "Ellis Park",
+      "date": "Jul 09",
+      "ndate": 20260709
+    },
+    {
+      "carryoverAmount": 872,
+      "carryover": "$872",
+      "wagertype": "Z-5 Super Hi-5",
+      "track": "Ellis Park",
+      "date": "Jul 09",
+      "ndate": 20260709
     },
     {
       "carryoverAmount": 828,
@@ -119,6 +175,22 @@
       "track": "Lone Star Park",
       "date": "Jul 10",
       "ndate": 20260710
+    },
+    {
+      "carryoverAmount": 363,
+      "carryover": "$363",
+      "wagertype": "Super High Five",
+      "track": "Thistledown",
+      "date": "Jul 07",
+      "ndate": 20260707
+    },
+    {
+      "carryoverAmount": 351,
+      "carryover": "$351",
+      "wagertype": "Z-5 Super Hi-5",
+      "track": "Ellis Park",
+      "date": "Jul 09",
+      "ndate": 20260709
     }
   ]
 }
