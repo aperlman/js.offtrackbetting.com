@@ -1,12 +1,12 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 290737,
-      "carryover": "$290,737",
+      "carryoverAmount": 316395,
+      "carryover": "$316,395",
       "wagertype": "Pick 5 Jackpot",
       "track": "Assiniboia",
-      "date": "Jul 07",
-      "ndate": 20260707
+      "date": "Jul 08",
+      "ndate": 20260708
     },
     {
       "carryoverAmount": 265338,
@@ -25,12 +25,12 @@
       "ndate": 20260710
     },
     {
-      "carryoverAmount": 107244,
-      "carryover": "$107,244",
+      "carryoverAmount": 118588,
+      "carryover": "$118,588",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Jul 07",
-      "ndate": 20260707
+      "date": "Jul 08",
+      "ndate": 20260708
     },
     {
       "carryoverAmount": 76475,
@@ -57,12 +57,12 @@
       "ndate": 20260710
     },
     {
-      "carryoverAmount": 19754,
-      "carryover": "$19,754",
+      "carryoverAmount": 22601,
+      "carryover": "$22,601",
       "wagertype": "Pick 6 Jackpot",
       "track": "Thistledown",
-      "date": "Jul 07",
-      "ndate": 20260707
+      "date": "Jul 08",
+      "ndate": 20260708
     },
     {
       "carryoverAmount": 14269,
@@ -81,12 +81,12 @@
       "ndate": 20260708
     },
     {
-      "carryoverAmount": 8230,
-      "carryover": "$8,230",
+      "carryoverAmount": 7844,
+      "carryover": "$7,844",
       "wagertype": "Super High Five",
-      "track": "Assiniboia",
-      "date": "Jul 07",
-      "ndate": 20260707
+      "track": "Horseshoe",
+      "date": "Jul 08",
+      "ndate": 20260708
     },
     {
       "carryoverAmount": 7331,
@@ -95,14 +95,6 @@
       "track": "Ellis Park",
       "date": "Jul 09",
       "ndate": 20260709
-    },
-    {
-      "carryoverAmount": 5089,
-      "carryover": "$5,089",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Fort Erie",
-      "date": "Jul 07",
-      "ndate": 20260707
     },
     {
       "carryoverAmount": 4904,
@@ -137,12 +129,12 @@
       "ndate": 20260709
     },
     {
-      "carryoverAmount": 3582,
-      "carryover": "$3,582",
-      "wagertype": "Super High Five",
-      "track": "Assiniboia",
-      "date": "Jul 07",
-      "ndate": 20260707
+      "carryoverAmount": 4117,
+      "carryover": "$4,117",
+      "wagertype": "Super High Five Jackpot",
+      "track": "Penn National",
+      "date": "Jul 08",
+      "ndate": 20260708
     },
     {
       "carryoverAmount": 2562,
@@ -153,28 +145,20 @@
       "ndate": 20260709
     },
     {
-      "carryoverAmount": 2080,
-      "carryover": "$2,080",
-      "wagertype": "Pick 5",
-      "track": "Presque Isle",
-      "date": "Jul 07",
-      "ndate": 20260707
-    },
-    {
-      "carryoverAmount": 1736,
-      "carryover": "$1,736",
-      "wagertype": "Super High Five",
-      "track": "Belterra Park",
-      "date": "Jul 07",
-      "ndate": 20260707
-    },
-    {
       "carryoverAmount": 1116,
       "carryover": "$1,116",
       "wagertype": "Super High Five",
       "track": "Ellis Park",
       "date": "Jul 09",
       "ndate": 20260709
+    },
+    {
+      "carryoverAmount": 991,
+      "carryover": "$991",
+      "wagertype": "Super High Five",
+      "track": "Thistledown",
+      "date": "Jul 08",
+      "ndate": 20260708
     },
     {
       "carryoverAmount": 828,
@@ -191,14 +175,6 @@
       "track": "Lone Star",
       "date": "Jul 10",
       "ndate": 20260710
-    },
-    {
-      "carryoverAmount": 363,
-      "carryover": "$363",
-      "wagertype": "Super High Five",
-      "track": "Thistledown",
-      "date": "Jul 07",
-      "ndate": 20260707
     }
   ]
 }
