@@ -1,12 +1,20 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 193717,
-      "carryover": "$193,717",
+      "carryoverAmount": 421450,
+      "carryover": "$421,450",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Assiniboia Downs",
+      "date": "Jul 22",
+      "ndate": 20260722
+    },
+    {
+      "carryoverAmount": 207331,
+      "carryover": "$207,331",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Jul 21",
-      "ndate": 20260721
+      "date": "Jul 22",
+      "ndate": 20260722
     },
     {
       "carryoverAmount": 99021,
@@ -33,12 +41,12 @@
       "ndate": 20260723
     },
     {
-      "carryoverAmount": 50064,
-      "carryover": "$50,064",
+      "carryoverAmount": 54590,
+      "carryover": "$54,590",
       "wagertype": "Pick 6 Jackpot",
       "track": "Thistledown",
-      "date": "Jul 21",
-      "ndate": 20260721
+      "date": "Jul 22",
+      "ndate": 20260722
     },
     {
       "carryoverAmount": 36106,
