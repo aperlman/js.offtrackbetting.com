@@ -1,20 +1,12 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 222714,
-      "carryover": "$222,714",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Parx Racing",
-      "date": "Jul 23",
-      "ndate": 20260723
-    },
-    {
-      "carryoverAmount": 99021,
-      "carryover": "$99,021",
+      "carryoverAmount": 192794,
+      "carryover": "$192,794",
       "wagertype": "Pick 6",
-      "track": "Saratoga",
-      "date": "Jul 23",
-      "ndate": 20260723
+      "track": "Del Mar",
+      "date": "Jul 24",
+      "ndate": 20260724
     },
     {
       "carryoverAmount": 83910,
@@ -25,36 +17,28 @@
       "ndate": 20260724
     },
     {
-      "carryoverAmount": 63928,
-      "carryover": "$63,928",
-      "wagertype": "Pick 6",
-      "track": "Del Mar",
-      "date": "Jul 23",
-      "ndate": 20260723
-    },
-    {
-      "carryoverAmount": 61332,
-      "carryover": "$61,332",
+      "carryoverAmount": 68074,
+      "carryover": "$68,074",
       "wagertype": "Pick 6 Jackpot",
       "track": "Thistledown",
-      "date": "Jul 23",
-      "ndate": 20260723
+      "date": "Jul 27",
+      "ndate": 20260727
     },
     {
-      "carryoverAmount": 36106,
-      "carryover": "$36,106",
+      "carryoverAmount": 40109,
+      "carryover": "$40,109",
       "wagertype": "Pick 6 Jackpot",
       "track": "Hollywood Casino At Charles To",
-      "date": "Jul 23",
-      "ndate": 20260723
+      "date": "Jul 24",
+      "ndate": 20260724
     },
     {
-      "carryoverAmount": 28043,
-      "carryover": "$28,043",
+      "carryoverAmount": 34069,
+      "carryover": "$34,069",
       "wagertype": "Jackpot High-5",
       "track": "Woodbine",
-      "date": "Jul 23",
-      "ndate": 20260723
+      "date": "Jul 24",
+      "ndate": 20260724
     },
     {
       "carryoverAmount": 20574,
@@ -65,36 +49,36 @@
       "ndate": 20260724
     },
     {
-      "carryoverAmount": 17441,
-      "carryover": "$17,441",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Woodbine",
-      "date": "Jul 23",
-      "ndate": 20260723
-    },
-    {
-      "carryoverAmount": 7209,
-      "carryover": "$7,209",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Evangeline Downs",
-      "date": "Jul 23",
-      "ndate": 20260723
-    },
-    {
-      "carryoverAmount": 5285,
-      "carryover": "$5,285",
+      "carryoverAmount": 8468,
+      "carryover": "$8,468",
       "wagertype": "Jackpot High-5",
       "track": "Penn National",
-      "date": "Jul 23",
-      "ndate": 20260723
+      "date": "Jul 24",
+      "ndate": 20260724
     },
     {
-      "carryoverAmount": 2486,
-      "carryover": "$2,486",
-      "wagertype": "Super High Five",
-      "track": "Retama Park",
-      "date": "Jul 23",
-      "ndate": 20260723
+      "carryoverAmount": 7648,
+      "carryover": "$7,648",
+      "wagertype": "Jackpot High-5",
+      "track": "Penn National",
+      "date": "Jul 24",
+      "ndate": 20260724
+    },
+    {
+      "carryoverAmount": 7411,
+      "carryover": "$7,411",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Evangeline Downs",
+      "date": "Jul 24",
+      "ndate": 20260724
+    },
+    {
+      "carryoverAmount": 3171,
+      "carryover": "$3,171",
+      "wagertype": "Pick 6",
+      "track": "Colonial Downs",
+      "date": "Jul 24",
+      "ndate": 20260724
     },
     {
       "carryoverAmount": 2467,
@@ -121,6 +105,14 @@
       "ndate": 20260724
     },
     {
+      "carryoverAmount": 1248,
+      "carryover": "$1,248",
+      "wagertype": "Pick 5",
+      "track": "Retama Park",
+      "date": "Jul 24",
+      "ndate": 20260724
+    },
+    {
       "carryoverAmount": 1038,
       "carryover": "$1,038",
       "wagertype": "Z-5 Super Hi-5",
@@ -129,12 +121,12 @@
       "ndate": 20260724
     },
     {
-      "carryoverAmount": 587,
-      "carryover": "$587",
-      "wagertype": "Pick 5",
-      "track": "Retama Park",
-      "date": "Jul 23",
-      "ndate": 20260723
+      "carryoverAmount": 898,
+      "carryover": "$898",
+      "wagertype": "Super High Five",
+      "track": "Belterra Park",
+      "date": "Jul 24",
+      "ndate": 20260724
     }
   ]
 }
