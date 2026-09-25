@@ -219,7 +219,7 @@ function Race(track) {
 
     // RUNNERS
     return `<th>#</th>
-      <th id="selectionText">${event.breed == "Dog" ? 'Greyhound' : 'Horse'}
+      <th id="selectionText">${event.breed.toLowerCase() === 'dog' ? 'Greyhound' : 'Horse'}
       </th>
       <th>M/L Odds</th>`;
   };
@@ -326,11 +326,13 @@ function Race(track) {
           (event.purse.$numberDouble && event.purse.$numberDouble > 0) ||
           event.distance ? '</li>' : '' }
 
-        ${ // POST TIME
+        ${ // POST TIME (pinned to Eastern -- OTB's schedule timezone,
+          // not the visitor's browser clock, which is what this used to do)
           event.postTime.$numberDouble ? 
           '<li><strong>Scheduled Post:</strong> ' + new Date(
             event.postTime.$numberDouble * 1000).toLocaleTimeString( 'en-US', 
-            { hour: 'numeric', minute: 'numeric', hour12: true } ) + 
+            { hour: 'numeric', minute: 'numeric', hour12: true,
+              timeZone: 'America/New_York' } ) + 
             '</li>' : '' }
 
         ${ // CONDITIONS
