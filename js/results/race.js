@@ -244,14 +244,16 @@ function Race(track) {
       if (exists(event, 'showAmount')) headers.push('Show');
 
       // harness track? --> 'jockey' becomes 'driver'
-      const person = (event.breed.toLowerCase() === 'harness') ? 
+      // (event.breed can be missing on malformed/stub race entries --
+      // default to '' so toLowerCase() never throws)
+      const person = ((event.breed || '').toLowerCase() === 'harness') ? 
         'Driver' : 'Jockey';
 
       const horse_header = (exists(event, 'jockey') ? 
         ['Horse', person] : ['Horse']);
 
       // jockey entry means horse race --> otherwise Dog
-      headers.unshift(...event.breed.toLowerCase() === "dog" ?
+      headers.unshift(...(event.breed || '').toLowerCase() === "dog" ?
       ['Greyhound'] : horse_header);
 
       // set selectionText for display in process
@@ -263,7 +265,7 @@ function Race(track) {
 
     // RUNNERS
     return `<th>#</th>
-      <th id="selectionText">${event.breed.toLowerCase() === 'dog' ? 'Greyhound' : 'Horse'}
+      <th id="selectionText">${(event.breed || '').toLowerCase() === 'dog' ? 'Greyhound' : 'Horse'}
       </th>
       <th>M/L Odds</th>`;
   };
@@ -276,7 +278,7 @@ function Race(track) {
       return event.results.finisher.map( (x, idx) => `
         <tr>
           <td class="postposition ${/* color: [h]pp1 .. [h]pp24 */''}
-            ${(event.breed.toLowerCase() === 'harness' ? 'hpp' : 'pp') +
+            ${((event.breed || '').toLowerCase() === 'harness' ? 'hpp' : 'pp') +
               (isNaN(x.programNumber)
                 ? x.programNumber.replace(/\D/g, '') : x.programNumber)}"
           ><a>${x.programNumber}</a></td>
@@ -296,7 +298,7 @@ function Race(track) {
     return event.runners.map( x => `
       <tr>
         <td class="postposition ${/* color: [h]pp1 .. [h]pp24 */''}
-        ${(event.breed.toLowerCase() === 'harness' ? 'hpp' : 'pp') +
+        ${((event.breed || '').toLowerCase() === 'harness' ? 'hpp' : 'pp') +
           (isNaN(x.number) ? x.number.replace(/\D/g, '') : x.number)}">
           <a>${x.number}</a></td>
         <td><strong>${x.name}</strong></td>
