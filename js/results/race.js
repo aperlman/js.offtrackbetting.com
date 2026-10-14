@@ -138,10 +138,53 @@ function PopulateDates(raceDay, initialize) {
 } // end PopulateDates
 
 
+// Normalizes the raw results JSON to the shape this file expects.
+//
+// archive_tracks.py switched (2026-09-28) from a since-EOL'd MongoDB Atlas
+// App Services HTTP endpoint -- which returned camelCase keys plus a
+// synthetic "ID" display-name field -- to serializing the Mongo document
+// directly via to_json(). That document's schema (resultsv2.py) uses
+// snake_case field names and has no "ID" field, which broke this file
+// (e.g. event.postTime was undefined, throwing on `.{$numberDouble}`).
+// This renames the affected keys back to what the rest of this file reads,
+// and derives ID from program_name/program_code, without altering any
+// other behavior.
+function normalizeTrackData(track) {
+  const renameKey = (obj, from, to) => {
+    if (obj && from in obj && !(to in obj)) obj[to] = obj[from];
+  };
+
+  track.ID = track.ID || track.program_name || track.program_code;
+
+  (track.events || []).forEach((event) => {
+    renameKey(event, 'post_time', 'postTime');
+    (event.runners || []).forEach(
+      (r) => renameKey(r, 'morning_odds', 'morningOdds'));
+
+    if (event.results) {
+      renameKey(event.results, 'also_ran', 'alsoRan');
+
+      (event.results.finisher || []).forEach((f) => {
+        renameKey(f, 'runner_name', 'runnerName');
+        renameKey(f, 'win_amount', 'winAmount');
+        renameKey(f, 'place_amount', 'placeAmount');
+        renameKey(f, 'show_amount', 'showAmount');
+        renameKey(f, 'program_number', 'programNumber');
+      });
+
+      (event.results.dividends || []).forEach((d) => {
+        renameKey(d, 'bet_type', 'betType');
+        renameKey(d, 'base_amount', 'baseAmount');
+      });
+    }
+  });
+}
+
 
 // Display Results
 function Race(track) {
   // execution is at end of function
+  normalizeTrackData(track);
 
   /* HEADER */
   const RaceDisplay = (eventNo, track) => (
@@ -154,6 +197,7 @@ function Race(track) {
     // display the action box, otherwise hide it
     + (eventNo == 1 || parseInt( 
         thisEvent(eventNo, track).postTime.$numberDouble ||
+        thisEvent(eventNo, track).postTime.$numberInt ||
         thisEvent(eventNo, track).postTime
         ) > 1640995200 ? ActionBox(eventNo, track) : '')
     + RaceDetails(eventNo, track)
@@ -328,9 +372,10 @@ function Race(track) {
 
         ${ // POST TIME (pinned to Eastern -- OTB's schedule timezone,
           // not the visitor's browser clock, which is what this used to do)
-          event.postTime.$numberDouble ? 
+          (event.postTime.$numberDouble || event.postTime.$numberInt) ? 
           '<li><strong>Scheduled Post:</strong> ' + new Date(
-            event.postTime.$numberDouble * 1000).toLocaleTimeString( 'en-US', 
+            (event.postTime.$numberDouble || event.postTime.$numberInt) *
+            1000).toLocaleTimeString( 'en-US', 
             { hour: 'numeric', minute: 'numeric', hour12: true,
               timeZone: 'America/New_York' } ) + 
             '</li>' : '' }
@@ -545,6 +590,7 @@ function Race(track) {
       const myDateObj = new Date( // convert postTime to date obj
         parseInt(
           thisEvent(eventNo, track).postTime.$numberDouble ||
+          thisEvent(eventNo, track).postTime.$numberInt ||
           thisEvent(eventNo, track).postTime
         ) * 1000);
       // test that we have a valid Date object
