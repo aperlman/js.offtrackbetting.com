@@ -1,156 +1,84 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 78501,
-      "carryover": "$78,501",
+      "carryoverAmount": 111885,
+      "carryover": "$111,885",
       "wagertype": "Jackpot High-5",
       "track": "Woodbine",
-      "date": "Jul 30",
-      "ndate": 20260730
+      "date": "Oct 15",
+      "ndate": 20261015
     },
     {
-      "carryoverAmount": 75886,
-      "carryover": "$75,886",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Thistledown",
-      "date": "Jul 28",
-      "ndate": 20260728
+      "carryoverAmount": 54223,
+      "carryover": "$54,223",
+      "wagertype": "Pick 6",
+      "track": "Santa Anita Park",
+      "date": "Oct 16",
+      "ndate": 20261016
     },
     {
-      "carryoverAmount": 49123,
-      "carryover": "$49,123",
+      "carryoverAmount": 22988,
+      "carryover": "$22,988",
+      "wagertype": "Pick 6",
+      "track": "Belmont Park",
+      "date": "Oct 15",
+      "ndate": 20261015
+    },
+    {
+      "carryoverAmount": 15221,
+      "carryover": "$15,221",
+      "wagertype": "Super High Five",
+      "track": "Santa Anita Park",
+      "date": "Oct 16",
+      "ndate": 20261016
+    },
+    {
+      "carryoverAmount": 13436,
+      "carryover": "$13,436",
       "wagertype": "Pick 6 Jackpot",
       "track": "Hollywood Casino At Charles To",
-      "date": "Jul 30",
-      "ndate": 20260730
+      "date": "Oct 14",
+      "ndate": 20261014
     },
     {
-      "carryoverAmount": 34102,
-      "carryover": "$34,102",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Emerald Downs",
-      "date": "Jul 31",
-      "ndate": 20260731
-    },
-    {
-      "carryoverAmount": 15657,
-      "carryover": "$15,657",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Ellis Park",
-      "date": "Jul 31",
-      "ndate": 20260731
-    },
-    {
-      "carryoverAmount": 10021,
-      "carryover": "$10,021",
-      "wagertype": "Z-5 Super Hi-5",
-      "track": "Ellis Park",
-      "date": "Jul 31",
-      "ndate": 20260731
-    },
-    {
-      "carryoverAmount": 3849,
-      "carryover": "$3,849",
-      "wagertype": "Z-5 Super Hi-5",
-      "track": "Ellis Park",
-      "date": "Jul 31",
-      "ndate": 20260731
-    },
-    {
-      "carryoverAmount": 3248,
-      "carryover": "$3,248",
+      "carryoverAmount": 11903,
+      "carryover": "$11,903",
       "wagertype": "Jackpot High-5",
-      "track": "Fort Erie",
-      "date": "Jul 28",
-      "ndate": 20260728
+      "track": "Lone Star Park",
+      "date": "Oct 15",
+      "ndate": 20261015
     },
     {
-      "carryoverAmount": 2949,
-      "carryover": "$2,949",
+      "carryoverAmount": 10218,
+      "carryover": "$10,218",
       "wagertype": "Pick 6 Jackpot",
       "track": "Woodbine",
-      "date": "Jul 30",
-      "ndate": 20260730
+      "date": "Oct 15",
+      "ndate": 20261015
     },
     {
-      "carryoverAmount": 2031,
-      "carryover": "$2,031",
-      "wagertype": "Super High Five",
-      "track": "Belterra Park",
-      "date": "Jul 29",
-      "ndate": 20260729
+      "carryoverAmount": 5703,
+      "carryover": "$5,703",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Parx Racing",
+      "date": "Oct 19",
+      "ndate": 20261019
     },
     {
-      "carryoverAmount": 1839,
-      "carryover": "$1,839",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Monmouth Park",
-      "date": "Jul 31",
-      "ndate": 20260731
+      "carryoverAmount": 3116,
+      "carryover": "$3,116",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Parx Racing",
+      "date": "Oct 19",
+      "ndate": 20261019
     },
     {
-      "carryoverAmount": 1387,
-      "carryover": "$1,387",
+      "carryoverAmount": 344,
+      "carryover": "$344",
       "wagertype": "Pick 6",
-      "track": "Colonial Downs",
-      "date": "Jul 30",
-      "ndate": 20260730
-    },
-    {
-      "carryoverAmount": 1193,
-      "carryover": "$1,193",
-      "wagertype": "Super High Five",
-      "track": "Ellis Park",
-      "date": "Jul 31",
-      "ndate": 20260731
-    },
-    {
-      "carryoverAmount": 1000,
-      "carryover": "$1,000",
-      "wagertype": "Z-5 Super Hi-5",
-      "track": "Ellis Park",
-      "date": "Jul 31",
-      "ndate": 20260731
-    },
-    {
-      "carryoverAmount": 790,
-      "carryover": "$790",
-      "wagertype": "Z-5 Super Hi-5",
-      "track": "Ellis Park",
-      "date": "Jul 31",
-      "ndate": 20260731
-    },
-    {
-      "carryoverAmount": 565,
-      "carryover": "$565",
-      "wagertype": "Pick 5",
-      "track": "Retama Park",
-      "date": "Jul 30",
-      "ndate": 20260730
-    },
-    {
-      "carryoverAmount": 443,
-      "carryover": "$443",
-      "wagertype": "Jackpot High-5",
-      "track": "Penn National",
-      "date": "Jul 29",
-      "ndate": 20260729
-    },
-    {
-      "carryoverAmount": 355,
-      "carryover": "$355",
-      "wagertype": "Super High Five",
-      "track": "Thistledown",
-      "date": "Jul 28",
-      "ndate": 20260728
-    },
-    {
-      "carryoverAmount": 190,
-      "carryover": "$190",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Evangeline Downs",
-      "date": "Jul 30",
-      "ndate": 20260730
+      "track": "Lone Star Park",
+      "date": "Oct 15",
+      "ndate": 20261015
     }
   ]
 }
