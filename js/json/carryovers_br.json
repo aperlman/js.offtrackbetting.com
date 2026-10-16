@@ -1,12 +1,20 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 111885,
-      "carryover": "$111,885",
+      "carryoverAmount": 124644,
+      "carryover": "$124,644",
       "wagertype": "Jackpot High-5",
       "track": "Woodbine",
-      "date": "Oct 15",
-      "ndate": 20261015
+      "date": "Oct 16",
+      "ndate": 20261016
+    },
+    {
+      "carryoverAmount": 113350,
+      "carryover": "$113,350",
+      "wagertype": "Pick 6",
+      "track": "Belmont Park",
+      "date": "Oct 16",
+      "ndate": 20261016
     },
     {
       "carryoverAmount": 54223,
@@ -17,20 +25,20 @@
       "ndate": 20261016
     },
     {
-      "carryoverAmount": 22988,
-      "carryover": "$22,988",
+      "carryoverAmount": 26909,
+      "carryover": "$26,909",
       "wagertype": "Pick 6",
-      "track": "Belmont Park",
-      "date": "Oct 15",
-      "ndate": 20261015
+      "track": "Keeneland",
+      "date": "Oct 16",
+      "ndate": 20261016
     },
     {
-      "carryoverAmount": 16598,
-      "carryover": "$16,598",
+      "carryoverAmount": 21090,
+      "carryover": "$21,090",
       "wagertype": "Pick 6 Jackpot",
       "track": "Hollywood Casino At Charles To",
-      "date": "Oct 15",
-      "ndate": 20261015
+      "date": "Oct 16",
+      "ndate": 20261016
     },
     {
       "carryoverAmount": 15221,
@@ -41,20 +49,28 @@
       "ndate": 20261016
     },
     {
-      "carryoverAmount": 11903,
-      "carryover": "$11,903",
+      "carryoverAmount": 15049,
+      "carryover": "$15,049",
       "wagertype": "Jackpot High-5",
       "track": "Lone Star Park",
-      "date": "Oct 15",
-      "ndate": 20261015
+      "date": "Oct 16",
+      "ndate": 20261016
     },
     {
-      "carryoverAmount": 10218,
-      "carryover": "$10,218",
+      "carryoverAmount": 13907,
+      "carryover": "$13,907",
       "wagertype": "Pick 6 Jackpot",
       "track": "Woodbine",
-      "date": "Oct 15",
-      "ndate": 20261015
+      "date": "Oct 16",
+      "ndate": 20261016
+    },
+    {
+      "carryoverAmount": 6998,
+      "carryover": "$6,998",
+      "wagertype": "Super High Five",
+      "track": "Horseshoe Indianapolis",
+      "date": "Oct 19",
+      "ndate": 20261019
     },
     {
       "carryoverAmount": 5703,
@@ -73,20 +89,28 @@
       "ndate": 20261019
     },
     {
-      "carryoverAmount": 357,
-      "carryover": "$357",
-      "wagertype": "Jackpot High-5",
-      "track": "Penn National",
-      "date": "Oct 15",
-      "ndate": 20261015
+      "carryoverAmount": 1808,
+      "carryover": "$1,808",
+      "wagertype": "Z-5 Super Hi-5",
+      "track": "Laurel Park",
+      "date": "Oct 16",
+      "ndate": 20261016
     },
     {
-      "carryoverAmount": 344,
-      "carryover": "$344",
+      "carryoverAmount": 380,
+      "carryover": "$380",
       "wagertype": "Pick 6",
       "track": "Lone Star Park",
-      "date": "Oct 15",
-      "ndate": 20261015
+      "date": "Oct 16",
+      "ndate": 20261016
+    },
+    {
+      "carryoverAmount": 84,
+      "carryover": "$84",
+      "wagertype": "Pick 5",
+      "track": "Lone Star Park",
+      "date": "Oct 16",
+      "ndate": 20261016
     }
   ]
 }
