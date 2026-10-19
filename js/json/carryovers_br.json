@@ -1,20 +1,20 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 146583,
-      "carryover": "$146,583",
+      "carryoverAmount": 160394,
+      "carryover": "$160,394",
       "wagertype": "Jackpot High-5",
       "track": "Woodbine",
-      "date": "Oct 18",
-      "ndate": 20261018
+      "date": "Oct 22",
+      "ndate": 20261022
     },
     {
-      "carryoverAmount": 44319,
-      "carryover": "$44,319",
-      "wagertype": "Pick 6",
-      "track": "Keeneland",
-      "date": "Oct 18",
-      "ndate": 20261018
+      "carryoverAmount": 29202,
+      "carryover": "$29,202",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Gulfstream Park",
+      "date": "Oct 23",
+      "ndate": 20261023
     },
     {
       "carryoverAmount": 27738,
@@ -23,30 +23,6 @@
       "track": "Hollywood Casino At Charles To",
       "date": "Oct 21",
       "ndate": 20261021
-    },
-    {
-      "carryoverAmount": 24273,
-      "carryover": "$24,273",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Woodbine",
-      "date": "Oct 18",
-      "ndate": 20261018
-    },
-    {
-      "carryoverAmount": 18019,
-      "carryover": "$18,019",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Gulfstream Park",
-      "date": "Oct 18",
-      "ndate": 20261018
-    },
-    {
-      "carryoverAmount": 10719,
-      "carryover": "$10,719",
-      "wagertype": "Pick 6",
-      "track": "Los Alamitos",
-      "date": "Oct 18",
-      "ndate": 20261018
     },
     {
       "carryoverAmount": 6998,
@@ -81,6 +57,14 @@
       "ndate": 20261019
     },
     {
+      "carryoverAmount": 2268,
+      "carryover": "$2,268",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Laurel Park",
+      "date": "Oct 23",
+      "ndate": 20261023
+    },
+    {
       "carryoverAmount": 1269,
       "carryover": "$1,269",
       "wagertype": "Super High Five",
@@ -89,12 +73,12 @@
       "ndate": 20261022
     },
     {
-      "carryoverAmount": 1202,
-      "carryover": "$1,202",
-      "wagertype": "Pick 6 Jackpot",
-      "track": "Laurel Park",
-      "date": "Oct 18",
-      "ndate": 20261018
+      "carryoverAmount": 1170,
+      "carryover": "$1,170",
+      "wagertype": "Super High Five",
+      "track": "Mountaineer Casino Racetrack",
+      "date": "Oct 19",
+      "ndate": 20261019
     },
     {
       "carryoverAmount": 761,
