@@ -1,20 +1,28 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 160394,
-      "carryover": "$160,394",
+      "carryoverAmount": 174796,
+      "carryover": "$174,796",
       "wagertype": "Super High Five Jackpot",
       "track": "Woodbine",
-      "date": "Oct 22",
-      "ndate": 20261022
+      "date": "Oct 23",
+      "ndate": 20261023
     },
     {
-      "carryoverAmount": 31067,
-      "carryover": "$31,067",
+      "carryoverAmount": 53059,
+      "carryover": "$53,059",
+      "wagertype": "Pick 5",
+      "track": "Horseshoe",
+      "date": "Oct 24",
+      "ndate": 20261024
+    },
+    {
+      "carryoverAmount": 34535,
+      "carryover": "$34,535",
       "wagertype": "Pick 6 Jackpot",
       "track": "Charles Town",
-      "date": "Oct 22",
-      "ndate": 20261022
+      "date": "Oct 23",
+      "ndate": 20261023
     },
     {
       "carryoverAmount": 30174,
@@ -33,20 +41,12 @@
       "ndate": 20261023
     },
     {
-      "carryoverAmount": 6412,
-      "carryover": "$6,412",
-      "wagertype": "Pick 5",
-      "track": "Lone Star",
-      "date": "Oct 22",
-      "ndate": 20261022
-    },
-    {
-      "carryoverAmount": 5793,
-      "carryover": "$5,793",
-      "wagertype": "Super High Five",
+      "carryoverAmount": 27465,
+      "carryover": "$27,465",
+      "wagertype": "Pick 6",
       "track": "Keeneland",
-      "date": "Oct 22",
-      "ndate": 20261022
+      "date": "Oct 23",
+      "ndate": 20261023
     },
     {
       "carryoverAmount": 3874,
@@ -65,6 +65,30 @@
       "ndate": 20261023
     },
     {
+      "carryoverAmount": 3213,
+      "carryover": "$3,213",
+      "wagertype": "Super High Five",
+      "track": "Horseshoe",
+      "date": "Oct 24",
+      "ndate": 20261024
+    },
+    {
+      "carryoverAmount": 2951,
+      "carryover": "$2,951",
+      "wagertype": "Pick 5",
+      "track": "Penn National",
+      "date": "Oct 23",
+      "ndate": 20261023
+    },
+    {
+      "carryoverAmount": 2453,
+      "carryover": "$2,453",
+      "wagertype": "Super High Five",
+      "track": "Lone Star",
+      "date": "Oct 23",
+      "ndate": 20261023
+    },
+    {
       "carryoverAmount": 2268,
       "carryover": "$2,268",
       "wagertype": "Pick 6 Jackpot",
@@ -73,20 +97,20 @@
       "ndate": 20261023
     },
     {
-      "carryoverAmount": 2052,
-      "carryover": "$2,052",
-      "wagertype": "Super High Five Jackpot",
-      "track": "Penn National",
-      "date": "Oct 22",
-      "ndate": 20261022
+      "carryoverAmount": 2217,
+      "carryover": "$2,217",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Woodbine",
+      "date": "Oct 23",
+      "ndate": 20261023
     },
     {
-      "carryoverAmount": 1269,
-      "carryover": "$1,269",
-      "wagertype": "Super High Five",
+      "carryoverAmount": 928,
+      "carryover": "$928",
+      "wagertype": "Pick 6",
       "track": "Lone Star",
-      "date": "Oct 22",
-      "ndate": 20261022
+      "date": "Oct 23",
+      "ndate": 20261023
     },
     {
       "carryoverAmount": 865,
@@ -95,14 +119,6 @@
       "track": "Santa Anita",
       "date": "Oct 23",
       "ndate": 20261023
-    },
-    {
-      "carryoverAmount": 742,
-      "carryover": "$742",
-      "wagertype": "Pick 6",
-      "track": "Lone Star",
-      "date": "Oct 22",
-      "ndate": 20261022
     },
     {
       "carryoverAmount": 479,
