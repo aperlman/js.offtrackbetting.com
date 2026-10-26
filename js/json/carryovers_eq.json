@@ -1,28 +1,36 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 109520,
-      "carryover": "$109,520",
-      "wagertype": "Pick 6",
-      "track": "Santa Anita",
-      "date": "Oct 25",
-      "ndate": 20261025
+      "carryoverAmount": 414007,
+      "carryover": "$414,007",
+      "wagertype": "Octafecta Jackpot",
+      "track": "Churchill Downs",
+      "date": "Oct 28",
+      "ndate": 20261028
     },
     {
-      "carryoverAmount": 64318,
-      "carryover": "$64,318",
-      "wagertype": "Pick 5",
+      "carryoverAmount": 201453,
+      "carryover": "$201,453",
+      "wagertype": "Place Pick 8",
       "track": "Gulfstream Park",
-      "date": "Oct 25",
-      "ndate": 20261025
+      "date": "Oct 30",
+      "ndate": 20261030
     },
     {
-      "carryoverAmount": 50555,
-      "carryover": "$50,555",
+      "carryoverAmount": 67065,
+      "carryover": "$67,065",
       "wagertype": "Pick 6 Jackpot",
       "track": "Gulfstream Park",
-      "date": "Oct 25",
-      "ndate": 20261025
+      "date": "Oct 30",
+      "ndate": 20261030
+    },
+    {
+      "carryoverAmount": 46127,
+      "carryover": "$46,127",
+      "wagertype": "Pick 6",
+      "track": "Belmont Park",
+      "date": "Oct 28",
+      "ndate": 20261028
     },
     {
       "carryoverAmount": 43529,
@@ -33,60 +41,36 @@
       "ndate": 20261028
     },
     {
-      "carryoverAmount": 30174,
-      "carryover": "$30,174",
+      "carryoverAmount": 33780,
+      "carryover": "$33,780",
       "wagertype": "Pick 5 Jackpot",
       "track": "Parx Racing",
-      "date": "Oct 25",
-      "ndate": 20261025
+      "date": "Oct 26",
+      "ndate": 20261026
     },
     {
-      "carryoverAmount": 20427,
-      "carryover": "$20,427",
-      "wagertype": "Super High Five",
-      "track": "Santa Anita",
-      "date": "Oct 25",
-      "ndate": 20261025
-    },
-    {
-      "carryoverAmount": 16535,
-      "carryover": "$16,535",
-      "wagertype": "Sunset Six",
-      "track": "Santa Anita",
-      "date": "Oct 25",
-      "ndate": 20261025
-    },
-    {
-      "carryoverAmount": 9998,
-      "carryover": "$9,998",
-      "wagertype": "Pick 6",
-      "track": "Los Alamitos",
-      "date": "Oct 25",
-      "ndate": 20261025
-    },
-    {
-      "carryoverAmount": 9500,
-      "carryover": "$9,500",
+      "carryoverAmount": 13700,
+      "carryover": "$13,700",
       "wagertype": "Pick 6 Jackpot",
       "track": "Woodbine",
-      "date": "Oct 25",
-      "ndate": 20261025
+      "date": "Oct 29",
+      "ndate": 20261029
     },
     {
-      "carryoverAmount": 8328,
-      "carryover": "$8,328",
-      "wagertype": "Place Pick 8",
-      "track": "Gulfstream Park",
-      "date": "Oct 25",
-      "ndate": 20261025
+      "carryoverAmount": 11992,
+      "carryover": "$11,992",
+      "wagertype": "Pick 5",
+      "track": "Laurel Park",
+      "date": "Oct 29",
+      "ndate": 20261029
     },
     {
-      "carryoverAmount": 8128,
-      "carryover": "$8,128",
+      "carryoverAmount": 9814,
+      "carryover": "$9,814",
       "wagertype": "Pick 6 Jackpot",
       "track": "Laurel Park",
-      "date": "Oct 25",
-      "ndate": 20261025
+      "date": "Oct 29",
+      "ndate": 20261029
     },
     {
       "carryoverAmount": 6318,
@@ -95,6 +79,14 @@
       "track": "Horseshoe",
       "date": "Oct 26",
       "ndate": 20261026
+    },
+    {
+      "carryoverAmount": 5958,
+      "carryover": "$5,958",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Churchill Downs",
+      "date": "Oct 28",
+      "ndate": 20261028
     },
     {
       "carryoverAmount": 3977,
@@ -113,12 +105,20 @@
       "ndate": 20261026
     },
     {
-      "carryoverAmount": 901,
-      "carryover": "$901",
+      "carryoverAmount": 1502,
+      "carryover": "$1,502",
+      "wagertype": "Super High Five",
+      "track": "Mountaineer",
+      "date": "Oct 26",
+      "ndate": 20261026
+    },
+    {
+      "carryoverAmount": 940,
+      "carryover": "$940",
       "wagertype": "3x3",
       "track": "Santa Anita",
-      "date": "Oct 25",
-      "ndate": 20261025
+      "date": "Oct 30",
+      "ndate": 20261030
     },
     {
       "carryoverAmount": 480,
