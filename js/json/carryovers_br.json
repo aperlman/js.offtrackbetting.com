@@ -1,68 +1,76 @@
 {
   "carryovers": [
     {
-      "carryoverAmount": 123538,
-      "carryover": "$123,538",
-      "wagertype": "Pick 5 Jackpot",
-      "track": "Parx Racing",
-      "date": "Nov 12",
-      "ndate": 20261112
-    },
-    {
-      "carryoverAmount": 100674,
-      "carryover": "$100,674",
+      "carryoverAmount": 107250,
+      "carryover": "$107,250",
       "wagertype": "Pick 6 Jackpot",
       "track": "Churchill Downs",
-      "date": "Nov 12",
-      "ndate": 20261112
+      "date": "Nov 13",
+      "ndate": 20261113
     },
     {
-      "carryoverAmount": 93170,
-      "carryover": "$93,170",
+      "carryoverAmount": 99966,
+      "carryover": "$99,966",
       "wagertype": "Pick 6 Jackpot",
       "track": "Hollywood Casino At Charles To",
-      "date": "Nov 12",
-      "ndate": 20261112
+      "date": "Nov 13",
+      "ndate": 20261113
     },
     {
-      "carryoverAmount": 56137,
-      "carryover": "$56,137",
+      "carryoverAmount": 64200,
+      "carryover": "$64,200",
       "wagertype": "Jackpot High-5",
       "track": "Woodbine",
-      "date": "Nov 12",
-      "ndate": 20261112
+      "date": "Nov 13",
+      "ndate": 20261113
     },
     {
-      "carryoverAmount": 12612,
-      "carryover": "$12,612",
+      "carryoverAmount": 13647,
+      "carryover": "$13,647",
       "wagertype": "Jackpot High-5",
       "track": "Lone Star Park",
-      "date": "Nov 12",
-      "ndate": 20261112
+      "date": "Nov 13",
+      "ndate": 20261113
     },
     {
-      "carryoverAmount": 8783,
-      "carryover": "$8,783",
+      "carryoverAmount": 10036,
+      "carryover": "$10,036",
       "wagertype": "Pick 6 Jackpot",
       "track": "Mahoning Valley Race Course",
-      "date": "Nov 12",
-      "ndate": 20261112
+      "date": "Nov 16",
+      "ndate": 20261116
     },
     {
-      "carryoverAmount": 7610,
-      "carryover": "$7,610",
-      "wagertype": "Z-5 Super Hi-5",
-      "track": "Churchill Downs",
-      "date": "Nov 12",
-      "ndate": 20261112
+      "carryoverAmount": 5415,
+      "carryover": "$5,415",
+      "wagertype": "Super High Five",
+      "track": "Horseshoe Indianapolis",
+      "date": "Nov 13",
+      "ndate": 20261113
     },
     {
-      "carryoverAmount": 2878,
-      "carryover": "$2,878",
-      "wagertype": "Z-5 Super Hi-5",
+      "carryoverAmount": 4569,
+      "carryover": "$4,569",
+      "wagertype": "Pick 5",
+      "track": "Penn National",
+      "date": "Nov 13",
+      "ndate": 20261113
+    },
+    {
+      "carryoverAmount": 4241,
+      "carryover": "$4,241",
+      "wagertype": "Super High Five",
       "track": "Churchill Downs",
-      "date": "Nov 12",
-      "ndate": 20261112
+      "date": "Nov 13",
+      "ndate": 20261113
+    },
+    {
+      "carryoverAmount": 2919,
+      "carryover": "$2,919",
+      "wagertype": "Pick 6 Jackpot",
+      "track": "Woodbine",
+      "date": "Nov 13",
+      "ndate": 20261113
     },
     {
       "carryoverAmount": 2331,
@@ -73,20 +81,20 @@
       "ndate": 20261113
     },
     {
-      "carryoverAmount": 1383,
-      "carryover": "$1,383",
+      "carryoverAmount": 1249,
+      "carryover": "$1,249",
       "wagertype": "Z-5 Super Hi-5",
       "track": "Churchill Downs",
-      "date": "Nov 12",
-      "ndate": 20261112
+      "date": "Nov 13",
+      "ndate": 20261113
     },
     {
-      "carryoverAmount": 528,
-      "carryover": "$528",
+      "carryoverAmount": 821,
+      "carryover": "$821",
       "wagertype": "Pick 6",
       "track": "Lone Star Park",
-      "date": "Nov 12",
-      "ndate": 20261112
+      "date": "Nov 13",
+      "ndate": 20261113
     }
   ]
 }
