@@ -1,6 +1,14 @@
 {
   "carryovers": [
     {
+      "carryoverAmount": 135093,
+      "carryover": "$135,093",
+      "wagertype": "Pick 5 Jackpot",
+      "track": "Parx Racing",
+      "date": "Nov 17",
+      "ndate": 20261117
+    },
+    {
       "carryoverAmount": 115206,
       "carryover": "$115,206",
       "wagertype": "Pick 6 Jackpot",
@@ -57,12 +65,12 @@
       "ndate": 20261119
     },
     {
-      "carryoverAmount": 10036,
-      "carryover": "$10,036",
+      "carryoverAmount": 11808,
+      "carryover": "$11,808",
       "wagertype": "Pick 6 Jackpot",
       "track": "Mahoning Valley Race Course",
-      "date": "Nov 16",
-      "ndate": 20261116
+      "date": "Nov 17",
+      "ndate": 20261117
     },
     {
       "carryoverAmount": 7341,
@@ -95,6 +103,14 @@
       "track": "Churchill Downs",
       "date": "Nov 18",
       "ndate": 20261118
+    },
+    {
+      "carryoverAmount": 3905,
+      "carryover": "$3,905",
+      "wagertype": "Pick 5",
+      "track": "Mahoning Valley Race Course",
+      "date": "Nov 17",
+      "ndate": 20261117
     },
     {
       "carryoverAmount": 3503,
