@@ -1,16 +1,11 @@
 // Shared live-endpoint helpers for the results search UI.
-// Ported from tmp/phase-out-jquery/results-form/copilot-concept/live.js,
-// with the local dev-proxy branch removed: CORS on these endpoints is
-// allow-listed to https://www.offtrackbetting.com only, so once this runs
-// on the real site there's no proxy involved, same as production's
-// existing race.js/today.js. Stage 1 subset only (track list + date
-// panels) — archive/today per-race fetches are Stage 2 (race-day page).
+// Current races use the same-origin API route; archived meetdays use the JSON CDN.
 function liveUrl(kind, params = {}) {
   switch (kind) {
     case 'meetdays':
       return `https://json.offtrackbetting.com/tracks/v2/${params.meetno}/meetdays.txt`;
     case 'current_races':
-      return 'https://ojlbo7v5hb.execute-api.us-west-2.amazonaws.com/dev/api/current_races/v2-dev';
+      return '/api/current_races/v2';
     default:
       throw new Error(`liveUrl: unknown kind "${kind}"`);
   }
