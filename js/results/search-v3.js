@@ -42,6 +42,7 @@ const $todayOnly = document.getElementById('todayOnlyToggle');
 const $resultCount = document.getElementById('resultCount');
 
 let activeTypeFilter = 'all'; // all | Thoroughbred | Harness | Dog | Quarterhorse | special
+let todaySortMode = 'up-next';
 
 function parsePostTime(t) {
   // "3:40 PM" -> minutes since midnight, for sorting "racing today" by soonest post
@@ -174,6 +175,12 @@ function render() {
     $list.innerHTML = renderFlatList(filtered);
   } else {
     $list.innerHTML = renderGroupedList(filtered);
+    $list.querySelectorAll('[data-today-sort]').forEach((button) => {
+      button.addEventListener('click', () => {
+        todaySortMode = button.dataset.todaySort;
+        render();
+      });
+    });
   }
 
   wireTrackRows();
@@ -197,14 +204,19 @@ function renderFlatList(tracks) {
 }
 
 function renderGroupedList(tracks) {
-  const today = tracks.filter((t) => t.t).sort((a, b) => {
-    const tierDiff = todayTier(a) - todayTier(b);
-    if (tierDiff) return tierDiff;
-    const tier = todayTier(a);
-    if (tier === 0) return (+a.t.mtp) - (+b.t.mtp);
-    if (tier === 2) return parsePostTime(a.t.time) - parsePostTime(b.t.time);
-    return a.n.localeCompare(b.n);
-  });
+  const today = tracks.filter((t) => t.t);
+  if (todaySortMode === 'alphabetical') {
+    today.sort((a, b) => a.n.localeCompare(b.n));
+  } else {
+    today.sort((a, b) => {
+      const tierDiff = todayTier(a) - todayTier(b);
+      if (tierDiff) return tierDiff;
+      const tier = todayTier(a);
+      if (tier === 0) return (+a.t.mtp) - (+b.t.mtp);
+      if (tier === 2) return parsePostTime(a.t.time) - parsePostTime(b.t.time);
+      return a.n.localeCompare(b.n);
+    });
+  }
 
   // Tracks racing today are pinned above; don't also list them in their
   // region group below, or every one of them shows up twice on the page.
@@ -219,8 +231,16 @@ function renderGroupedList(tracks) {
   if (today.length) {
     html += `
       <div class="mb-3">
-        <div class="region-heading today-heading mb-2">
-          Racing today &middot; ${today.length}
+        <div class="today-heading-row mb-2">
+          <div class="region-heading today-heading">
+            Racing today &middot; ${today.length}
+          </div>
+          <div class="today-sort-control btn-group" role="group" aria-label="Sort Racing Today tracks">
+            <button type="button" class="today-sort-button${todaySortMode === 'up-next' ? ' active' : ''}"
+              data-today-sort="up-next" aria-pressed="${todaySortMode === 'up-next'}">Up next</button>
+            <button type="button" class="today-sort-button${todaySortMode === 'alphabetical' ? ' active' : ''}"
+              data-today-sort="alphabetical" aria-pressed="${todaySortMode === 'alphabetical'}">A–Z</button>
+          </div>
         </div>
         ${today.map((t) => trackRowHtml(t)).join('')}
       </div>`;
@@ -255,9 +275,8 @@ function trackRowHtml(t) {
   const disambiguator = NAME_COUNTS[t.n] > 1
     ? `<small>${recencyHint(t)}</small>`
     : '';
-  const metaHtml = t.t
-    ? todayBadgeHtml(t.t)
-    : `<span class="text-muted">${t.r}</span>`;
+  const metaHtml = t.t ? '' : `<span class="track-meta text-muted">${t.r}</span>`;
+  const raceLinkHtml = t.t ? todayBadgeHtml(t) : '';
   const ctaHtml = t.t ? todayCtaHtml(t) : '';
 
   return `
@@ -265,21 +284,35 @@ function trackRowHtml(t) {
       <button type="button" class="track-row-btn" data-m="${t.m}" data-s="${t.s}"
         data-n="${escapeAttr(t.n)}" aria-expanded="false">
         <span class="track-name">${escapeHtml(t.n)}${disambiguator}</span>
-        <span class="track-meta">${metaHtml}</span>
+        ${metaHtml}
       </button>
+      ${raceLinkHtml}
       ${ctaHtml}
     </div>`;
 }
 
-function todayBadgeHtml(today) {
+function todayBadgeHtml(t) {
+  const today = t.t;
   const mtp = +today.mtp;
+  let badge;
+  let raceAnchor = '';
+  let destination = `View today's results for ${t.n}`;
   if (isPendingMtp(today.mtp)) {
-    return `<span class="badge badge-mtp-off">First post ${escapeHtml(today.time)}</span>`;
+    badge = `<span class="badge badge-mtp-off">First post ${escapeHtml(today.time)}</span>`;
+  } else {
+    const race = String(today.race ?? '');
+    if (/^[1-9]\d*$/.test(race)) {
+      raceAnchor = `#race${race}`;
+      destination = `View race ${race} results for ${t.n}`;
+    } else {
+      console.warn(`Invalid live currentRace for meetno ${t.m}:`, today.race);
+    }
+    badge = mtp === 0
+      ? `<span class="badge badge-mtp-off">R ${escapeHtml(race)} - off</span>`
+      : `<span class="badge badge-today">R ${escapeHtml(race)} - ${mtp} MTP</span>`;
   }
-  if (mtp === 0) {
-    return `<span class="badge badge-mtp-off">Race ${today.race} &middot; off</span>`;
-  }
-  return `<span class="badge badge-today">Race ${today.race} &middot; ${mtp} MTP</span>`;
+  return `<a class="track-race-link" href="${resultsUrl(t.m, t.s, null)}${raceAnchor}"
+    aria-label="${escapeAttr(destination)}">${badge}</a>`;
 }
 
 // Only the "open and counting down" state is actually biddable right now.
@@ -360,8 +393,35 @@ function resultsUrl(meetno, slug, ymd) {
   return `/results/${meetno}/${slug}${suffix}.html`;
 }
 
+function liveProgramDay(meetno) {
+  const today = TRACKS.find((t) => String(t.m) === String(meetno))?.t;
+  if (!today) return null;
+  const ymd = String(today.pd ?? '');
+  if (/^\d{8}$/.test(ymd)) {
+    const iso = `${ymd.slice(0, 4)}-${ymd.slice(4, 6)}-${ymd.slice(6, 8)}`;
+    const date = new Date(`${iso}T12:00:00Z`);
+    if (Number.isFinite(date.getTime()) && date.toISOString().slice(0, 10) === iso) return ymd;
+  }
+  console.warn(`Invalid live programDate for meetno ${meetno}:`, today.pd);
+  return null;
+}
+
 function datePanelHtml(meetno, slug, name) {
   const days = MEETDAYS[meetno];
+  const racingToday = !!TRACKS.find((t) => String(t.m) === String(meetno))?.t;
+  const sorted = days ? [...days].sort() : [];
+  const latest = racingToday ? liveProgramDay(meetno) : sorted[sorted.length - 1];
+  const recent = sorted.filter((ymd) => ymd !== latest).slice(-11).reverse();
+  const chips = racingToday || sorted.length ? `
+    <div class="day-chip-row">
+      <a class="day-chip latest" href="${resultsUrl(meetno, slug, null)}">
+        Latest${latest ? ` &middot; ${formatYmd(latest)}` : ''}
+      </a>
+      ${recent.map((ymd) => `
+        <a class="day-chip" href="${resultsUrl(meetno, slug, ymd)}">${formatYmd(ymd)}</a>
+      `).join('')}
+    </div>` : '';
+  const status = racingToday ? '<div class="last-raced">Racing today</div>' : '';
   const primaryLink = `
     <a class="btn btn-otb btn-sm" href="${resultsUrl(meetno, slug, null)}">
       View latest results for ${escapeHtml(name)} &rarr;
@@ -369,35 +429,29 @@ function datePanelHtml(meetno, slug, name) {
 
   if (days === null) {
     return `
+      ${status}
       <div class="no-snapshot-note">
         Couldn't load race-day history for meet #${meetno} right now
         (live <code>meetdays.txt</code> fetch failed) &mdash; a transient
         issue, not a permanent gap. Try again in a moment.
       </div>
+      ${chips}
       ${primaryLink}`;
   }
   if (!days.length) {
     return `
+      ${status}
       <div class="no-snapshot-note">
         No race-day history on record yet for meet #${meetno}.
       </div>
+      ${chips}
       ${primaryLink}`;
   }
 
-  const sorted = [...days].sort();
-  const latest = sorted[sorted.length - 1];
-  const recent = sorted.slice(-12).reverse();
-
   return `
-    <div class="last-raced">Last raced ${formatYmd(latest)} &middot;
+    <div class="last-raced">${racingToday ? 'Racing today' : `Last raced ${formatYmd(latest)}`} &middot;
       ${sorted.length} race day${sorted.length === 1 ? '' : 's'} on record</div>
-    <div class="day-chip-row">
-      ${recent.map((ymd) => `
-        <a class="day-chip${ymd === latest ? ' latest' : ''}"
-          href="${resultsUrl(meetno, slug, ymd === latest ? null : ymd)}">
-          ${ymd === latest ? 'Latest &middot; ' : ''}${formatYmd(ymd)}
-        </a>`).join('')}
-    </div>
+    ${chips}
     ${primaryLink}
     <button type="button" class="btn btn-link btn-sm more-dates-toggle">
       More dates&hellip;
@@ -446,7 +500,8 @@ function renderMonth(container, days, ym, meetno, slug, name) {
   const daySet = new Set(days.filter((d) => d.slice(0, 6) === ym));
   const firstDow = new Date(year, month, 1).getDay();
   const daysInMonth = new Date(year, month + 1, 0).getDate();
-  const latest = days[days.length - 1];
+  const racingToday = !!TRACKS.find((t) => String(t.m) === String(meetno))?.t;
+  const latest = racingToday ? liveProgramDay(meetno) : days[days.length - 1];
 
   let cells = '';
   for (let i = 0; i < firstDow; i++) cells += '<div class="cell empty"></div>';

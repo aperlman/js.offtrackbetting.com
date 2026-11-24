@@ -10,7 +10,7 @@ function liveUrl(kind, params = {}) {
     case 'meetdays':
       return `https://json.offtrackbetting.com/tracks/v2/${params.meetno}/meetdays.txt`;
     case 'current_races':
-      return '/api/current_races/v2';
+      return 'https://ojlbo7v5hb.execute-api.us-west-2.amazonaws.com/dev/api/current_races/v2-dev';
     default:
       throw new Error(`liveUrl: unknown kind "${kind}"`);
   }

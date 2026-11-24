@@ -97,7 +97,7 @@ function Race(track) {
   /* RACE-JUMP NAV -- one quick-jump bar for the whole page (design ported
      from tmp/phase-out-jquery/results-form/copilot-concept/race.js). */
   const RaceJumpNav = () => `
-    <nav class="race-jump" aria-label="Jump to race">
+    <nav id="raceJumpNav" class="race-jump" aria-label="Jump to race">
       ${track.events.map((event, idx) => {
         const n = idx + 1;
         const isNext = n === nextUpRace;
@@ -126,6 +126,7 @@ function Race(track) {
     const event = thisEvent(eventNo, track);
     const n = eventNo;
     const isNext = n === nextUpRace;
+    const raceDate = String(track.businessDate || '').match(/^(\d{4})-?(\d{2})-?(\d{2})$/);
     const meta = [
       event.distance ? event.distance.toString().replace(/[Ff]$/, ' Furlongs') : '',
       num(event.purse) > 0
@@ -134,6 +135,7 @@ function Race(track) {
         ? 'Post ' + new Date(num(event.postTime) * 1000).toLocaleTimeString('en-US',
             { hour: 'numeric', minute: 'numeric', hour12: true, timeZone: 'America/New_York' })
         : '',
+      raceDate ? `${raceDate[2]}/${raceDate[3]}/${raceDate[1]}` : '',
     ].filter(Boolean).join(' &middot; ');
 
     return `
@@ -168,6 +170,11 @@ function Race(track) {
     const showJockey = exists(event, 'jockey');
     const showPlace = exists(event, 'placeAmount');
     const showShow = exists(event, 'showAmount');
+    const formatWpsAmount = (amount) => {
+      if (!amount) return '';
+      const value = String(amount);
+      return value.startsWith('$') ? value : `$${value}`;
+    };
     // finishPosition, not array order, is the real winner signal -- a tied-
     // for-win dead heat means more than one row renders as a winner.
     const isWinner = (x) => num(x.finishPosition) === 1;
@@ -177,9 +184,9 @@ function Race(track) {
         <td class="postposition ${ppClass(event, x.programNumber)}"><a>${x.programNumber}</a></td>
         <td><strong>${x.runnerName}</strong></td>
         ${showJockey ? `<td class="d-none d-md-table-cell">${x.jockey || ''}</td>` : ''}
-        <td class="amt">${x.winAmount || ''}</td>
-        ${showPlace ? `<td class="amt">${x.placeAmount || ''}</td>` : ''}
-        ${showShow ? `<td class="amt">${x.showAmount || ''}</td>` : ''}
+        <td class="amt">${formatWpsAmount(x.winAmount)}</td>
+        ${showPlace ? `<td class="amt">${formatWpsAmount(x.placeAmount)}</td>` : ''}
+        ${showShow ? `<td class="amt">${formatWpsAmount(x.showAmount)}</td>` : ''}
       </tr>`).join('');
 
     const cards = finishers.map((x) => `
@@ -191,22 +198,31 @@ function Race(track) {
         </div>
         <div class="amounts">
           ${[['W', x.winAmount], ['P', x.placeAmount], ['S', x.showAmount]]
-            .filter(([, v]) => v).map(([label, v]) => `${label} $${v}`).join(' &middot; ')
+            .filter(([, v]) => v)
+            .map(([label, v]) => `${label} ${formatWpsAmount(v)}`).join(' &middot; ')
             || '<span class="text-muted">&mdash;</span>'}
         </div>
       </div>`).join('');
 
     // Real dividends list every permutation separately for a win-position
-    // dead heat (e.g. a 3-way tie -> 6 separate EX lines) -- rendering the
-    // list flatly like this already handles that correctly, no special
-    // casing needed.
+    // dead heat (e.g. a 3-way tie -> 6 separate EX rows).
     const exotics = !isCanceled(eventNo, track) && event.results.dividends.length ? `
-      <ul class="exotics">
+      <div id="dividends" class="table-responsive">
+        <table class="table table-striped table-bordered exotics-table mb-0">
+          <thead>
+            <tr><th>Bet Type</th><th>Runners</th><th class="amt">Payout</th></tr>
+          </thead>
+          <tbody>
         ${event.results.dividends.map((x) => `
-          <li><span class="bt">${dispAmt(x.baseAmount?.$numberDouble || x.baseAmount?.$numberInt || x.baseAmount)}
-            &nbsp;${convertBetType(x.betType) || x.betType} ${x.finishers.replace(/\//g, '/<wbr>')}</span>
-            <span class="pay">${convertToAmt(x.amount?.$numberDouble || x.amount)}</span></li>`).join('')}
-      </ul>` : '';
+            <tr>
+              <td>${dispAmt(x.baseAmount?.$numberDouble || x.baseAmount?.$numberInt || x.baseAmount)}
+                &nbsp;${convertBetType(x.betType) || x.betType}</td>
+              <td>${x.finishers.replace(/\//g, '/<wbr>')}</td>
+              <td class="amt">${convertToAmt(x.amount?.$numberDouble || x.amount)}</td>
+            </tr>`).join('')}
+          </tbody>
+        </table>
+      </div>` : '';
 
     const notes = (event.results.scratches.length || (event.results.alsoRan && event.results.alsoRan.length)) ? `
       <div class="small text-muted mt-2">
@@ -238,7 +254,6 @@ function Race(track) {
 
   const PendingBody = (eventNo, track) => {
     const event = thisEvent(eventNo, track);
-    const isNext = eventNo === nextUpRace;
 
     const rows = event.runners.map((x) => `
       <tr>
@@ -261,10 +276,7 @@ function Race(track) {
           <tbody>${rows}</tbody>
         </table>
       </div>
-      <div class="d-sm-none">${cards}</div>
-      <div class="pending-note${isNext ? ' next-up' : ''}">
-        <span>${isNext ? `Race ${eventNo} hasn't run yet.` : `No results for Race ${eventNo} yet.`}</span>
-      </div>`;
+      <div class="d-sm-none">${cards}</div>`;
   };
 
   const ActionBox = (eventNo, track) => `
@@ -303,7 +315,8 @@ function Race(track) {
     // we don't have replays from before 2022 - these links reflect that
 
     const buildHTMLLink = () => {
-      const attribs = 'class="btn btn-blue text-right" role="button">';
+      const target = raceComplete ? '' : 'target="_blank" rel="noopener" ';
+      const attribs = `${target}class="btn btn-blue text-right" role="button">`;
       const url = postYear < 2022 ?
         'https://app.offtrackbetting.com' :
         buildBetNowUrl(track.trackCode, programDate, eventNo);
@@ -502,7 +515,7 @@ var _liveBannerTickTimer = null;
 
 function renderLiveBanner(meetno, name) {
   if (!$('#liveMtpBanner').length) {
-    $('#results_content').before(
+    $('#resultsControls').append(
       '<div id="liveMtpBanner" class="cta-banner" style="display:none"></div>'
     );
   }

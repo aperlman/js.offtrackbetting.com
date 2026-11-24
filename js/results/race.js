@@ -313,7 +313,7 @@ function Race(track) {
       <table class="table table-striped table-condensed table-bordered">
         <thead>
           <tr>
-            ${['Bet Type', 'Runners', 'Pay Out'].map(
+            ${['Bet Type', 'Runners', 'Payout'].map(
               x => '<th>' + x + '</th>').join("\n")}
           </tr>
         </thead>
